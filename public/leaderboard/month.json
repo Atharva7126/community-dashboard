@@ -1,6 +1,6 @@
 {
   "period": "month",
-  "updatedAt": 1766298099531,
+  "updatedAt": 1766319970893,
   "startDate": "2025-11-21",
   "endDate": "2025-12-21",
   "hiddenRoles": [],
@@ -10,19 +10,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 40,
+      "total_points": 35,
       "activity_breakdown": {
         "PR opened": {
-          "count": 12,
-          "points": 24
+          "count": 10,
+          "points": 20
         },
         "PR merged": {
           "count": 2,
           "points": 10
         },
         "Issue opened": {
-          "count": 6,
-          "points": 6
+          "count": 5,
+          "points": 5
         }
       },
       "daily_activity": [
@@ -77,16 +77,6 @@
           "points": 2
         },
         {
-          "date": "2025-11-23",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-11-22",
-          "count": 1,
-          "points": 2
-        },
-        {
           "date": "2025-12-12",
           "count": 1,
           "points": 5
@@ -118,11 +108,6 @@
         },
         {
           "date": "2025-11-30",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-11-29",
           "count": 1,
           "points": 1
         }
@@ -972,6 +957,35 @@
       ]
     },
     {
+      "username": "Varshad-Potle",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/205039168?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "himanshujays29",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
@@ -1084,6 +1098,46 @@
           "date": "2025-12-03",
           "count": 1,
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "Harruta",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "manash213cyber",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/249688142?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
         }
       ]
     },
@@ -1584,6 +1638,39 @@
     }
   ],
   "activities": [
+    {
+      "slug": "pr-opened-3750902724",
+      "type": "PR opened",
+      "title": "Fix: Resolve user dropdown functionality (ref #6495)",
+      "occured_at": "2025-12-21T08:15:12Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6496",
+      "contributor": "Varshad-Potle",
+      "contributor_name": "Varshad-Potle",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/205039168?v=4"
+    },
+    {
+      "slug": "pr-opened-3750861454",
+      "type": "PR opened",
+      "title": "Fix: Improved login form layout by separating reCAPTCHA widget",
+      "occured_at": "2025-12-21T07:14:07Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6494",
+      "contributor": "Harruta",
+      "contributor_name": "Harruta",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4"
+    },
+    {
+      "slug": "pr-opened-3750849832",
+      "type": "PR opened",
+      "title": "Fix doc typos",
+      "occured_at": "2025-12-21T07:02:45Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/468",
+      "contributor": "manash213cyber",
+      "contributor_name": "manash213cyber",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/249688142?v=4"
+    },
     {
       "slug": "pr-opened-3750356959",
       "type": "PR opened",
@@ -2531,28 +2618,6 @@
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/173123079?v=4"
     },
     {
-      "slug": "pr-opened-3655729507",
-      "type": "PR opened",
-      "title": "Fix: prevent statement timeout by adding lock timeout + retry in AssignmentDeadlineSubmissionJob (#6277)",
-      "occured_at": "2025-11-23T09:27:25Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6358",
-      "contributor": "naman79820",
-      "contributor_name": "naman79820",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-    },
-    {
-      "slug": "pr-opened-3655111397",
-      "type": "PR opened",
-      "title": "Fix: restrict simulator embed/show to HTML and reject non-HTML formats (#6352)",
-      "occured_at": "2025-11-22T21:52:44Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6357",
-      "contributor": "naman79820",
-      "contributor_name": "naman79820",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-    },
-    {
       "slug": "pr-merged-3750110457",
       "type": "PR Merged",
       "title": "chore: install netcat-openbsd and fix bundler setup in devcontainer",
@@ -2727,6 +2792,17 @@
       "contributor": "Nihal4777",
       "contributor_name": "Nihal4777",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4"
+    },
+    {
+      "slug": "issue-opened-3750862842",
+      "type": "Issue opened",
+      "title": "🐞 Bug - User Dropdown in Navbar fails to close on second click",
+      "occured_at": "2025-12-21T07:15:53Z",
+      "points": 1,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6495",
+      "contributor": "Varshad-Potle",
+      "contributor_name": "Varshad-Potle",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/205039168?v=4"
     },
     {
       "slug": "issue-opened-3748673839",
@@ -3186,17 +3262,6 @@
       "occured_at": "2025-11-30T14:44:27Z",
       "points": 1,
       "link": "https://github.com/CircuitVerse/Blog/issues/251",
-      "contributor": "naman79820",
-      "contributor_name": "naman79820",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-    },
-    {
-      "slug": "issue-opened-3676974694",
-      "type": "Issue opened",
-      "title": "🐞 Bug: Logo Overlaps Text and Footer Year Still Shows 2024 on Blog Page",
-      "occured_at": "2025-11-29T18:07:14Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6370",
       "contributor": "naman79820",
       "contributor_name": "naman79820",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"

@@ -1,68 +1,10 @@
 {
   "period": "week",
-  "updatedAt": 1766298091566,
+  "updatedAt": 1766319962528,
   "startDate": "2025-12-14",
   "endDate": "2025-12-21",
   "hiddenRoles": [],
   "entries": [
-    {
-      "username": "senutpal",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-      "role": "Contributor",
-      "total_points": 14,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-15",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-14",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-15",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-14",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
     {
       "username": "Atharva7126",
       "name": null,
@@ -101,6 +43,54 @@
         },
         {
           "date": "2025-12-18",
+          "count": 1,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "senutpal",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
+      "role": "Contributor",
+      "total_points": 11,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-15",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-15",
           "count": 1,
           "points": 1
         }
@@ -318,6 +308,35 @@
       ]
     },
     {
+      "username": "Varshad-Potle",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/205039168?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "ys748477-dotcom",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
@@ -430,6 +449,46 @@
           "date": "2025-12-14",
           "count": 1,
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "Harruta",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "manash213cyber",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/249688142?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
         }
       ]
     },
@@ -575,6 +634,39 @@
     }
   ],
   "activities": [
+    {
+      "slug": "pr-opened-3750902724",
+      "type": "PR opened",
+      "title": "Fix: Resolve user dropdown functionality (ref #6495)",
+      "occured_at": "2025-12-21T08:15:12Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6496",
+      "contributor": "Varshad-Potle",
+      "contributor_name": "Varshad-Potle",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/205039168?v=4"
+    },
+    {
+      "slug": "pr-opened-3750861454",
+      "type": "PR opened",
+      "title": "Fix: Improved login form layout by separating reCAPTCHA widget",
+      "occured_at": "2025-12-21T07:14:07Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6494",
+      "contributor": "Harruta",
+      "contributor_name": "Harruta",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4"
+    },
+    {
+      "slug": "pr-opened-3750849832",
+      "type": "PR opened",
+      "title": "Fix doc typos",
+      "occured_at": "2025-12-21T07:02:45Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/468",
+      "contributor": "manash213cyber",
+      "contributor_name": "manash213cyber",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/249688142?v=4"
+    },
     {
       "slug": "pr-opened-3750356959",
       "type": "PR opened",
@@ -851,17 +943,6 @@
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4"
     },
     {
-      "slug": "pr-opened-3726948509",
-      "type": "PR opened",
-      "title": "docs: fix typo 'scoll' to 'scroll' in keyboard shortcuts documentation",
-      "occured_at": "2025-12-14T08:02:40Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/459",
-      "contributor": "senutpal",
-      "contributor_name": "senutpal",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-    },
-    {
       "slug": "pr-merged-3750110457",
       "type": "PR Merged",
       "title": "chore: install netcat-openbsd and fix bundler setup in devcontainer",
@@ -915,6 +996,17 @@
       "contributor": "Atharva7126",
       "contributor_name": "Atharva7126",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+    },
+    {
+      "slug": "issue-opened-3750862842",
+      "type": "Issue opened",
+      "title": "🐞 Bug - User Dropdown in Navbar fails to close on second click",
+      "occured_at": "2025-12-21T07:15:53Z",
+      "points": 1,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6495",
+      "contributor": "Varshad-Potle",
+      "contributor_name": "Varshad-Potle",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/205039168?v=4"
     },
     {
       "slug": "issue-opened-3748673839",
@@ -1047,17 +1139,6 @@
       "contributor": "akshitvigg",
       "contributor_name": "akshitvigg",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4"
-    },
-    {
-      "slug": "issue-opened-3726942449",
-      "type": "Issue opened",
-      "title": "Bug : Fix 'scoll' typo in keyboard shortcuts documentation",
-      "occured_at": "2025-12-14T07:57:55Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/458",
-      "contributor": "senutpal",
-      "contributor_name": "senutpal",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
     }
   ],
   "topByActivity": {}

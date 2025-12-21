@@ -1,6 +1,6 @@
 {
   "period": "2week",
-  "updatedAt": 1766298093490,
+  "updatedAt": 1766319964785,
   "startDate": "2025-12-07",
   "endDate": "2025-12-21",
   "hiddenRoles": [],
@@ -171,11 +171,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4",
       "role": "Contributor",
-      "total_points": 14,
+      "total_points": 12,
       "activity_breakdown": {
         "PR opened": {
-          "count": 2,
-          "points": 4
+          "count": 1,
+          "points": 2
         },
         "PR merged": {
           "count": 2,
@@ -185,11 +185,6 @@
       "daily_activity": [
         {
           "date": "2025-12-09",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-07",
           "count": 1,
           "points": 2
         },
@@ -352,50 +347,6 @@
       ]
     },
     {
-      "username": "Radhikaa-chauhan",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-      "role": "Contributor",
-      "total_points": 7,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-11",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-11",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-11",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-07",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "salmoneatenbybear",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4",
@@ -421,6 +372,45 @@
           "date": "2025-12-08",
           "count": 1,
           "points": 5
+        }
+      ]
+    },
+    {
+      "username": "Radhikaa-chauhan",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
+      "role": "Contributor",
+      "total_points": 6,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-11",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-11",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-11",
+          "count": 1,
+          "points": 1
         }
       ]
     },
@@ -458,45 +448,6 @@
         },
         {
           "date": "2025-12-12",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "ys748477-dotcom",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-      "role": "Contributor",
-      "total_points": 5,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-17",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-19",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-07",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-07",
           "count": 1,
           "points": 1
         }
@@ -680,6 +631,64 @@
       ]
     },
     {
+      "username": "Varshad-Potle",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/205039168?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "ys748477-dotcom",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-17",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-19",
+          "count": 1,
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "himanshujays29",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
@@ -763,6 +772,46 @@
           "date": "2025-12-10",
           "count": 1,
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "Harruta",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "manash213cyber",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/249688142?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
         }
       ]
     },
@@ -1053,6 +1102,39 @@
     }
   ],
   "activities": [
+    {
+      "slug": "pr-opened-3750902724",
+      "type": "PR opened",
+      "title": "Fix: Resolve user dropdown functionality (ref #6495)",
+      "occured_at": "2025-12-21T08:15:12Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6496",
+      "contributor": "Varshad-Potle",
+      "contributor_name": "Varshad-Potle",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/205039168?v=4"
+    },
+    {
+      "slug": "pr-opened-3750861454",
+      "type": "PR opened",
+      "title": "Fix: Improved login form layout by separating reCAPTCHA widget",
+      "occured_at": "2025-12-21T07:14:07Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6494",
+      "contributor": "Harruta",
+      "contributor_name": "Harruta",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4"
+    },
+    {
+      "slug": "pr-opened-3750849832",
+      "type": "PR opened",
+      "title": "Fix doc typos",
+      "occured_at": "2025-12-21T07:02:45Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/468",
+      "contributor": "manash213cyber",
+      "contributor_name": "manash213cyber",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/249688142?v=4"
+    },
     {
       "slug": "pr-opened-3750356959",
       "type": "PR opened",
@@ -1626,17 +1708,6 @@
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4"
     },
     {
-      "slug": "pr-opened-3703224271",
-      "type": "PR opened",
-      "title": "docs: update README with Docusaurus setup instructions (#442)",
-      "occured_at": "2025-12-07T07:38:38Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/443",
-      "contributor": "ghanshyam2005singh",
-      "contributor_name": "ghanshyam2005singh",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4"
-    },
-    {
       "slug": "pr-merged-3750110457",
       "type": "PR Merged",
       "title": "chore: install netcat-openbsd and fix bundler setup in devcontainer",
@@ -1756,6 +1827,17 @@
       "contributor": "Atharva7126",
       "contributor_name": "Atharva7126",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+    },
+    {
+      "slug": "issue-opened-3750862842",
+      "type": "Issue opened",
+      "title": "🐞 Bug - User Dropdown in Navbar fails to close on second click",
+      "occured_at": "2025-12-21T07:15:53Z",
+      "points": 1,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6495",
+      "contributor": "Varshad-Potle",
+      "contributor_name": "Varshad-Potle",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/205039168?v=4"
     },
     {
       "slug": "issue-opened-3748673839",
@@ -2031,39 +2113,6 @@
       "contributor": "satu0king",
       "contributor_name": "satu0king",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/2092958?v=4"
-    },
-    {
-      "slug": "issue-opened-3703298147",
-      "type": "Issue opened",
-      "title": "TestBenchPanel.vue UI cleanup for spacing & consistency",
-      "occured_at": "2025-12-07T09:23:58Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/685",
-      "contributor": "ys748477-dotcom",
-      "contributor_name": "ys748477-dotcom",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4"
-    },
-    {
-      "slug": "issue-opened-3703278921",
-      "type": "Issue opened",
-      "title": "🐞 Bug:Docs UI: Content not responsive on mobile view (large empty margins).",
-      "occured_at": "2025-12-07T09:00:09Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6442",
-      "contributor": "Radhikaa-chauhan",
-      "contributor_name": "Radhikaa-chauhan",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4"
-    },
-    {
-      "slug": "issue-opened-3703270847",
-      "type": "Issue opened",
-      "title": "UI Cleanup: Improve TestBench Panel (Spacing, Header, Inline Styles)",
-      "occured_at": "2025-12-07T08:48:20Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/mobile-app/issues/448",
-      "contributor": "ys748477-dotcom",
-      "contributor_name": "ys748477-dotcom",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4"
     }
   ],
   "topByActivity": {}

@@ -1,8 +1,8 @@
 {
   "period": "year",
-  "updatedAt": 1766427712859,
-  "startDate": "2024-12-22",
-  "endDate": "2025-12-22",
+  "updatedAt": 1766452025232,
+  "startDate": "2024-12-23",
+  "endDate": "2025-12-23",
   "hiddenRoles": [],
   "entries": [
     {
@@ -1842,26 +1842,6 @@
       ]
     },
     {
-      "username": "Nid-debug",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/182516930?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-11-23",
-          "count": 1,
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "Aakansha-Chavan",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
@@ -3005,17 +2985,6 @@
       "contributor": "naman79820",
       "contributor_name": "naman79820",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-    },
-    {
-      "slug": "pr-opened-3656016640",
-      "type": "PR opened",
-      "title": "#5442-fix: Move login button below reCAPTCHA",
-      "occured_at": "2025-11-23T13:46:45Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6361",
-      "contributor": "Nid-debug",
-      "contributor_name": "Nid-debug",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/182516930?v=4"
     },
     {
       "slug": "pr-merged-3750110457",

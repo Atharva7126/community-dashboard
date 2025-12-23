@@ -1,8 +1,8 @@
 {
   "period": "3week",
-  "updatedAt": 1766427698472,
-  "startDate": "2025-12-01",
-  "endDate": "2025-12-22",
+  "updatedAt": 1766452011290,
+  "startDate": "2025-12-02",
+  "endDate": "2025-12-23",
   "hiddenRoles": [],
   "entries": [
     {
@@ -113,11 +113,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 28,
+      "total_points": 26,
       "activity_breakdown": {
         "PR opened": {
-          "count": 7,
-          "points": 14
+          "count": 6,
+          "points": 12
         },
         "PR merged": {
           "count": 2,
@@ -156,11 +156,6 @@
         },
         {
           "date": "2025-12-03",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-01",
           "count": 1,
           "points": 2
         },
@@ -2287,17 +2282,6 @@
       "contributor": "anushkaa-dubey",
       "contributor_name": "anushkaa-dubey",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/136051483?v=4"
-    },
-    {
-      "slug": "pr-opened-3682633865",
-      "type": "PR opened",
-      "title": "Fix: N+1 query in Users::CircuitverseController#index",
-      "occured_at": "2025-12-01T20:00:21Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6405",
-      "contributor": "naman79820",
-      "contributor_name": "naman79820",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
     },
     {
       "slug": "pr-merged-3750110457",

@@ -14,13 +14,17 @@ interface NavbarProps {
 
 const navItems = [
   { name: "Home", href: "/", icon: Home },
-  { name: "Leaderboard", href: "/leaderboard", icon: Trophy },
+  {
+    name: "Leaderboard",
+    href: "/leaderboard",
+    icon: Trophy,
+  },
   { name: "People", href: "/people", icon: Users },
 ];
 
 const Navbar = ({ config }: NavbarProps) => {
   const pathname = usePathname();
-  const scrollDirection = useScrollDirection()
+  const scrollDirection = useScrollDirection();
 
   const isActive = (href: string) => {
     if (href === "/") return pathname === "/";
@@ -33,7 +37,10 @@ const Navbar = ({ config }: NavbarProps) => {
       <header className="sticky top-0 z-40 border-b border-zinc-200/60 dark:border-white/10 bg-background/80 backdrop-blur-md">
         <div className="relative mx-auto px-4 h-16 flex items-center justify-between">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-3">
+          <Link
+            href="/"
+            className="flex items-center gap-3"
+          >
             <Image
               src={config.org.logo_url}
               alt={config.org.name}
@@ -69,13 +76,32 @@ const Navbar = ({ config }: NavbarProps) => {
               );
             })}
           </nav>
-
-          <ThemeSelector />
+          <div className="flex items-center gap-4">
+            <Link
+              href="https://github.com/CircuitVerse/community-dashboard"
+              target="_blank"
+            >
+              <Image
+                src="github.svg"
+                alt="GitHub"
+                width={20}
+                height={20}
+                className="dark:invert cursor-pointer hover:opacity-80 transition-opacity"
+              />
+            </Link>
+            <ThemeSelector />
+          </div>
         </div>
       </header>
 
       {/* Mobile Navbar */}
-      <nav className={`md:hidden fixed bottom-4 left-1/2 transition-transform duration-400 ease-in-out -translate-x-1/2 z-50 ${scrollDirection === "down" ? "translate-y-50" : "translate-y-0"}`}>
+      <nav
+        className={`md:hidden fixed bottom-4 left-1/2 transition-transform duration-400 ease-in-out -translate-x-1/2 z-50 ${
+          scrollDirection === "down"
+            ? "translate-y-50"
+            : "translate-y-0"
+        }`}
+      >
         <div className="flex items-center gap-1 rounded-full border border-zinc-200 dark:border-white/10 bg-background/90 backdrop-blur-xl shadow-xl p-1">
           {navItems.map((item) => {
             const Icon = item.icon;

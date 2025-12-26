@@ -5,6 +5,10 @@ body::selection {
   background-color: #50B78B4d;
 }
 
+.recharts-surface {
+  padding: 10px;  
+}
+
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {

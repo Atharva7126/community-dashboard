@@ -1,6 +1,6 @@
 {
   "period": "week",
-  "updatedAt": 1766711111637,
+  "updatedAt": 1766730240222,
   "startDate": "2025-12-19",
   "endDate": "2025-12-26",
   "hiddenRoles": [],
@@ -11,34 +11,44 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
       "role": "Contributor",
-      "total_points": 22,
+      "total_points": 31,
       "activity_breakdown": {
         "PR opened": {
-          "count": 3,
-          "points": 6
+          "count": 4,
+          "points": 8
         },
         "PR merged": {
-          "count": 3,
-          "points": 15
+          "count": 4,
+          "points": 20
         },
         "Issue opened": {
-          "count": 1,
-          "points": 1
+          "count": 3,
+          "points": 3
         }
       },
       "daily_activity": [
         {
+          "date": "2025-12-26",
+          "count": 5,
+          "points": 14
+        },
+        {
           "date": "2025-12-25",
           "count": 6,
           "points": 17
-        },
-        {
-          "date": "2025-12-19",
-          "count": 1,
-          "points": 5
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "title": "Fix - Overlapping of label \"High\"",
+          "occured_at": "2025-12-26T05:09:24Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/16",
+          "points": 2,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
         {
           "type": "PR opened",
           "title": "Feat - added github repo link in navbar",
@@ -71,9 +81,19 @@
         },
         {
           "type": "PR merged",
-          "title": "Fix - Embed video demonstration for CircuitVerse Chrome extension",
-          "occured_at": "2025-12-19T04:14:04Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/456",
+          "title": "Fix - Overlapping of label \"High\"",
+          "occured_at": "2025-12-26T05:32:15Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/16",
+          "points": 5,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "Feat - added github repo link in navbar",
+          "occured_at": "2025-12-26T04:30:43Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/12",
           "points": 5,
           "contributor": "Atharva7126",
           "contributor_name": null,
@@ -101,6 +121,26 @@
         },
         {
           "type": "Issue opened",
+          "title": "Clean Up Pagination - Remove Activity Stream Label and “Page X of Y”",
+          "occured_at": "2025-12-26T05:19:03Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/17",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Bug - \"High\" label overlapping the card",
+          "occured_at": "2025-12-26T04:56:02Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/15",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
           "title": "Feat - Adding github link in navbar",
           "occured_at": "2025-12-25T13:57:02Z",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/4",
@@ -116,11 +156,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 17,
+      "total_points": 19,
       "activity_breakdown": {
         "PR opened": {
-          "count": 3,
-          "points": 6
+          "count": 4,
+          "points": 8
         },
         "PR merged": {
           "count": 2,
@@ -133,6 +173,11 @@
       },
       "daily_activity": [
         {
+          "date": "2025-12-26",
+          "count": 1,
+          "points": 2
+        },
+        {
           "date": "2025-12-25",
           "count": 5,
           "points": 16
@@ -144,6 +189,16 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "title": "pagination UI enhancement, fix #17",
+          "occured_at": "2025-12-26T05:53:43Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/18",
+          "points": 2,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        },
         {
           "type": "PR opened",
           "title": "hover effect added to page navigation buttons",
@@ -1216,70 +1271,6 @@
           "contributor": "sai-ganesh-1706",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/191041304?v=4"
-        }
-      ]
-    },
-    {
-      "username": "kris70lesgo",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/170333495?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-19",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "docs - add Redis startup instructions for Linux and macOS",
-          "occured_at": "2025-12-19T06:12:31Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6486",
-          "points": 2,
-          "contributor": "kris70lesgo",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/170333495?v=4"
-        }
-      ]
-    },
-    {
-      "username": "Vibhay007",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/197410229?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-19",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Fix bug #668",
-          "occured_at": "2025-12-19T03:10:52Z",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/743",
-          "points": 2,
-          "contributor": "Vibhay007",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/197410229?v=4"
         }
       ]
     },

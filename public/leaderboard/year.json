@@ -1,6 +1,6 @@
 {
   "period": "year",
-  "updatedAt": 1766711111630,
+  "updatedAt": 1766730240215,
   "startDate": "2024-12-26",
   "endDate": "2025-12-26",
   "hiddenRoles": [],
@@ -6781,6 +6781,242 @@
       ]
     },
     {
+      "username": "Atharva7126",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+      "role": "Contributor",
+      "total_points": 61,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 10,
+          "points": 20
+        },
+        "PR merged": {
+          "count": 7,
+          "points": 35
+        },
+        "Issue opened": {
+          "count": 6,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-18",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-12-13",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2025-12-05",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-11-30",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2025-12-26",
+          "count": 5,
+          "points": 14
+        },
+        {
+          "date": "2025-12-25",
+          "count": 6,
+          "points": 17
+        },
+        {
+          "date": "2025-12-19",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-09",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-06",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-18T16:19:17Z",
+          "title": "Fix - adjust YouTube video iframe for responsive width and correct title",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/467",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-13T17:45:35Z",
+          "title": "Fix - Embed video demonstration for CircuitVerse Chrome extension",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/456",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-13T17:28:55Z",
+          "title": "Fix - Added YouTube embed - Saving Projects Within The CircuitVerse Simulator",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/455",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-05T18:10:09Z",
+          "title": "Fix - add id to home features section for better accessibility",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6434",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-11-30T16:24:10Z",
+          "title": "Fix missing video",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/441",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-11-30T13:08:02Z",
+          "title": "Fix - Embedded YouTube tutorial video for Issue #418",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/439",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-26T05:09:24Z",
+          "title": "Fix - Overlapping of label \"High\"",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/16",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-25T19:22:36Z",
+          "title": "Feat - added github repo link in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/12",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-25T15:47:37Z",
+          "title": "Fix - fixed footer design and added reuseable component",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/9",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-25T14:14:59Z",
+          "title": "Fix - unnecessary padding in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/5",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-19T04:14:04Z",
+          "title": "Fix - Embed video demonstration for CircuitVerse Chrome extension",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/456",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-16T11:39:43Z",
+          "title": "Fix - Added YouTube embed - Saving Projects Within The CircuitVerse Simulator",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/455",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-09T13:52:20Z",
+          "title": "Fix - add id to home features section for better accessibility",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6434",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-26T05:32:15Z",
+          "title": "Fix - Overlapping of label \"High\"",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/16",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-26T04:30:43Z",
+          "title": "Feat - added github repo link in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/12",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-25T18:31:00Z",
+          "title": "Fix - fixed footer design and added reuseable component",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/9",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-25T14:30:55Z",
+          "title": "Fix - unnecessary padding in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/5",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-18T14:29:42Z",
+          "title": "Bug - Fix video title and YouTube UI overlap",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/466",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-06T07:26:52Z",
+          "title": "Feature - Replace system alert for Circuit Name entry with a themed modal",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6436",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-11-30T15:44:33Z",
+          "title": "Missing content in \"Getting Started With CircuitVerse\" Chapter - 2",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/440",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-26T05:19:03Z",
+          "title": "Clean Up Pagination - Remove Activity Stream Label and “Page X of Y”",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/17",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-26T04:56:02Z",
+          "title": "Bug - \"High\" label overlapping the card",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/15",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-25T13:57:02Z",
+          "title": "Feat - Adding github link in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/4",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "mahmoodalisha",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/142445013?v=4",
@@ -7602,202 +7838,6 @@
           "occured_at": "2025-12-25T13:07:49Z",
           "title": "Feat - add people's page",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/2",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "Atharva7126",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-      "role": "Contributor",
-      "total_points": 47,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 9,
-          "points": 18
-        },
-        "PR merged": {
-          "count": 5,
-          "points": 25
-        },
-        "Issue opened": {
-          "count": 4,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-18",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-12-13",
-          "count": 2,
-          "points": 4
-        },
-        {
-          "date": "2025-12-05",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-11-30",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2025-12-25",
-          "count": 6,
-          "points": 17
-        },
-        {
-          "date": "2025-12-19",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-12-09",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-12-06",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-18T16:19:17Z",
-          "title": "Fix - adjust YouTube video iframe for responsive width and correct title",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/467",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-13T17:45:35Z",
-          "title": "Fix - Embed video demonstration for CircuitVerse Chrome extension",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/456",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-13T17:28:55Z",
-          "title": "Fix - Added YouTube embed - Saving Projects Within The CircuitVerse Simulator",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/455",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-05T18:10:09Z",
-          "title": "Fix - add id to home features section for better accessibility",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6434",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-11-30T16:24:10Z",
-          "title": "Fix missing video",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/441",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-11-30T13:08:02Z",
-          "title": "Fix - Embedded YouTube tutorial video for Issue #418",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/439",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-25T19:22:36Z",
-          "title": "Feat - added github repo link in navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/12",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-25T15:47:37Z",
-          "title": "Fix - fixed footer design and added reuseable component",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/9",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-25T14:14:59Z",
-          "title": "Fix - unnecessary padding in navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/5",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-19T04:14:04Z",
-          "title": "Fix - Embed video demonstration for CircuitVerse Chrome extension",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/456",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-16T11:39:43Z",
-          "title": "Fix - Added YouTube embed - Saving Projects Within The CircuitVerse Simulator",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/455",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-09T13:52:20Z",
-          "title": "Fix - add id to home features section for better accessibility",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6434",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-25T18:31:00Z",
-          "title": "Fix - fixed footer design and added reuseable component",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/9",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-25T14:30:55Z",
-          "title": "Fix - unnecessary padding in navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/5",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-18T14:29:42Z",
-          "title": "Bug - Fix video title and YouTube UI overlap",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/466",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-06T07:26:52Z",
-          "title": "Feature - Replace system alert for Circuit Name entry with a themed modal",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6436",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-11-30T15:44:33Z",
-          "title": "Missing content in \"Getting Started With CircuitVerse\" Chapter - 2",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/440",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-25T13:57:02Z",
-          "title": "Feat - Adding github link in navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/4",
           "points": 1
         }
       ]
@@ -10586,6 +10626,95 @@
       ]
     },
     {
+      "username": "Me-Priyank",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+      "role": "Contributor",
+      "total_points": 19,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        },
+        "PR merged": {
+          "count": 2,
+          "points": 10
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-26",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-25",
+          "count": 5,
+          "points": 16
+        },
+        {
+          "date": "2025-12-24",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-26T05:53:43Z",
+          "title": "pagination UI enhancement, fix #17",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/18",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-25T16:28:33Z",
+          "title": "hover effect added to page navigation buttons",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/10",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-25T12:05:18Z",
+          "title": "Pagination implemented",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/1",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-25T07:53:36Z",
+          "title": "#472 fixed (proper optimization implemented)",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/473",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-25T18:43:02Z",
+          "title": "hover effect added to page navigation buttons",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/10",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-25T13:32:45Z",
+          "title": "Pagination implemented",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/1",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-24T18:06:26Z",
+          "title": "Docs Website Performance Issue - Large Unused JavaScript & CSS and Low Code Coverage (27%)",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/472",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "kunal-10-cloud",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/187593306?v=4",
@@ -10795,83 +10924,6 @@
           "occured_at": "2025-03-05T07:57:07Z",
           "title": "🐞 Bug Cannot read Properties of undefined reading ('replace)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/5514",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "Me-Priyank",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-      "role": "Contributor",
-      "total_points": 17,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "PR merged": {
-          "count": 2,
-          "points": 10
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-25",
-          "count": 5,
-          "points": 16
-        },
-        {
-          "date": "2025-12-24",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-25T16:28:33Z",
-          "title": "hover effect added to page navigation buttons",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/10",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-25T12:05:18Z",
-          "title": "Pagination implemented",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/1",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-25T07:53:36Z",
-          "title": "#472 fixed (proper optimization implemented)",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/473",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-25T18:43:02Z",
-          "title": "hover effect added to page navigation buttons",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/10",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-25T13:32:45Z",
-          "title": "Pagination implemented",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/1",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-24T18:06:26Z",
-          "title": "Docs Website Performance Issue - Large Unused JavaScript & CSS and Low Code Coverage (27%)",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/472",
           "points": 1
         }
       ]

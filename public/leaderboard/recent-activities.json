@@ -1,6 +1,59 @@
 {
-  "updatedAt": 1766711111654,
+  "updatedAt": 1766730240239,
   "groups": [
+    {
+      "date": "2025-12-26",
+      "items": [
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Fix - Overlapping of label \"High\"",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/16",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 2
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Fix - Overlapping of label \"High\"",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/16",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 5
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Feat - added github repo link in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/12",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 5
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Clean Up Pagination - Remove Activity Stream Label and “Page X of Y”",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/17",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 1
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Bug - \"High\" label overlapping the card",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/15",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 1
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "pagination UI enhancement, fix #17",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/18",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 2
+        }
+      ]
+    },
     {
       "date": "2025-12-25",
       "items": [
@@ -42,30 +95,6 @@
           "title": "🐛 People Page Fails to Load Without NEXT_PUBLIC_BASE_URL",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/3",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "fix - add try-catch in fetch url",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/6",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "fix - add try-catch in fetch url",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/6",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 5
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Feat - add people's page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/2",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
           "points": 1
         },
         {
@@ -114,6 +143,30 @@
           "title": "Feat - Adding github link in navbar",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/4",
           "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 1
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "fix - add try-catch in fetch url",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/6",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 2
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "fix - add try-catch in fetch url",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/6",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 5
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Feat - add people's page",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/2",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
           "points": 1
         },
         {

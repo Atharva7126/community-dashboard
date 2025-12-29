@@ -1,6 +1,35 @@
 {
-  "updatedAt": 1766989576037,
+  "updatedAt": 1767011468502,
   "groups": [
+    {
+      "date": "2025-12-29",
+      "items": [
+        {
+          "username": "gautamsidhwani29",
+          "name": null,
+          "title": "feat(leaderboard) - add tooltip explaining contribution scoring",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/43",
+          "avatar_url": "https://avatars.githubusercontent.com/u/85290538?v=4",
+          "points": 2
+        },
+        {
+          "username": "gautamsidhwani29",
+          "name": null,
+          "title": "Feat - Clarify leaderboard ranking logic using a tooltip indicator",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/42",
+          "avatar_url": "https://avatars.githubusercontent.com/u/85290538?v=4",
+          "points": 1
+        },
+        {
+          "username": "vivekyadav-3",
+          "name": null,
+          "title": "fix - improve spacing between CAPTCHA and login button",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6520",
+          "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
+          "points": 2
+        }
+      ]
+    },
     {
       "date": "2025-12-28",
       "items": [
@@ -313,7 +342,7 @@
         {
           "username": "ShinichiShi",
           "name": null,
-          "title": "Feat people page#2",
+          "title": "Add contributor details to People page",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/26",
           "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
           "points": 2

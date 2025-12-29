@@ -1,6 +1,6 @@
 {
   "period": "year",
-  "updatedAt": 1766989576003,
+  "updatedAt": 1767011468477,
   "startDate": "2024-12-29",
   "endDate": "2025-12-29",
   "hiddenRoles": [],
@@ -7474,7 +7474,7 @@
         {
           "type": "PR opened",
           "occured_at": "2025-12-26T20:53:57Z",
-          "title": "Feat people page#2",
+          "title": "Add contributor details to People page",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/26",
           "points": 2
         },
@@ -15995,6 +15995,46 @@
       ]
     },
     {
+      "username": "gautamsidhwani29",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/85290538?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-29",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-29T06:56:34Z",
+          "title": "feat(leaderboard) - add tooltip explaining contribution scoring",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/43",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-29T06:44:23Z",
+          "title": "Feat - Clarify leaderboard ranking logic using a tooltip indicator",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/42",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "haaasini01",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
@@ -17721,6 +17761,35 @@
           "occured_at": "2025-11-29T10:35:56Z",
           "title": "feat - Add Clock Divider Component (#587)",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/680",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "vivekyadav-3",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-29",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-29T06:43:44Z",
+          "title": "fix - improve spacing between CAPTCHA and login button",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6520",
           "points": 2
         }
       ]

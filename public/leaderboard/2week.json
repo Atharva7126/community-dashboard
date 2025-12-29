@@ -1,6 +1,6 @@
 {
   "period": "2week",
-  "updatedAt": 1766989576012,
+  "updatedAt": 1767011468485,
   "startDate": "2025-12-15",
   "endDate": "2025-12-29",
   "hiddenRoles": [],
@@ -592,136 +592,6 @@
       ]
     },
     {
-      "username": "senutpal",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-      "role": "Contributor",
-      "total_points": 22,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "PR merged": {
-          "count": 3,
-          "points": 15
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-16",
-          "count": 3,
-          "points": 8
-        },
-        {
-          "date": "2025-12-15",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-12-25",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-12-24",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-12-28",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "docs - fix typos and grammar errors in chapters 2-7",
-          "occured_at": "2025-12-16T13:28:07Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/465",
-          "points": 2,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "docs - fix typos and grammar errors across documentation",
-          "occured_at": "2025-12-15T09:46:12Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6472",
-          "points": 2,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "docs - fix typos and grammar errors in chapters 2-7",
-          "occured_at": "2025-12-25T08:49:36Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/465",
-          "points": 5,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "docs - fix typos and grammar errors across documentation",
-          "occured_at": "2025-12-16T07:33:22Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6472",
-          "points": 5,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "docs - fix typo 'scoll' to 'scroll' in keyboard shortcuts documentation",
-          "occured_at": "2025-12-24T17:09:02Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/459",
-          "points": 5,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "fix - typos and grammar errors across documentation",
-          "occured_at": "2025-12-16T13:23:29Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/464",
-          "points": 1,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "🐞 Bug - typos and grammar errors across documentation files",
-          "occured_at": "2025-12-15T09:22:14Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6471",
-          "points": 1,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "🐞 Bug - Tauri Desktop Release CI/CD workflow fails on all platforms (Windows, Ubuntu, macOS)",
-          "occured_at": "2025-12-28T20:44:57Z",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/704",
-          "points": 1,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        }
-      ]
-    },
-    {
       "username": "naman79820",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
@@ -888,6 +758,111 @@
           "contributor": "naman79820",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        }
+      ]
+    },
+    {
+      "username": "senutpal",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
+      "role": "Contributor",
+      "total_points": 19,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "PR merged": {
+          "count": 3,
+          "points": 15
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-16",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2025-12-25",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-24",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-28",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "docs - fix typos and grammar errors in chapters 2-7",
+          "occured_at": "2025-12-16T13:28:07Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/465",
+          "points": 2,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "docs - fix typos and grammar errors in chapters 2-7",
+          "occured_at": "2025-12-25T08:49:36Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/465",
+          "points": 5,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "docs - fix typos and grammar errors across documentation",
+          "occured_at": "2025-12-16T07:33:22Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6472",
+          "points": 5,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "docs - fix typo 'scoll' to 'scroll' in keyboard shortcuts documentation",
+          "occured_at": "2025-12-24T17:09:02Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/459",
+          "points": 5,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "fix - typos and grammar errors across documentation",
+          "occured_at": "2025-12-16T13:23:29Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/464",
+          "points": 1,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "🐞 Bug - Tauri Desktop Release CI/CD workflow fails on all platforms (Windows, Ubuntu, macOS)",
+          "occured_at": "2025-12-28T20:44:57Z",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/704",
+          "points": 1,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
         }
       ]
     },
@@ -1270,7 +1245,7 @@
       "activities": [
         {
           "type": "PR opened",
-          "title": "Feat people page#2",
+          "title": "Add contributor details to People page",
           "occured_at": "2025-12-26T20:53:57Z",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/26",
           "points": 2,
@@ -2194,6 +2169,52 @@
       ]
     },
     {
+      "username": "gautamsidhwani29",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/85290538?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-29",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "feat(leaderboard) - add tooltip explaining contribution scoring",
+          "occured_at": "2025-12-29T06:56:34Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/43",
+          "points": 2,
+          "contributor": "gautamsidhwani29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/85290538?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Feat - Clarify leaderboard ranking logic using a tooltip indicator",
+          "occured_at": "2025-12-29T06:44:23Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/42",
+          "points": 1,
+          "contributor": "gautamsidhwani29",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/85290538?v=4"
+        }
+      ]
+    },
+    {
       "username": "haaasini01",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
@@ -2492,6 +2513,38 @@
           "contributor": "poojaaa07",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/199589862?v=4"
+        }
+      ]
+    },
+    {
+      "username": "vivekyadav-3",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-29",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "fix - improve spacing between CAPTCHA and login button",
+          "occured_at": "2025-12-29T06:43:44Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6520",
+          "points": 2,
+          "contributor": "vivekyadav-3",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4"
         }
       ]
     },

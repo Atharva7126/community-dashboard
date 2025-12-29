@@ -32,7 +32,6 @@ export default async function Home() {
 
   const previousMonthCount = await getPreviousMonthActivityCount();
   const bucketData = await getMonthlyActivityBuckets();
-  console.log(bucketData, previousMonthCount);
 
   return (
     <div className="min-h-screen bg-zinc-50 dark:bg-black transition-colors">

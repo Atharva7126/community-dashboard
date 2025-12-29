@@ -32,7 +32,7 @@ type RecentActivitiesJSON = {
   groups: ActivityGroup[];
 };
 
-type MonthBuckets = {
+export type MonthBuckets = {
   w1: number;
   w2: number;
   w3: number;
@@ -210,7 +210,7 @@ export async function getPreviousMonthActivityCount(): Promise<number> {
     const activityDate = new Date(activity.occured_at);
     const daysAgo = differenceInDays(now, activityDate);
 
-    if (daysAgo < 30 && daysAgo >= 0) {
+    if (daysAgo >= 30 && daysAgo < 60) {
       count++;
     }
   }

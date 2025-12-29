@@ -12,6 +12,7 @@ type ActivityItem = {
   contributor_avatar_url: string | null;
   contributor_role: string | null;
   occured_at: string;
+  closed_at: string;
   title?: string | null;
   text?: string | null;
   link?: string | null;
@@ -127,6 +128,7 @@ export async function getRecentActivitiesGroupedByType(
       contributor_avatar_url: user.avatar_url,
       contributor_role: user.role ?? null,
       occured_at: act.occured_at,
+      closed_at: act.closed_at,
       title: act.title ?? null,     // ✅ REAL title
       link: act.link ?? null,       // ✅ REAL GitHub link
       points: act.points ?? 0,

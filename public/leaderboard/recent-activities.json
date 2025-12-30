@@ -1,9 +1,25 @@
 {
-  "updatedAt": 1767097838423,
+  "updatedAt": 1767118996600,
   "groups": [
     {
       "date": "2025-12-30",
       "items": [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "changed readme",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/48",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "changed readme",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/48",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 5
+        },
         {
           "username": "senutpal",
           "name": null,
@@ -43,6 +59,30 @@
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/480",
           "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
           "points": 1
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "justify text alignment in documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/483",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 2
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "Feature Request - Enable justified text for docs content",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/482",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 1
+        },
+        {
+          "username": "sujal-thakur01",
+          "name": null,
+          "title": "Docs - clarify Node.js version, Redis/PostgreSQL startup, and RSA key requirement",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6530",
+          "avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4",
+          "points": 2
         },
         {
           "username": "sujal-thakur01",
@@ -255,6 +295,22 @@
           "points": 1
         },
         {
+          "username": "haaasini01",
+          "name": null,
+          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 2
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 1
+        },
+        {
           "username": "ViRUS-0-0",
           "name": null,
           "title": "fixed ArgumentError - invalid value for Integer()",
@@ -279,22 +335,6 @@
           "points": 2
         },
         {
-          "username": "haaasini01",
-          "name": null,
-          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 2
-        },
-        {
-          "username": "haaasini01",
-          "name": null,
-          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 1
-        },
-        {
           "username": "RiyaS905",
           "name": null,
           "title": "Fix UI alignment for grading scale and restriction checkboxes",
@@ -308,19 +348,19 @@
       "date": "2025-12-27",
       "items": [
         {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Feat - Fix leaderboard sorting, search, and clear filter functionality",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/34",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 1
-        },
-        {
           "username": "naman79820",
           "name": null,
           "title": "YouTube embed breaks layout on Chapter 3 Simulator Interface (Introduction)",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/474",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Feat - Fix leaderboard sorting, search, and clear filter functionality",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/34",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
           "points": 1
         },
         {
@@ -425,6 +465,14 @@
       "date": "2025-12-26",
       "items": [
         {
+          "username": "naman79820",
+          "name": null,
+          "title": "GitHub icon exists in navbar but is not visible",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/25",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
           "username": "Atharva7126",
           "name": null,
           "title": "Fix - Overlapping of label \"High\"",
@@ -486,14 +534,6 @@
           "title": "Bug - \"High\" label overlapping the card",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/15",
           "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 1
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "GitHub icon exists in navbar but is not visible",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/25",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
           "points": 1
         },
         {
@@ -670,102 +710,6 @@
       "date": "2025-12-25",
       "items": [
         {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Feat - added github repo link in navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/12",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 2
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Fix - fixed footer design and added reuseable component",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/9",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 2
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Fix - unnecessary padding in navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/5",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 2
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Feat - added github repo link in navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/12",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 2
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Fix - fixed footer design and added reuseable component",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/9",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 2
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Fix - unnecessary padding in navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/5",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 2
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Fix - fixed footer design and added reuseable component",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/9",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 5
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Fix - unnecessary padding in navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/5",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 5
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Fix - fixed footer design and added reuseable component",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/9",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 5
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Fix - unnecessary padding in navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/5",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 5
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Feat - Adding github link in navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/4",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 1
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Feat - Adding github link in navbar",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/4",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 1
-        },
-        {
           "username": "naman79820",
           "name": null,
           "title": "layout bug",
@@ -835,6 +779,102 @@
           "title": "🐛 People Page Fails to Load Without NEXT_PUBLIC_BASE_URL",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/3",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Feat - added github repo link in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/12",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 2
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Fix - fixed footer design and added reuseable component",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/9",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 2
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Fix - unnecessary padding in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 2
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Feat - added github repo link in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/12",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 2
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Fix - fixed footer design and added reuseable component",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/9",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 2
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Fix - unnecessary padding in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 2
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Fix - fixed footer design and added reuseable component",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/9",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 5
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Fix - unnecessary padding in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 5
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Fix - fixed footer design and added reuseable component",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/9",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 5
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Fix - unnecessary padding in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 5
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Feat - Adding github link in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 1
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Feat - Adding github link in navbar",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
           "points": 1
         },
         {

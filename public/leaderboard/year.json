@@ -1,6 +1,6 @@
 {
   "period": "year",
-  "updatedAt": 1767097838396,
+  "updatedAt": 1767118996574,
   "startDate": "2024-12-30",
   "endDate": "2025-12-30",
   "hiddenRoles": [],
@@ -5858,6 +5858,502 @@
       ]
     },
     {
+      "username": "naman79820",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+      "role": "Contributor",
+      "total_points": 92,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 24,
+          "points": 48
+        },
+        "PR merged": {
+          "count": 5,
+          "points": 25
+        },
+        "Issue opened": {
+          "count": 19,
+          "points": 19
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-08-24",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-09-02",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-08-29",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-10-23",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-11-23",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-11-22",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-11-19",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2025-11-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-25",
+          "count": 9,
+          "points": 15
+        },
+        {
+          "date": "2025-12-15",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-10",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-06",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-12-05",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-04",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-03",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2025-12-01",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-11-30",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-11-28",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-11-26",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2025-12-28",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2025-12-12",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-13",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-07",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-11-29",
+          "count": 2,
+          "points": 2
+        },
+        {
+          "date": "2025-12-27",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-26",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2025-08-24T11:23:54Z",
+          "title": "fix - arabic navigation bar",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6006",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-09-02T19:28:33Z",
+          "title": "#6007 - Fix navbar collapse breakpoint at 1024px",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6036",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-08-29T18:35:31Z",
+          "title": "Fix broken UI in Welcome Email (#5984)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6018",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-10-23T23:32:03Z",
+          "title": "Fix N+1 query issue in ProjectsController#index by eager loading asso…",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6309",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-11-23T09:27:25Z",
+          "title": "Fix - prevent statement timeout by adding lock timeout + retry in AssignmentDeadlineSubmissionJob (#6277)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6358",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-11-22T21:52:44Z",
+          "title": "Fix - restrict simulator embed/show to HTML and reject non-HTML formats (#6352)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6357",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-11-19T10:57:42Z",
+          "title": "Update footer year to 2025 (#734)",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/735",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-11-16T12:47:45Z",
+          "title": "Fix navbar auth button overflow by collapsing earlier on medium screens (#6037)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6353",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-25T18:49:24Z",
+          "title": "layout bug",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/11",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-15T13:35:14Z",
+          "title": "Fix - Make iframes responsive below 650px using global CSS media query",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-10T22:03:33Z",
+          "title": "Fix - Add missing contention error image in Chapter 8",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/448",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-06T18:13:43Z",
+          "title": "Fix missing project_url error by adding shallow routes for projects",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6439",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-05T11:54:17Z",
+          "title": "Fix pagination ArgumentError when page parameter is empty #6426",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6429",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-04T17:31:50Z",
+          "title": "Fix - notification count alignment and dropdown overflow",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6424",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-03T10:53:24Z",
+          "title": "Fix N+1 query in AssignmentsController#create by eager loading group member users",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6416",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-01T20:00:21Z",
+          "title": "Fix - N+1 query in Users - - CircuitverseController#index",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6405",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-11-30T15:20:10Z",
+          "title": "Fix - Homepage illustration & CTA responsiveness + footer year update (#251)",
+          "link": "https://github.com/CircuitVerse/Blog/pull/252",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-11-28T18:53:06Z",
+          "title": "Fix N+1 query issues flagged by Bullet",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6367",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-11-26T12:38:35Z",
+          "title": "Fix N+1 on user dashboard - preload circuit_preview_attachment",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6364",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-30T17:32:06Z",
+          "title": "changed readme",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/48",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-28T17:33:08Z",
+          "title": "chore(ci) - pin Node.js version to 18 for Netlify builds",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/478",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-28T16:35:59Z",
+          "title": "Testing coderabbitaibot",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/41",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-28T11:21:21Z",
+          "title": "Reuse Chapter 2 responsive iframe styles in Chapter 3 introduction",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/475",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-25T18:49:24Z",
+          "title": "layout bug",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/11",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-11-19T11:06:42Z",
+          "title": "Update footer year to 2025 (#734)",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/735",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-25T19:21:27Z",
+          "title": "Fix - Make iframes responsive below 650px using global CSS media query",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-12T08:24:30Z",
+          "title": "Fix - Add missing contention error image in Chapter 8",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/448",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-03T09:40:54Z",
+          "title": "Fix - Homepage illustration & CTA responsiveness + footer year update (#251)",
+          "link": "https://github.com/CircuitVerse/Blog/pull/252",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-30T17:32:18Z",
+          "title": "changed readme",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/48",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-08-24T11:37:46Z",
+          "title": "🐞 Bug Image Hidden on Resolution 1024px",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6007",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-09-02T19:33:49Z",
+          "title": "🐞 Bug navbar responsiveness",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6037",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-11-19T09:19:03Z",
+          "title": "Footer still shows 2024 — should be updated to 2025",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/734",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-25T19:44:47Z",
+          "title": "Fix excessive spacing causing incomplete full-width background in footer section",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/13",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-25T15:36:48Z",
+          "title": "Add hover effect to homepage pagination buttons",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/8",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-25T13:28:15Z",
+          "title": "🐛 People Page Fails to Load Without NEXT_PUBLIC_BASE_URL",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/3",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-13T20:21:33Z",
+          "title": "Mobile Images overflow container on “Chapter 4 → Output” page",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/457",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-07T18:46:05Z",
+          "title": "Title - Image not visible in Chapter 8 → Understanding Error Messages (Contention Error 1 and 0)",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/446",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-06T16:49:53Z",
+          "title": "🐞 Bug - Improve notification badge UI for better readability and consistency",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6438",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-03T12:02:23Z",
+          "title": "🐞 Bug - Notification dropdown overlaps with sidebar at 768px screen width",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6418",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-11-30T14:44:27Z",
+          "title": "Fix - Illustration and CTA layout responsiveness issues (992px–1200px) and footer year update",
+          "link": "https://github.com/CircuitVerse/Blog/issues/251",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-11-29T18:07:14Z",
+          "title": "🐞 Bug - Logo Overlaps Text and Footer Year Still Shows 2024 on Blog Page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6370",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-11-29T17:52:49Z",
+          "title": "🐞 Bug - Illustration on Blog Page Overflows / Not Responsive at ~1200px Width",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6369",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-28T18:01:10Z",
+          "title": "Netlify CI fails",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/479",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-27T16:27:46Z",
+          "title": "YouTube embed breaks layout on Chapter 3 Simulator Interface (Introduction)",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/474",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-26T17:44:29Z",
+          "title": "GitHub icon exists in navbar but is not visible",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/25",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-25T19:44:47Z",
+          "title": "Fix excessive spacing causing incomplete full-width background in footer section",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/13",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-25T15:36:48Z",
+          "title": "Add hover effect to homepage pagination buttons",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/8",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-25T13:28:15Z",
+          "title": "🐛 People Page Fails to Load Without NEXT_PUBLIC_BASE_URL",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/3",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "Atharva7126",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
@@ -6176,483 +6672,6 @@
           "occured_at": "2025-12-25T13:57:02Z",
           "title": "Feat - Adding github link in navbar",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/4",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "naman79820",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-      "role": "Contributor",
-      "total_points": 85,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 23,
-          "points": 46
-        },
-        "PR merged": {
-          "count": 4,
-          "points": 20
-        },
-        "Issue opened": {
-          "count": 19,
-          "points": 19
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-08-24",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-09-02",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-08-29",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-10-23",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-11-23",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-11-22",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-11-19",
-          "count": 3,
-          "points": 8
-        },
-        {
-          "date": "2025-11-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-25",
-          "count": 9,
-          "points": 15
-        },
-        {
-          "date": "2025-12-15",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-10",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-06",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-12-05",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-04",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-03",
-          "count": 3,
-          "points": 8
-        },
-        {
-          "date": "2025-12-01",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-11-30",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-11-28",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-11-26",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-28",
-          "count": 4,
-          "points": 7
-        },
-        {
-          "date": "2025-12-12",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-12-13",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-07",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-11-29",
-          "count": 2,
-          "points": 2
-        },
-        {
-          "date": "2025-12-27",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-26",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2025-08-24T11:23:54Z",
-          "title": "fix - arabic navigation bar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6006",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-09-02T19:28:33Z",
-          "title": "#6007 - Fix navbar collapse breakpoint at 1024px",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6036",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-08-29T18:35:31Z",
-          "title": "Fix broken UI in Welcome Email (#5984)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6018",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-10-23T23:32:03Z",
-          "title": "Fix N+1 query issue in ProjectsController#index by eager loading asso…",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6309",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-11-23T09:27:25Z",
-          "title": "Fix - prevent statement timeout by adding lock timeout + retry in AssignmentDeadlineSubmissionJob (#6277)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6358",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-11-22T21:52:44Z",
-          "title": "Fix - restrict simulator embed/show to HTML and reject non-HTML formats (#6352)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6357",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-11-19T10:57:42Z",
-          "title": "Update footer year to 2025 (#734)",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/735",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-11-16T12:47:45Z",
-          "title": "Fix navbar auth button overflow by collapsing earlier on medium screens (#6037)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6353",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-25T18:49:24Z",
-          "title": "layout bug",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/11",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-15T13:35:14Z",
-          "title": "Fix - Make iframes responsive below 650px using global CSS media query",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-10T22:03:33Z",
-          "title": "Fix - Add missing contention error image in Chapter 8",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/448",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-06T18:13:43Z",
-          "title": "Fix missing project_url error by adding shallow routes for projects",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6439",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-05T11:54:17Z",
-          "title": "Fix pagination ArgumentError when page parameter is empty #6426",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6429",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-04T17:31:50Z",
-          "title": "Fix - notification count alignment and dropdown overflow",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6424",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-03T10:53:24Z",
-          "title": "Fix N+1 query in AssignmentsController#create by eager loading group member users",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6416",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-01T20:00:21Z",
-          "title": "Fix - N+1 query in Users - - CircuitverseController#index",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6405",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-11-30T15:20:10Z",
-          "title": "Fix - Homepage illustration & CTA responsiveness + footer year update (#251)",
-          "link": "https://github.com/CircuitVerse/Blog/pull/252",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-11-28T18:53:06Z",
-          "title": "Fix N+1 query issues flagged by Bullet",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6367",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-11-26T12:38:35Z",
-          "title": "Fix N+1 on user dashboard - preload circuit_preview_attachment",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6364",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-28T17:33:08Z",
-          "title": "chore(ci) - pin Node.js version to 18 for Netlify builds",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/478",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-28T16:35:59Z",
-          "title": "Testing coderabbitaibot",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/41",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-28T11:21:21Z",
-          "title": "Reuse Chapter 2 responsive iframe styles in Chapter 3 introduction",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/475",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-25T18:49:24Z",
-          "title": "layout bug",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/11",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-11-19T11:06:42Z",
-          "title": "Update footer year to 2025 (#734)",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/735",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-25T19:21:27Z",
-          "title": "Fix - Make iframes responsive below 650px using global CSS media query",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-12T08:24:30Z",
-          "title": "Fix - Add missing contention error image in Chapter 8",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/448",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-03T09:40:54Z",
-          "title": "Fix - Homepage illustration & CTA responsiveness + footer year update (#251)",
-          "link": "https://github.com/CircuitVerse/Blog/pull/252",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-08-24T11:37:46Z",
-          "title": "🐞 Bug Image Hidden on Resolution 1024px",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6007",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-09-02T19:33:49Z",
-          "title": "🐞 Bug navbar responsiveness",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6037",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-11-19T09:19:03Z",
-          "title": "Footer still shows 2024 — should be updated to 2025",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/734",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-25T19:44:47Z",
-          "title": "Fix excessive spacing causing incomplete full-width background in footer section",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/13",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-25T15:36:48Z",
-          "title": "Add hover effect to homepage pagination buttons",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/8",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-25T13:28:15Z",
-          "title": "🐛 People Page Fails to Load Without NEXT_PUBLIC_BASE_URL",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/3",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-13T20:21:33Z",
-          "title": "Mobile Images overflow container on “Chapter 4 → Output” page",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/457",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-07T18:46:05Z",
-          "title": "Title - Image not visible in Chapter 8 → Understanding Error Messages (Contention Error 1 and 0)",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/446",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-06T16:49:53Z",
-          "title": "🐞 Bug - Improve notification badge UI for better readability and consistency",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6438",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-03T12:02:23Z",
-          "title": "🐞 Bug - Notification dropdown overlaps with sidebar at 768px screen width",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6418",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-11-30T14:44:27Z",
-          "title": "Fix - Illustration and CTA layout responsiveness issues (992px–1200px) and footer year update",
-          "link": "https://github.com/CircuitVerse/Blog/issues/251",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-11-29T18:07:14Z",
-          "title": "🐞 Bug - Logo Overlaps Text and Footer Year Still Shows 2024 on Blog Page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6370",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-11-29T17:52:49Z",
-          "title": "🐞 Bug - Illustration on Blog Page Overflows / Not Responsive at ~1200px Width",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6369",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-28T18:01:10Z",
-          "title": "Netlify CI fails",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/479",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-27T16:27:46Z",
-          "title": "YouTube embed breaks layout on Chapter 3 Simulator Interface (Introduction)",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/474",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-26T17:44:29Z",
-          "title": "GitHub icon exists in navbar but is not visible",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/25",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-25T19:44:47Z",
-          "title": "Fix excessive spacing causing incomplete full-width background in footer section",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/13",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-25T15:36:48Z",
-          "title": "Add hover effect to homepage pagination buttons",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/8",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-25T13:28:15Z",
-          "title": "🐛 People Page Fails to Load Without NEXT_PUBLIC_BASE_URL",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/3",
           "points": 1
         }
       ]
@@ -14535,6 +14554,65 @@
       ]
     },
     {
+      "username": "haaasini01",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+      "role": "Contributor",
+      "total_points": 6,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-12-28",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-30T15:15:24Z",
+          "title": "justify text alignment in documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/483",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-28T14:39:11Z",
+          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-30T14:15:28Z",
+          "title": "Feature Request - Enable justified text for docs content",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/482",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-28T12:28:32Z",
+          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "uditjainstjis",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/83398767?v=4",
@@ -16174,6 +16252,46 @@
       ]
     },
     {
+      "username": "sujal-thakur01",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-30T17:21:37Z",
+          "title": "Docs - clarify Node.js version, Redis/PostgreSQL startup, and RSA key requirement",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6530",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-30T10:40:27Z",
+          "title": "Improve macOS local setup documentation (Node.js, Redis, PostgreSQL, RSA keys)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6527",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "KARDT89",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/77930336?v=4",
@@ -16249,46 +16367,6 @@
           "occured_at": "2025-12-29T06:44:23Z",
           "title": "Feat - Clarify leaderboard ranking logic using a tooltip indicator",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/42",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "haaasini01",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-28",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-28T14:39:11Z",
-          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-28T12:28:32Z",
-          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
           "points": 1
         }
       ]
@@ -19072,35 +19150,6 @@
           "occured_at": "2025-12-03T23:52:15Z",
           "title": "UI/UX Improvement - Modernize Main CircuitVerse Website Design",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6422",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "sujal-thakur01",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4",
-      "role": "Contributor",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-30",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-30T10:40:27Z",
-          "title": "Improve macOS local setup documentation (Node.js, Redis, PostgreSQL, RSA keys)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6527",
           "points": 1
         }
       ]

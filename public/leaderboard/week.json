@@ -1,6 +1,6 @@
 {
   "period": "week",
-  "updatedAt": 1767097838403,
+  "updatedAt": 1767118996581,
   "startDate": "2025-12-23",
   "endDate": "2025-12-30",
   "hiddenRoles": [],
@@ -686,15 +686,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 24,
+      "total_points": 31,
       "activity_breakdown": {
         "PR opened": {
-          "count": 5,
-          "points": 10
+          "count": 6,
+          "points": 12
         },
         "PR merged": {
-          "count": 1,
-          "points": 5
+          "count": 2,
+          "points": 10
         },
         "Issue opened": {
           "count": 9,
@@ -706,6 +706,11 @@
           "date": "2025-12-25",
           "count": 9,
           "points": 15
+        },
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 7
         },
         {
           "date": "2025-12-28",
@@ -729,6 +734,16 @@
           "title": "layout bug",
           "occured_at": "2025-12-25T18:49:24Z",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/11",
+          "points": 2,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "changed readme",
+          "occured_at": "2025-12-30T17:32:06Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/48",
           "points": 2,
           "contributor": "naman79820",
           "contributor_name": null,
@@ -779,6 +794,16 @@
           "title": "Fix - Make iframes responsive below 650px using global CSS media query",
           "occured_at": "2025-12-25T19:21:27Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
+          "points": 5,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "changed readme",
+          "occured_at": "2025-12-30T17:32:18Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/48",
           "points": 5,
           "contributor": "naman79820",
           "contributor_name": null,
@@ -1718,6 +1743,77 @@
       ]
     },
     {
+      "username": "haaasini01",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+      "role": "Contributor",
+      "total_points": 6,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-12-28",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "justify text alignment in documentation",
+          "occured_at": "2025-12-30T15:15:24Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/483",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
+          "occured_at": "2025-12-28T14:39:11Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Feature Request - Enable justified text for docs content",
+          "occured_at": "2025-12-30T14:15:28Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/482",
+          "points": 1,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
+          "occured_at": "2025-12-28T12:28:32Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
+          "points": 1,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        }
+      ]
+    },
+    {
       "username": "h30s",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4",
@@ -1914,9 +2010,9 @@
       ]
     },
     {
-      "username": "nishant530",
+      "username": "sujal-thakur01",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/206030473?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4",
       "role": "Contributor",
       "total_points": 3,
       "activity_breakdown": {
@@ -1931,36 +2027,31 @@
       },
       "daily_activity": [
         {
-          "date": "2025-12-23",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-24",
-          "count": 1,
-          "points": 1
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 3
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "title": "successfully fix the grammetical mistakes in chapter 1",
-          "occured_at": "2025-12-23T17:29:05Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/470",
+          "title": "Docs - clarify Node.js version, Redis/PostgreSQL startup, and RSA key requirement",
+          "occured_at": "2025-12-30T17:21:37Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6530",
           "points": 2,
-          "contributor": "nishant530",
+          "contributor": "sujal-thakur01",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/206030473?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4"
         },
         {
           "type": "Issue opened",
-          "title": "Improve search bar UX - center alignment and inline search behavior",
-          "occured_at": "2025-12-24T08:23:47Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/471",
+          "title": "Improve macOS local setup documentation (Node.js, Redis, PostgreSQL, RSA keys)",
+          "occured_at": "2025-12-30T10:40:27Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6527",
           "points": 1,
-          "contributor": "nishant530",
+          "contributor": "sujal-thakur01",
           "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/206030473?v=4"
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4"
         }
       ]
     },
@@ -2053,116 +2144,6 @@
           "contributor": "gautamsidhwani29",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/85290538?v=4"
-        }
-      ]
-    },
-    {
-      "username": "haaasini01",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-28",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
-          "occured_at": "2025-12-28T14:39:11Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
-          "points": 2,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
-          "occured_at": "2025-12-28T12:28:32Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
-          "points": 1,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        }
-      ]
-    },
-    {
-      "username": "blazethunderstorm",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/149250431?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-23",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Migrate from Sprockets to Propshaft + Vite",
-          "occured_at": "2025-12-23T13:40:02Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6499",
-          "points": 2,
-          "contributor": "blazethunderstorm",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/149250431?v=4"
-        }
-      ]
-    },
-    {
-      "username": "Prachi194agrawal",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/147470645?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-23",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "fix - Add search bar validation and input handling",
-          "occured_at": "2025-12-23T15:51:39Z",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/698",
-          "points": 2,
-          "contributor": "Prachi194agrawal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/147470645?v=4"
         }
       ]
     },
@@ -2295,6 +2276,38 @@
       ]
     },
     {
+      "username": "nishant530",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/206030473?v=4",
+      "role": "Contributor",
+      "total_points": 1,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-24",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "title": "Improve search bar UX - center alignment and inline search behavior",
+          "occured_at": "2025-12-24T08:23:47Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/471",
+          "points": 1,
+          "contributor": "nishant530",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/206030473?v=4"
+        }
+      ]
+    },
+    {
       "username": "yats0x7",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/217891881?v=4",
@@ -2323,70 +2336,6 @@
           "contributor": "yats0x7",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/217891881?v=4"
-        }
-      ]
-    },
-    {
-      "username": "DhananjayDogne",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/111991487?v=4",
-      "role": "Contributor",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-23",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "title": "🐞 Bug",
-          "occured_at": "2025-12-23T17:52:59Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6500",
-          "points": 1,
-          "contributor": "DhananjayDogne",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/111991487?v=4"
-        }
-      ]
-    },
-    {
-      "username": "sujal-thakur01",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4",
-      "role": "Contributor",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-30",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "title": "Improve macOS local setup documentation (Node.js, Redis, PostgreSQL, RSA keys)",
-          "occured_at": "2025-12-30T10:40:27Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6527",
-          "points": 1,
-          "contributor": "sujal-thakur01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4"
         }
       ]
     },

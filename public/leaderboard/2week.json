@@ -1,6 +1,6 @@
 {
   "period": "2week",
-  "updatedAt": 1767097838405,
+  "updatedAt": 1767118996583,
   "startDate": "2025-12-16",
   "endDate": "2025-12-30",
   "hiddenRoles": [],
@@ -726,15 +726,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 24,
+      "total_points": 31,
       "activity_breakdown": {
         "PR opened": {
-          "count": 5,
-          "points": 10
+          "count": 6,
+          "points": 12
         },
         "PR merged": {
-          "count": 1,
-          "points": 5
+          "count": 2,
+          "points": 10
         },
         "Issue opened": {
           "count": 9,
@@ -746,6 +746,11 @@
           "date": "2025-12-25",
           "count": 9,
           "points": 15
+        },
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 7
         },
         {
           "date": "2025-12-28",
@@ -769,6 +774,16 @@
           "title": "layout bug",
           "occured_at": "2025-12-25T18:49:24Z",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/11",
+          "points": 2,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "changed readme",
+          "occured_at": "2025-12-30T17:32:06Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/48",
           "points": 2,
           "contributor": "naman79820",
           "contributor_name": null,
@@ -819,6 +834,16 @@
           "title": "Fix - Make iframes responsive below 650px using global CSS media query",
           "occured_at": "2025-12-25T19:21:27Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
+          "points": 5,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "changed readme",
+          "occured_at": "2025-12-30T17:32:18Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/48",
           "points": 5,
           "contributor": "naman79820",
           "contributor_name": null,
@@ -1043,141 +1068,6 @@
           "contributor": "ShinichiShi",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4"
-        }
-      ]
-    },
-    {
-      "username": "senutpal",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-      "role": "Contributor",
-      "total_points": 20,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        },
-        "PR merged": {
-          "count": 2,
-          "points": 10
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-16",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-12-30",
-          "count": 2,
-          "points": 4
-        },
-        {
-          "date": "2025-12-29",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-25",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-12-24",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-12-28",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "docs - fix typos and grammar errors in chapters 2-7",
-          "occured_at": "2025-12-16T13:28:07Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/465",
-          "points": 2,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "docs - add workarounds for application.js and CRLF errors in troubleshooting guide",
-          "occured_at": "2025-12-30T11:59:48Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6528",
-          "points": 2,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "fix - resolve Tauri Desktop Release CI/CD failures on all platforms",
-          "occured_at": "2025-12-30T09:27:26Z",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/706",
-          "points": 2,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "refactor - migrate restrictedElementDiv.js to TypeScript",
-          "occured_at": "2025-12-29T14:58:57Z",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/705",
-          "points": 2,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "docs - fix typos and grammar errors in chapters 2-7",
-          "occured_at": "2025-12-25T08:49:36Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/465",
-          "points": 5,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "docs - fix typo 'scoll' to 'scroll' in keyboard shortcuts documentation",
-          "occured_at": "2025-12-24T17:09:02Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/459",
-          "points": 5,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "fix - typos and grammar errors across documentation",
-          "occured_at": "2025-12-16T13:23:29Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/464",
-          "points": 1,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "🐞 Bug - Tauri Desktop Release CI/CD workflow fails on all platforms (Windows, Ubuntu, macOS)",
-          "occured_at": "2025-12-28T20:44:57Z",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/704",
-          "points": 1,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
         }
       ]
     },
@@ -1444,15 +1334,125 @@
       ]
     },
     {
+      "username": "senutpal",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
+      "role": "Contributor",
+      "total_points": 17,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        },
+        "PR merged": {
+          "count": 2,
+          "points": 10
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2025-12-29",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-25",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-24",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-28",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "docs - add workarounds for application.js and CRLF errors in troubleshooting guide",
+          "occured_at": "2025-12-30T11:59:48Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6528",
+          "points": 2,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "fix - resolve Tauri Desktop Release CI/CD failures on all platforms",
+          "occured_at": "2025-12-30T09:27:26Z",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/706",
+          "points": 2,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "refactor - migrate restrictedElementDiv.js to TypeScript",
+          "occured_at": "2025-12-29T14:58:57Z",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/705",
+          "points": 2,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "docs - fix typos and grammar errors in chapters 2-7",
+          "occured_at": "2025-12-25T08:49:36Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/465",
+          "points": 5,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "docs - fix typo 'scoll' to 'scroll' in keyboard shortcuts documentation",
+          "occured_at": "2025-12-24T17:09:02Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/459",
+          "points": 5,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "🐞 Bug - Tauri Desktop Release CI/CD workflow fails on all platforms (Windows, Ubuntu, macOS)",
+          "occured_at": "2025-12-28T20:44:57Z",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/704",
+          "points": 1,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        }
+      ]
+    },
+    {
       "username": "Radhikaa-chauhan",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
       "role": "Contributor",
-      "total_points": 18,
+      "total_points": 16,
       "activity_breakdown": {
         "PR opened": {
-          "count": 4,
-          "points": 8
+          "count": 3,
+          "points": 6
         },
         "PR merged": {
           "count": 2,
@@ -1466,11 +1466,6 @@
           "points": 14
         },
         {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 2
-        },
-        {
           "date": "2025-12-27",
           "count": 1,
           "points": 2
@@ -1482,16 +1477,6 @@
           "title": "Fix - leaderboard responsive layout",
           "occured_at": "2025-12-25T15:28:38Z",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/7",
-          "points": 2,
-          "contributor": "Radhikaa-chauhan",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "docs(wsl) - fix Redis and PostgreSQL commands for WSL setup",
-          "occured_at": "2025-12-16T16:46:12Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6476",
           "points": 2,
           "contributor": "Radhikaa-chauhan",
           "contributor_name": null,
@@ -2014,6 +1999,77 @@
       ]
     },
     {
+      "username": "haaasini01",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+      "role": "Contributor",
+      "total_points": 6,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-12-28",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "justify text alignment in documentation",
+          "occured_at": "2025-12-30T15:15:24Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/483",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
+          "occured_at": "2025-12-28T14:39:11Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Feature Request - Enable justified text for docs content",
+          "occured_at": "2025-12-30T14:15:28Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/482",
+          "points": 1,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
+          "occured_at": "2025-12-28T12:28:32Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
+          "points": 1,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        }
+      ]
+    },
+    {
       "username": "h30s",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4",
@@ -2487,6 +2543,52 @@
       ]
     },
     {
+      "username": "sujal-thakur01",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Docs - clarify Node.js version, Redis/PostgreSQL startup, and RSA key requirement",
+          "occured_at": "2025-12-30T17:21:37Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6530",
+          "points": 2,
+          "contributor": "sujal-thakur01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Improve macOS local setup documentation (Node.js, Redis, PostgreSQL, RSA keys)",
+          "occured_at": "2025-12-30T10:40:27Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6527",
+          "points": 1,
+          "contributor": "sujal-thakur01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4"
+        }
+      ]
+    },
+    {
       "username": "KARDT89",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/77930336?v=4",
@@ -2575,52 +2677,6 @@
           "contributor": "gautamsidhwani29",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/85290538?v=4"
-        }
-      ]
-    },
-    {
-      "username": "haaasini01",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-28",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
-          "occured_at": "2025-12-28T14:39:11Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
-          "points": 2,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
-          "occured_at": "2025-12-28T12:28:32Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
-          "points": 1,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
         }
       ]
     },
@@ -3037,38 +3093,6 @@
           "contributor": "DhananjayDogne",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/111991487?v=4"
-        }
-      ]
-    },
-    {
-      "username": "sujal-thakur01",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4",
-      "role": "Contributor",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-30",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "title": "Improve macOS local setup documentation (Node.js, Redis, PostgreSQL, RSA keys)",
-          "occured_at": "2025-12-30T10:40:27Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6527",
-          "points": 1,
-          "contributor": "sujal-thakur01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4"
         }
       ]
     },

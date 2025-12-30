@@ -1,6 +1,6 @@
 {
   "period": "2month",
-  "updatedAt": 1767097838413,
+  "updatedAt": 1767118996589,
   "startDate": "2025-10-31",
   "endDate": "2025-12-30",
   "hiddenRoles": [],
@@ -436,15 +436,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 75,
+      "total_points": 82,
       "activity_breakdown": {
         "PR opened": {
-          "count": 19,
-          "points": 38
+          "count": 20,
+          "points": 40
         },
         "PR merged": {
-          "count": 4,
-          "points": 20
+          "count": 5,
+          "points": 25
         },
         "Issue opened": {
           "count": 17,
@@ -526,6 +526,11 @@
           "date": "2025-11-26",
           "count": 1,
           "points": 2
+        },
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 7
         },
         {
           "date": "2025-12-28",
@@ -716,6 +721,16 @@
         },
         {
           "type": "PR opened",
+          "title": "changed readme",
+          "occured_at": "2025-12-30T17:32:06Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/48",
+          "points": 2,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "PR opened",
           "title": "chore(ci) - pin Node.js version to 18 for Netlify builds",
           "occured_at": "2025-12-28T17:33:08Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/478",
@@ -789,6 +804,16 @@
           "title": "Fix - Homepage illustration & CTA responsiveness + footer year update (#251)",
           "occured_at": "2025-12-03T09:40:54Z",
           "link": "https://github.com/CircuitVerse/Blog/pull/252",
+          "points": 5,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "changed readme",
+          "occured_at": "2025-12-30T17:32:18Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/48",
           "points": 5,
           "contributor": "naman79820",
           "contributor_name": null,
@@ -3816,6 +3841,77 @@
       ]
     },
     {
+      "username": "haaasini01",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+      "role": "Contributor",
+      "total_points": 6,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-12-28",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "justify text alignment in documentation",
+          "occured_at": "2025-12-30T15:15:24Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/483",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
+          "occured_at": "2025-12-28T14:39:11Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
+          "points": 2,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Feature Request - Enable justified text for docs content",
+          "occured_at": "2025-12-30T14:15:28Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/482",
+          "points": 1,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
+          "occured_at": "2025-12-28T12:28:32Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
+          "points": 1,
+          "contributor": "haaasini01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
+        }
+      ]
+    },
+    {
       "username": "ThatDeparted2061",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/166894150?v=4",
@@ -4059,72 +4155,6 @@
           "contributor": "ViRUS-0-0",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4"
-        }
-      ]
-    },
-    {
-      "username": "Aakansha-Chavan",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-      "role": "Contributor",
-      "total_points": 4,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-10-31",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-19",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-06",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Feat/contest name management",
-          "occured_at": "2025-10-31T14:22:53Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6322",
-          "points": 2,
-          "contributor": "Aakansha-Chavan",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "UI bug - Change focus border color on Contact Us form from red to green",
-          "occured_at": "2025-12-19T10:17:12Z",
-          "link": "https://github.com/CircuitVerse/Blog/issues/257",
-          "points": 1,
-          "contributor": "Aakansha-Chavan",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "UI Bug - Button color transition failure on hover (Green to Red)",
-          "occured_at": "2025-12-06T17:42:02Z",
-          "link": "https://github.com/CircuitVerse/Blog/issues/255",
-          "points": 1,
-          "contributor": "Aakansha-Chavan",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4"
         }
       ]
     },
@@ -4726,6 +4756,52 @@
       ]
     },
     {
+      "username": "sujal-thakur01",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-30",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Docs - clarify Node.js version, Redis/PostgreSQL startup, and RSA key requirement",
+          "occured_at": "2025-12-30T17:21:37Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6530",
+          "points": 2,
+          "contributor": "sujal-thakur01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Improve macOS local setup documentation (Node.js, Redis, PostgreSQL, RSA keys)",
+          "occured_at": "2025-12-30T10:40:27Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6527",
+          "points": 1,
+          "contributor": "sujal-thakur01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4"
+        }
+      ]
+    },
+    {
       "username": "KARDT89",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/77930336?v=4",
@@ -4818,52 +4894,6 @@
       ]
     },
     {
-      "username": "haaasini01",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-28",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Enhancement - Add Boolean expressions to all logic gates in Chapter 4",
-          "occured_at": "2025-12-28T14:39:11Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/477",
-          "points": 2,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Enhancement - Boolean expressions for logic gates in Chapter 4",
-          "occured_at": "2025-12-28T12:28:32Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/476",
-          "points": 1,
-          "contributor": "haaasini01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4"
-        }
-      ]
-    },
-    {
       "username": "blazethunderstorm",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/149250431?v=4",
@@ -4892,6 +4922,53 @@
           "contributor": "blazethunderstorm",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/149250431?v=4"
+        }
+      ]
+    },
+    {
+      "username": "Aakansha-Chavan",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-19",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-06",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "title": "UI bug - Change focus border color on Contact Us form from red to green",
+          "occured_at": "2025-12-19T10:17:12Z",
+          "link": "https://github.com/CircuitVerse/Blog/issues/257",
+          "points": 1,
+          "contributor": "Aakansha-Chavan",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "UI Bug - Button color transition failure on hover (Green to Red)",
+          "occured_at": "2025-12-06T17:42:02Z",
+          "link": "https://github.com/CircuitVerse/Blog/issues/255",
+          "points": 1,
+          "contributor": "Aakansha-Chavan",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4"
         }
       ]
     },
@@ -5084,38 +5161,6 @@
           "contributor": "renganathc",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/61966174?v=4"
-        }
-      ]
-    },
-    {
-      "username": "SanketBhandarii",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/121420944?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-10-31",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "style - enhance hover effect for 'Previous' and 'Next' buttons (#708)",
-          "occured_at": "2025-10-31T14:44:29Z",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/729",
-          "points": 2,
-          "contributor": "SanketBhandarii",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/121420944?v=4"
         }
       ]
     },
@@ -6133,38 +6178,6 @@
           "contributor": "ParthMozarkar",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/218128772?v=4"
-        }
-      ]
-    },
-    {
-      "username": "sujal-thakur01",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4",
-      "role": "Contributor",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-30",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "title": "Improve macOS local setup documentation (Node.js, Redis, PostgreSQL, RSA keys)",
-          "occured_at": "2025-12-30T10:40:27Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6527",
-          "points": 1,
-          "contributor": "sujal-thakur01",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4"
         }
       ]
     },

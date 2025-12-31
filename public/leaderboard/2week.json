@@ -1,6 +1,6 @@
 {
   "period": "2week",
-  "updatedAt": 1767143193114,
+  "updatedAt": 1767162274276,
   "startDate": "2025-12-17",
   "endDate": "2025-12-31",
   "hiddenRoles": [],
@@ -3078,6 +3078,38 @@
           "contributor": "Vibhay007",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/197410229?v=4"
+        }
+      ]
+    },
+    {
+      "username": "omkarrr2533",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/201979858?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-31",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Fix NoMethodError in search_projects when page params are nil",
+          "occured_at": "2025-12-31T05:32:53Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6533",
+          "points": 2,
+          "contributor": "omkarrr2533",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/201979858?v=4"
         }
       ]
     },

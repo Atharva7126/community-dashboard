@@ -1,6 +1,19 @@
 {
-  "updatedAt": 1767143193137,
+  "updatedAt": 1767162274294,
   "groups": [
+    {
+      "date": "2025-12-31",
+      "items": [
+        {
+          "username": "omkarrr2533",
+          "name": null,
+          "title": "Fix NoMethodError in search_projects when page params are nil",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6533",
+          "avatar_url": "https://avatars.githubusercontent.com/u/201979858?v=4",
+          "points": 2
+        }
+      ]
+    },
     {
       "date": "2025-12-30",
       "items": [

@@ -1,6 +1,6 @@
 {
   "period": "year",
-  "updatedAt": 1767143193102,
+  "updatedAt": 1767162274267,
   "startDate": "2024-12-31",
   "endDate": "2025-12-31",
   "hiddenRoles": [],
@@ -18227,6 +18227,35 @@
           "occured_at": "2025-11-29T10:35:56Z",
           "title": "feat - Add Clock Divider Component (#587)",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/680",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "omkarrr2533",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/201979858?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-31",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-31T05:32:53Z",
+          "title": "Fix NoMethodError in search_projects when page params are nil",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6533",
           "points": 2
         }
       ]

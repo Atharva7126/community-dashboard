@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import path from "path";
 import fs from "fs";
-import { coreTeamMembers, alumniMembers, type TeamMember } from "@/lib/team-data";
+import { coreTeamMembers, alumniMembers } from "@/lib/team-data";
 
 interface ContributorEntry {
   username: string;

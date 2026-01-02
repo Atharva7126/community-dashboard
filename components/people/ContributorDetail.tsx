@@ -83,7 +83,6 @@ export function ContributorDetail({ contributor, onBack }: ContributorDetailProp
   const uniqueDates = Array.from(new Set(sortedDates.map(d => d.date)));
   
   let expectedDaysDiff = 0; // Start expecting today (0 days ago)
-  const foundToday = false;
   
   for (const dateStr of uniqueDates) {
     const activityDate = new Date(dateStr);

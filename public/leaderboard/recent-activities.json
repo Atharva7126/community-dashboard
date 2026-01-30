@@ -1,6 +1,235 @@
 {
-  "updatedAt": 1769648442215,
+  "updatedAt": 1769734828683,
   "groups": [
+    [
+      "2026-01-29",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Fix - Add model validation for live contest uniqueness constraint",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6745",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 5
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "🐞 Missing model class Notification for the Project#notifications association in Rails Admin",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6781",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #6781 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6781",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6744 - 🐞 Bug - Missing model validation causes database error when creating multiple live contests",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6744",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6672 - 🐞 Bug - Footer FAQ link redirects to incorrect documentation page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6672",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "Update footer FAQ link to correct documentation URL",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6673",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 5
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Fix RailsAdmin notifications associations",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6783",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Fix - setPlotValue() early return preventing logic execution",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/891",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Fix typo in JSDoc comment - 'checkss' should be 'checks'",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/889",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Remove debug console.log statements from production code",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/887",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Fix typo in Flag tooltip - 'FLag' should be 'Flag'",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/885",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "fix - Correct Euclidean distance calculation formula",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/859",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 5
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Bug - setPlotValue() function returns immediately and does nothing",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/890",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 1
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Fix typo in JSDoc comment - 'checkss' should be 'checks'",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/888",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 1
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Remove debug console.log statements from production code",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/886",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 1
+        },
+        {
+          "username": "Aakansha-Chavan",
+          "name": null,
+          "title": "style - remove underline from buttons in Contest sections",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6780",
+          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+          "points": 2
+        },
+        {
+          "username": "Aakansha-Chavan",
+          "name": null,
+          "title": "Feature UI Enhancement - Remove underline decoration on Contest registration button",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6779",
+          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+          "points": 1
+        },
+        {
+          "username": "Aakansha-Chavan",
+          "name": null,
+          "title": "Labeled issue #6779 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6779",
+          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+          "points": 2
+        },
+        {
+          "username": "Aakansha-Chavan",
+          "name": null,
+          "title": "Labeled issue #6779 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6779",
+          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+          "points": 2
+        },
+        {
+          "username": "JayantRautela",
+          "name": null,
+          "title": "refactor - convert listeners.js to listeners.ts",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/883",
+          "avatar_url": "https://avatars.githubusercontent.com/u/170959725?v=4",
+          "points": 2
+        },
+        {
+          "username": "abhaygoudannavar",
+          "name": null,
+          "title": "Fix/duplicate tags",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6776",
+          "avatar_url": "https://avatars.githubusercontent.com/u/230383639?v=4",
+          "points": 2
+        },
+        {
+          "username": "Mayank7371",
+          "name": null,
+          "title": "Fix N+1 queries for user profile pictures",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6777",
+          "avatar_url": "https://avatars.githubusercontent.com/u/166874794?v=4",
+          "points": 2
+        },
+        {
+          "username": "Nakshatra480",
+          "name": null,
+          "title": "fix - right-click delete in lower part of board (#829)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/893",
+          "avatar_url": "https://avatars.githubusercontent.com/u/219866800?v=4",
+          "points": 2
+        },
+        {
+          "username": "Nakshatra480",
+          "name": null,
+          "title": "Fix pinch zoom Y-axis and centering (fixes #876)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/892",
+          "avatar_url": "https://avatars.githubusercontent.com/u/219866800?v=4",
+          "points": 2
+        },
+        {
+          "username": "jahnavigajjala-3",
+          "name": null,
+          "title": "UX Make User Manual more discoverable via homepage and header navigation in the stimulater page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6778",
+          "avatar_url": "https://avatars.githubusercontent.com/u/230939291?v=4",
+          "points": 1
+        },
+        {
+          "username": "jahnavigajjala-3",
+          "name": null,
+          "title": "Labeled issue #6778 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6778",
+          "avatar_url": "https://avatars.githubusercontent.com/u/230939291?v=4",
+          "points": 2
+        },
+        {
+          "username": "patildevanshu",
+          "name": null,
+          "title": "docs - explain why assignment projects must remain private",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6782",
+          "avatar_url": "https://avatars.githubusercontent.com/u/152208944?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu95",
+          "name": null,
+          "title": "Fix typo in Flag tooltip - 'FLag' should be 'Flag'",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/884",
+          "avatar_url": "https://avatars.githubusercontent.com/u/258020853?v=4",
+          "points": 1
+        }
+      ]
+    ],
     [
       "2026-01-27",
       [
@@ -181,6 +410,22 @@
           "points": 1
         },
         {
+          "username": "abhaygoudannavar",
+          "name": null,
+          "title": "🐞 Bug Duplicate Tags Can Be Created Due to Missing Uniqueness Constraints",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6761",
+          "avatar_url": "https://avatars.githubusercontent.com/u/230383639?v=4",
+          "points": 1
+        },
+        {
+          "username": "abhaygoudannavar",
+          "name": null,
+          "title": "Labeled issue #6761 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6761",
+          "avatar_url": "https://avatars.githubusercontent.com/u/230383639?v=4",
+          "points": 2
+        },
+        {
           "username": "Nid-debug",
           "name": null,
           "title": "Inconsistent border-radius on \"Send Password Reset Link\" button on Forgot Password page",
@@ -205,19 +450,11 @@
           "points": 2
         },
         {
-          "username": "abhaygoudannavar",
+          "username": "Mayank7371",
           "name": null,
-          "title": "🐞 Bug Duplicate Tags Can Be Created Due to Missing Uniqueness Constraints",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6761",
-          "avatar_url": "https://avatars.githubusercontent.com/u/230383639?v=4",
-          "points": 1
-        },
-        {
-          "username": "abhaygoudannavar",
-          "name": null,
-          "title": "Labeled issue #6761 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6761",
-          "avatar_url": "https://avatars.githubusercontent.com/u/230383639?v=4",
+          "title": "Add on_delete behavior to user foreign keys",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6762",
+          "avatar_url": "https://avatars.githubusercontent.com/u/166874794?v=4",
           "points": 2
         },
         {
@@ -274,14 +511,6 @@
           "title": "Labeled issue #876 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/876",
           "avatar_url": "https://avatars.githubusercontent.com/u/148813478?v=4",
-          "points": 2
-        },
-        {
-          "username": "Mayank7371",
-          "name": null,
-          "title": "Add on_delete behavior to user foreign keys",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6762",
-          "avatar_url": "https://avatars.githubusercontent.com/u/166874794?v=4",
           "points": 2
         }
       ]
@@ -498,6 +727,22 @@
           "points": 2
         },
         {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Fix ESLint unused import errors in Navbar.vue",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/864",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 5
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Fix typo in support email address",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/862",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 5
+        },
+        {
           "username": "kunal-10-cloud",
           "name": null,
           "title": "feat(people) - revamp people page UI with minimalist hero and centered headers",
@@ -538,19 +783,11 @@
           "points": 2
         },
         {
-          "username": "s1dhu98",
+          "username": "JayantRautela",
           "name": null,
-          "title": "Fix ESLint unused import errors in Navbar.vue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/864",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 5
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Fix typo in support email address",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/862",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "title": "fix(ui) - adjust height",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/242",
+          "avatar_url": "https://avatars.githubusercontent.com/u/170959725?v=4",
           "points": 5
         },
         {
@@ -560,14 +797,6 @@
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6756",
           "avatar_url": "https://avatars.githubusercontent.com/u/187115281?v=4",
           "points": 2
-        },
-        {
-          "username": "JayantRautela",
-          "name": null,
-          "title": "fix(ui) - adjust height",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/242",
-          "avatar_url": "https://avatars.githubusercontent.com/u/170959725?v=4",
-          "points": 5
         },
         {
           "username": "durgeshbg",
@@ -980,6 +1209,38 @@
           "points": 2
         },
         {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "fix - Correct Euclidean distance calculation formula",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/859",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "refactor - Convert events.js to TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/858",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Feature - Add tooltips for simulator sidebar buttons",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/857",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Bug - Incorrect Euclidean distance calculation in distance() function",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/860",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 1
+        },
+        {
           "username": "kunal-10-cloud",
           "name": null,
           "title": "refactor(simulator) - fix memory leaks and migrate to vanilla JS listeners",
@@ -1026,38 +1287,6 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/853",
           "avatar_url": "https://avatars.githubusercontent.com/u/187593306?v=4",
           "points": 2
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "fix - Correct Euclidean distance calculation formula",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/859",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 2
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "refactor - Convert events.js to TypeScript",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/858",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 2
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Feature - Add tooltips for simulator sidebar buttons",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/857",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 2
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Bug - Incorrect Euclidean distance calculation in distance() function",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/860",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 1
         },
         {
           "username": "JayantRautela",
@@ -2596,139 +2825,6 @@
           "title": "Labeled issue #6771 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6771",
           "avatar_url": "https://avatars.githubusercontent.com/u/193490126?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-01-16",
-      [
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #722 - I want to contribute",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/722",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "Fix N+1 query in search by eager loading circuit_preview",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6649",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?u=f98f24ea09481aadc3e9fff9a8bd93f27eea46df&v=4",
-          "points": 2
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "update copyright year from 2025 to 2026 on About page",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/755",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 2
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "Update copyright year from 2025 to 2026 on About page",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/754",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 1
-        },
-        {
-          "username": "senutpal",
-          "name": null,
-          "title": "refactor(vitest) - convert to multi-project workspace with dynamic path resolution",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/808",
-          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-          "points": 2
-        },
-        {
-          "username": "senutpal",
-          "name": null,
-          "title": "test(specs) - add vitest mocks for tauri, resizeObserver, and canvas APIs",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/807",
-          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-          "points": 2
-        },
-        {
-          "username": "senutpal",
-          "name": null,
-          "title": "fix(node) - prevent self-wire deletion in orthogonal routing",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/806",
-          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-          "points": 2
-        },
-        {
-          "username": "aindree-2005",
-          "name": null,
-          "title": "🐞 Bug - ROM Simulator Behavior Mismatches Verilog Export",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/805",
-          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
-          "points": 1
-        },
-        {
-          "username": "aindree-2005",
-          "name": null,
-          "title": "Inconsistent use of latch vs flip-flop concepts",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/753",
-          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
-          "points": 1
-        },
-        {
-          "username": "aindree-2005",
-          "name": null,
-          "title": "Labeled issue #805 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/805",
-          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
-          "points": 2
-        },
-        {
-          "username": "sengmonkham",
-          "name": null,
-          "title": "Fix - Resolve Commontator Routing Error and Sanitize UTF-8 Input",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6648",
-          "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
-          "points": 2
-        },
-        {
-          "username": "Mustansir-06",
-          "name": null,
-          "title": "docs - fix grammar, links, and formatting in setup documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6647",
-          "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
-          "points": 2
-        },
-        {
-          "username": "Mustansir-06",
-          "name": null,
-          "title": "docs - fix testing commands, priority labels, and grammar in CONTRIBUTING.md",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6646",
-          "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
-          "points": 2
-        },
-        {
-          "username": "Mustansir-06",
-          "name": null,
-          "title": "docs - fix Windows native commands, regional links, and grammar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6645",
-          "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
-          "points": 2
-        },
-        {
-          "username": "Mustansir-06",
-          "name": null,
-          "title": "docs - fix grammar, links, and formatting in setup documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6647",
-          "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
-          "points": 5
-        },
-        {
-          "username": "kiransatdive",
-          "name": null,
-          "title": "I have fix three issues #100,#150,#206",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/214",
-          "avatar_url": "https://avatars.githubusercontent.com/u/98806225?v=4",
           "points": 2
         }
       ]

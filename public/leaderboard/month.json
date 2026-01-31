@@ -1,8 +1,8 @@
 {
   "period": "month",
-  "updatedAt": 1769734828679,
-  "startDate": "2025-12-31",
-  "endDate": "2026-01-30",
+  "updatedAt": 1769821078193,
+  "startDate": "2026-01-01",
+  "endDate": "2026-01-31",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,15 +11,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 327,
+      "total_points": 326,
       "activity_breakdown": {
         "PR merged": {
           "count": 7,
           "points": 35
         },
         "Issue opened": {
-          "count": 19,
-          "points": 19
+          "count": 18,
+          "points": 18
         },
         "Issue labeled": {
           "count": 14,
@@ -153,11 +153,6 @@
           "date": "2026-01-03",
           "count": 2,
           "points": 7
-        },
-        {
-          "date": "2025-12-31",
-          "count": 1,
-          "points": 1
         }
       ],
       "activities": [
@@ -1038,13 +1033,6 @@
         },
         {
           "type": "Issue opened",
-          "occured_at": "2025-12-31T19:43:36Z",
-          "title": "🐞 Footer shows incorrect “Data last updated” timestamp",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/57",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
           "occured_at": "2026-01-04T08:39:20Z",
           "title": "Add Review Analytics Dashboard (Review Points, Velocity & Top Reviewers)",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/101",
@@ -1076,28 +1064,33 @@
     {
       "username": "Git-HimanshuRathi",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/194053810?u=f98f24ea09481aadc3e9fff9a8bd93f27eea46df&v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
       "role": "Contributor",
-      "total_points": 153,
+      "total_points": 158,
       "activity_breakdown": {
+        "PR opened": {
+          "count": 25,
+          "points": 50
+        },
+        "Issue opened": {
+          "count": 16,
+          "points": 16
+        },
         "Review submitted": {
           "count": 8,
           "points": 32
         },
-        "PR opened": {
-          "count": 23,
-          "points": 46
-        },
         "PR merged": {
           "count": 12,
           "points": 60
-        },
-        "Issue opened": {
-          "count": 15,
-          "points": 15
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-01-30",
+          "count": 3,
+          "points": 5
+        },
         {
           "date": "2026-01-27",
           "count": 3,
@@ -1170,6 +1163,27 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-30T01:33:25Z",
+          "title": "added eager loading for group-members and changed .pluck to .map",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6788",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-30T01:16:36Z",
+          "title": "Fix/n plus one query group members controller",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6787",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-30T08:46:10Z",
+          "title": "Add CI workflow for testing Tauri desktop application",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/895",
+          "points": 1
+        },
         {
           "type": "Review submitted",
           "occured_at": "2026-01-27T13:48:56Z",
@@ -1583,11 +1597,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177391853?u=79266ed791029fdadb3001357630803bdfb93ee6&v=4",
       "role": "Contributor",
-      "total_points": 141,
+      "total_points": 145,
       "activity_breakdown": {
         "Review submitted": {
-          "count": 23,
-          "points": 92
+          "count": 24,
+          "points": 96
         },
         "Issue opened": {
           "count": 15,
@@ -1611,6 +1625,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-01-30",
+          "count": 1,
+          "points": 4
+        },
         {
           "date": "2026-01-27",
           "count": 1,
@@ -1703,6 +1722,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-30T07:15:56Z",
+          "title": "Review on PR #248",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/248",
+          "points": 4
+        },
         {
           "type": "Review submitted",
           "occured_at": "2026-01-27T16:38:46Z",
@@ -2583,15 +2609,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
       "role": "Contributor",
-      "total_points": 124,
+      "total_points": 115,
       "activity_breakdown": {
         "PR merged": {
-          "count": 13,
-          "points": 65
+          "count": 12,
+          "points": 60
         },
         "PR opened": {
-          "count": 19,
-          "points": 38
+          "count": 17,
+          "points": 34
         },
         "Issue opened": {
           "count": 19,
@@ -2691,11 +2717,6 @@
         {
           "date": "2026-01-06",
           "count": 4,
-          "points": 9
-        },
-        {
-          "date": "2025-12-31",
-          "count": 3,
           "points": 9
         },
         {
@@ -2997,20 +3018,6 @@
         },
         {
           "type": "PR opened",
-          "occured_at": "2025-12-31T16:33:42Z",
-          "title": "Fix contributor name overflow in profile card layout",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/56",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-31T14:46:16Z",
-          "title": "chore - update aws-sdk-s3 to fix security vulnerability",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6535",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
           "occured_at": "2026-01-04T06:29:17Z",
           "title": "fix(docs) - correct JSDoc typos and grammar in simulator files",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/711",
@@ -3029,13 +3036,6 @@
           "title": "docs - update core project structure section",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/80",
           "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-31T18:54:04Z",
-          "title": "Fix contributor name overflow in profile card layout",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/56",
-          "points": 5
         },
         {
           "type": "PR merged",
@@ -4533,11 +4533,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
       "role": "Contributor",
-      "total_points": 86,
+      "total_points": 83,
       "activity_breakdown": {
         "Issue opened": {
-          "count": 12,
-          "points": 12
+          "count": 11,
+          "points": 11
         },
         "Issue labeled": {
           "count": 1,
@@ -4548,8 +4548,8 @@
           "points": 50
         },
         "PR opened": {
-          "count": 11,
-          "points": 22
+          "count": 10,
+          "points": 20
         }
       },
       "daily_activity": [
@@ -4577,11 +4577,6 @@
           "date": "2026-01-05",
           "count": 5,
           "points": 11
-        },
-        {
-          "date": "2025-12-31",
-          "count": 2,
-          "points": 3
         },
         {
           "date": "2026-01-02",
@@ -4756,13 +4751,6 @@
         },
         {
           "type": "PR opened",
-          "occured_at": "2025-12-31T15:47:16Z",
-          "title": "Remove stray char from truth table in Canonical Functions subchapter",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/745",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
           "occured_at": "2026-01-02T12:37:29Z",
           "title": "fix - reflect actual rank while searching",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/77",
@@ -4805,13 +4793,6 @@
         },
         {
           "type": "Issue opened",
-          "occured_at": "2025-12-31T15:31:01Z",
-          "title": "Stray character displayed in the truth table in Canonical Functions subchapterz",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/744",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
           "occured_at": "2026-01-04T18:53:24Z",
           "title": "Recent Contributions should be time-sorted",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/111",
@@ -4845,11 +4826,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
       "role": "Contributor",
-      "total_points": 69,
+      "total_points": 71,
       "activity_breakdown": {
         "PR opened": {
-          "count": 9,
-          "points": 18
+          "count": 10,
+          "points": 20
         },
         "Issue opened": {
           "count": 9,
@@ -4865,6 +4846,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-01-30",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-01-29",
           "count": 1,
@@ -4927,6 +4913,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-30T14:09:43Z",
+          "title": "Fix Psych YAML loading and prevent null ActiveStorage blob fields",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6789",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-01-29T20:17:15Z",
@@ -6415,11 +6408,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
       "role": "Contributor",
-      "total_points": 29,
+      "total_points": 27,
       "activity_breakdown": {
         "PR opened": {
-          "count": 9,
-          "points": 18
+          "count": 8,
+          "points": 16
         },
         "PR merged": {
           "count": 1,
@@ -6462,11 +6455,6 @@
         },
         {
           "date": "2026-01-06",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-31",
           "count": 1,
           "points": 2
         },
@@ -6563,13 +6551,6 @@
         },
         {
           "type": "PR opened",
-          "occured_at": "2025-12-31T17:01:43Z",
-          "title": "fix - add white background to improve image visibility in dark mode",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/484",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
           "occured_at": "2026-01-01T07:33:37Z",
           "title": "refactor - migrate node.js to TypeScript",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/707",
@@ -6582,11 +6563,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4",
       "role": "Contributor",
-      "total_points": 28,
+      "total_points": 26,
       "activity_breakdown": {
         "PR opened": {
-          "count": 6,
-          "points": 12
+          "count": 5,
+          "points": 10
         },
         "Issue opened": {
           "count": 4,
@@ -6621,11 +6602,6 @@
           "date": "2026-01-10",
           "count": 2,
           "points": 10
-        },
-        {
-          "date": "2025-12-31",
-          "count": 1,
-          "points": 2
         },
         {
           "date": "2026-01-03",
@@ -6694,13 +6670,6 @@
           "title": "chore(web) - replace generic icons and enable web CI validation",
           "link": "https://github.com/CircuitVerse/mobile-app/pull/458",
           "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-31T20:52:47Z",
-          "title": "Fix interactive books page view",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/457",
-          "points": 2
         },
         {
           "type": "PR opened",
@@ -7900,13 +7869,17 @@
     {
       "username": "ThatDeparted2061",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/166894150?u=c22b1c95974076169a9b255294b322e84bf3dbba&v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166894150?v=4",
       "role": "Maintainer",
-      "total_points": 18,
+      "total_points": 16,
       "activity_breakdown": {
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        },
         "Review submitted": {
-          "count": 2,
-          "points": 8
+          "count": 1,
+          "points": 4
         },
         "PR merged": {
           "count": 2,
@@ -7914,6 +7887,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-01-30",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-01-25",
           "count": 1,
@@ -7928,14 +7906,16 @@
           "date": "2026-01-06",
           "count": 1,
           "points": 5
-        },
-        {
-          "date": "2025-12-31",
-          "count": 1,
-          "points": 4
         }
       ],
       "activities": [
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-01-30T08:48:17Z",
+          "title": "Labeled issue #895 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/895",
+          "points": 2
+        },
         {
           "type": "Review submitted",
           "occured_at": "2026-01-25T12:39:41Z",
@@ -7956,13 +7936,6 @@
           "title": "Feature - Authentication model for web and tauri simulator",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/657",
           "points": 5
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2025-12-31T13:22:45Z",
-          "title": "Review on PR #6511",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6511",
-          "points": 4
         }
       ]
     },
@@ -8132,86 +8105,6 @@
           "title": "Labeled issue #166 - status",
           "link": "https://github.com/CircuitVerse/upptime/issues/166",
           "points": 2
-        }
-      ]
-    },
-    {
-      "username": "manmeetsantre",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
-      "role": "Contributor",
-      "total_points": 14,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "PR merged": {
-          "count": 2,
-          "points": 10
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-02",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2025-12-31",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-01-04",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2026-01-01",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-02T15:01:05Z",
-          "title": "Added entries per page dropdown to leaderboard",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/78",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-31T19:31:09Z",
-          "title": "Fix - CircuitVerse Logo Now Redirects to Homepage",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/38",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-02T19:33:40Z",
-          "title": "Added entries per page dropdown to leaderboard",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/78",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-04T10:45:38Z",
-          "title": "Feature Add Teacher Testimonials Module to the Teachers Page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6563",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-01T11:39:54Z",
-          "title": "Add Entries-Per-Page Dropdown to Leaderboard",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/58",
-          "points": 1
         }
       ]
     },
@@ -8616,6 +8509,83 @@
       ]
     },
     {
+      "username": "Vaishnavi-star-ai",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/182395161?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 5,
+          "points": 10
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-30",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-25",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-22",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-20",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-18",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-30T02:43:56Z",
+          "title": "Fix typo in support email address",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/894",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-25T18:29:21Z",
+          "title": "Fix typo in support email address across frontend versions",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/869",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-22T17:06:44Z",
+          "title": "Safely sanitize invalid UTF-8 strings to prevent PostgreSQL encoding errors",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6714",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-20T11:19:58Z",
+          "title": "Add unique index on tags.name to optimize tag lookups",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6671",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-18T13:36:11Z",
+          "title": "Remove outdated CircuitVerse Firefox extension link",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/506",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "abhaygoudannavar",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/230383639?v=4",
@@ -8741,6 +8711,74 @@
           "title": "chore - add Vue simulator version dropdown to bug report",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/868",
           "points": 5
+        }
+      ]
+    },
+    {
+      "username": "manmeetsantre",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
+      "role": "Contributor",
+      "total_points": 9,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-02",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2026-01-04",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2026-01-01",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-02T15:01:05Z",
+          "title": "Added entries per page dropdown to leaderboard",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/78",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-02T19:33:40Z",
+          "title": "Added entries per page dropdown to leaderboard",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/78",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-04T10:45:38Z",
+          "title": "Feature Add Teacher Testimonials Module to the Teachers Page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6563",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-01T11:39:54Z",
+          "title": "Add Entries-Per-Page Dropdown to Leaderboard",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/58",
+          "points": 1
         }
       ]
     },
@@ -9002,6 +9040,66 @@
       ]
     },
     {
+      "username": "prabhat-kumar96",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/203159061?v=4",
+      "role": "Contributor",
+      "total_points": 8,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-30",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-27",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-24",
+          "count": 2,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-30T19:25:02Z",
+          "title": "Fixes issue 6739",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6790",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-27T02:09:37Z",
+          "title": "Fixes issue 6683",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6759",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-24T19:31:28Z",
+          "title": "Fixes n+1 6727",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6741",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-24T18:45:57Z",
+          "title": "Fixes issue#6716",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6737",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "durgeshbg",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/84910181?v=4",
@@ -9049,71 +9147,6 @@
           "title": "Add Optimistic Interaction and Loading State to `/leaderboard` page",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/243",
           "points": 1
-        }
-      ]
-    },
-    {
-      "username": "Vaishnavi-star-ai",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/182395161?v=4",
-      "role": "Contributor",
-      "total_points": 8,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-25",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-22",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-20",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-18",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-25T18:29:21Z",
-          "title": "Fix typo in support email address across frontend versions",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/869",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-22T17:06:44Z",
-          "title": "Safely sanitize invalid UTF-8 strings to prevent PostgreSQL encoding errors",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6714",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-20T11:19:58Z",
-          "title": "Add unique index on tags.name to optimize tag lookups",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6671",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-18T13:36:11Z",
-          "title": "Remove outdated CircuitVerse Firefox extension link",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/506",
-          "points": 2
         }
       ]
     },
@@ -9351,59 +9384,6 @@
       ]
     },
     {
-      "username": "vivekyadav-3",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-14",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-31",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-03",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-14T15:21:27Z",
-          "title": "fix - resolve spacing issue between CAPTCHA and login button",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6634",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-31T06:49:55Z",
-          "title": "feat - implement server-side contribution streaks and longest streak tracking",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/55",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-03T08:08:48Z",
-          "title": "fix - improve notification badge UI positioning and readability",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6550",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "SharmaVansh1910",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177407700?v=4",
@@ -9462,54 +9442,6 @@
           "occured_at": "2026-01-26T11:36:06Z",
           "title": "Labeled issue #6751 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6751",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "prabhat-kumar96",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/203159061?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-27",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-24",
-          "count": 2,
-          "points": 4
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-27T02:09:37Z",
-          "title": "Fixes issue 6683",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6759",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-24T19:31:28Z",
-          "title": "Fixes n+1 6727",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6741",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-24T18:45:57Z",
-          "title": "Fixes issue#6716",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6737",
           "points": 2
         }
       ]
@@ -10012,6 +9944,47 @@
           "occured_at": "2026-01-07T15:43:40Z",
           "title": "Remove FIXME comments and temporary workarounds",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6580",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "vivekyadav-3",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-14",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-03",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-14T15:21:27Z",
+          "title": "fix - resolve spacing issue between CAPTCHA and login button",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6634",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-03T08:08:48Z",
+          "title": "fix - improve notification badge UI positioning and readability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6550",
           "points": 2
         }
       ]
@@ -10710,35 +10683,6 @@
       ]
     },
     {
-      "username": "Agarwalchetan",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/182099875?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-31",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-31T18:53:22Z",
-          "title": "Fix Encoding - - CompatibilityError caused by non-UTF-8 query strings",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6536",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "patildevanshu",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/152208944?v=4",
@@ -10995,35 +10939,6 @@
           "occured_at": "2026-01-08T01:12:34Z",
           "title": "fix - resolve Rack - - Attack NoMethodError and encoding issues #6588",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6589",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "omkarrr2533",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/201979858?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-31",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-31T05:32:53Z",
-          "title": "Fix NoMethodError in search_projects when page params are nil",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6533",
           "points": 2
         }
       ]

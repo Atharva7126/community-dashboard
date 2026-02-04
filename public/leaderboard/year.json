@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1770080690687,
-  "lastFetchedAt": 1770080690687,
-  "startDate": "2025-02-03",
-  "endDate": "2026-02-03",
+  "updatedAt": 1770166785159,
+  "lastFetchedAt": 1770166785159,
+  "startDate": "2025-02-04",
+  "endDate": "2026-02-04",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -5905,11 +5905,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
       "role": "Maintainer",
-      "total_points": 221,
+      "total_points": 225,
       "activity_breakdown": {
         "Review submitted": {
-          "count": 3,
-          "points": 12
+          "count": 4,
+          "points": 16
         },
         "Issue closed": {
           "count": 1,
@@ -5929,6 +5929,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-02-03",
+          "count": 1,
+          "points": 4
+        },
         {
           "date": "2026-02-02",
           "count": 1,
@@ -6146,6 +6151,13 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-03T09:54:20Z",
+          "title": "Review on PR #915",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/915",
+          "points": 4
+        },
         {
           "type": "Review submitted",
           "occured_at": "2026-02-02T06:22:32Z",
@@ -13255,19 +13267,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
       "role": "Contributor",
-      "total_points": 101,
+      "total_points": 104,
       "activity_breakdown": {
         "PR opened": {
-          "count": 19,
-          "points": 38
+          "count": 20,
+          "points": 40
+        },
+        "Issue opened": {
+          "count": 12,
+          "points": 12
         },
         "PR merged": {
           "count": 10,
           "points": 50
-        },
-        "Issue opened": {
-          "count": 11,
-          "points": 11
         },
         "Issue labeled": {
           "count": 1,
@@ -13275,6 +13287,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-02-03",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-02-01",
           "count": 1,
@@ -13362,6 +13379,20 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-03T17:02:12Z",
+          "title": "feat - add issue triaging labels with their descriptions",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/511",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-03T17:21:35Z",
+          "title": "Adding standardized Issue & Pull Request Labeling System for CircuitVerseDocs",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/512",
+          "points": 1
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-02-01T13:58:09Z",
@@ -19984,6 +20015,163 @@
       ]
     },
     {
+      "username": "nisshchayarathi",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/197673239?v=4",
+      "role": "Contributor",
+      "total_points": 27,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 8,
+          "points": 16
+        },
+        "Issue opened": {
+          "count": 5,
+          "points": 5
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-03",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2026-02-02",
+          "count": 7,
+          "points": 13
+        },
+        {
+          "date": "2026-01-09",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-12-12",
+          "count": 3,
+          "points": 4
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-03T18:43:38Z",
+          "title": "Fixed Uncaught ReferenceError - logix_project_id is not defined",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6829",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-03T16:21:08Z",
+          "title": "Fixed favicon not being displayed in production",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6827",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-03T18:41:24Z",
+          "title": "Uncaught ReferenceError - logix_project_id is not defined",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6828",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-02-03T18:41:25Z",
+          "title": "Labeled issue #6828 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6828",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-02T17:01:15Z",
+          "title": "Fixed password reset corners",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6820",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-02T16:44:04Z",
+          "title": "Fixed the NilClassPolicy",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6819",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-02T16:28:58Z",
+          "title": "Fixed the crash in @project",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6818",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-02T14:47:36Z",
+          "title": "Fixed cursor in edit group name",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6815",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-02T14:29:15Z",
+          "title": "Cursor wrongly placed in edit group name",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6814",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-02-02T14:29:16Z",
+          "title": "Labeled issue #6814 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6814",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-02-02T14:29:17Z",
+          "title": "Labeled issue #6814 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6814",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-09T13:21:42Z",
+          "title": "Fix search icon alignment in Profile page for RTL locales",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6598",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-09T13:09:32Z",
+          "title": "Fix search icon alignment in Profile section for RTL locales (Arabic)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6597",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-12T13:17:29Z",
+          "title": "UI - show profile avatar in navbar and display full username in dropdown",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6465",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-12T11:08:17Z",
+          "title": "Improve User Menu UI - Long names overflow & use outdated design pattern",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6464",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-12T09:36:45Z",
+          "title": "Navbar not responsive — notification badge and icons misaligned on small screens",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6463",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "vermagaurav24",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/155369415?v=4",
@@ -21635,130 +21823,6 @@
       ]
     },
     {
-      "username": "nisshchayarathi",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/197673239?v=4",
-      "role": "Contributor",
-      "total_points": 20,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 6,
-          "points": 12
-        },
-        "Issue opened": {
-          "count": 4,
-          "points": 4
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-02-02",
-          "count": 7,
-          "points": 13
-        },
-        {
-          "date": "2026-01-09",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-12-12",
-          "count": 3,
-          "points": 4
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-02T17:01:15Z",
-          "title": "Fixed password reset corners",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6820",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-02T16:44:04Z",
-          "title": "Fixed the NilClassPolicy",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6819",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-02T16:28:58Z",
-          "title": "Fixed the crash in @project",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6818",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-02T14:47:36Z",
-          "title": "Fixed cursor in edit group name",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6815",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-02-02T14:29:15Z",
-          "title": "Cursor wrongly placed in edit group name",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6814",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-02-02T14:29:16Z",
-          "title": "Labeled issue #6814 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6814",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-02-02T14:29:17Z",
-          "title": "Labeled issue #6814 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6814",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-09T13:21:42Z",
-          "title": "Fix search icon alignment in Profile page for RTL locales",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6598",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-09T13:09:32Z",
-          "title": "Fix search icon alignment in Profile section for RTL locales (Arabic)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6597",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-12T13:17:29Z",
-          "title": "UI - show profile avatar in navbar and display full username in dropdown",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6465",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-12T11:08:17Z",
-          "title": "Improve User Menu UI - Long names overflow & use outdated design pattern",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6464",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-12T09:36:45Z",
-          "title": "Navbar not responsive — notification badge and icons misaligned on small screens",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6463",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "nickhil-verma",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/137506342?v=4",
@@ -22888,6 +22952,107 @@
       ]
     },
     {
+      "username": "Vaishnavi-star-ai",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/182395161?v=4",
+      "role": "Contributor",
+      "total_points": 14,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 7,
+          "points": 14
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-03",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-02-02",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-30",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-25",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-22",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-20",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-18",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-03T15:17:50Z",
+          "title": "Add alt text to all About page and contributor images for accessibility",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6826",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-02T06:07:22Z",
+          "title": "Fix Help button to open correct documentation URLs for components",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6810",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-30T02:43:56Z",
+          "title": "Fix typo in support email address",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/894",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-25T18:29:21Z",
+          "title": "Fix typo in support email address across frontend versions",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/869",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-22T17:06:44Z",
+          "title": "Safely sanitize invalid UTF-8 strings to prevent PostgreSQL encoding errors",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6714",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-20T11:19:58Z",
+          "title": "Add unique index on tags.name to optimize tag lookups",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6671",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-18T13:36:11Z",
+          "title": "Remove outdated CircuitVerse Firefox extension link",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/506",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "aniketchawardol",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/142898217?v=4",
@@ -23271,95 +23436,6 @@
           "title": "Feature Request - Provide image editing and resizing options during upload",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/5292",
           "points": 1
-        }
-      ]
-    },
-    {
-      "username": "Vaishnavi-star-ai",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/182395161?v=4",
-      "role": "Contributor",
-      "total_points": 12,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 6,
-          "points": 12
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-02-02",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-30",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-25",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-22",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-20",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-18",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-02T06:07:22Z",
-          "title": "Fix Help button to open correct documentation URLs for components",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6810",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-30T02:43:56Z",
-          "title": "Fix typo in support email address",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/894",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-25T18:29:21Z",
-          "title": "Fix typo in support email address across frontend versions",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/869",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-22T17:06:44Z",
-          "title": "Safely sanitize invalid UTF-8 strings to prevent PostgreSQL encoding errors",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6714",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-20T11:19:58Z",
-          "title": "Add unique index on tags.name to optimize tag lookups",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6671",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-18T13:36:11Z",
-          "title": "Remove outdated CircuitVerse Firefox extension link",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/506",
-          "points": 2
         }
       ]
     },
@@ -26203,6 +26279,65 @@
       ]
     },
     {
+      "username": "ParthMozarkar",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/218128772?v=4",
+      "role": "Contributor",
+      "total_points": 6,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-18",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2025-12-03",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-18T11:12:04Z",
+          "title": "Accessibility - Missing alt text for images on homepage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6657",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-01-18T11:12:05Z",
+          "title": "Labeled issue #6657 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6657",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-01-18T11:12:06Z",
+          "title": "Labeled issue #6657 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6657",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-03T23:52:15Z",
+          "title": "UI/UX Improvement - Modernize Main CircuitVerse Website Design",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6422",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "SharmaVansh1910",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177407700?v=4",
@@ -26442,65 +26577,6 @@
           "title": "docs - document generating VAPID API keys",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6625",
           "points": 2
-        }
-      ]
-    },
-    {
-      "username": "ParthMozarkar",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/218128772?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-18",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2025-12-03",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-18T11:12:04Z",
-          "title": "Accessibility - Missing alt text for images on homepage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6657",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-01-18T11:12:05Z",
-          "title": "Labeled issue #6657 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6657",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-01-18T11:12:06Z",
-          "title": "Labeled issue #6657 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6657",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-03T23:52:15Z",
-          "title": "UI/UX Improvement - Modernize Main CircuitVerse Website Design",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6422",
-          "points": 1
         }
       ]
     },
@@ -26864,6 +26940,118 @@
           "title": "UX/Enhancement - Improve Project Name input - add maxlength and update label",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/712",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "jahnavigajjala-3",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/230939291?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-03",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-29",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-03T09:40:44Z",
+          "title": "Add User Manual link next to Simulator in header",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6824",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-29T15:01:49Z",
+          "title": "UX Make User Manual more discoverable via homepage and header navigation in the stimulater page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6778",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-01-29T15:01:51Z",
+          "title": "Labeled issue #6778 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6778",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "M-V-RAGHUPATHI-SAI",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/157268152?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        },
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-03",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-01-26",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-03T13:55:18Z",
+          "title": "Sidebar navigation and content panel go out of sync sometimes in API docs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6825",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-02-03T13:55:20Z",
+          "title": "Labeled issue #6825 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6825",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-26T17:50:33Z",
+          "title": "feat(setup) - integrate mise for reproducible Linux & macOS development setup",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6755",
+          "points": 2
         }
       ]
     },
@@ -28494,46 +28682,6 @@
       ]
     },
     {
-      "username": "jahnavigajjala-3",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/230939291?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-29",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-29T15:01:49Z",
-          "title": "UX Make User Manual more discoverable via homepage and header navigation in the stimulater page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6778",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-01-29T15:01:51Z",
-          "title": "Labeled issue #6778 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6778",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "Tharun1936",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/193490126?v=4",
@@ -29318,35 +29466,6 @@
           "occured_at": "2026-01-29T19:09:31Z",
           "title": "docs - explain why assignment projects must remain private",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6782",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "M-V-RAGHUPATHI-SAI",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/157268152?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-26",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-26T17:50:33Z",
-          "title": "feat(setup) - integrate mise for reproducible Linux & macOS development setup",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6755",
           "points": 2
         }
       ]

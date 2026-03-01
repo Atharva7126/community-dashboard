@@ -1,11 +1,1393 @@
 {
   "period": "month",
-  "updatedAt": 1772240152291,
-  "startDate": "2026-01-29",
-  "endDate": "2026-02-28",
+  "updatedAt": 1772327405832,
+  "startDate": "2026-01-30",
+  "endDate": "2026-03-01",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
+    {
+      "username": "tachyons",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+      "role": "Maintainer",
+      "total_points": 215,
+      "activity_breakdown": {
+        "Issue closed": {
+          "count": 179,
+          "points": 179
+        },
+        "Review submitted": {
+          "count": 9,
+          "points": 36
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-28",
+          "count": 112,
+          "points": 112
+        },
+        {
+          "date": "2026-02-22",
+          "count": 53,
+          "points": 59
+        },
+        {
+          "date": "2026-02-15",
+          "count": 13,
+          "points": 28
+        },
+        {
+          "date": "2026-02-13",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2026-02-10",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2026-02-07",
+          "count": 2,
+          "points": 8
+        },
+        {
+          "date": "2026-02-06",
+          "count": 3,
+          "points": 3
+        },
+        {
+          "date": "2026-02-01",
+          "count": 2,
+          "points": 2
+        },
+        {
+          "date": "2026-01-31",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:47Z",
+          "title": "Closed issue #7068 - ActionView - - Template - - Error - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7068",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:46Z",
+          "title": "Closed issue #7065 - RedisClient - - CommandError - MISCONF Redis is configured to save RDB snapshots, but it's currently unable to persist to disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-write...",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7065",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:46Z",
+          "title": "Closed issue #7064 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.3\" - No space left on device (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7064",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:48Z",
+          "title": "Closed issue #7069 - ActionView - - Template - - Error - PG - - DiskFull - ERROR - could not write init file - No space left on device (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7069",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:47Z",
+          "title": "Closed issue #7067 - Errno - - EPIPE - Broken pipe @ io_writev - <STDERR> (Errno - - EPIPE)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7067",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:47Z",
+          "title": "Closed issue #7066 - ActiveRecord - - StatementInvalid - PG - - DiskFull - ERROR - could not extend file \"base/16887/16894\" - No space left on device (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7066",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:43Z",
+          "title": "Closed issue #7056 - Errno - - ENOSPC - No space left on device - copy_file_range (Errno - - ENOSPC)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7056",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:44Z",
+          "title": "Closed issue #7058 - Errno - - ENOSPC - No space left on device @ io_write - tmp/preview_17719954245198252.jpeg (Errno - - ENOSPC)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7058",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:44Z",
+          "title": "Closed issue #7059 - Errno - - ENOSPC - No space left on device @ io_write - /tmp/ActiveStorage-2645825-20260225-1478963-df09ba.jpeg (Errno - - ENOSPC)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7059",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:45Z",
+          "title": "Closed issue #7062 - RedisClient - - CommandError - MISCONF Redis is configured to save RDB snapshots, but it's currently unable to persist to disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-write...",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7062",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:44Z",
+          "title": "Closed issue #7057 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.3\" - No space left on device (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7057",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:43Z",
+          "title": "Closed issue #7051 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7051",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:43Z",
+          "title": "Closed issue #7050 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7050",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:46Z",
+          "title": "Closed issue #7063 - Errno - - ENOSPC - No space left on device @ dir_s_mkdir - /home/ubuntu/main/CircuitVerse/tmp/1771995456-447212002435837-0490-3151 (Errno - - ENOSPC)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7063",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:45Z",
+          "title": "Closed issue #7060 - Errno - - ENOSPC - No space left on device @ io_write - /tmp/puma20260225-1478961-pr6ebc (Errno - - ENOSPC)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7060",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:45Z",
+          "title": "Closed issue #7061 - RedisClient - - CommandError - MISCONF Redis is configured to save RDB snapshots, but it's currently unable to persist to disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-write...",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7061",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:03Z",
+          "title": "Closed issue #7041 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7041",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:42Z",
+          "title": "Closed issue #7047 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7047",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:40Z",
+          "title": "Closed issue #7043 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7043",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:41Z",
+          "title": "Closed issue #7046 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7046",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:40Z",
+          "title": "Closed issue #7044 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7044",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:42Z",
+          "title": "Closed issue #7049 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7049",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:42Z",
+          "title": "Closed issue #7048 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7048",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:41Z",
+          "title": "Closed issue #7045 - ActionView - - Template - - Error - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7045",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:39Z",
+          "title": "Closed issue #7040 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7040",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:40Z",
+          "title": "Closed issue #7042 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7042",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:01Z",
+          "title": "Closed issue #7034 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.3\" - No space left on device (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7034",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:01Z",
+          "title": "Closed issue #7035 - Errno - - EPIPE - Broken pipe @ io_writev - <STDERR> (Errno - - EPIPE)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7035",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:00Z",
+          "title": "Closed issue #7033 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.3\" - No space left on device (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7033",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:00Z",
+          "title": "Closed issue #7031 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.3\" - No space left on device (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7031",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:02Z",
+          "title": "Closed issue #7039 - Errno - - EPIPE - Broken pipe @ io_writev - <STDERR> (Errno - - EPIPE)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7039",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:01Z",
+          "title": "Closed issue #7036 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7036",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:02Z",
+          "title": "Closed issue #7038 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7038",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:02Z",
+          "title": "Closed issue #7037 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7037",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:00Z",
+          "title": "Closed issue #7032 - RedisClient - - CommandError - MISCONF Redis is configured to save RDB snapshots, but it's currently unable to persist to disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-write...",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7032",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:59Z",
+          "title": "Closed issue #7030 - Errno - - ENOSPC - No space left on device @ io_write - /tmp/puma20260224-3671458-2jdcrx (Errno - - ENOSPC)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7030",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:59Z",
+          "title": "Closed issue #6809 - ActionView - - MissingTemplate - Missing template simulator/edit, application/edit with { - locale=> - en, - formats=> - json, - variants=>, - handlers=> - raw, - erb, - html, - builder, - ruby, - coffee, - jbuilder}. (ActionView - - MissingTemplate)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6809",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:57Z",
+          "title": "Closed issue #6784 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6784",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:58Z",
+          "title": "Closed issue #6801 - NoMethodError - undefined method `id' for nil (NoMethodError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6801",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:37:00Z",
+          "title": "Closed issue #7016 - Feature Add Email Domain Restriction for Group Invite Links",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7016",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:58Z",
+          "title": "Closed issue #6802 - NoMethodError - undefined method `name' for nil (NoMethodError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6802",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:58Z",
+          "title": "Closed issue #6800 - Pundit - - NotDefinedError - unable to find policy `NilClassPolicy` for `nil` (Pundit - - NotDefinedError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6800",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:59Z",
+          "title": "Closed issue #6817 - Pundit - - NotDefinedError - unable to find policy `NilClassPolicy` for `nil` (Pundit - - NotDefinedError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6817",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:57Z",
+          "title": "Closed issue #6739 - Aws - - SESV2 - - Errors - - BadRequestException - Missing final '@domain' (Aws - - SESV2 - - Errors - - BadRequestException)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6739",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:57Z",
+          "title": "Closed issue #6727 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6727",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:16Z",
+          "title": "Closed issue #6724 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6724",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:16Z",
+          "title": "Closed issue #6723 - Slow DB Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6723",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:56Z",
+          "title": "Closed issue #6725 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6725",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:15Z",
+          "title": "Closed issue #6722 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6722",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:15Z",
+          "title": "Closed issue #6716 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6716",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:15Z",
+          "title": "Closed issue #6715 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6715",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:14Z",
+          "title": "Closed issue #6712 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6712",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:15Z",
+          "title": "Closed issue #6719 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6719",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:31:56Z",
+          "title": "Closed issue #6726 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6726",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:36Z",
+          "title": "Closed issue #6708 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6708",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:14Z",
+          "title": "Closed issue #6710 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6710",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:35Z",
+          "title": "Closed issue #6707 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6707",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:14Z",
+          "title": "Closed issue #6711 - Slow DB Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6711",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:34Z",
+          "title": "Closed issue #6700 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6700",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:34Z",
+          "title": "Closed issue #6701 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6701",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:13Z",
+          "title": "Closed issue #6709 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6709",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:34Z",
+          "title": "Closed issue #6702 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6702",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:35Z",
+          "title": "Closed issue #6706 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6706",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:35Z",
+          "title": "Closed issue #6704 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6704",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:31Z",
+          "title": "Closed issue #6692 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6692",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:31Z",
+          "title": "Closed issue #6691 - Endpoint Regression",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6691",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:33Z",
+          "title": "Closed issue #6695 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6695",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:30Z",
+          "title": "Closed issue #6688 - Endpoint Regression",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6688",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:32Z",
+          "title": "Closed issue #6693 - ActionView - - Template - - Error - regexp match timeout (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6693",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:31Z",
+          "title": "Closed issue #6690 - Endpoint Regression",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6690",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:33Z",
+          "title": "Closed issue #6697 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6697",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:32Z",
+          "title": "Closed issue #6694 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6694",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:33Z",
+          "title": "Closed issue #6696 - Slow DB Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6696",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:30Z",
+          "title": "Closed issue #6689 - Endpoint Regression",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6689",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:28Z",
+          "title": "Closed issue #6682 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6682",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:57Z",
+          "title": "Closed issue #6678 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6678",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:29Z",
+          "title": "Closed issue #6684 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6684",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:29Z",
+          "title": "Closed issue #6685 - Slow DB Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6685",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:30Z",
+          "title": "Closed issue #6687 - Endpoint Regression",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6687",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:28Z",
+          "title": "Closed issue #6680 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6680",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:27Z",
+          "title": "Closed issue #6679 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6679",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:57Z",
+          "title": "Closed issue #6677 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6677",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:29Z",
+          "title": "Closed issue #6683 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6683",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:28Z",
+          "title": "Closed issue #6681 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6681",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:55Z",
+          "title": "Closed issue #6632 - ActionView - - Template - - Error - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6632",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:56Z",
+          "title": "Closed issue #6637 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6637",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:53Z",
+          "title": "Closed issue #6594 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6594",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:55Z",
+          "title": "Closed issue #6630 - HTTP - - ConnectionError - failed to connect - Connection refused - connect(2) for \"127.0.0.1\" port 3040 (HTTP - - ConnectionError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6630",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:56Z",
+          "title": "Closed issue #6665 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6665",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:54Z",
+          "title": "Closed issue #6612 - ArgumentError - string contains null byte (ArgumentError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6612",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:54Z",
+          "title": "Closed issue #6605 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6605",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:56Z",
+          "title": "Closed issue #6676 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6676",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:55Z",
+          "title": "Closed issue #6629 - HTTP - - ConnectionError - error reading from socket - Connection reset by peer (HTTP - - ConnectionError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6629",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:54Z",
+          "title": "Closed issue #6596 - ActionView - - Template - - Error - No route matches { - action=>\"show\", - controller=>\"tags\", - tag=>\"\"}, missing required keys - - tag (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6596",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:50Z",
+          "title": "Closed issue #6568 - ArgumentError - expected params - destination - to_addresses to be an Array, got class String instead. (ArgumentError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6568",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:50Z",
+          "title": "Closed issue #6581 - ActiveRecord - - StatementInvalid - PG - - ProgramLimitExceeded - ERROR - index row size 2800 exceeds btree version 4 maximum 2704 for index \"index_projects_on_slug_and_author\" (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6581",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:52Z",
+          "title": "Closed issue #6586 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6586",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:53Z",
+          "title": "Closed issue #6590 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6590",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:52Z",
+          "title": "Closed issue #6587 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6587",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:51Z",
+          "title": "Closed issue #6585 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6585",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:51Z",
+          "title": "Closed issue #6584 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6584",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:53Z",
+          "title": "Closed issue #6591 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6591",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:51Z",
+          "title": "Closed issue #6583 - ArgumentError - invalid value for Integer() - \"JJJ2QQQ\" (ArgumentError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6583",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:52Z",
+          "title": "Closed issue #6588 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6588",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:33:05Z",
+          "title": "Closed issue #6503 - Encoding - - CompatibilityError - incompatible character encodings - UTF-16LE and UTF-8 (Encoding - - CompatibilityError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6503",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:33:06Z",
+          "title": "Closed issue #6514 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6514",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:33:05Z",
+          "title": "Closed issue #6512 - ArgumentError - invalid value for Integer() - \"2*if(now()=sysdate(),sleep(15),0)\" (ArgumentError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6512",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:33:05Z",
+          "title": "Closed issue #6488 - NoMethodError - undefined method `author' for nil (NoMethodError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6488",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:49Z",
+          "title": "Closed issue #6526 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6526",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:32:50Z",
+          "title": "Closed issue #6529 - NoMethodError - undefined method `' for nil (NoMethodError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6529",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:33:04Z",
+          "title": "Closed issue #6477 - ActionView - - Template - - Error - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6477",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-28T01:33:06Z",
+          "title": "Closed issue #6513 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6513",
+          "points": 1
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-22T14:17:43Z",
+          "title": "Review on PR #6873",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6873",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-22T07:31:11Z",
+          "title": "Review on PR #6997",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6997",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T14:42:43Z",
+          "title": "Closed issue #7002 - Typo - 'country' misspelled in variable name `geo_contry` in UsersCircuitverseHelper",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7002",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T08:16:24Z",
+          "title": "Closed issue #6998 - 🐞 Bug - Outdated URL for Youtube",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6998",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:05Z",
+          "title": "Closed issue #6985 - 🐞 Bug - Assignment deadline race window closes early",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6985",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:17:05Z",
+          "title": "Closed issue #6993 - 🐞 Bug - Enter Key Not Working in Header Dropdown Menus",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6993",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:06Z",
+          "title": "Closed issue #6988 - 🐞 Bug - Educational institute typeahead LIKE wildcard bypass",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6988",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:05Z",
+          "title": "Closed issue #6984 - 🐞 Bug - Duplicate update call in Projects API update",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6984",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T08:13:40Z",
+          "title": "Closed issue #526 - docs - update youtube channel link",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/526",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:06Z",
+          "title": "Closed issue #6986 - 🐞 Bug - Time API inconsistency in AssignmentDecorator",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6986",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:45:26Z",
+          "title": "Closed issue #7004 - Typo - Incorrect word \"splitted\" used as variable names in groups controller",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7004",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T14:44:03Z",
+          "title": "Closed issue #962 - docs - fix transparent typo in save function comments",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/962",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:03Z",
+          "title": "Closed issue #6971 - docs - fix simulator/dependencies typos in Dockerfile.production",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6971",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:04Z",
+          "title": "Closed issue #6983 - 🐞 Bug - Duplicate update call in Groups API update",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6983",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T07:32:59Z",
+          "title": "Closed issue #967 - docs - clarify how to switch back to v0 after setting v1",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/967",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:04Z",
+          "title": "Closed issue #6975 - bug - assignments API update performs duplicate update calls",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6975",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:04Z",
+          "title": "Closed issue #6982 - 🐞 Bug - Duplicate save call in Groups API create",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6982",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:03Z",
+          "title": "Closed issue #6974 - docs - fix explicity typo in friendly_id initializer comment",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6974",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T14:44:03Z",
+          "title": "Closed issue #964 - docs - fix implement typo in auth store TODO comment",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/964",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T14:44:03Z",
+          "title": "Closed issue #961 - docs - fix shortcuts typo in quick button labels",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/961",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:02Z",
+          "title": "Closed issue #6967 - test - fix signed-in wording typo in projects controller spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6967",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:01Z",
+          "title": "Closed issue #6963 - test - fix callback description typo in pending invitation spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6963",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:03Z",
+          "title": "Closed issue #6969 - test - fix simulator context wording typo in controller spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6969",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T14:44:02Z",
+          "title": "Closed issue #958 - docs - fix preferred typo in hotkey panel comment",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/958",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:01Z",
+          "title": "Closed issue #6958 - test - fix typo strings in search controller spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6958",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:01Z",
+          "title": "Closed issue #6961 - docs - fix announcement heading typo in locale",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6961",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:02Z",
+          "title": "Closed issue #6965 - test - fix signed-in wording typo in grades controller spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6965",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T14:44:02Z",
+          "title": "Closed issue #954 - docs - fix information typo in simulator handler comment",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/954",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T14:44:01Z",
+          "title": "Closed issue #952 - docs - fix toggle typo in simulator stylesheet comment",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/952",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T14:44:02Z",
+          "title": "Closed issue #956 - docs - fix shortcut spelling in hotkey binder documentation",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/956",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:02:57Z",
+          "title": "Closed issue #6938 - docs - fix grammar in troubleshooting guide solution text",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6938",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:00Z",
+          "title": "Closed issue #6952 - docs - fix typo text in simulator mobile and quick menu labels",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6952",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:02:58Z",
+          "title": "Closed issue #6940 - docs - replace atleast with at least in installation guides",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6940",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:02:59Z",
+          "title": "Closed issue #6950 - fix - correct separator typo in api pagination helper",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6950",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:00Z",
+          "title": "Closed issue #6956 - test - fix reponse typo in simulator post issue spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6956",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:02:58Z",
+          "title": "Closed issue #6942 - docs - fix incorrect deadline description in assignments api table",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6942",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:02:58Z",
+          "title": "Closed issue #6944 - docs - update outdated ruby version in docs setup guide",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6944",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:00Z",
+          "title": "Closed issue #6954 - test - fix additon typo in projects index request spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6954",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:02:59Z",
+          "title": "Closed issue #6946 - docs - fix restart instruction grammar in docker guide",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6946",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:02:59Z",
+          "title": "Closed issue #6948 - docs - fix restart instruction grammar in remote development guide",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6948",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:26Z",
+          "title": "Closed issue #6932 - docs - fix grammar in assignments start endpoint description",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6932",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:24Z",
+          "title": "Closed issue #6916 - Feature Add dark mode support for simulator canvas and UI",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6916",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:26Z",
+          "title": "Closed issue #6930 - docs - fix url query parameters heading typo in assignments api docs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6930",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:27Z",
+          "title": "Closed issue #6934 - docs - fix typo in groups api response note",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6934",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:25Z",
+          "title": "Closed issue #6924 - bug - group invite errors use inconsistent url capitalization",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6924",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:26Z",
+          "title": "Closed issue #6928 - bug - featured circuit email uses incorrect grammar",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6928",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:25Z",
+          "title": "Closed issue #6921 - feat - Add domain-based access restriction for group invitations",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6921",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:27Z",
+          "title": "Closed issue #6936 - docs - fix delete group exception description in groups api docs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6936",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T08:03:11Z",
+          "title": "Closed issue #6896 - 🐞 Bug - User Enumeration via Authentication API Endpoints",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6896",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T15:03:25Z",
+          "title": "Closed issue #6926 - bug - assignment update email does not render mentor name",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6926",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T14:45:46Z",
+          "title": "Closed issue #6798 - NoMethodError - undefined method `' for nil (NoMethodError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6798",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T14:37:27Z",
+          "title": "Closed issue #6869 - Feature - Add Project core resources to Avo admin",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6869",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T14:18:36Z",
+          "title": "Closed issue #6871 - Feature Add Users-related Resources to Avo Dashboard",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6871",
+          "points": 1
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-15T14:19:51Z",
+          "title": "Review on PR #6296",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6296",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-15T14:28:42Z",
+          "title": "Review on PR #6845",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6845",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-15T14:21:54Z",
+          "title": "Review on PR #6663",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6663",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-15T14:08:49Z",
+          "title": "Review on PR #6476",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6476",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-15T13:55:33Z",
+          "title": "Review on PR #6843",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6843",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-15T13:48:54Z",
+          "title": "Closed issue #6889 - 🐞 Bug - Broken LMS Integration Documentation Link on New Assignment Page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6889",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-15T16:09:51Z",
+          "title": "Closed issue #776 - 🐞 Bug - npm install fails due to Vuetify / vite-plugin-vuetify dependency conflict",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/776",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-15T14:16:04Z",
+          "title": "Closed issue #903 - Fix desktop release workflow failing due to protected main branch",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/903",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-15T14:31:19Z",
+          "title": "Closed issue #6779 - Feature UI Enhancement - Remove underline decoration on Contest registration button",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6779",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-15T14:34:51Z",
+          "title": "Closed issue #6686 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6686",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-15T14:28:59Z",
+          "title": "Closed issue #6844 - 🐞 Bug - Navbar menu items are unreachable in mobile landscape mode",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6844",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-15T14:22:11Z",
+          "title": "Closed issue #6662 - 🐞 Bug - Yosys script fails to start the server",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6662",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-15T18:39:39Z",
+          "title": "Closed issue #6295 - 🐞 Bug - comments Inappropriate message when user not logged in",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6295",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-13T05:19:39Z",
+          "title": "Closed issue #6883 - 🐞 Bug - Broken Link on New Group Page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6883",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-10T17:49:00Z",
+          "title": "Closed issue #6733 - Migration of Admin Dashboard to use Avo",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6733",
+          "points": 1
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-07T16:11:57Z",
+          "title": "Review on PR #6476",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6476",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-07T14:55:29Z",
+          "title": "Review on PR #6848",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6848",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-06T17:23:23Z",
+          "title": "Closed issue #6839 - Enhance Existing Autosave into a Full Auto-Save Draft System",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6839",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-06T17:23:58Z",
+          "title": "Closed issue #6839 - Enhance Existing Autosave into a Full Auto-Save Draft System",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6839",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-06T17:24:48Z",
+          "title": "Closed issue #6814 - Cursor wrongly placed in edit group name",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6814",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-01T12:59:12Z",
+          "title": "Closed issue #6772 - UI/UX Improvement - Smooth scroll and highlight active navbar for homepage sections",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6772",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-01T15:21:15Z",
+          "title": "Closed issue #230 - fix - Support pages bad user experience",
+          "link": "https://github.com/CircuitVerse/Blog/issues/230",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-01-31T08:25:05Z",
+          "title": "Closed issue #888 - Fix typo in JSDoc comment - 'checkss' should be 'checks'",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/888",
+          "points": 1
+        }
+      ]
+    },
     {
       "username": "magic-peach",
       "name": null,
@@ -742,12 +2124,8 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 109,
+      "total_points": 104,
       "activity_breakdown": {
-        "PR opened": {
-          "count": 13,
-          "points": 26
-        },
         "Issue opened": {
           "count": 10,
           "points": 10
@@ -756,13 +2134,17 @@
           "count": 11,
           "points": 22
         },
+        "PR opened": {
+          "count": 13,
+          "points": 26
+        },
         "Issue closed": {
           "count": 4,
           "points": 4
         },
         "PR merged": {
-          "count": 7,
-          "points": 35
+          "count": 6,
+          "points": 30
         },
         "Review submitted": {
           "count": 3,
@@ -770,6 +2152,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-02-28",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-02-27",
           "count": 1,
@@ -849,14 +2236,23 @@
           "date": "2026-01-31",
           "count": 1,
           "points": 5
-        },
-        {
-          "date": "2026-01-29",
-          "count": 3,
-          "points": 8
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-28T15:18:43Z",
+          "title": "Feature Avo Admin - Add Contest Submissions and Voting System Resources",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7099",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-02-28T15:18:44Z",
+          "title": "Labeled issue #7099 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7099",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-02-27T04:33:30Z",
@@ -1171,639 +2567,6 @@
           "title": "Fix dropdown menus remaining visible in fullscreen preview",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/832",
           "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-29T12:48:15Z",
-          "title": "Fix - Add model validation for live contest uniqueness constraint",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6745",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-29T18:30:01Z",
-          "title": "🐞 Missing model class Notification for the Project#notifications association in Rails Admin",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6781",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-01-29T18:30:02Z",
-          "title": "Labeled issue #6781 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6781",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "tachyons",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-      "role": "Maintainer",
-      "total_points": 105,
-      "activity_breakdown": {
-        "Review submitted": {
-          "count": 9,
-          "points": 36
-        },
-        "Issue closed": {
-          "count": 69,
-          "points": 69
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-02-22",
-          "count": 53,
-          "points": 59
-        },
-        {
-          "date": "2026-02-15",
-          "count": 13,
-          "points": 28
-        },
-        {
-          "date": "2026-02-13",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2026-02-10",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2026-02-07",
-          "count": 2,
-          "points": 8
-        },
-        {
-          "date": "2026-02-06",
-          "count": 3,
-          "points": 3
-        },
-        {
-          "date": "2026-02-01",
-          "count": 2,
-          "points": 2
-        },
-        {
-          "date": "2026-01-31",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2026-01-29",
-          "count": 2,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-22T14:17:43Z",
-          "title": "Review on PR #6873",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6873",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-22T07:31:11Z",
-          "title": "Review on PR #6997",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6997",
-          "points": 4
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T14:42:43Z",
-          "title": "Closed issue #7002 - Typo - 'country' misspelled in variable name `geo_contry` in UsersCircuitverseHelper",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7002",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T08:16:24Z",
-          "title": "Closed issue #6998 - 🐞 Bug - Outdated URL for Youtube",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6998",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:05Z",
-          "title": "Closed issue #6985 - 🐞 Bug - Assignment deadline race window closes early",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6985",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:17:05Z",
-          "title": "Closed issue #6993 - 🐞 Bug - Enter Key Not Working in Header Dropdown Menus",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6993",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:06Z",
-          "title": "Closed issue #6988 - 🐞 Bug - Educational institute typeahead LIKE wildcard bypass",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6988",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:05Z",
-          "title": "Closed issue #6984 - 🐞 Bug - Duplicate update call in Projects API update",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6984",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T08:13:40Z",
-          "title": "Closed issue #526 - docs - update youtube channel link",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/526",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:06Z",
-          "title": "Closed issue #6986 - 🐞 Bug - Time API inconsistency in AssignmentDecorator",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6986",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:45:26Z",
-          "title": "Closed issue #7004 - Typo - Incorrect word \"splitted\" used as variable names in groups controller",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7004",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T14:44:03Z",
-          "title": "Closed issue #962 - docs - fix transparent typo in save function comments",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/962",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:03Z",
-          "title": "Closed issue #6971 - docs - fix simulator/dependencies typos in Dockerfile.production",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6971",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:04Z",
-          "title": "Closed issue #6983 - 🐞 Bug - Duplicate update call in Groups API update",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6983",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T07:32:59Z",
-          "title": "Closed issue #967 - docs - clarify how to switch back to v0 after setting v1",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/967",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:04Z",
-          "title": "Closed issue #6975 - bug - assignments API update performs duplicate update calls",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6975",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:04Z",
-          "title": "Closed issue #6982 - 🐞 Bug - Duplicate save call in Groups API create",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6982",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:03Z",
-          "title": "Closed issue #6974 - docs - fix explicity typo in friendly_id initializer comment",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6974",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T14:44:03Z",
-          "title": "Closed issue #964 - docs - fix implement typo in auth store TODO comment",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/964",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T14:44:03Z",
-          "title": "Closed issue #961 - docs - fix shortcuts typo in quick button labels",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/961",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:02Z",
-          "title": "Closed issue #6967 - test - fix signed-in wording typo in projects controller spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6967",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:01Z",
-          "title": "Closed issue #6963 - test - fix callback description typo in pending invitation spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6963",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:03Z",
-          "title": "Closed issue #6969 - test - fix simulator context wording typo in controller spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6969",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T14:44:02Z",
-          "title": "Closed issue #958 - docs - fix preferred typo in hotkey panel comment",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/958",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:01Z",
-          "title": "Closed issue #6958 - test - fix typo strings in search controller spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6958",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:01Z",
-          "title": "Closed issue #6961 - docs - fix announcement heading typo in locale",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6961",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:02Z",
-          "title": "Closed issue #6965 - test - fix signed-in wording typo in grades controller spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6965",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T14:44:02Z",
-          "title": "Closed issue #954 - docs - fix information typo in simulator handler comment",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/954",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T14:44:01Z",
-          "title": "Closed issue #952 - docs - fix toggle typo in simulator stylesheet comment",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/952",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T14:44:02Z",
-          "title": "Closed issue #956 - docs - fix shortcut spelling in hotkey binder documentation",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/956",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:02:57Z",
-          "title": "Closed issue #6938 - docs - fix grammar in troubleshooting guide solution text",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6938",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:00Z",
-          "title": "Closed issue #6952 - docs - fix typo text in simulator mobile and quick menu labels",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6952",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:02:58Z",
-          "title": "Closed issue #6940 - docs - replace atleast with at least in installation guides",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6940",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:02:59Z",
-          "title": "Closed issue #6950 - fix - correct separator typo in api pagination helper",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6950",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:00Z",
-          "title": "Closed issue #6956 - test - fix reponse typo in simulator post issue spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6956",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:02:58Z",
-          "title": "Closed issue #6942 - docs - fix incorrect deadline description in assignments api table",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6942",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:02:58Z",
-          "title": "Closed issue #6944 - docs - update outdated ruby version in docs setup guide",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6944",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:00Z",
-          "title": "Closed issue #6954 - test - fix additon typo in projects index request spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6954",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:02:59Z",
-          "title": "Closed issue #6946 - docs - fix restart instruction grammar in docker guide",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6946",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:02:59Z",
-          "title": "Closed issue #6948 - docs - fix restart instruction grammar in remote development guide",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6948",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:26Z",
-          "title": "Closed issue #6932 - docs - fix grammar in assignments start endpoint description",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6932",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:24Z",
-          "title": "Closed issue #6916 - Feature Add dark mode support for simulator canvas and UI",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6916",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:26Z",
-          "title": "Closed issue #6930 - docs - fix url query parameters heading typo in assignments api docs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6930",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:27Z",
-          "title": "Closed issue #6934 - docs - fix typo in groups api response note",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6934",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:25Z",
-          "title": "Closed issue #6924 - bug - group invite errors use inconsistent url capitalization",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6924",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:26Z",
-          "title": "Closed issue #6928 - bug - featured circuit email uses incorrect grammar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6928",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:25Z",
-          "title": "Closed issue #6921 - feat - Add domain-based access restriction for group invitations",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6921",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:27Z",
-          "title": "Closed issue #6936 - docs - fix delete group exception description in groups api docs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6936",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T08:03:11Z",
-          "title": "Closed issue #6896 - 🐞 Bug - User Enumeration via Authentication API Endpoints",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6896",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T15:03:25Z",
-          "title": "Closed issue #6926 - bug - assignment update email does not render mentor name",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6926",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T14:45:46Z",
-          "title": "Closed issue #6798 - NoMethodError - undefined method `' for nil (NoMethodError)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6798",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T14:37:27Z",
-          "title": "Closed issue #6869 - Feature - Add Project core resources to Avo admin",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6869",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T14:18:36Z",
-          "title": "Closed issue #6871 - Feature Add Users-related Resources to Avo Dashboard",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6871",
-          "points": 1
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-15T14:19:51Z",
-          "title": "Review on PR #6296",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6296",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-15T14:28:42Z",
-          "title": "Review on PR #6845",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6845",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-15T14:21:54Z",
-          "title": "Review on PR #6663",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6663",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-15T14:08:49Z",
-          "title": "Review on PR #6476",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6476",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-15T13:55:33Z",
-          "title": "Review on PR #6843",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6843",
-          "points": 4
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-15T13:48:54Z",
-          "title": "Closed issue #6889 - 🐞 Bug - Broken LMS Integration Documentation Link on New Assignment Page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6889",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-15T16:09:51Z",
-          "title": "Closed issue #776 - 🐞 Bug - npm install fails due to Vuetify / vite-plugin-vuetify dependency conflict",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/776",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-15T14:16:04Z",
-          "title": "Closed issue #903 - Fix desktop release workflow failing due to protected main branch",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/903",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-15T14:31:19Z",
-          "title": "Closed issue #6779 - Feature UI Enhancement - Remove underline decoration on Contest registration button",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6779",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-15T14:34:51Z",
-          "title": "Closed issue #6686 - N+1 Query",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6686",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-15T14:28:59Z",
-          "title": "Closed issue #6844 - 🐞 Bug - Navbar menu items are unreachable in mobile landscape mode",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6844",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-15T14:22:11Z",
-          "title": "Closed issue #6662 - 🐞 Bug - Yosys script fails to start the server",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6662",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-15T18:39:39Z",
-          "title": "Closed issue #6295 - 🐞 Bug - comments Inappropriate message when user not logged in",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6295",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-13T05:19:39Z",
-          "title": "Closed issue #6883 - 🐞 Bug - Broken Link on New Group Page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6883",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-10T17:49:00Z",
-          "title": "Closed issue #6733 - Migration of Admin Dashboard to use Avo",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6733",
-          "points": 1
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-07T16:11:57Z",
-          "title": "Review on PR #6476",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6476",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-07T14:55:29Z",
-          "title": "Review on PR #6848",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6848",
-          "points": 4
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-06T17:23:23Z",
-          "title": "Closed issue #6839 - Enhance Existing Autosave into a Full Auto-Save Draft System",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6839",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-06T17:23:58Z",
-          "title": "Closed issue #6839 - Enhance Existing Autosave into a Full Auto-Save Draft System",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6839",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-06T17:24:48Z",
-          "title": "Closed issue #6814 - Cursor wrongly placed in edit group name",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6814",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-01T12:59:12Z",
-          "title": "Closed issue #6772 - UI/UX Improvement - Smooth scroll and highlight active navbar for homepage sections",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6772",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-01T15:21:15Z",
-          "title": "Closed issue #230 - fix - Support pages bad user experience",
-          "link": "https://github.com/CircuitVerse/Blog/issues/230",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-01-31T08:25:05Z",
-          "title": "Closed issue #888 - Fix typo in JSDoc comment - 'checkss' should be 'checks'",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/888",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-01-29T12:48:16Z",
-          "title": "Closed issue #6744 - 🐞 Bug - Missing model validation causes database error when creating multiple live contests",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6744",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-01-29T11:51:41Z",
-          "title": "Closed issue #6672 - 🐞 Bug - Footer FAQ link redirects to incorrect documentation page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6672",
-          "points": 1
         }
       ]
     },
@@ -2168,15 +2931,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
       "role": "Contributor",
-      "total_points": 89,
+      "total_points": 87,
       "activity_breakdown": {
         "Issue labeled": {
           "count": 18,
           "points": 36
         },
         "PR opened": {
-          "count": 10,
-          "points": 20
+          "count": 9,
+          "points": 18
         },
         "Issue opened": {
           "count": 6,
@@ -2234,11 +2997,6 @@
         },
         {
           "date": "2026-01-30",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-29",
           "count": 1,
           "points": 2
         }
@@ -2522,13 +3280,6 @@
           "occured_at": "2026-01-30T14:09:43Z",
           "title": "Fix Psych YAML loading and prevent null ActiveStorage blob fields",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6789",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-29T20:17:15Z",
-          "title": "Fix RailsAdmin notifications associations",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6783",
           "points": 2
         }
       ]
@@ -3347,210 +4098,6 @@
       ]
     },
     {
-      "username": "s1dhu98",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-      "role": "Contributor",
-      "total_points": 50,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 12,
-          "points": 24
-        },
-        "Issue opened": {
-          "count": 6,
-          "points": 6
-        },
-        "PR merged": {
-          "count": 4,
-          "points": 20
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-02-25",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-02-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-02-01",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-01-31",
-          "count": 9,
-          "points": 22
-        },
-        {
-          "date": "2026-01-29",
-          "count": 8,
-          "points": 16
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-25T23:24:21Z",
-          "title": "fix - resolve hex input prefix stripping and duplicate template in HexBinDec",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/983",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-25T22:15:09Z",
-          "title": "feat - add Sunset Glow aesthetic theme",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/981",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-02-25T23:14:27Z",
-          "title": "🐞 Bug - HexBinDec Converter Strips Hex Prefix and Duplicate Template",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/982",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-16T21:28:13Z",
-          "title": "feat - add Live Theme Editor with default themes, export/import, and contrast check",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/951",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-02-01T02:57:33Z",
-          "title": "Fix typo in Flag tooltip - 'FLag' should be 'Flag'",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/885",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-31T09:38:08Z",
-          "title": "Fix vue v for keys",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/902",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-31T09:29:21Z",
-          "title": "Fix - Add test globals to eslint config",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/901",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-31T09:24:55Z",
-          "title": "Fix - Remove unused props variable in BooleanTable.vue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/900",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-31T08:54:19Z",
-          "title": "Fix - Use strict equality in circuit selection",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/899",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-31T08:51:58Z",
-          "title": "Fix - Remove debug console.log in UserMenu.vue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/897",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-31T16:06:43Z",
-          "title": "Fix - Remove debug console.log in UserMenu.vue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/897",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-31T08:25:04Z",
-          "title": "Fix typo in JSDoc comment - 'checkss' should be 'checks'",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/889",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-31T08:53:30Z",
-          "title": "Use strict equality in circuit selection",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/898",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-31T08:40:40Z",
-          "title": "Remove debug console.log in UserMenu.vue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/896",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-29T14:38:59Z",
-          "title": "Fix - setPlotValue() early return preventing logic execution",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/891",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-29T14:24:33Z",
-          "title": "Fix typo in JSDoc comment - 'checkss' should be 'checks'",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/889",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-29T14:23:33Z",
-          "title": "Remove debug console.log statements from production code",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/887",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-29T14:00:58Z",
-          "title": "Fix typo in Flag tooltip - 'FLag' should be 'Flag'",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/885",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-29T14:16:33Z",
-          "title": "fix - Correct Euclidean distance calculation formula",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/859",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-29T14:37:35Z",
-          "title": "Bug - setPlotValue() function returns immediately and does nothing",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/890",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-29T14:23:50Z",
-          "title": "Fix typo in JSDoc comment - 'checkss' should be 'checks'",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/888",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-29T14:22:45Z",
-          "title": "Remove debug console.log statements from production code",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/886",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "Radhikaa-chauhan",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
@@ -3903,20 +4450,20 @@
       "total_points": 37,
       "activity_breakdown": {
         "PR opened": {
-          "count": 3,
-          "points": 6
+          "count": 4,
+          "points": 8
         },
         "Issue opened": {
-          "count": 3,
-          "points": 3
+          "count": 4,
+          "points": 4
         },
         "Issue labeled": {
-          "count": 6,
-          "points": 12
+          "count": 7,
+          "points": 14
         },
         "PR merged": {
-          "count": 3,
-          "points": 15
+          "count": 2,
+          "points": 10
         },
         "Issue closed": {
           "count": 1,
@@ -3924,6 +4471,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-02-28",
+          "count": 3,
+          "points": 5
+        },
         {
           "date": "2026-02-27",
           "count": 4,
@@ -3953,14 +4505,30 @@
           "date": "2026-02-10",
           "count": 1,
           "points": 2
-        },
-        {
-          "date": "2026-01-29",
-          "count": 1,
-          "points": 5
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-28T17:11:58Z",
+          "title": "Add documentation for Force Gate component",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/532",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-28T16:54:48Z",
+          "title": "Add documentation for Force Gate component",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/530",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-02-28T16:55:12Z",
+          "title": "Labeled issue #530 - enhancement",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/530",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-02-27T18:08:26Z",
@@ -4065,13 +4633,149 @@
           "title": "Labeled issue #512 - documentation",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/512",
           "points": 2
+        }
+      ]
+    },
+    {
+      "username": "s1dhu98",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+      "role": "Contributor",
+      "total_points": 34,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 8,
+          "points": 16
+        },
+        "Issue opened": {
+          "count": 3,
+          "points": 3
+        },
+        "PR merged": {
+          "count": 3,
+          "points": 15
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-25",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-02-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-02-01",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-01-31",
+          "count": 9,
+          "points": 22
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-25T23:24:21Z",
+          "title": "fix - resolve hex input prefix stripping and duplicate template in HexBinDec",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/983",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-25T22:15:09Z",
+          "title": "feat - add Sunset Glow aesthetic theme",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/981",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-25T23:14:27Z",
+          "title": "🐞 Bug - HexBinDec Converter Strips Hex Prefix and Duplicate Template",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/982",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-16T21:28:13Z",
+          "title": "feat - add Live Theme Editor with default themes, export/import, and contrast check",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/951",
+          "points": 2
         },
         {
           "type": "PR merged",
-          "occured_at": "2026-01-29T11:51:39Z",
-          "title": "Update footer FAQ link to correct documentation URL",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6673",
+          "occured_at": "2026-02-01T02:57:33Z",
+          "title": "Fix typo in Flag tooltip - 'FLag' should be 'Flag'",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/885",
           "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-31T09:38:08Z",
+          "title": "Fix vue v for keys",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/902",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-31T09:29:21Z",
+          "title": "Fix - Add test globals to eslint config",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/901",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-31T09:24:55Z",
+          "title": "Fix - Remove unused props variable in BooleanTable.vue",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/900",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-31T08:54:19Z",
+          "title": "Fix - Use strict equality in circuit selection",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/899",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-31T08:51:58Z",
+          "title": "Fix - Remove debug console.log in UserMenu.vue",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/897",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-31T16:06:43Z",
+          "title": "Fix - Remove debug console.log in UserMenu.vue",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/897",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-31T08:25:04Z",
+          "title": "Fix typo in JSDoc comment - 'checkss' should be 'checks'",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/889",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-31T08:53:30Z",
+          "title": "Use strict equality in circuit selection",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/898",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-31T08:40:40Z",
+          "title": "Remove debug console.log in UserMenu.vue",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/896",
+          "points": 1
         }
       ]
     },
@@ -4225,153 +4929,6 @@
           "occured_at": "2026-02-19T12:59:31Z",
           "title": "Labeled issue #6992 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6992",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Aakansha-Chavan",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-      "role": "Contributor",
-      "total_points": 31,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        },
-        "PR merged": {
-          "count": 2,
-          "points": 10
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        },
-        "Issue labeled": {
-          "count": 5,
-          "points": 10
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-02-19",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-02-15",
-          "count": 6,
-          "points": 17
-        },
-        {
-          "date": "2026-02-06",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-01-29",
-          "count": 4,
-          "points": 7
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-19T16:39:47Z",
-          "title": "feat - Enhance contest card UI and update related test",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6994",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-15T16:30:59Z",
-          "title": "UI - Hide scrollbar and enable landscape scrolling in navbar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6904",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-02-15T14:28:58Z",
-          "title": "Fix - Allow vertical scrolling in collapsed navbar for landscape mode",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6845",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-02-15T14:31:18Z",
-          "title": "style - remove underline from buttons in Contest sections",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6780",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-02-15T16:07:35Z",
-          "title": "🐞 Bug/UX - Hide scrollbar while enabling vertical scroll in mobile navbar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6903",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-02-15T16:07:36Z",
-          "title": "Labeled issue #6903 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6903",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-02-15T16:07:37Z",
-          "title": "Labeled issue #6903 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6903",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-06T16:57:55Z",
-          "title": "Fix - Allow vertical scrolling in collapsed navbar for landscape mode",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6845",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-02-06T16:34:43Z",
-          "title": "🐞 Bug - Navbar menu items are unreachable in mobile landscape mode",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6844",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-02-06T16:34:44Z",
-          "title": "Labeled issue #6844 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6844",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-29T17:15:49Z",
-          "title": "style - remove underline from buttons in Contest sections",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6780",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-29T17:01:27Z",
-          "title": "Feature UI Enhancement - Remove underline decoration on Contest registration button",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6779",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-01-29T17:01:28Z",
-          "title": "Labeled issue #6779 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6779",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-01-29T17:01:29Z",
-          "title": "Labeled issue #6779 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6779",
           "points": 2
         }
       ]
@@ -4724,6 +5281,120 @@
           "occured_at": "2026-02-06T20:02:33Z",
           "title": "Fix/arabic notification bell rtl",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6846",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Aakansha-Chavan",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+      "role": "Contributor",
+      "total_points": 24,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        },
+        "PR merged": {
+          "count": 2,
+          "points": 10
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-19",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-02-15",
+          "count": 6,
+          "points": 17
+        },
+        {
+          "date": "2026-02-06",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-19T16:39:47Z",
+          "title": "feat - Enhance contest card UI and update related test",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6994",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-15T16:30:59Z",
+          "title": "UI - Hide scrollbar and enable landscape scrolling in navbar",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6904",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-02-15T14:28:58Z",
+          "title": "Fix - Allow vertical scrolling in collapsed navbar for landscape mode",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6845",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-02-15T14:31:18Z",
+          "title": "style - remove underline from buttons in Contest sections",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6780",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-15T16:07:35Z",
+          "title": "🐞 Bug/UX - Hide scrollbar while enabling vertical scroll in mobile navbar",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6903",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-02-15T16:07:36Z",
+          "title": "Labeled issue #6903 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6903",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-02-15T16:07:37Z",
+          "title": "Labeled issue #6903 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6903",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-06T16:57:55Z",
+          "title": "Fix - Allow vertical scrolling in collapsed navbar for landscape mode",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6845",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-06T16:34:43Z",
+          "title": "🐞 Bug - Navbar menu items are unreachable in mobile landscape mode",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6844",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-02-06T16:34:44Z",
+          "title": "Labeled issue #6844 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6844",
           "points": 2
         }
       ]
@@ -5108,115 +5779,6 @@
       ]
     },
     {
-      "username": "Nakshatra480",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/219866800?v=4",
-      "role": "Contributor",
-      "total_points": 21,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 8,
-          "points": 16
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-02-08",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-02-04",
-          "count": 4,
-          "points": 11
-        },
-        {
-          "date": "2026-02-02",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-02-01",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-29",
-          "count": 2,
-          "points": 4
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-08T04:30:08Z",
-          "title": "feat - Require password authentication for account deletion",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6855",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-04T12:17:43Z",
-          "title": "Fix Verilog initialization crash on first launch by adding null checks",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/921",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-04T07:10:20Z",
-          "title": "feat - Add Parity Generator component",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/920",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-04T04:53:24Z",
-          "title": "fix - Resolve Verilog compilation stuck issue in Tauri desktop app",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/919",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-02-04T14:57:54Z",
-          "title": "Refactor - Consolidate duplicate dec2bin utility implementations",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/906",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-02T18:38:43Z",
-          "title": "Fix Euclidean distance calculation in pinch to zoom logic",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/916",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-01T02:41:56Z",
-          "title": "Refactor - Consolidate duplicate dec2bin utility implementations",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/906",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-29T18:39:02Z",
-          "title": "fix - right-click delete in lower part of board (#829)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/893",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-29T18:01:27Z",
-          "title": "Fix pinch zoom Y-axis and centering (fixes #876)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/892",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "nisshchayarathi",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/197673239?v=4",
@@ -5457,6 +6019,96 @@
           "title": "Auth flow broken/incomplete - Google, GitHub, and Email login lack proper authentication handling",
           "link": "https://github.com/CircuitVerse/mobile-app/issues/497",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "Nakshatra480",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/219866800?v=4",
+      "role": "Contributor",
+      "total_points": 17,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 6,
+          "points": 12
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-08",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-02-04",
+          "count": 4,
+          "points": 11
+        },
+        {
+          "date": "2026-02-02",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-02-01",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-08T04:30:08Z",
+          "title": "feat - Require password authentication for account deletion",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6855",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-04T12:17:43Z",
+          "title": "Fix Verilog initialization crash on first launch by adding null checks",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/921",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-04T07:10:20Z",
+          "title": "feat - Add Parity Generator component",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/920",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-04T04:53:24Z",
+          "title": "fix - Resolve Verilog compilation stuck issue in Tauri desktop app",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/919",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-02-04T14:57:54Z",
+          "title": "Refactor - Consolidate duplicate dec2bin utility implementations",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/906",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-02T18:38:43Z",
+          "title": "Fix Euclidean distance calculation in pinch to zoom logic",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/916",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-01T02:41:56Z",
+          "title": "Refactor - Consolidate duplicate dec2bin utility implementations",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/906",
+          "points": 2
         }
       ]
     },
@@ -5849,6 +6501,78 @@
       ]
     },
     {
+      "username": "vivekyadav-3",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 5,
+          "points": 10
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-28",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-02-20",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2026-02-12",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-02-11",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-28T12:59:14Z",
+          "title": "fix(ci) - correct input names for actions/first-interaction in greet.yml",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7097",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-20T05:02:41Z",
+          "title": "fix - logo now redirects to main circuitverse.org domain (#6437)",
+          "link": "https://github.com/CircuitVerse/Blog/pull/264",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-20T04:22:53Z",
+          "title": "fix - make header navigation accessible for keyboard users",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7000",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-12T15:23:34Z",
+          "title": "fix - ensure complete text highlighting on dropdown item hover",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6881",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-11T15:28:48Z",
+          "title": "fix - add proper spacing between CAPTCHA and login button",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6875",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "M-V-RAGHUPATHI-SAI",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/157268152?v=4",
@@ -5921,6 +6645,83 @@
           "occured_at": "2026-02-03T13:55:20Z",
           "title": "Labeled issue #6825 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6825",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "harshitasingh108",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/218473176?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 5,
+          "points": 10
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-28",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-02-27",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-02-25",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-02-24",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-02-22",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-28T05:00:19Z",
+          "title": "fix-homepage-lazy-loading",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7094",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-27T04:58:47Z",
+          "title": "fix-forgot",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7089",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-25T18:41:54Z",
+          "title": "Fix - search icon keyboard accessibility",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7074",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-24T04:30:48Z",
+          "title": "Fix forum linkFix broken forum link in footer",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7023",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-22T19:05:04Z",
+          "title": "Fix spacing between CAPTCHA and login button",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7011",
           "points": 2
         }
       ]
@@ -6115,131 +6916,6 @@
           "occured_at": "2026-02-01T11:18:59Z",
           "title": "Labeled issue #907 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/907",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "vivekyadav-3",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
-      "role": "Contributor",
-      "total_points": 8,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-02-20",
-          "count": 2,
-          "points": 4
-        },
-        {
-          "date": "2026-02-12",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-02-11",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-20T05:02:41Z",
-          "title": "fix - logo now redirects to main circuitverse.org domain (#6437)",
-          "link": "https://github.com/CircuitVerse/Blog/pull/264",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-20T04:22:53Z",
-          "title": "fix - make header navigation accessible for keyboard users",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7000",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-12T15:23:34Z",
-          "title": "fix - ensure complete text highlighting on dropdown item hover",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6881",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-11T15:28:48Z",
-          "title": "fix - add proper spacing between CAPTCHA and login button",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6875",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "harshitasingh108",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/218473176?v=4",
-      "role": "Contributor",
-      "total_points": 8,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-02-27",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-02-25",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-02-24",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-02-22",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-27T04:58:47Z",
-          "title": "fix-forgot",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7089",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-25T18:41:54Z",
-          "title": "Fix - search icon keyboard accessibility",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7074",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-24T04:30:48Z",
-          "title": "Fix forum linkFix broken forum link in footer",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7023",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-22T19:05:04Z",
-          "title": "Fix spacing between CAPTCHA and login button",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7011",
           "points": 2
         }
       ]
@@ -6518,6 +7194,65 @@
           "title": "Review on PR #248",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/248",
           "points": 4
+        }
+      ]
+    },
+    {
+      "username": "SouparnaChatterjee",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/115988950?v=4",
+      "role": "Contributor",
+      "total_points": 6,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-28",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-02-16",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-28T17:17:06Z",
+          "title": "Docs/updates - Improve technical accuracy and clarity of Verilog documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/533",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-28T17:10:15Z",
+          "title": "Improve technical accuracy and clarity of Verilog documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/531",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-16T16:11:01Z",
+          "title": "Docs/add new components",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/518",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-16T16:09:43Z",
+          "title": "Improve clarity and correctness in Chapter 4 (Muxandplex) documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/517",
+          "points": 1
         }
       ]
     },
@@ -7033,58 +7768,31 @@
       ]
     },
     {
-      "username": "jahnavigajjala-3",
+      "username": "Asrani-Aman",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/230939291?v=4",
-      "role": "Contributor",
-      "total_points": 5,
+      "avatar_url": "https://avatars.githubusercontent.com/u/96644946?u=0a63041bdb02009db73142160eb13f4fcd0a4209&v=4",
+      "role": "Maintainer",
+      "total_points": 4,
       "activity_breakdown": {
-        "PR opened": {
+        "Review submitted": {
           "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
+          "points": 4
         }
       },
       "daily_activity": [
         {
-          "date": "2026-02-03",
+          "date": "2026-02-28",
           "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-29",
-          "count": 2,
-          "points": 3
+          "points": 4
         }
       ],
       "activities": [
         {
-          "type": "PR opened",
-          "occured_at": "2026-02-03T09:40:44Z",
-          "title": "Add User Manual link next to Simulator in header",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6824",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-29T15:01:49Z",
-          "title": "UX Make User Manual more discoverable via homepage and header navigation in the stimulater page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6778",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-01-29T15:01:51Z",
-          "title": "Labeled issue #6778 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6778",
-          "points": 2
+          "type": "Review submitted",
+          "occured_at": "2026-02-28T08:02:55Z",
+          "title": "Review on PR #6466",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6466",
+          "points": 4
         }
       ]
     },
@@ -7177,9 +7885,9 @@
       ]
     },
     {
-      "username": "abhaygoudannavar",
+      "username": "SantamRC",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/230383639?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
       "role": "Contributor",
       "total_points": 4,
       "activity_breakdown": {
@@ -7190,12 +7898,12 @@
       },
       "daily_activity": [
         {
-          "date": "2026-02-01",
+          "date": "2026-02-28",
           "count": 1,
           "points": 2
         },
         {
-          "date": "2026-01-29",
+          "date": "2026-01-31",
           "count": 1,
           "points": 2
         }
@@ -7203,24 +7911,24 @@
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-02-01T16:53:41Z",
-          "title": "fix - Duplicate Tags Can Be Created Due to Missing Uniqueness Constraints",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6805",
+          "occured_at": "2026-02-28T21:00:53Z",
+          "title": "Proof of Concept - Interactive Book Improvement",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/514",
           "points": 2
         },
         {
           "type": "PR opened",
-          "occured_at": "2026-01-29T13:48:14Z",
-          "title": "Fix/duplicate tags",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6776",
+          "occured_at": "2026-01-31T23:33:26Z",
+          "title": "Google Classroom Integration",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6797",
           "points": 2
         }
       ]
     },
     {
-      "username": "Mayank7371",
+      "username": "VineethChethula",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/166874794?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151843956?v=4",
       "role": "Contributor",
       "total_points": 4,
       "activity_breakdown": {
@@ -7231,12 +7939,12 @@
       },
       "daily_activity": [
         {
-          "date": "2026-02-02",
+          "date": "2026-02-28",
           "count": 1,
           "points": 2
         },
         {
-          "date": "2026-01-29",
+          "date": "2026-02-27",
           "count": 1,
           "points": 2
         }
@@ -7244,16 +7952,52 @@
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-02-02T15:17:50Z",
-          "title": "Fix MissingTemplate error in SimulatorController#new",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6816",
+          "occured_at": "2026-02-28T15:05:44Z",
+          "title": "fix - align view button with project title by adding max-height (#4107)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7098",
           "points": 2
         },
         {
           "type": "PR opened",
-          "occured_at": "2026-01-29T14:07:11Z",
-          "title": "Fix N+1 queries for user profile pictures",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6777",
+          "occured_at": "2026-02-27T13:15:09Z",
+          "title": "fix - add missing member_since_html translation for arabic (#6002)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7090",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "vishnusairam654",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/154720335?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-28",
+          "count": 2,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-28T07:59:57Z",
+          "title": "feat - add active state to navbar links for current page indication",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7096",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-28T06:50:30Z",
+          "title": "fix - describe your change closes #6331",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7095",
           "points": 2
         }
       ]
@@ -7352,46 +8096,6 @@
           "occured_at": "2026-02-02T22:18:25Z",
           "title": "Authentication related security vulnerabilities",
           "link": "https://github.com/CircuitVerse/mobile-app/issues/488",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "SouparnaChatterjee",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/115988950?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-02-16",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-16T16:11:01Z",
-          "title": "Docs/add new components",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/518",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-02-16T16:09:43Z",
-          "title": "Improve clarity and correctness in Chapter 4 (Muxandplex) documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/517",
           "points": 1
         }
       ]
@@ -7597,9 +8301,9 @@
       ]
     },
     {
-      "username": "JayantRautela",
+      "username": "abhaygoudannavar",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/170959725?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230383639?v=4",
       "role": "Contributor",
       "total_points": 2,
       "activity_breakdown": {
@@ -7610,7 +8314,7 @@
       },
       "daily_activity": [
         {
-          "date": "2026-01-29",
+          "date": "2026-02-01",
           "count": 1,
           "points": 2
         }
@@ -7618,9 +8322,38 @@
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-01-29T13:25:27Z",
-          "title": "refactor - convert listeners.js to listeners.ts",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/883",
+          "occured_at": "2026-02-01T16:53:41Z",
+          "title": "fix - Duplicate Tags Can Be Created Due to Missing Uniqueness Constraints",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6805",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Mayank7371",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/166874794?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-02",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-02T15:17:50Z",
+          "title": "Fix MissingTemplate error in SimulatorController#new",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6816",
           "points": 2
         }
       ]
@@ -7684,6 +8417,35 @@
       ]
     },
     {
+      "username": "jahnavigajjala-3",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/230939291?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-03",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-03T09:40:44Z",
+          "title": "Add User Manual link next to Simulator in header",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6824",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "kiransatdive",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/98806225?v=4",
@@ -7713,9 +8475,9 @@
       ]
     },
     {
-      "username": "VineethChethula",
+      "username": "rishi0864",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/151843956?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146614889?v=4",
       "role": "Contributor",
       "total_points": 2,
       "activity_breakdown": {
@@ -7726,7 +8488,7 @@
       },
       "daily_activity": [
         {
-          "date": "2026-02-27",
+          "date": "2026-02-28",
           "count": 1,
           "points": 2
         }
@@ -7734,9 +8496,38 @@
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-02-27T13:15:09Z",
-          "title": "fix - add missing member_since_html translation for arabic (#6002)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7090",
+          "occured_at": "2026-02-28T17:00:45Z",
+          "title": "docs - improve README spacing for better readability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7101",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "jyothiswaroopch",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/120001815?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-28",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-28T15:48:50Z",
+          "title": "style - fix indentation inconsistency in webpush.js.erb",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7100",
           "points": 2
         }
       ]
@@ -8148,64 +8939,6 @@
       ]
     },
     {
-      "username": "SantamRC",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-31",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-31T23:33:26Z",
-          "title": "Google Classroom Integration",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6797",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "patildevanshu",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/152208944?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-29",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-29T19:09:31Z",
-          "title": "docs - explain why assignment projects must remain private",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6782",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "092vk",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/123629919?v=4",
@@ -8288,35 +9021,6 @@
           "occured_at": "2026-02-17T06:05:01Z",
           "title": "Featured circuit email has grammar error - 'You project' instead of 'Your project'",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6923",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "s1dhu95",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/258020853?v=4",
-      "role": "Contributor",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-29",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-29T13:54:53Z",
-          "title": "Fix typo in Flag tooltip - 'FLag' should be 'Flag'",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/884",
           "points": 1
         }
       ]

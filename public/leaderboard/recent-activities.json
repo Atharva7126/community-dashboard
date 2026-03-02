@@ -1,6 +1,123 @@
 {
-  "updatedAt": 1772327405837,
+  "updatedAt": 1772413374476,
   "groups": [
+    [
+      "2026-03-01",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "feat(avo) - Add Contests & Submissions resources (Submission, SubmissionVote, ContestWinner)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7105",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "blazethunderstorm",
+          "name": null,
+          "title": "Labeled issue #7077 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7077",
+          "avatar_url": "https://avatars.githubusercontent.com/u/149250431?v=4",
+          "points": 2
+        },
+        {
+          "username": "blazethunderstorm",
+          "name": null,
+          "title": "Labeled issue #6849 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6849",
+          "avatar_url": "https://avatars.githubusercontent.com/u/149250431?v=4",
+          "points": 2
+        },
+        {
+          "username": "Aakansha-Chavan",
+          "name": null,
+          "title": "fix - standardize heading and description styles on contests page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7104",
+          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+          "points": 2
+        },
+        {
+          "username": "Aakansha-Chavan",
+          "name": null,
+          "title": "🐞 Bug - Standardize Heading and Description styles on Contests page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7103",
+          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+          "points": 1
+        },
+        {
+          "username": "Aakansha-Chavan",
+          "name": null,
+          "title": "Labeled issue #7103 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7103",
+          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+          "points": 2
+        },
+        {
+          "username": "Aakansha-Chavan",
+          "name": null,
+          "title": "Labeled issue #7103 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7103",
+          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+          "points": 2
+        },
+        {
+          "username": "sahu-virendra-1908",
+          "name": null,
+          "title": "fix - resolve login state issue preventing navigation (#504)",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/515",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177405578?v=4",
+          "points": 2
+        },
+        {
+          "username": "sahu-virendra-1908",
+          "name": null,
+          "title": "High Priority - Potential memory leak due to undisposed StreamController in IbInteractionBuilder",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/516",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177405578?v=4",
+          "points": 1
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "Implement auto-incrementing suffixes for duplicate project and circuit names",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7107",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 2
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "Feature - Auto-Increment Circuit and Project Names to Prevent Duplicates",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7102",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 1
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "Labeled issue #7102 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7102",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 2
+        },
+        {
+          "username": "AkshitBitsian356u",
+          "name": null,
+          "title": "Canvas panning feels unnatural - trackpad gestures and zoom/pan interaction needs improvement",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/987",
+          "avatar_url": "https://avatars.githubusercontent.com/u/223644928?v=4",
+          "points": 1
+        },
+        {
+          "username": "ninadnaik10",
+          "name": null,
+          "title": "fix - deadline label casing in en locales",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7106",
+          "avatar_url": "https://avatars.githubusercontent.com/u/86565419?v=4",
+          "points": 2
+        }
+      ]
+    ],
     [
       "2026-02-28",
       [
@@ -1123,7 +1240,7 @@
           "name": null,
           "title": "Review on PR #7071",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7071",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
           "points": 4
         },
         {
@@ -1131,7 +1248,7 @@
           "name": null,
           "title": "Review on PR #7070",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7070",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
           "points": 4
         },
         {
@@ -1231,6 +1348,14 @@
           "points": 2
         },
         {
+          "username": "AkshitBitsian356u",
+          "name": null,
+          "title": "feat - add zoom slider and trackpad panning",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/985",
+          "avatar_url": "https://avatars.githubusercontent.com/u/223644928?v=4",
+          "points": 2
+        },
+        {
           "username": "may-tas",
           "name": null,
           "title": "chore(l10n) - remove deprecated synthetic-package option from l10n.yaml",
@@ -1245,14 +1370,6 @@
           "link": "https://github.com/CircuitVerse/mobile-app/issues/510",
           "avatar_url": "https://avatars.githubusercontent.com/u/135056339?v=4",
           "points": 1
-        },
-        {
-          "username": "AkshitBitsian356u",
-          "name": null,
-          "title": "feat - add zoom slider and trackpad panning",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/985",
-          "avatar_url": "https://avatars.githubusercontent.com/u/223644928?v=4",
-          "points": 2
         }
       ]
     ],
@@ -1557,7 +1674,7 @@
           "name": null,
           "title": "Review on PR #6598",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6598",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
           "points": 4
         },
         {
@@ -1565,7 +1682,7 @@
           "name": null,
           "title": "Closed issue #516 - Add Subtractor as a Core Logical Tool in Misc Menu",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/516",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
           "points": 1
         },
         {
@@ -2154,7 +2271,7 @@
           "name": null,
           "title": "Review on PR #6803",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6803",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
           "points": 4
         },
         {
@@ -2162,7 +2279,7 @@
           "name": null,
           "title": "Review on PR #6900",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6900",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
           "points": 4
         },
         {
@@ -2170,7 +2287,7 @@
           "name": null,
           "title": "Review on PR #758",
           "link": "https://github.com/CircuitVerse/Interactive-Book/pull/758",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
           "points": 4
         },
         {
@@ -2178,7 +2295,7 @@
           "name": null,
           "title": "Closed issue #928 - 🐞 Bug - \"Download as Image\" Modal inconsistency issues",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/928",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
           "points": 1
         },
         {
@@ -2565,171 +2682,6 @@
       ]
     ],
     [
-      "2026-02-16",
-      [
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "🐞 Bug - listeners.js throwing transformCallback undefined errors across all platforms",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/950",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Labeled issue #950 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/950",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 2
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Review on PR #940",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/940",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
-          "points": 4
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Closed issue #939 - 🐞 Bug - Output Module Help Link Redirects to Introduction Page",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/939",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
-          "points": 1
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "🐞 Bug - Bootstrap components fail due to missing Popper.js require in Sprockets manifest",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6914",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 1
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "🐞 Bug - Promote/Demote member modals fail with params.expect error",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6913",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 1
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "Labeled issue #6914 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6914",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 2
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "fix - correct broken helplink URL in Output module",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/940",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 5
-        },
-        {
-          "username": "magic-peach",
-          "name": null,
-          "title": "Feature Add dark mode support for simulator canvas and UI",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6916",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-          "points": 1
-        },
-        {
-          "username": "magic-peach",
-          "name": null,
-          "title": "Labeled issue #6916 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6916",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-          "points": 2
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "feat - add Live Theme Editor with default themes, export/import, and contrast check",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/951",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 2
-        },
-        {
-          "username": "SouparnaChatterjee",
-          "name": null,
-          "title": "Docs/add new components",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/518",
-          "avatar_url": "https://avatars.githubusercontent.com/u/115988950?v=4",
-          "points": 2
-        },
-        {
-          "username": "SouparnaChatterjee",
-          "name": null,
-          "title": "Improve clarity and correctness in Chapter 4 (Muxandplex) documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/517",
-          "avatar_url": "https://avatars.githubusercontent.com/u/115988950?v=4",
-          "points": 1
-        },
-        {
-          "username": "Prince-ES",
-          "name": null,
-          "title": "🐞 Bug - Inconsistent keyboard navigation behavior in top navigation menus",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6917",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173123079?v=4",
-          "points": 1
-        },
-        {
-          "username": "Prince-ES",
-          "name": null,
-          "title": "Labeled issue #6917 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6917",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173123079?v=4",
-          "points": 2
-        },
-        {
-          "username": "Prince-ES",
-          "name": null,
-          "title": "Labeled issue #6917 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6917",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173123079?v=4",
-          "points": 2
-        },
-        {
-          "username": "Saniya-r-Shaikh",
-          "name": null,
-          "title": "Add active state highlighting for navbar items",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6918",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
-          "points": 2
-        },
-        {
-          "username": "Saniya-r-Shaikh",
-          "name": null,
-          "title": "Feature - Improve Navbar UX by Highlighting Active Navigation Item",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6915",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
-          "points": 1
-        },
-        {
-          "username": "Saniya-r-Shaikh",
-          "name": null,
-          "title": "Labeled issue #6915 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6915",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
-          "points": 2
-        },
-        {
-          "username": "notlevi911",
-          "name": null,
-          "title": "fix - Handle missing leaderboard JSON gracefully instead of crashing",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/263",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143695640?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
       "2026-02-24",
       [
         {
@@ -2938,6 +2890,14 @@
           "points": 2
         },
         {
+          "username": "sahu-virendra-1908",
+          "name": null,
+          "title": "Login succeeds but app does not navigate to landing screen",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/504",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177405578?v=4",
+          "points": 1
+        },
+        {
           "username": "hiraljj05",
           "name": null,
           "title": "chore(l10n) - remove deprecated synthetic-package config",
@@ -2999,14 +2959,6 @@
           "title": "Auth flow broken/incomplete - Google, GitHub, and Email login lack proper authentication handling",
           "link": "https://github.com/CircuitVerse/mobile-app/issues/497",
           "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
-          "points": 1
-        },
-        {
-          "username": "sahu-virendra-1908",
-          "name": null,
-          "title": "Login succeeds but app does not navigate to landing screen",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/504",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177405578?v=4",
           "points": 1
         },
         {
@@ -4025,14 +3977,6 @@
           "points": 2
         },
         {
-          "username": "Prince-ES",
-          "name": null,
-          "title": "Fixed typos in Docs",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/765",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173123079?v=4",
-          "points": 2
-        },
-        {
           "username": "sahu-virendra-1908",
           "name": null,
           "title": "Fix Android build configuration and align with dependency requirements (Resolves #493)",
@@ -4047,6 +3991,14 @@
           "link": "https://github.com/CircuitVerse/mobile-app/issues/493",
           "avatar_url": "https://avatars.githubusercontent.com/u/177405578?v=4",
           "points": 1
+        },
+        {
+          "username": "Prince-ES",
+          "name": null,
+          "title": "Fixed typos in Docs",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/765",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173123079?v=4",
+          "points": 2
         }
       ]
     ]

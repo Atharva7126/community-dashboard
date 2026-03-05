@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1772586079151,
+  "updatedAt": 1772672602927,
   "groups": [
     [
       "2026-03-01",
@@ -1577,14 +1577,6 @@
           "points": 1
         },
         {
-          "username": "ghanshyam2005singh",
-          "name": null,
-          "title": "Labeled issue #503 - bug",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/503",
-          "avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4",
-          "points": 2
-        },
-        {
           "username": "hiraljj05",
           "name": null,
           "title": "Fix Signup Error Handling and Add Proper Dialogs for Existing Emails",
@@ -1607,6 +1599,14 @@
           "link": "https://github.com/CircuitVerse/mobile-app/issues/508",
           "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
           "points": 1
+        },
+        {
+          "username": "ghanshyam2005singh",
+          "name": null,
+          "title": "Labeled issue #503 - bug",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/503",
+          "avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4",
+          "points": 2
         },
         {
           "username": "abhiraj75",
@@ -2557,131 +2557,6 @@
       ]
     ],
     [
-      "2026-02-19",
-      [
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Review on PR #265",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/265",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 4
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Closed issue #264 - docs - fix committing typo in tasks list",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/264",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "magic-peach",
-          "name": null,
-          "title": "docs - fix committing typo in tasks list",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/265",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-          "points": 5
-        },
-        {
-          "username": "Aakansha-Chavan",
-          "name": null,
-          "title": "feat - Enhance contest card UI and update related test",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6994",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-          "points": 2
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "fix - make search icon keyboard accessible and auto-focus input on activation",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6996",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 2
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "🐞 Bug - Enter Key Not Working in Header Dropdown Menus",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6993",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 1
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "🐞 Bug - Search icon not focusable with Tab and focus not moving to search input",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6992",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 1
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "Labeled issue #6993 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6993",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 2
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "Labeled issue #6992 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6992",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 2
-        },
-        {
-          "username": "hanzalahwaheed",
-          "name": null,
-          "title": "Update CircuitVerse YouTube Channel link",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/527",
-          "avatar_url": "https://avatars.githubusercontent.com/u/101456741?v=4",
-          "points": 2
-        },
-        {
-          "username": "hanzalahwaheed",
-          "name": null,
-          "title": "Feature - Auto select input sections for modal popups",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/971",
-          "avatar_url": "https://avatars.githubusercontent.com/u/101456741?v=4",
-          "points": 1
-        },
-        {
-          "username": "hanzalahwaheed",
-          "name": null,
-          "title": "docs - update youtube channel link",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/526",
-          "avatar_url": "https://avatars.githubusercontent.com/u/101456741?v=4",
-          "points": 1
-        },
-        {
-          "username": "hanzalahwaheed",
-          "name": null,
-          "title": "Labeled issue #971 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/971",
-          "avatar_url": "https://avatars.githubusercontent.com/u/101456741?v=4",
-          "points": 2
-        },
-        {
-          "username": "Prince-ES",
-          "name": null,
-          "title": "Add controller specs for ExploreController feature flag enforcement",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6991",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173123079?v=4",
-          "points": 2
-        },
-        {
-          "username": "harshit-ht22",
-          "name": null,
-          "title": "Fix notification message for deleted user/project (#4904)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6995",
-          "avatar_url": "https://avatars.githubusercontent.com/u/197410420?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
       "2026-03-02",
       [
         {
@@ -2757,38 +2632,6 @@
           "points": 2
         },
         {
-          "username": "spc-28",
-          "name": null,
-          "title": "fix - Interactive book and improvements",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/517",
-          "avatar_url": "https://avatars.githubusercontent.com/u/139547705?v=4",
-          "points": 2
-        },
-        {
-          "username": "ninadnaik10",
-          "name": null,
-          "title": "fix - deadline label casing in en locales",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7106",
-          "avatar_url": "https://avatars.githubusercontent.com/u/86565419?v=4",
-          "points": 5
-        },
-        {
-          "username": "harshit-ht22",
-          "name": null,
-          "title": "Fix UI alignment issue under Assignment form",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7108",
-          "avatar_url": "https://avatars.githubusercontent.com/u/197410420?v=4",
-          "points": 2
-        },
-        {
-          "username": "Uday9909",
-          "name": null,
-          "title": "fix - resolve ParameterMissing in promote/demote member modals (#6913)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7109",
-          "avatar_url": "https://avatars.githubusercontent.com/u/178378295?v=4",
-          "points": 2
-        },
-        {
           "username": "nusRying",
           "name": null,
           "title": "refactor(api) - remove duplicate update call in projects endpoint",
@@ -2805,11 +2648,128 @@
           "points": 2
         },
         {
+          "username": "spc-28",
+          "name": null,
+          "title": "fix - Interactive book and improvements",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/517",
+          "avatar_url": "https://avatars.githubusercontent.com/u/139547705?v=4",
+          "points": 2
+        },
+        {
+          "username": "ninadnaik10",
+          "name": null,
+          "title": "fix - deadline label casing in en locales",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7106",
+          "avatar_url": "https://avatars.githubusercontent.com/u/86565419?v=4",
+          "points": 5
+        },
+        {
+          "username": "Uday9909",
+          "name": null,
+          "title": "fix - resolve ParameterMissing in promote/demote member modals (#6913)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7109",
+          "avatar_url": "https://avatars.githubusercontent.com/u/178378295?v=4",
+          "points": 2
+        },
+        {
+          "username": "harshit-ht22",
+          "name": null,
+          "title": "Fix UI alignment issue under Assignment form",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7108",
+          "avatar_url": "https://avatars.githubusercontent.com/u/197410420?v=4",
+          "points": 2
+        },
+        {
           "username": "yogeshwarithombare",
           "name": null,
           "title": "Added the missing docs for circuit elements -INPUT 1.Random OUTPUT 1.Square RGB Led 2.RGB Led Matrix MISC 1.Force Gate 2.TB input 3.TB Output",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/534",
           "avatar_url": "https://avatars.githubusercontent.com/u/247213611?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-03-04",
+      [
+        {
+          "username": "Nihal4777",
+          "name": null,
+          "title": "Closed issue #822 - Missing help link for Two’s Complement component",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/822",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
+          "points": 1
+        },
+        {
+          "username": "Radhikaa-chauhan",
+          "name": null,
+          "title": "chore - add helplink to Two’s Complement component",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/823",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
+          "points": 5
+        },
+        {
+          "username": "hiraljj05",
+          "name": null,
+          "title": "Fix/forgot password error handling",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/525",
+          "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
+          "points": 2
+        },
+        {
+          "username": "nusRying",
+          "name": null,
+          "title": "Feat/fsm synthesizer phase2",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7120",
+          "avatar_url": "https://avatars.githubusercontent.com/u/116121504?v=4",
+          "points": 2
+        },
+        {
+          "username": "nusRying",
+          "name": null,
+          "title": "feat/fsm-synthesizer-phase2",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7119",
+          "avatar_url": "https://avatars.githubusercontent.com/u/116121504?v=4",
+          "points": 2
+        },
+        {
+          "username": "nusRying",
+          "name": null,
+          "title": "fix(ci) - correct GitHub Actions workflow syntax in percy.yml",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7118",
+          "avatar_url": "https://avatars.githubusercontent.com/u/116121504?v=4",
+          "points": 2
+        },
+        {
+          "username": "Uday9909",
+          "name": null,
+          "title": "fix - add model-level uniqueness validation for PendingInvitation email scoped to group (#6638)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7117",
+          "avatar_url": "https://avatars.githubusercontent.com/u/178378295?v=4",
+          "points": 2
+        },
+        {
+          "username": "MYMISERABLEMIND17",
+          "name": null,
+          "title": "Improve clarity and correctness in Chapter 4 (Muxandplex) documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/535",
+          "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
+          "points": 2
+        },
+        {
+          "username": "Omkar-Wagholikar",
+          "name": null,
+          "title": "fix - correct typo in separator variable in base_controller pagination",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7121",
+          "avatar_url": "https://avatars.githubusercontent.com/u/104051137?v=4",
+          "points": 2
+        },
+        {
+          "username": "kartikaeyy",
+          "name": null,
+          "title": "added a snackbar for github oauth error handle for contributors",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/524",
+          "avatar_url": "https://avatars.githubusercontent.com/u/114746821?v=4",
           "points": 2
         }
       ]
@@ -3164,6 +3124,30 @@
           "points": 5
         },
         {
+          "username": "hiraljj05",
+          "name": null,
+          "title": "Fix logout navigation drawer UI not updating and navigate to Home screen",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/522",
+          "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
+          "points": 2
+        },
+        {
+          "username": "hiraljj05",
+          "name": null,
+          "title": "Fix signup error handling and improve dialog for existing email",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/521",
+          "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
+          "points": 2
+        },
+        {
+          "username": "hiraljj05",
+          "name": null,
+          "title": "Logout from Navigation Drawer does not navigate to Home screen or update UI immediately",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/520",
+          "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
+          "points": 1
+        },
+        {
           "username": "harikrishna-au",
           "name": null,
           "title": "MVP feat - separate simulator-embed-{version}.js as a distinct Vite build output",
@@ -3226,30 +3210,6 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/992",
           "avatar_url": "https://avatars.githubusercontent.com/u/169121181?v=4",
           "points": 2
-        },
-        {
-          "username": "hiraljj05",
-          "name": null,
-          "title": "Fix logout navigation drawer UI not updating and navigate to Home screen",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/522",
-          "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
-          "points": 2
-        },
-        {
-          "username": "hiraljj05",
-          "name": null,
-          "title": "Fix signup error handling and improve dialog for existing email",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/521",
-          "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
-          "points": 2
-        },
-        {
-          "username": "hiraljj05",
-          "name": null,
-          "title": "Logout from Navigation Drawer does not navigate to Home screen or update UI immediately",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/520",
-          "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
-          "points": 1
         },
         {
           "username": "AkshitBitsian356u",

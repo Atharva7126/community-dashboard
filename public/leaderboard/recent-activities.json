@@ -1,6 +1,187 @@
 {
-  "updatedAt": 1772931816639,
+  "updatedAt": 1773018239635,
   "groups": [
+    [
+      "2026-03-08",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #991 - hold",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/991",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #1007 - fix - consolidate typo fixes",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1007",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "Nihal4777",
+          "name": null,
+          "title": "Review on PR #703",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/703",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "points": 4
+        },
+        {
+          "username": "Nihal4777",
+          "name": null,
+          "title": "Closed issue #269 - Button Toggle Not Responding",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/269",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "points": 1
+        },
+        {
+          "username": "Git-HimanshuRathi",
+          "name": null,
+          "title": "fix(TabsBar) - toggle button now properly expands/collapses tabs bar height",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/703",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
+          "points": 5
+        },
+        {
+          "username": "vedant-jain03",
+          "name": null,
+          "title": "Review on PR #7121",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7121",
+          "avatar_url": "https://avatars.githubusercontent.com/u/76901313?u=5494d1c2d4646bf1ce4df09c0951f0b6dc47c33a&v=4",
+          "points": 4
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "ci - skip tauri macos aarch64 build on pull requests",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1010",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Bug - ESLint errors for undefined testing framework globals in spec files",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1013",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 1
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Bug - Missing - key attributes on v-for loops causing rendering issues",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1012",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 1
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Feature - Live Theme Editor with Real-time Customization",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1011",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 1
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Labeled issue #1012 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1012",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Labeled issue #1013 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1013",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Labeled issue #1011 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1011",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 2
+        },
+        {
+          "username": "Teesta-Mukherjee",
+          "name": null,
+          "title": "Add backend support for subgroups within groups",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7139",
+          "avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4",
+          "points": 2
+        },
+        {
+          "username": "Teesta-Mukherjee",
+          "name": null,
+          "title": "Feature Add subgroup within groups(Backend part)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7138",
+          "avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4",
+          "points": 1
+        },
+        {
+          "username": "Teesta-Mukherjee",
+          "name": null,
+          "title": "Labeled issue #7138 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7138",
+          "avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4",
+          "points": 2
+        },
+        {
+          "username": "Harkeerat24",
+          "name": null,
+          "title": "Fix/consolidate typo fixes",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1000",
+          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 5
+        },
+        {
+          "username": "Omkar-Wagholikar",
+          "name": null,
+          "title": "fix - correct typo in separator variable in base_controller pagination",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7121",
+          "avatar_url": "https://avatars.githubusercontent.com/u/104051137?v=4",
+          "points": 5
+        },
+        {
+          "username": "AryanParihar0716",
+          "name": null,
+          "title": "Add Dark Mode",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7136",
+          "avatar_url": "https://avatars.githubusercontent.com/u/145244620?v=4",
+          "points": 2
+        },
+        {
+          "username": "dipanshurdev",
+          "name": null,
+          "title": "docs - improve grammar in README description",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7141",
+          "avatar_url": "https://avatars.githubusercontent.com/u/124811276?v=4",
+          "points": 2
+        },
+        {
+          "username": "dipanshurdev",
+          "name": null,
+          "title": "ref - add i18n support for controller flash messages",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7140",
+          "avatar_url": "https://avatars.githubusercontent.com/u/124811276?v=4",
+          "points": 2
+        },
+        {
+          "username": "hridyasadanand",
+          "name": null,
+          "title": "Fix broken hero image rendering in welcome email template",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7137",
+          "avatar_url": "https://avatars.githubusercontent.com/u/84580702?v=4",
+          "points": 2
+        }
+      ]
+    ],
     [
       "2026-03-07",
       [
@@ -25,7 +206,7 @@
           "name": null,
           "title": "Closed issue #886 - Remove debug console.log statements from production code",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/886",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
           "points": 1
         },
         {
@@ -1671,7 +1852,7 @@
           "name": null,
           "title": "fix - reapply PR #658 change to v0 and sync to v1",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/979",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
           "points": 2
         },
         {
@@ -1679,7 +1860,7 @@
           "name": null,
           "title": "fix - reapply PR #658 change to v0 and sync to v1",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/979",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
           "points": 5
         },
         {
@@ -1803,6 +1984,22 @@
           "points": 1
         },
         {
+          "username": "Harkeerat24",
+          "name": null,
+          "title": "Adds Circuit Data Version",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7078",
+          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 2
+        },
+        {
+          "username": "Harkeerat24",
+          "name": null,
+          "title": "feat - add circuit data format version to save/load pipeline",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7077",
+          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 1
+        },
+        {
           "username": "satu0king",
           "name": null,
           "title": "🛑 Docs is down",
@@ -1833,22 +2030,6 @@
           "link": "https://github.com/CircuitVerse/upptime/issues/176",
           "avatar_url": "https://avatars.githubusercontent.com/u/2092958?v=4",
           "points": 2
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "Adds Circuit Data Version",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7078",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 2
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "feat - add circuit data format version to save/load pipeline",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7077",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 1
         },
         {
           "username": "Vaishnavi-star-ai",
@@ -1920,171 +2101,6 @@
           "title": "fix #6905 - Correct label for association in search filter",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7070",
           "avatar_url": "https://avatars.githubusercontent.com/u/182958565?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-02-23",
-      [
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Avo Admin - Add forum management resources (threads, posts, subscriptions)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7019",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Labeled issue #7019 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7019",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 2
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Review on PR #931",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/931",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
-          "points": 4
-        },
-        {
-          "username": "JatsuAkaYashvant",
-          "name": null,
-          "title": "Review on PR #6598",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6598",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
-          "points": 4
-        },
-        {
-          "username": "JatsuAkaYashvant",
-          "name": null,
-          "title": "Closed issue #516 - Add Subtractor as a Core Logical Tool in Misc Menu",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/516",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
-          "points": 1
-        },
-        {
-          "username": "magic-peach",
-          "name": null,
-          "title": "Add domain-based access restriction for group invitations",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7017",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-          "points": 2
-        },
-        {
-          "username": "magic-peach",
-          "name": null,
-          "title": "Consolidated typo fixes",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7015",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-          "points": 2
-        },
-        {
-          "username": "magic-peach",
-          "name": null,
-          "title": "Feature Add Email Domain Restriction for Group Invite Links",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7016",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-          "points": 1
-        },
-        {
-          "username": "magic-peach",
-          "name": null,
-          "title": "Labeled issue #7016 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7016",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-          "points": 2
-        },
-        {
-          "username": "blazethunderstorm",
-          "name": null,
-          "title": "Closed issue #6419 - 🐞 Bug - Navbar active state not working for some menu items.",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6419",
-          "avatar_url": "https://avatars.githubusercontent.com/u/149250431?v=4",
-          "points": 1
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "Closed issue #533 - Hide Unnecessary Dual Scrollbars in Verilog Code Window",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/533",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 1
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "Closed issue #532 - Performance Optimization",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/532",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 1
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "Labeled issue #506 - issue-metadata-needs-fix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/506",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 2
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "Closed issue #514 - 🐞 Bug - Minimap Rendering and incorrect Z-index",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/514",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 1
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "Closed issue #521 - Desktop Mini Window Navbar Toggle not expanding",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/521",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 1
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "Labeled issue #525 - issue-metadata-needs-fix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/525",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 2
-        },
-        {
-          "username": "hiraljj05",
-          "name": null,
-          "title": "Google auth fix",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/505",
-          "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
-          "points": 2
-        },
-        {
-          "username": "MaheepTulsian",
-          "name": null,
-          "title": "resolved issue #876 - Pinch Zoom Y-Axis Calculation Error",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/978",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148813478?v=4",
-          "points": 2
-        },
-        {
-          "username": "harshit-ht22",
-          "name": null,
-          "title": "Add user feedback message when closing assignments",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7018",
-          "avatar_url": "https://avatars.githubusercontent.com/u/197410420?v=4",
-          "points": 2
-        },
-        {
-          "username": "swastim01",
-          "name": null,
-          "title": "docs - improve clarity and formatting of API documentation setup instr…",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7014",
-          "avatar_url": "https://avatars.githubusercontent.com/u/140950062?v=4",
           "points": 2
         }
       ]
@@ -2230,7 +2246,7 @@
           "name": null,
           "title": "Closed issue #822 - Missing help link for Two’s Complement component",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/822",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
           "points": 1
         },
         {
@@ -2282,19 +2298,19 @@
           "points": 2
         },
         {
-          "username": "MYMISERABLEMIND17",
-          "name": null,
-          "title": "Improve clarity and correctness in Chapter 4 (Muxandplex) documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/535",
-          "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
-          "points": 2
-        },
-        {
           "username": "Omkar-Wagholikar",
           "name": null,
           "title": "fix - correct typo in separator variable in base_controller pagination",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7121",
           "avatar_url": "https://avatars.githubusercontent.com/u/104051137?v=4",
+          "points": 2
+        },
+        {
+          "username": "MYMISERABLEMIND17",
+          "name": null,
+          "title": "Improve clarity and correctness in Chapter 4 (Muxandplex) documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/535",
+          "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
           "points": 2
         },
         {
@@ -2315,7 +2331,7 @@
           "name": null,
           "title": "Review on PR #931",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/931",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
           "points": 4
         },
         {
@@ -2323,7 +2339,7 @@
           "name": null,
           "title": "Closed issue #927 - 🐞 Bug - Simulator stops responding after \"Recover Project\"",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/927",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
           "points": 1
         },
         {
@@ -2703,35 +2719,6 @@
           "link": "https://github.com/CircuitVerse/mobile-app/issues/518",
           "avatar_url": "https://avatars.githubusercontent.com/u/194534987?v=4",
           "points": 1
-        }
-      ]
-    ],
-    [
-      "2026-03-08",
-      [
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "ci - skip tauri macos aarch64 build on pull requests",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1010",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 2
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Feature - Live Theme Editor with Real-time Customization",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1011",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 1
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Labeled issue #1011 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1011",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 2
         }
       ]
     ]

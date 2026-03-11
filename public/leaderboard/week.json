@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1773104328238,
-  "startDate": "2026-03-03",
-  "endDate": "2026-03-10",
+  "updatedAt": 1773190777425,
+  "startDate": "2026-03-04",
+  "endDate": "2026-03-11",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -317,87 +317,92 @@
       ]
     },
     {
-      "username": "harikrishna-au",
+      "username": "mundele2004",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/169121181?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183314359?v=4",
       "role": "Contributor",
       "total_points": 13,
       "activity_breakdown": {
         "PR opened": {
-          "count": 1,
-          "points": 2
+          "count": 2,
+          "points": 4
         },
         "Issue opened": {
           "count": 3,
           "points": 3
         },
         "Issue labeled": {
-          "count": 4,
-          "points": 8
+          "count": 3,
+          "points": 6
         }
       },
       "daily_activity": [
         {
-          "date": "2026-03-03",
-          "count": 8,
-          "points": 13
+          "date": "2026-03-10",
+          "count": 5,
+          "points": 8
+        },
+        {
+          "date": "2026-03-09",
+          "count": 3,
+          "points": 5
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-03-03T10:42:59Z",
-          "title": "MVP feat - separate simulator-embed-{version}.js as a distinct Vite build output",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/993",
+          "occured_at": "2026-03-10T11:51:51Z",
+          "title": "Fix v1 simulator base redirects",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1019",
           "points": 2
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-03-03T10:17:18Z",
-          "title": "bug - Rails session expiry and Vue simulator auth state silently desync",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/992",
+          "occured_at": "2026-03-10T18:59:50Z",
+          "title": "🐞 Bug - Windows - npm run lint fails in PowerShell due to xargs usage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1020",
           "points": 1
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-03-03T10:13:55Z",
-          "title": "feat - add a Debug Panel to inspect node signal values and contention details on simulation error",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/991",
+          "occured_at": "2026-03-10T00:54:43Z",
+          "title": "🐞 Bug - Custom mount path breaks v1 redirect logic",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1017",
           "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-03-10T18:59:52Z",
+          "title": "Labeled issue #1020 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1020",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-03-09T18:24:57Z",
+          "title": "Make simulator API base configurable",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1016",
+          "points": 2
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-03-03T10:10:54Z",
-          "title": "feat - produce simulator-embed-{version}.js as a separate Vite build output",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/990",
+          "occured_at": "2026-03-09T17:36:45Z",
+          "title": "🐞 Bug - Route-agnostic mounting breaks API requests (hard-coded /api/...)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1015",
           "points": 1
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-03-03T10:10:55Z",
-          "title": "Labeled issue #990 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/990",
+          "occured_at": "2026-03-10T00:54:44Z",
+          "title": "Labeled issue #1017 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1017",
           "points": 2
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-03-03T10:13:56Z",
-          "title": "Labeled issue #991 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/991",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-03-03T10:13:57Z",
-          "title": "Labeled issue #991 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/991",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-03-03T10:17:19Z",
-          "title": "Labeled issue #992 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/992",
+          "occured_at": "2026-03-09T17:36:46Z",
+          "title": "Labeled issue #1015 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1015",
           "points": 2
         }
       ]
@@ -577,42 +582,6 @@
       ]
     },
     {
-      "username": "Me-Priyank",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-      "role": "Contributor",
-      "total_points": 10,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 2,
-          "points": 10
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-03-03",
-          "count": 2,
-          "points": 10
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR merged",
-          "occured_at": "2026-03-03T06:09:25Z",
-          "title": "Fix/notification idor vulnerability",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6862",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-03-03T06:10:54Z",
-          "title": "fix(security) - prevent IDOR in StarsController",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6860",
-          "points": 5
-        }
-      ]
-    },
-    {
       "username": "Omkar-Wagholikar",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/104051137?v=4",
@@ -665,76 +634,6 @@
           "occured_at": "2026-03-04T17:07:59Z",
           "title": "fix - correct typo in separator variable in base_controller pagination",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7121",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "mundele2004",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/183314359?v=4",
-      "role": "Contributor",
-      "total_points": 8,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-03-09",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-03-10",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-03-09T18:24:57Z",
-          "title": "Make simulator API base configurable",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1016",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-03-10T00:54:43Z",
-          "title": "🐞 Bug - Custom mount path breaks v1 redirect logic",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1017",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-03-09T17:36:45Z",
-          "title": "🐞 Bug - Route-agnostic mounting breaks API requests (hard-coded /api/...)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1015",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-03-10T00:54:44Z",
-          "title": "Labeled issue #1017 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1017",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-03-09T17:36:46Z",
-          "title": "Labeled issue #1015 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1015",
           "points": 2
         }
       ]
@@ -865,68 +764,54 @@
       ]
     },
     {
-      "username": "hiraljj05",
+      "username": "Git-HimanshuRathi",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
       "role": "Contributor",
       "total_points": 7,
       "activity_breakdown": {
         "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "Issue opened": {
           "count": 1,
-          "points": 1
+          "points": 2
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
         }
       },
       "daily_activity": [
         {
-          "date": "2026-03-04",
+          "date": "2026-03-10",
           "count": 1,
           "points": 2
         },
         {
-          "date": "2026-03-03",
-          "count": 3,
+          "date": "2026-03-08",
+          "count": 1,
           "points": 5
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-03-04T18:16:23Z",
-          "title": "Fix/forgot password error handling",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/525",
+          "occured_at": "2026-03-10T10:14:11Z",
+          "title": "ci - add Tauri desktop testing workflow",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1018",
           "points": 2
         },
         {
-          "type": "PR opened",
-          "occured_at": "2026-03-03T15:34:16Z",
-          "title": "Fix logout navigation drawer UI not updating and navigate to Home screen",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/522",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-03-03T12:46:13Z",
-          "title": "Fix signup error handling and improve dialog for existing email",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/521",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-03-03T11:58:00Z",
-          "title": "Logout from Navigation Drawer does not navigate to Home screen or update UI immediately",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/520",
-          "points": 1
+          "type": "PR merged",
+          "occured_at": "2026-03-08T12:25:26Z",
+          "title": "fix(TabsBar) - toggle button now properly expands/collapses tabs bar height",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/703",
+          "points": 5
         }
       ]
     },
     {
-      "username": "AkshitBitsian356u",
+      "username": "SouparnaChatterjee",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/223644928?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115988950?v=4",
       "role": "Contributor",
       "total_points": 7,
       "activity_breakdown": {
@@ -945,7 +830,7 @@
       },
       "daily_activity": [
         {
-          "date": "2026-03-03",
+          "date": "2026-03-10",
           "count": 4,
           "points": 7
         }
@@ -953,98 +838,30 @@
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-03-03T18:35:21Z",
-          "title": "refactor - introduce shared apiClient wrapper (no migrations yet)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/995",
+          "occured_at": "2026-03-10T19:36:42Z",
+          "title": "feat - Add client-side Yosys WASM synthesis for Tauri desktop builds",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1022",
           "points": 2
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-03-03T16:20:22Z",
-          "title": "Feature - Centralize fetch logic into shared apiClient module",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/994",
+          "occured_at": "2026-03-10T19:24:06Z",
+          "title": "feat - Client-side Verilog synthesis via Yosys WASM for Tauri desktop builds",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1021",
           "points": 1
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-03-03T16:20:24Z",
-          "title": "Labeled issue #994 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/994",
+          "occured_at": "2026-03-10T19:24:07Z",
+          "title": "Labeled issue #1021 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1021",
           "points": 2
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-03-03T16:20:25Z",
-          "title": "Labeled issue #994 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/994",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Uday9909",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/178378295?v=4",
-      "role": "Contributor",
-      "total_points": 7,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
-        },
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-03-06",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-03-04",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-03-03",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-03-06T03:38:01Z",
-          "title": "🐞 Bug - Grades are deleted when an assignment is reopened due to submission fork destruction",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7128",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-03-06T03:38:02Z",
-          "title": "Labeled issue #7128 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7128",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-03-04T07:33:43Z",
-          "title": "fix - add model-level uniqueness validation for PendingInvitation email scoped to group (#6638)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7117",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-03-03T17:35:43Z",
-          "title": "Add model-level uniqueness validation for PendingInvitation (#6638)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7115",
+          "occured_at": "2026-03-10T19:24:08Z",
+          "title": "Labeled issue #1021 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1021",
           "points": 2
         }
       ]
@@ -1200,35 +1017,6 @@
       ]
     },
     {
-      "username": "Git-HimanshuRathi",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-      "role": "Contributor",
-      "total_points": 5,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-03-08",
-          "count": 1,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR merged",
-          "occured_at": "2026-03-08T12:25:26Z",
-          "title": "fix(TabsBar) - toggle button now properly expands/collapses tabs bar height",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/703",
-          "points": 5
-        }
-      ]
-    },
-    {
       "username": "Teesta-Mukherjee",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4",
@@ -1275,6 +1063,62 @@
           "occured_at": "2026-03-08T10:13:59Z",
           "title": "Labeled issue #7138 - 🌟 feature",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7138",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Uday9909",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/178378295?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        },
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-03-06",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-03-04",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-03-06T03:38:01Z",
+          "title": "🐞 Bug - Grades are deleted when an assignment is reopened due to submission fork destruction",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7128",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-03-06T03:38:02Z",
+          "title": "Labeled issue #7128 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7128",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-03-04T07:33:43Z",
+          "title": "fix - add model-level uniqueness validation for PendingInvitation email scoped to group (#6638)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7117",
           "points": 2
         }
       ]
@@ -1367,7 +1211,7 @@
     {
       "username": "vedant-jain03",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/76901313?u=5494d1c2d4646bf1ce4df09c0951f0b6dc47c33a&v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76901313?v=4",
       "role": "Maintainer",
       "total_points": 4,
       "activity_breakdown": {
@@ -1511,46 +1355,6 @@
       ]
     },
     {
-      "username": "yashmanjunath-74",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/194534987?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-03-03",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-03-03T05:59:13Z",
-          "title": "fix - resolve interactive-book rendering issue",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/519",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-03-03T01:49:10Z",
-          "title": "Fixed version conflicts - Upgraded compileSdk to 36, AGP to 8.9.1, Kotlin to 2.1.0, and Gradle to 8.11.1.",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/518",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "tachyons",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
@@ -1588,6 +1392,35 @@
           "title": "Closed issue #748 - Update TestBench Page",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/748",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "hiraljj05",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-03-04",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-03-04T18:16:23Z",
+          "title": "Fix/forgot password error handling",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/525",
+          "points": 2
         }
       ]
     },
@@ -1703,35 +1536,6 @@
           "occured_at": "2026-03-06T12:58:26Z",
           "title": "Add Simplified Chinese (zh) localization support to improve accessibility",
           "link": "https://github.com/CircuitVerse/mobile-app/issues/526",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "spc-28",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/139547705?v=4",
-      "role": "Contributor",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-03-03",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-03-03T23:11:55Z",
-          "title": "Open a circuit in Simulator web-view within the app",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/523",
           "points": 1
         }
       ]

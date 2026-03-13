@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1773276994053,
-  "lastFetchedAt": 1773276994053,
-  "startDate": "2025-03-12",
-  "endDate": "2026-03-12",
+  "updatedAt": 1773363714945,
+  "lastFetchedAt": 1773363714945,
+  "startDate": "2025-03-13",
+  "endDate": "2026-03-13",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -12,8 +12,12 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 536,
+      "total_points": 538,
       "activity_breakdown": {
+        "PR opened": {
+          "count": 54,
+          "points": 108
+        },
         "Issue opened": {
           "count": 49,
           "points": 49
@@ -21,10 +25,6 @@
         "Issue labeled": {
           "count": 29,
           "points": 58
-        },
-        "PR opened": {
-          "count": 53,
-          "points": 106
         },
         "Issue closed": {
           "count": 33,
@@ -40,6 +40,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-03-12",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-03-11",
           "count": 2,
@@ -412,6 +417,13 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-03-12T17:38:29Z",
+          "title": "feat(avo) - Add custom dashboard with admin statistics and metrics",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7154",
+          "points": 2
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-03-11T17:03:19Z",
@@ -32876,6 +32888,66 @@
       ]
     },
     {
+      "username": "SantamRC",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
+      "role": "Contributor",
+      "total_points": 8,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-03-12",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2026-02-28",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-31",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-03-12T23:23:48Z",
+          "title": "Fix - Deprecated Dependencies Upgraded to Latest Compatible Versions (Android)",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/530",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-03-12T15:49:38Z",
+          "title": "Proof of Concept - Added Structured JSON API Endpoint to be used by Flutter App",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/766",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-28T21:00:53Z",
+          "title": "Proof of Concept - Interactive Book Improvement",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/514",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-31T23:33:26Z",
+          "title": "Google Classroom Integration",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6797",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "solanki505",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/158484284?v=4",
@@ -35745,47 +35817,6 @@
           "occured_at": "2026-01-26T14:30:29Z",
           "title": "fix the page , now the link is working",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/508",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "SantamRC",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
-      "role": "Contributor",
-      "total_points": 4,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-02-28",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-31",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-28T21:00:53Z",
-          "title": "Proof of Concept - Interactive Book Improvement",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/514",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-31T23:33:26Z",
-          "title": "Google Classroom Integration",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6797",
           "points": 2
         }
       ]

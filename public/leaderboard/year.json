@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1784251434397,
-  "lastFetchedAt": 1784251434397,
-  "startDate": "2025-07-17",
-  "endDate": "2026-07-17",
+  "updatedAt": 1784337337495,
+  "lastFetchedAt": 1784337337495,
+  "startDate": "2025-07-18",
+  "endDate": "2026-07-18",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -6827,13 +6827,17 @@
     {
       "username": "tachyons",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?u=a7289671a2d228cf269bc52e064be89f13882e10&v=4",
       "role": "Maintainer",
-      "total_points": 680,
+      "total_points": 685,
       "activity_breakdown": {
+        "Review submitted": {
+          "count": 39,
+          "points": 156
+        },
         "Issue closed": {
-          "count": 332,
-          "points": 332
+          "count": 333,
+          "points": 333
         },
         "Issue opened": {
           "count": 25,
@@ -6842,10 +6846,6 @@
         "Issue labeled": {
           "count": 4,
           "points": 8
-        },
-        "Review submitted": {
-          "count": 38,
-          "points": 152
         },
         "PR merged": {
           "count": 23,
@@ -6857,6 +6857,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-07-17",
+          "count": 2,
+          "points": 5
+        },
         {
           "date": "2026-07-15",
           "count": 2,
@@ -7354,6 +7359,20 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-07-17T13:19:20Z",
+          "title": "Review on PR #1126",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1126",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-07-17T09:22:25Z",
+          "title": "Closed issue #1071 - (GSoC'26) Week 4 - Write canonicalSchema.json. Integrate validation in importCanonical.js.",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1071",
+          "points": 1
+        },
         {
           "type": "Issue closed",
           "occured_at": "2026-07-15T15:55:25Z",
@@ -14084,23 +14103,23 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
       "role": "Contributor",
-      "total_points": 431,
+      "total_points": 444,
       "activity_breakdown": {
         "PR opened": {
-          "count": 51,
-          "points": 102
+          "count": 53,
+          "points": 106
+        },
+        "Issue opened": {
+          "count": 43,
+          "points": 43
+        },
+        "Issue labeled": {
+          "count": 64,
+          "points": 128
         },
         "PR merged": {
           "count": 29,
           "points": 145
-        },
-        "Issue opened": {
-          "count": 40,
-          "points": 40
-        },
-        "Issue labeled": {
-          "count": 61,
-          "points": 122
         },
         "Issue closed": {
           "count": 22,
@@ -14108,6 +14127,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-07-17",
+          "count": 8,
+          "points": 13
+        },
         {
           "date": "2026-07-09",
           "count": 2,
@@ -14410,6 +14434,62 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-07-17T16:54:27Z",
+          "title": "fix(vuesim) - add bengali locale to vuesim",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1145",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-07-17T15:49:21Z",
+          "title": "Fix(vuesim) - use vue card text field instead of text input",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1142",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-07-17T16:40:39Z",
+          "title": "🐞 Bug - vuesim Add bengali language support in vuesim",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1144",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-07-17T16:00:11Z",
+          "title": "Feature Seperate build file for embed vue",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1143",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-07-17T15:46:22Z",
+          "title": "🐞 Bug - vuesim (ui) text field present while importing files",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1141",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-07-17T16:00:12Z",
+          "title": "Labeled issue #1143 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1143",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-07-17T16:40:40Z",
+          "title": "Labeled issue #1144 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1144",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-07-17T15:46:24Z",
+          "title": "Labeled issue #1141 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1141",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-07-09T18:13:22Z",
@@ -20420,11 +20500,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
       "role": "Contributor",
-      "total_points": 267,
+      "total_points": 277,
       "activity_breakdown": {
         "PR merged": {
-          "count": 10,
-          "points": 50
+          "count": 12,
+          "points": 60
         },
         "PR opened": {
           "count": 16,
@@ -20444,6 +20524,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-07-17",
+          "count": 2,
+          "points": 10
+        },
         {
           "date": "2026-07-14",
           "count": 1,
@@ -20556,6 +20641,20 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-07-17T14:04:46Z",
+          "title": "GSoC26 Phase 1 Report - Structured Format for Saved Circuit Data",
+          "link": "https://github.com/CircuitVerse/Blog/pull/271",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-07-17T09:22:23Z",
+          "title": "feat - add canonical JSON import pipeline with round-trip verification",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1131",
+          "points": 5
+        },
         {
           "type": "PR merged",
           "occured_at": "2026-07-14T17:14:41Z",
@@ -37197,6 +37296,187 @@
       ]
     },
     {
+      "username": "aryan7071",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+      "role": "Contributor",
+      "total_points": 45,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 5,
+          "points": 25
+        },
+        "PR opened": {
+          "count": 7,
+          "points": 14
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-07-17",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-07-13",
+          "count": 4,
+          "points": 10
+        },
+        {
+          "date": "2026-07-10",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-07-09",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-05-27",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2026-05-26",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2026-05-25",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-05-24",
+          "count": 3,
+          "points": 9
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-07-17T01:34:33Z",
+          "title": "Dependabot fix",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7652",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-07-13T20:24:30Z",
+          "title": "fix - use include instead of match with simple regex in contests_update_deadline_spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7652",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-07-13T15:31:08Z",
+          "title": "fix - bump view_component and websocket-driver to resolve known CVEs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7644",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-07-13T18:23:50Z",
+          "title": "🐞 Bug CI lint failing on master",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7651",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-07-13T18:23:51Z",
+          "title": "Labeled issue #7651 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7651",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-07-10T18:29:10Z",
+          "title": "fix - bump view_component and websocket-driver to resolve known CVEs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7644",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-07-09T19:59:01Z",
+          "title": "🐞 Bug - Bundler Audit Fails Due to Vulnerable view_component and websocket-driver Dependencies",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7636",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-07-09T19:59:02Z",
+          "title": "Labeled issue #7636 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7636",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-27T19:56:49Z",
+          "title": "fix - update jwt gem to 2.10.3 to patch CVE-2026-45363",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7439",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-05-27T08:16:26Z",
+          "title": "Fix/search no results bugfix",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7430",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-26T19:59:55Z",
+          "title": "Fix/search no results bugfix",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7430",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-05-26T17:31:37Z",
+          "title": "Fix #7197 - Show 'No circuits found' message",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7423",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-25T18:48:37Z",
+          "title": "Fix #7197 - Show 'No circuits found' message",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7423",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-24T17:04:37Z",
+          "title": "fix - uid-first lookup in from_omniauth to prevent duplicate accounts",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7401",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-05-24T09:45:40Z",
+          "title": "fix - patch CGI.parse for Ruby 4.0 compatibility in LTI specs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7397",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-05-24T15:09:50Z",
+          "title": "fix - patch CGI.parse for Ruby 4.0 compatibility in LTI specs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7397",
+          "points": 5
+        }
+      ]
+    },
+    {
       "username": "kunal-10-cloud",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/187593306?v=4",
@@ -37895,175 +38175,6 @@
           "title": "Enhanced filtering",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/89",
           "points": 1
-        }
-      ]
-    },
-    {
-      "username": "aryan7071",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-      "role": "Contributor",
-      "total_points": 40,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 7,
-          "points": 14
-        },
-        "PR merged": {
-          "count": 4,
-          "points": 20
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-07-13",
-          "count": 4,
-          "points": 10
-        },
-        {
-          "date": "2026-07-10",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-07-09",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-05-27",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2026-05-26",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2026-05-25",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-05-24",
-          "count": 3,
-          "points": 9
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-07-13T20:24:30Z",
-          "title": "fix - use include instead of match with simple regex in contests_update_deadline_spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7652",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-07-13T15:31:08Z",
-          "title": "fix - bump view_component and websocket-driver to resolve known CVEs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7644",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-07-13T18:23:50Z",
-          "title": "🐞 Bug CI lint failing on master",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7651",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-07-13T18:23:51Z",
-          "title": "Labeled issue #7651 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7651",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-07-10T18:29:10Z",
-          "title": "fix - bump view_component and websocket-driver to resolve known CVEs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7644",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-07-09T19:59:01Z",
-          "title": "🐞 Bug - Bundler Audit Fails Due to Vulnerable view_component and websocket-driver Dependencies",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7636",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-07-09T19:59:02Z",
-          "title": "Labeled issue #7636 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7636",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-27T19:56:49Z",
-          "title": "fix - update jwt gem to 2.10.3 to patch CVE-2026-45363",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7439",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-05-27T08:16:26Z",
-          "title": "Fix/search no results bugfix",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7430",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-26T19:59:55Z",
-          "title": "Fix/search no results bugfix",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7430",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-05-26T17:31:37Z",
-          "title": "Fix #7197 - Show 'No circuits found' message",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7423",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-25T18:48:37Z",
-          "title": "Fix #7197 - Show 'No circuits found' message",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7423",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-24T17:04:37Z",
-          "title": "fix - uid-first lookup in from_omniauth to prevent duplicate accounts",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7401",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-05-24T09:45:40Z",
-          "title": "fix - patch CGI.parse for Ruby 4.0 compatibility in LTI specs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7397",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-05-24T15:09:50Z",
-          "title": "fix - patch CGI.parse for Ruby 4.0 compatibility in LTI specs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7397",
-          "points": 5
         }
       ]
     },

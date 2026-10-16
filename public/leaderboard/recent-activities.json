@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792029917744,
+  "updatedAt": 1792115738486,
   "groups": [
     [
       "2026-10-13",
@@ -804,187 +804,6 @@
       ]
     ],
     [
-      "2026-10-02",
-      [
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #1153 - 🐞 Bug - vuesim update the forum link",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1153",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #1147 - 🐞 Bug - D/T/JK/SR flip-flops render as visually identical shapes on canvas — no type indicator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1147",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Review on PR #1299",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1299",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
-          "points": 4
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Closed issue #1152 - 🐞 Bug - Prompt dialog input not focused automatically and Enter key does not submit in v1",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1152",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
-          "points": 1
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "refactor - migrate search pagination from will_paginate to pagy",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7963",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "JituRewar",
-          "name": null,
-          "title": "feat - add auto-focus functionality to MessageBox component in V1",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1175",
-          "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
-          "points": 5
-        },
-        {
-          "username": "ManyaJain111",
-          "name": null,
-          "title": "WIP - update redis version in docker compose",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7956",
-          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
-          "points": 2
-        },
-        {
-          "username": "ManyaJain111",
-          "name": null,
-          "title": "🐞 Bug - CollaborationsController runs authorization before authentication for create/update/destroy",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7959",
-          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
-          "points": 1
-        },
-        {
-          "username": "ManyaJain111",
-          "name": null,
-          "title": "Labeled issue #7959 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7959",
-          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
-          "points": 2
-        },
-        {
-          "username": "ManyaJain111",
-          "name": null,
-          "title": "Labeled issue #7959 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7959",
-          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
-          "points": 2
-        },
-        {
-          "username": "iamtanishqjain",
-          "name": null,
-          "title": "fix(vuesim) - stop JK and SR flip flops throwing on the bit width shortcut",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1352",
-          "avatar_url": "https://avatars.githubusercontent.com/u/71930864?v=4",
-          "points": 2
-        },
-        {
-          "username": "iamtanishqjain",
-          "name": null,
-          "title": "🐞 Bug - pressing Q on a JK or SR flip flop throws, bit width ends up out of sync with its nodes",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1353",
-          "avatar_url": "https://avatars.githubusercontent.com/u/71930864?v=4",
-          "points": 1
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "🐞 Bug - Translation fails for \"Binary Coded Decimal Value\" in Hex-Bin-Dec Converter due to single-space replacement",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1358",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 1
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "🐞 Bug - Duplicate Hex-Bin-Dec Converter dialog rendered with duplicate DOM IDs",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1357",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 1
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "Labeled issue #1358 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1358",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 2
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "Labeled issue #1357 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1357",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 2
-        },
-        {
-          "username": "YashKumar-404",
-          "name": null,
-          "title": "perf - cache circuit data to stop statement_timeout on repeated reads (#7927)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7962",
-          "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
-          "points": 2
-        },
-        {
-          "username": "YashKumar-404",
-          "name": null,
-          "title": "fix - authenticate before authorization in CollaborationsController (#7959)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7961",
-          "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
-          "points": 2
-        },
-        {
-          "username": "YashKumar-404",
-          "name": null,
-          "title": "fix(auth) - fetch GitHub profile and emails in parallel on OAuth login (#7875)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7960",
-          "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
-          "points": 2
-        },
-        {
-          "username": "YashKumar-404",
-          "name": null,
-          "title": "fix(greetings) - make the welcome workflow work on fork PRs (#7029)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7958",
-          "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
-          "points": 2
-        },
-        {
-          "username": "YashKumar-404",
-          "name": null,
-          "title": "chore - standardize on a single pinned package manager (#7901)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7957",
-          "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
-          "points": 2
-        },
-        {
-          "username": "pinankshah8-Aa",
-          "name": null,
-          "title": "fix(vuesim) - distinguish flip-flop types on canvas",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1304",
-          "avatar_url": "https://avatars.githubusercontent.com/u/226854365?v=4",
-          "points": 5
-        }
-      ]
-    ],
-    [
       "2026-10-14",
       [
         {
@@ -1249,14 +1068,6 @@
           "points": 2
         },
         {
-          "username": "JituRewar",
-          "name": null,
-          "title": "fix(simulator) - prevent fit-to-selection shortcut from intercepting keyDown component input",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1369",
-          "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
-          "points": 5
-        },
-        {
           "username": "ManyaJain111",
           "name": null,
           "title": "🐞 Bug - 404 error after clicking keep editing circuit after saving",
@@ -1271,6 +1082,14 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1378",
           "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
           "points": 2
+        },
+        {
+          "username": "JituRewar",
+          "name": null,
+          "title": "fix(simulator) - prevent fit-to-selection shortcut from intercepting keyDown component input",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1369",
+          "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
+          "points": 5
         },
         {
           "username": "eshanthh",
@@ -1856,6 +1675,171 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/280",
           "avatar_url": "https://avatars.githubusercontent.com/u/239511134?v=4",
           "points": 1
+        }
+      ]
+    ],
+    [
+      "2026-10-15",
+      [
+        {
+          "username": "pantha704",
+          "name": null,
+          "title": "refactor(v1) - convert LSB and MSB modules to TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1448",
+          "avatar_url": "https://avatars.githubusercontent.com/u/100998543?v=4",
+          "points": 2
+        },
+        {
+          "username": "ManyaJain111",
+          "name": null,
+          "title": "🐞 Bug - Manual assignment close does not freeze student submissions",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8032",
+          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
+          "points": 1
+        },
+        {
+          "username": "ManyaJain111",
+          "name": null,
+          "title": "Labeled issue #8032 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8032",
+          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
+          "points": 2
+        },
+        {
+          "username": "tushaar-05",
+          "name": null,
+          "title": "refactor(v1) - convert Ground and Power modules to TypeScript (#1405)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1444",
+          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
+          "points": 2
+        },
+        {
+          "username": "amankv1234",
+          "name": null,
+          "title": "🐞 Bug - Fix broken Open Graph image preview (og - image 404) when sharing links",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8031",
+          "avatar_url": "https://avatars.githubusercontent.com/u/186990161?v=4",
+          "points": 1
+        },
+        {
+          "username": "amankv1234",
+          "name": null,
+          "title": "Labeled issue #8031 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8031",
+          "avatar_url": "https://avatars.githubusercontent.com/u/186990161?v=4",
+          "points": 2
+        },
+        {
+          "username": "Eternity0207",
+          "name": null,
+          "title": "fix(vuesim) - resize Keyboard in place when its buffer size changes",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1450",
+          "avatar_url": "https://avatars.githubusercontent.com/u/77221000?v=4",
+          "points": 2
+        },
+        {
+          "username": "Eternity0207",
+          "name": null,
+          "title": "fix(testbench) - reset sequential circuits before the first group in Run All",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1447",
+          "avatar_url": "https://avatars.githubusercontent.com/u/77221000?v=4",
+          "points": 2
+        },
+        {
+          "username": "Eternity0207",
+          "name": null,
+          "title": "🐞 Bug - Changing a Keyboard's Buffer Size deletes all its wires, its label and the buffered keys",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1449",
+          "avatar_url": "https://avatars.githubusercontent.com/u/77221000?v=4",
+          "points": 1
+        },
+        {
+          "username": "Eternity0207",
+          "name": null,
+          "title": "🐞 Bug - Sequential testbench \"Run All\" gives different results on the same circuit (no reset before the first group)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1446",
+          "avatar_url": "https://avatars.githubusercontent.com/u/77221000?v=4",
+          "points": 1
+        },
+        {
+          "username": "Eternity0207",
+          "name": null,
+          "title": "🐞 Bug - Simulator fails to load (blank page) in v0 and v1 after jQuery CDN removal — \"$ is not defined\" / \"jQuery is not defined\"",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1445",
+          "avatar_url": "https://avatars.githubusercontent.com/u/77221000?v=4",
+          "points": 1
+        },
+        {
+          "username": "Eternity0207",
+          "name": null,
+          "title": "Labeled issue #1449 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1449",
+          "avatar_url": "https://avatars.githubusercontent.com/u/77221000?v=4",
+          "points": 2
+        },
+        {
+          "username": "Eternity0207",
+          "name": null,
+          "title": "Labeled issue #1446 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1446",
+          "avatar_url": "https://avatars.githubusercontent.com/u/77221000?v=4",
+          "points": 2
+        },
+        {
+          "username": "Eternity0207",
+          "name": null,
+          "title": "Labeled issue #1445 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1445",
+          "avatar_url": "https://avatars.githubusercontent.com/u/77221000?v=4",
+          "points": 2
+        },
+        {
+          "username": "MYMISERABLEMIND17",
+          "name": null,
+          "title": "fix(hotkey_binder) - remove no-op if statements, loop storage writes, and invoke getOS() (#8015, #7913)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8033",
+          "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
+          "points": 2
+        },
+        {
+          "username": "MYMISERABLEMIND17",
+          "name": null,
+          "title": "fix(docs) - improve technical accuracy and component classification in Verilog docs (#531)",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/546",
+          "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
+          "points": 2
+        },
+        {
+          "username": "MYMISERABLEMIND17",
+          "name": null,
+          "title": "fix(docs) - resolve broken anchor links and heading slugs across chapters 4, 7, and 8",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/545",
+          "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
+          "points": 2
+        },
+        {
+          "username": "Jashan32",
+          "name": null,
+          "title": "fix - make home feature cards responsive across screen sizes",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/676",
+          "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
+          "points": 2
+        },
+        {
+          "username": "Jashan32",
+          "name": null,
+          "title": "Feature cards overflow on different screen sizes",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/675",
+          "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
+          "points": 1
+        },
+        {
+          "username": "astra-intelligence",
+          "name": null,
+          "title": "fix(seo) - add missing social preview image referenced by og - image (closes #8031)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8034",
+          "avatar_url": "https://avatars.githubusercontent.com/u/216119346?v=4",
+          "points": 2
         }
       ]
     ],

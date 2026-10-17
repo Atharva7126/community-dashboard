@@ -1,8 +1,8 @@
 {
   "period": "month",
-  "updatedAt": 1792115738481,
-  "startDate": "2026-09-16",
-  "endDate": "2026-10-16",
+  "updatedAt": 1792201810731,
+  "startDate": "2026-09-17",
+  "endDate": "2026-10-17",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -691,226 +691,6 @@
       ]
     },
     {
-      "username": "ShinichiShi",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-      "role": "Contributor",
-      "total_points": 54,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 5,
-          "points": 25
-        },
-        "PR opened": {
-          "count": 5,
-          "points": 10
-        },
-        "Issue opened": {
-          "count": 5,
-          "points": 5
-        },
-        "Issue labeled": {
-          "count": 5,
-          "points": 10
-        },
-        "Review submitted": {
-          "count": 1,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-13",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-10-12",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-10-01",
-          "count": 2,
-          "points": 10
-        },
-        {
-          "date": "2026-09-22",
-          "count": 4,
-          "points": 10
-        },
-        {
-          "date": "2026-09-19",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-09-18",
-          "count": 4,
-          "points": 9
-        },
-        {
-          "date": "2026-09-17",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-09-16",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-13T11:49:45Z",
-          "title": "fix - crash in subcircuit rendering when nodes are undefined",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1396",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-12T15:53:03Z",
-          "title": "fix - crash in subcircuit rendering when nodes are undefined",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1396",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-12T15:30:25Z",
-          "title": "🐞 Bug - vuesim crashes when saved node indices are stale/undefined",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1395",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T15:30:27Z",
-          "title": "Labeled issue #1395 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1395",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-01T08:30:13Z",
-          "title": "fix(vuesim) - ensure the title button is flipped properly",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1325",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-01T08:30:53Z",
-          "title": "Fix(vuesim) - testbench title and type not loading when editing",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1286",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-22T14:27:22Z",
-          "title": "fix(vuesim) - ensure the title button is flipped properly",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1325",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-09-22T12:27:00Z",
-          "title": "fix - add report issue modal to redirect to forums",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1318",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-22T14:22:19Z",
-          "title": "🐞 Bug - vuesim switch of title enabling in layout is flipped",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1324",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-22T14:22:21Z",
-          "title": "Labeled issue #1324 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1324",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-19T16:25:03Z",
-          "title": "fix - add report issue modal to redirect to forums",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1318",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-19T13:38:19Z",
-          "title": "🐞 Bug - vuesim The bug reporting modal doesnt function as expected",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1315",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-19T13:38:21Z",
-          "title": "Labeled issue #1315 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1315",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-18T14:01:58Z",
-          "title": "fix - add condition to prevent blank description from being reported",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1313",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-18T13:57:39Z",
-          "title": "🐞 Bug - vuesim Bug reporting allows blank text to be sent",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1312",
-          "points": 1
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-09-18T16:24:41Z",
-          "title": "Review on PR #1303",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1303",
-          "points": 4
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-18T13:57:41Z",
-          "title": "Labeled issue #1312 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1312",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-09-17T08:42:47Z",
-          "title": "fix(vuesim) - Combinational Analysis tool reads the input from table",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1309",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-16T16:29:34Z",
-          "title": "fix(vuesim) - Combinational Analysis tool reads the input from table",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1309",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-16T16:08:16Z",
-          "title": "🐞 Bug - vuesim The combinational analysis fails to generate circuit",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1307",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-16T16:08:18Z",
-          "title": "Labeled issue #1307 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1307",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "iamtanishqjain",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/71930864?v=4",
@@ -1436,6 +1216,200 @@
       ]
     },
     {
+      "username": "ShinichiShi",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+      "role": "Contributor",
+      "total_points": 49,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 5,
+          "points": 25
+        },
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        },
+        "Issue opened": {
+          "count": 4,
+          "points": 4
+        },
+        "Issue labeled": {
+          "count": 4,
+          "points": 8
+        },
+        "Review submitted": {
+          "count": 1,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-13",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-10-12",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-10-01",
+          "count": 2,
+          "points": 10
+        },
+        {
+          "date": "2026-09-22",
+          "count": 4,
+          "points": 10
+        },
+        {
+          "date": "2026-09-19",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-09-18",
+          "count": 4,
+          "points": 9
+        },
+        {
+          "date": "2026-09-17",
+          "count": 1,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-13T11:49:45Z",
+          "title": "fix - crash in subcircuit rendering when nodes are undefined",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1396",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-12T15:53:03Z",
+          "title": "fix - crash in subcircuit rendering when nodes are undefined",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1396",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-12T15:30:25Z",
+          "title": "🐞 Bug - vuesim crashes when saved node indices are stale/undefined",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1395",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-12T15:30:27Z",
+          "title": "Labeled issue #1395 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1395",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-01T08:30:13Z",
+          "title": "fix(vuesim) - ensure the title button is flipped properly",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1325",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-01T08:30:53Z",
+          "title": "Fix(vuesim) - testbench title and type not loading when editing",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1286",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-22T14:27:22Z",
+          "title": "fix(vuesim) - ensure the title button is flipped properly",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1325",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-09-22T12:27:00Z",
+          "title": "fix - add report issue modal to redirect to forums",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1318",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-22T14:22:19Z",
+          "title": "🐞 Bug - vuesim switch of title enabling in layout is flipped",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1324",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-22T14:22:21Z",
+          "title": "Labeled issue #1324 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1324",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-19T16:25:03Z",
+          "title": "fix - add report issue modal to redirect to forums",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1318",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-19T13:38:19Z",
+          "title": "🐞 Bug - vuesim The bug reporting modal doesnt function as expected",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1315",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-19T13:38:21Z",
+          "title": "Labeled issue #1315 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1315",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-18T14:01:58Z",
+          "title": "fix - add condition to prevent blank description from being reported",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1313",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-18T13:57:39Z",
+          "title": "🐞 Bug - vuesim Bug reporting allows blank text to be sent",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1312",
+          "points": 1
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-09-18T16:24:41Z",
+          "title": "Review on PR #1303",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1303",
+          "points": 4
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-18T13:57:41Z",
+          "title": "Labeled issue #1312 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1312",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-09-17T08:42:47Z",
+          "title": "fix(vuesim) - Combinational Analysis tool reads the input from table",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1309",
+          "points": 5
+        }
+      ]
+    },
+    {
       "username": "UwaisBaig",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
@@ -1643,15 +1617,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
       "role": "Contributor",
-      "total_points": 40,
+      "total_points": 43,
       "activity_breakdown": {
         "Issue opened": {
-          "count": 6,
-          "points": 6
+          "count": 7,
+          "points": 7
         },
         "Issue labeled": {
-          "count": 7,
-          "points": 14
+          "count": 8,
+          "points": 16
         },
         "PR opened": {
           "count": 5,
@@ -1663,6 +1637,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-16",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-10-15",
           "count": 2,
@@ -1710,6 +1689,20 @@
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-16T12:05:41Z",
+          "title": "🐞 Bug - secondary mentors launching from LMS are treated as students",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8041",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-16T12:05:43Z",
+          "title": "Labeled issue #8041 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8041",
+          "points": 2
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-10-15T09:08:25Z",
@@ -3386,135 +3379,23 @@
       ]
     },
     {
-      "username": "cynicalmindset",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/166590584?v=4",
-      "role": "Contributor",
-      "total_points": 17,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        },
-        "Issue opened": {
-          "count": 5,
-          "points": 5
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-03",
-          "count": 6,
-          "points": 10
-        },
-        {
-          "date": "2026-09-19",
-          "count": 3,
-          "points": 4
-        },
-        {
-          "date": "2026-09-17",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-03T20:28:48Z",
-          "title": "fix(vuesim) - preserve connected wires when resizing TTY rows and columns",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1365",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-03T19:47:31Z",
-          "title": "fix(vuesim) - synchronize outputBitWidth on newBitWidth in Verilog modules (#1362)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1363",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-03T20:02:38Z",
-          "title": "🐞 Bug - Changing TTY rows or columns deletes all connected wires",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1364",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-03T19:28:57Z",
-          "title": "🐞 Bug - outputBitWidth de-synchronization on newBitWidth() in Verilog arithmetic elements",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1362",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-03T20:02:39Z",
-          "title": "Labeled issue #1364 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1364",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-03T19:28:58Z",
-          "title": "Labeled issue #1362 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1362",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-19T04:03:44Z",
-          "title": "feat(i18n) - extract hardcoded strings into localization arb files",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/670",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-19T03:48:14Z",
-          "title": "feat(i18n) - extract hardcoded strings into localization arb files",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/669",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-19T03:21:13Z",
-          "title": "unhandled UnauthorizedException in NotificationsService and missing unit tests",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/668",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-17T01:47:35Z",
-          "title": "fix(notifications) - replace incorrect GROUP_NOT_FOUND with NOTIFICATION_NOT_FOUND",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/666",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-17T01:39:03Z",
-          "title": "Bug/Tests - Fix incorrect 404 error constant in NotificationsService",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/665",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "magic-peach",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
       "role": "Contributor",
-      "total_points": 16,
+      "total_points": 18,
       "activity_breakdown": {
         "PR opened": {
-          "count": 8,
-          "points": 16
+          "count": 9,
+          "points": 18
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-16",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-10-14",
           "count": 1,
@@ -3552,6 +3433,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-16T07:27:12Z",
+          "title": "feat(groups) - add self-referential subgroups data layer",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8038",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-10-14T16:40:34Z",
@@ -3611,85 +3499,9 @@
       ]
     },
     {
-      "username": "ujjwalv01",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/219022963?v=4",
-      "role": "Contributor",
-      "total_points": 16,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 2,
-          "points": 10
-        },
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-13",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-09-26",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-09-17",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2026-09-16",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-13T13:27:06Z",
-          "title": "feat(simulator) - Move keyboard, clipboard and Tauri bindings from `listeners.js` into composables",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1310",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-26T20:16:14Z",
-          "title": "chore(config) - remove duplicate `Rack - - Attack` and dead Solid Queue plugin",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7920",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-17T10:19:24Z",
-          "title": "feat(simulator) - Move keyboard, clipboard and Tauri bindings from `listeners.js` into composables",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1310",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-09-17T08:46:41Z",
-          "title": "feat(simulator) - Move canvas pointer input from `listeners.js` into `SimulatorCanvas.vue`",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1308",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-16T16:19:07Z",
-          "title": "feat(simulator) - Move canvas pointer input from `listeners.js` into `SimulatorCanvas.vue`",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1308",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "naman79820",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
       "total_points": 15,
       "activity_breakdown": {
@@ -3760,6 +3572,168 @@
           "occured_at": "2026-09-24T11:19:20Z",
           "title": "Closed issue #7858 - 🐞 BugWhite profile icon is displayed incorrectly.",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7858",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "ujjwalv01",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/219022963?v=4",
+      "role": "Contributor",
+      "total_points": 14,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 2,
+          "points": 10
+        },
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-13",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-09-26",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-09-17",
+          "count": 2,
+          "points": 7
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-13T13:27:06Z",
+          "title": "feat(simulator) - Move keyboard, clipboard and Tauri bindings from `listeners.js` into composables",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1310",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-26T20:16:14Z",
+          "title": "chore(config) - remove duplicate `Rack - - Attack` and dead Solid Queue plugin",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7920",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-17T10:19:24Z",
+          "title": "feat(simulator) - Move keyboard, clipboard and Tauri bindings from `listeners.js` into composables",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1310",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-09-17T08:46:41Z",
+          "title": "feat(simulator) - Move canvas pointer input from `listeners.js` into `SimulatorCanvas.vue`",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1308",
+          "points": 5
+        }
+      ]
+    },
+    {
+      "username": "cynicalmindset",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/166590584?v=4",
+      "role": "Contributor",
+      "total_points": 14,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        },
+        "Issue opened": {
+          "count": 4,
+          "points": 4
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-03",
+          "count": 6,
+          "points": 10
+        },
+        {
+          "date": "2026-09-19",
+          "count": 3,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-03T20:28:48Z",
+          "title": "fix(vuesim) - preserve connected wires when resizing TTY rows and columns",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1365",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-03T19:47:31Z",
+          "title": "fix(vuesim) - synchronize outputBitWidth on newBitWidth in Verilog modules (#1362)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1363",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-03T20:02:38Z",
+          "title": "🐞 Bug - Changing TTY rows or columns deletes all connected wires",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1364",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-03T19:28:57Z",
+          "title": "🐞 Bug - outputBitWidth de-synchronization on newBitWidth() in Verilog arithmetic elements",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1362",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-03T20:02:39Z",
+          "title": "Labeled issue #1364 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1364",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-03T19:28:58Z",
+          "title": "Labeled issue #1362 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1362",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-19T04:03:44Z",
+          "title": "feat(i18n) - extract hardcoded strings into localization arb files",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/670",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-19T03:48:14Z",
+          "title": "feat(i18n) - extract hardcoded strings into localization arb files",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/669",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-19T03:21:13Z",
+          "title": "unhandled UnauthorizedException in NotificationsService and missing unit tests",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/668",
           "points": 1
         }
       ]
@@ -4090,69 +4064,56 @@
       ]
     },
     {
-      "username": "Khwa678",
+      "username": "MYMISERABLEMIND17",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/148669282?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
       "role": "Contributor",
-      "total_points": 9,
+      "total_points": 8,
       "activity_breakdown": {
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        },
-        "Issue labeled": {
-          "count": 3,
-          "points": 6
+        "PR opened": {
+          "count": 4,
+          "points": 8
         }
       },
       "daily_activity": [
         {
-          "date": "2026-09-16",
-          "count": 6,
-          "points": 9
+          "date": "2026-10-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-15",
+          "count": 3,
+          "points": 6
         }
       ],
       "activities": [
         {
-          "type": "Issue opened",
-          "occured_at": "2026-09-16T18:47:00Z",
-          "title": "🐞 Bug - Incorrect Comparison Precedence — utils.ts",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7874",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-16T18:45:03Z",
-          "title": "🐞 BugHigh-Severity Issues 1. Incorrect Nullish Coalescing Precedence — DeleteCircuit.vue",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7873",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-16T18:23:03Z",
-          "title": "🐞 Bug Oxlint - 211 warnings across cv-frontend-vue",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7872",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-16T18:23:05Z",
-          "title": "Labeled issue #7872 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7872",
+          "type": "PR opened",
+          "occured_at": "2026-10-16T03:59:18Z",
+          "title": "fix(project) - reset stars_count to 0 on project fork (#8023)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8035",
           "points": 2
         },
         {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-16T18:47:02Z",
-          "title": "Labeled issue #7874 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7874",
+          "type": "PR opened",
+          "occured_at": "2026-10-15T19:52:41Z",
+          "title": "fix(hotkey_binder) - remove no-op if statements, loop storage writes, and invoke getOS() (#8015, #7913)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8033",
           "points": 2
         },
         {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-16T18:45:04Z",
-          "title": "Labeled issue #7873 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7873",
+          "type": "PR opened",
+          "occured_at": "2026-10-15T19:45:21Z",
+          "title": "fix(docs) - improve technical accuracy and component classification in Verilog docs (#531)",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/546",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-15T19:43:50Z",
+          "title": "fix(docs) - resolve broken anchor links and heading slugs across chapters 4, 7, and 8",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/545",
           "points": 2
         }
       ]
@@ -4208,6 +4169,51 @@
           "occured_at": "2026-10-06T05:43:45Z",
           "title": "fix(api) - handle missing page parameter in search_projects",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7983",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "SantamRC",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
+      "role": "Contributor",
+      "total_points": 7,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-16",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-09-17",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-16T19:19:19Z",
+          "title": "fix - pin intl and html to versions the app builds with",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/667",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-17T19:26:05Z",
+          "title": "fix - pin intl and html to versions the app builds with",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/667",
           "points": 2
         }
       ]
@@ -4369,49 +4375,6 @@
       ]
     },
     {
-      "username": "MYMISERABLEMIND17",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-15",
-          "count": 3,
-          "points": 6
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-15T19:52:41Z",
-          "title": "fix(hotkey_binder) - remove no-op if statements, loop storage writes, and invoke getOS() (#8015, #7913)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8033",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-15T19:45:21Z",
-          "title": "fix(docs) - improve technical accuracy and component classification in Verilog docs (#531)",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/546",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-15T19:43:50Z",
-          "title": "fix(docs) - resolve broken anchor links and heading slugs across chapters 4, 7, and 8",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/545",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "VishalSirimalla",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/221854121?v=4",
@@ -4551,6 +4514,53 @@
           "occured_at": "2026-09-25T10:49:59Z",
           "title": "Labeled issue #7913 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7913",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "durgeshbg",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/84910181?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-16",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-16T02:02:43Z",
+          "title": "🐞 Bug - Circuit tabs use undefined draggable keys when reordered or closed",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1451",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-16T02:02:44Z",
+          "title": "Labeled issue #1451 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1451",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-16T02:02:45Z",
+          "title": "Labeled issue #1451 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1451",
           "points": 2
         }
       ]
@@ -4991,30 +5001,30 @@
       ]
     },
     {
-      "username": "SantamRC",
+      "username": "JatsuAkaYashvant",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
-      "role": "Contributor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
+      "role": "Maintainer",
       "total_points": 2,
       "activity_breakdown": {
-        "PR opened": {
+        "Issue labeled": {
           "count": 1,
           "points": 2
         }
       },
       "daily_activity": [
         {
-          "date": "2026-09-17",
+          "date": "2026-10-16",
           "count": 1,
           "points": 2
         }
       ],
       "activities": [
         {
-          "type": "PR opened",
-          "occured_at": "2026-09-17T19:26:05Z",
-          "title": "fix - pin intl and html to versions the app builds with",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/667",
+          "type": "Issue labeled",
+          "occured_at": "2026-10-16T18:46:14Z",
+          "title": "Labeled issue #8031 - ui",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8031",
           "points": 2
         }
       ]
@@ -5044,6 +5054,35 @@
           "occured_at": "2026-10-15T13:30:34Z",
           "title": "refactor(v1) - convert LSB and MSB modules to TypeScript",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1448",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "minnimaggu-lgtm",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/232153152?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-16",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-16T06:12:34Z",
+          "title": "Fix - snapshot student projects when mentor manually closes assignment",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8036",
           "points": 2
         }
       ]

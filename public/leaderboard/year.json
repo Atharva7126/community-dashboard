@@ -1,16 +1,16 @@
 {
   "period": "year",
-  "updatedAt": 1792115738458,
-  "lastFetchedAt": 1792115738458,
-  "startDate": "2025-10-16",
-  "endDate": "2026-10-16",
+  "updatedAt": 1792201810705,
+  "lastFetchedAt": 1792201810705,
+  "startDate": "2025-10-17",
+  "endDate": "2026-10-17",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
     {
       "username": "naman79820",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
       "total_points": 1100,
       "activity_breakdown": {
@@ -17059,11 +17059,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
       "role": "Contributor",
-      "total_points": 532,
+      "total_points": 534,
       "activity_breakdown": {
         "PR opened": {
-          "count": 78,
-          "points": 156
+          "count": 79,
+          "points": 158
         },
         "PR merged": {
           "count": 10,
@@ -17087,6 +17087,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-16",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-10-14",
           "count": 1,
@@ -17264,6 +17269,13 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-16T07:27:12Z",
+          "title": "feat(groups) - add self-referential subgroups data layer",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8038",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-10-14T16:40:34Z",
@@ -23227,6 +23239,1124 @@
       ]
     },
     {
+      "username": "JatsuAkaYashvant",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
+      "role": "Maintainer",
+      "total_points": 311,
+      "activity_breakdown": {
+        "Issue labeled": {
+          "count": 14,
+          "points": 28
+        },
+        "Review submitted": {
+          "count": 16,
+          "points": 64
+        },
+        "Issue closed": {
+          "count": 11,
+          "points": 11
+        },
+        "PR opened": {
+          "count": 32,
+          "points": 64
+        },
+        "PR merged": {
+          "count": 26,
+          "points": 130
+        },
+        "Issue opened": {
+          "count": 14,
+          "points": 14
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-09-02",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-07-16",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-07-15",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-07-10",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-05-30",
+          "count": 3,
+          "points": 4
+        },
+        {
+          "date": "2026-05-28",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-05-25",
+          "count": 11,
+          "points": 16
+        },
+        {
+          "date": "2026-05-22",
+          "count": 6,
+          "points": 12
+        },
+        {
+          "date": "2026-03-05",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-02-26",
+          "count": 2,
+          "points": 8
+        },
+        {
+          "date": "2026-02-23",
+          "count": 2,
+          "points": 5
+        },
+        {
+          "date": "2026-02-22",
+          "count": 4,
+          "points": 13
+        },
+        {
+          "date": "2026-02-12",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-02-03",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-02-02",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-01-31",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-25",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2025-10-30",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-10-22",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-09-21",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-09-20",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-09-14",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-09-07",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-08-31",
+          "count": 4,
+          "points": 14
+        },
+        {
+          "date": "2025-08-28",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-08-25",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-08-12",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2025-08-10",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-08-06",
+          "count": 2,
+          "points": 10
+        },
+        {
+          "date": "2025-08-05",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2025-07-30",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2025-07-29",
+          "count": 2,
+          "points": 10
+        },
+        {
+          "date": "2025-07-28",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-07-21",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-07-19",
+          "count": 3,
+          "points": 9
+        },
+        {
+          "date": "2025-07-17",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-07-08",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-07-07",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-06-26",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-06-24",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-06-22",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2025-06-20",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2025-06-18",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-06-17",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-06-11",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-06-09",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2025-06-08",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-06-06",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2025-04-08",
+          "count": 8,
+          "points": 8
+        },
+        {
+          "date": "2025-04-06",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-04-05",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2025-04-04",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2025-04-03",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2025-04-02",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2025-04-01",
+          "count": 4,
+          "points": 14
+        },
+        {
+          "date": "2025-03-30",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-03-26",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-16T18:46:14Z",
+          "title": "Labeled issue #8031 - ui",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8031",
+          "points": 2
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-09-02T17:41:23Z",
+          "title": "Review on PR #802",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/802",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-07-16T14:43:36Z",
+          "title": "Review on PR #272",
+          "link": "https://github.com/CircuitVerse/Blog/pull/272",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-07-15T07:56:11Z",
+          "title": "Review on PR #272",
+          "link": "https://github.com/CircuitVerse/Blog/pull/272",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-07-10T17:40:31Z",
+          "title": "Review on PR #268",
+          "link": "https://github.com/CircuitVerse/Blog/pull/268",
+          "points": 4
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-30T16:42:27Z",
+          "title": "Labeled issue #489 - mergathon - closed-outdated",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/489",
+          "points": 2
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-30T16:42:34Z",
+          "title": "Closed issue #489 - Add Issue & PR Label Guide for Project Documentation",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/489",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-30T17:10:23Z",
+          "title": "Closed issue #613 - Chapter 1",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/613",
+          "points": 1
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-05-28T20:17:22Z",
+          "title": "Review on PR #593",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/593",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-25T20:12:03Z",
+          "title": "Closed issue #510 - Deprecation warning - synthetic-package option in `l10n.yaml` has no effect",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/510",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-25T19:58:16Z",
+          "title": "Labeled issue #259 - mergathon - closed-outdated",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/259",
+          "points": 2
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-25T19:58:19Z",
+          "title": "Closed issue #259 - Open links of `About Page` in browser",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/259",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-25T19:51:15Z",
+          "title": "Labeled issue #260 - mergathon - closed-outdated",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/260",
+          "points": 2
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-25T19:51:18Z",
+          "title": "Closed issue #260 - Open links of `Contribute Page` in browser",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/260",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-25T19:21:56Z",
+          "title": "Closed issue #74 - feature - Implementing Lazy Loading(Scroll to load) for FeaturedProjectView",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/74",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-25T19:37:49Z",
+          "title": "Labeled issue #74 - mergathon - closed-outdated",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/74",
+          "points": 2
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-25T19:02:43Z",
+          "title": "Closed issue #41 - Feature - Add the ability to search Projects and Users within the App.",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/41",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-25T19:36:19Z",
+          "title": "Labeled issue #41 - mergathon - closed-outdated",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/41",
+          "points": 2
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-05-25T18:48:37Z",
+          "title": "Closed issue #36 - Simulator for Mobile App",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/36",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-25T19:36:04Z",
+          "title": "Labeled issue #36 - mergathon - closed-outdated",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/36",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-22T06:05:10Z",
+          "title": "Labeled issue #597 - GSoC'26",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/597",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-22T06:05:53Z",
+          "title": "Labeled issue #597 - auth",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/597",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-22T06:06:50Z",
+          "title": "Labeled issue #594 - GSoC'26",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/594",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-22T06:09:36Z",
+          "title": "Labeled issue #594 - state-management",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/594",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-22T06:02:12Z",
+          "title": "Labeled issue #595 - GSoC'26",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/595",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-05-22T06:03:41Z",
+          "title": "Labeled issue #596 - GSoC'26",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/596",
+          "points": 2
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-03-05T05:59:28Z",
+          "title": "Review on PR #6465",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6465",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-26T21:00:39Z",
+          "title": "Review on PR #7071",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7071",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-26T18:09:13Z",
+          "title": "Review on PR #7070",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7070",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-23T03:56:23Z",
+          "title": "Review on PR #6598",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6598",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-23T11:56:53Z",
+          "title": "Closed issue #516 - Add Subtractor as a Core Logical Tool in Misc Menu",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/516",
+          "points": 1
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-22T12:23:12Z",
+          "title": "Review on PR #6803",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6803",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-22T12:20:13Z",
+          "title": "Review on PR #6900",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6900",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-22T12:18:14Z",
+          "title": "Review on PR #758",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/758",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-02-22T11:00:39Z",
+          "title": "Closed issue #928 - 🐞 Bug - \"Download as Image\" Modal inconsistency issues",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/928",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-02-12T07:20:02Z",
+          "title": "Labeled issue #489 - documentation",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/489",
+          "points": 2
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-03T09:54:20Z",
+          "title": "Review on PR #915",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/915",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-02-02T06:22:32Z",
+          "title": "Review on PR #913",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/913",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-01-31T16:24:49Z",
+          "title": "Closed issue #149 - Fix and enable linter rules",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/149",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-04-05T14:34:56Z",
+          "title": "Terms of service button fix",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/335",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-04-04T19:22:45Z",
+          "title": "Terms of service button fix",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/333",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-04-03T21:47:49Z",
+          "title": "I have fixed the UI of view button in the featured circuit page",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/331",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-04-02T17:14:40Z",
+          "title": "I have introduced an icon to open circuit link in browser",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/326",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-04-02T15:04:52Z",
+          "title": "I have introduced an icon to open circuit link in browser",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/325",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-04-02T13:18:45Z",
+          "title": "Improved homepage CTA buttons with responsive sizing, icons, and visual consistency. Solving Issue - #321",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/322",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-04-01T10:33:32Z",
+          "title": "I have resolved the issue of overflow in notification screen and added \"No notifications found\" message when filteredNotifications is empty",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/314",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-04-01T10:10:40Z",
+          "title": "I have made the mail us at feature functional",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/313",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-03-30T20:14:52Z",
+          "title": "mail-us-at feature issue resolved",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/310",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-06-24T10:27:05Z",
+          "title": "Add RTL Language Support with Arabic Translations",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/391",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-06-20T12:08:26Z",
+          "title": "Text capitalization and formatting",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/385",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-06-17T11:42:50Z",
+          "title": "Modernized codebase for multilingual support",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/381",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-06-09T20:13:09Z",
+          "title": "Improved Profile Editing with Enhanced Typeahead and UI Fixes",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/378",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-06-08T11:57:31Z",
+          "title": "fix(localization) - resolve flutter_gen and imageBuilder errors",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/375",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-06-06T21:41:53Z",
+          "title": "Flutter gen resolve",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/373",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-06-06T20:12:32Z",
+          "title": "Resolved the deprecated imageBuilder",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/372",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-07-30T11:30:32Z",
+          "title": "Profile card revamp",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/411",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-07-28T12:30:20Z",
+          "title": "Project re-editing feature",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/409",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-07-19T16:45:54Z",
+          "title": "Featured circuit card",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/406",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-07-19T15:55:48Z",
+          "title": "chore - upgrade flutter_lints from 5.0.0 to 6.0.0",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/405",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-07-17T08:02:07Z",
+          "title": "Project 7 - Flutter Upgrade",
+          "link": "https://github.com/CircuitVerse/Blog/pull/240",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-07-07T16:29:52Z",
+          "title": "Enhance CI with automated releases",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/398",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-08-31T08:50:23Z",
+          "title": "Final report for GSoC 2025 Project 7",
+          "link": "https://github.com/CircuitVerse/Blog/pull/248",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-08-31T08:04:14Z",
+          "title": "Improve UX",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/433",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-08-25T11:19:21Z",
+          "title": "Fix - Remove flutter_facebook_auth dependency",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/429",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-08-12T18:29:49Z",
+          "title": "Upgrade AGP to 8.5.0 and Gradle to 8.7 for Kotlin 2.1.10 compatibility",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/425",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-08-10T11:00:44Z",
+          "title": "Enhance Simulator Download & External Link Handling with Android 13+ Media Support",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/421",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-08-05T17:36:25Z",
+          "title": "Share button in the Featured Circuit Card",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/417",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-08-05T11:11:42Z",
+          "title": "Project details pre-fills saved data and added tags",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/415",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-09-20T19:23:05Z",
+          "title": "Enable R8 optimization and add ProGuard rules",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/438",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-09-07T21:40:23Z",
+          "title": "Migrate share_plus to v11.1.0 and upgrade AGP and Gradle version",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/436",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-10-22T17:17:05Z",
+          "title": "Update README with multilingual support section and new screenshots",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/440",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-04-04T19:58:14Z",
+          "title": "I have fixed the UI of view button in the featured circuit page",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/331",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-04-05T11:23:07Z",
+          "title": "I have introduced an icon to open circuit link in browser",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/326",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-04-03T20:29:05Z",
+          "title": "Improved homepage CTA buttons with responsive sizing, icons, and visual consistency. Solving Issue - #321",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/322",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-04-01T20:28:19Z",
+          "title": "I have resolved the issue of overflow in notification screen and added \"No notifications found\" message when filteredNotifications is empty",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/314",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-04-01T19:03:22Z",
+          "title": "I have made the mail us at feature functional",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/313",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-04-06T16:02:54Z",
+          "title": "Terms of service button fix",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/335",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-06-26T17:46:43Z",
+          "title": "Add RTL Language Support with Arabic Translations",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/391",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-06-20T14:22:19Z",
+          "title": "Text capitalization and formatting",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/385",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-06-18T07:28:58Z",
+          "title": "Modernized codebase for multilingual support",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/381",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-06-11T10:51:15Z",
+          "title": "Improved Profile Editing with Enhanced Typeahead and UI Fixes",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/378",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-06-09T07:44:59Z",
+          "title": "fix(localization) - resolve flutter_gen and imageBuilder errors",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/375",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-07-30T16:48:02Z",
+          "title": "Profile card revamp",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/411",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-07-29T17:06:00Z",
+          "title": "Project re-editing feature",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/409",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-07-21T06:58:17Z",
+          "title": "Featured circuit card",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/406",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-07-19T18:46:31Z",
+          "title": "chore - upgrade flutter_lints from 5.0.0 to 6.0.0",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/405",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-07-29T10:46:47Z",
+          "title": "Project 7 - Flutter Upgrade",
+          "link": "https://github.com/CircuitVerse/Blog/pull/240",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-07-08T06:51:58Z",
+          "title": "Enhance CI with automated releases",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/398",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-08-31T16:29:42Z",
+          "title": "Final report for GSoC 2025 Project 7",
+          "link": "https://github.com/CircuitVerse/Blog/pull/248",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-08-31T09:26:34Z",
+          "title": "Improve UX",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/433",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-08-28T16:26:17Z",
+          "title": "Fix - Remove flutter_facebook_auth dependency",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/429",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-08-12T14:37:36Z",
+          "title": "Enhance Simulator Download & External Link Handling with Android 13+ Media Support",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/421",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-08-06T17:09:56Z",
+          "title": "Share button in the Featured Circuit Card",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/417",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-08-06T17:02:45Z",
+          "title": "Project details pre-fills saved data and added tags",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/415",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-09-21T16:51:22Z",
+          "title": "Enable R8 optimization and add ProGuard rules",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/438",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-09-14T17:01:01Z",
+          "title": "Migrate share_plus to v11.1.0 and upgrade AGP and Gradle version",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/436",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-10-30T17:01:57Z",
+          "title": "Update README with multilingual support section and new screenshots",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/440",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-04-04T18:45:51Z",
+          "title": "Terms of Service Button Layout Issue",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/332",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-04-03T21:42:40Z",
+          "title": "UI Fix button text overflow in project cards",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/330",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-04-02T13:03:02Z",
+          "title": "Improve homepage CTA buttons with responsive sizing, icons, and visual consistency",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/321",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-03-26T22:20:38Z",
+          "title": "Add the missing content",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/407",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-04-08T10:02:03Z",
+          "title": "Add 'Next Chapter' Navigation Button for Seamless Progression",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/420",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-04-08T09:44:41Z",
+          "title": "Broken Forum Link in Chapter 9 and the very first page of documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/419",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-04-08T09:35:51Z",
+          "title": "Missing Content in \"Create and Save New Project\" Section – Chapter 7",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/418",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-04-08T09:30:16Z",
+          "title": "Refer to this section\" Link Returns 404 Error in Chapter 7",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/417",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-04-08T09:26:03Z",
+          "title": "Sequential Element Images Lack Background and Blend Into Page",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/416",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-04-08T09:13:14Z",
+          "title": "Chapter Navigation Buttons Misaligned Due to Long Text",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/415",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-04-08T09:05:42Z",
+          "title": "Absence of demonstration of how the CircuitVerse Chrome extension works in Google Slides",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/414",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-04-08T08:59:40Z",
+          "title": "Sidebar Search Bar Overlaps Content, Making Fields Behind It Inaccessible",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/413",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-07-28T15:37:36Z",
+          "title": "Project re-editing feature",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/410",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-08-05T06:07:56Z",
+          "title": "Edited Project Data Not Persisting on Re-Edit and Tags are missing",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/414",
+          "points": 1
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2025-12-25T12:29:41Z",
+          "title": "Review on PR #454",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/454",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2025-06-22T06:23:01Z",
+          "title": "Review on PR #377",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/377",
+          "points": 4
+        }
+      ]
+    },
+    {
       "username": "Asrani-Aman",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/96644946?u=0a63041bdb02009db73142160eb13f4fcd0a4209&v=4",
@@ -24203,1125 +25333,19 @@
       ]
     },
     {
-      "username": "JatsuAkaYashvant",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
-      "role": "Maintainer",
-      "total_points": 309,
-      "activity_breakdown": {
-        "Review submitted": {
-          "count": 16,
-          "points": 64
-        },
-        "Issue labeled": {
-          "count": 13,
-          "points": 26
-        },
-        "Issue closed": {
-          "count": 11,
-          "points": 11
-        },
-        "PR opened": {
-          "count": 32,
-          "points": 64
-        },
-        "PR merged": {
-          "count": 26,
-          "points": 130
-        },
-        "Issue opened": {
-          "count": 14,
-          "points": 14
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-09-02",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-07-16",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-07-15",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-07-10",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-05-30",
-          "count": 3,
-          "points": 4
-        },
-        {
-          "date": "2026-05-28",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-05-25",
-          "count": 11,
-          "points": 16
-        },
-        {
-          "date": "2026-05-22",
-          "count": 6,
-          "points": 12
-        },
-        {
-          "date": "2026-03-05",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-02-26",
-          "count": 2,
-          "points": 8
-        },
-        {
-          "date": "2026-02-23",
-          "count": 2,
-          "points": 5
-        },
-        {
-          "date": "2026-02-22",
-          "count": 4,
-          "points": 13
-        },
-        {
-          "date": "2026-02-12",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-02-03",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-02-02",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-01-31",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-25",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2025-10-30",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-10-22",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-09-21",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-09-20",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-09-14",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-09-07",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-08-31",
-          "count": 4,
-          "points": 14
-        },
-        {
-          "date": "2025-08-28",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-08-25",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-08-12",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2025-08-10",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-08-06",
-          "count": 2,
-          "points": 10
-        },
-        {
-          "date": "2025-08-05",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2025-07-30",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2025-07-29",
-          "count": 2,
-          "points": 10
-        },
-        {
-          "date": "2025-07-28",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-07-21",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-07-19",
-          "count": 3,
-          "points": 9
-        },
-        {
-          "date": "2025-07-17",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-07-08",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-07-07",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-06-26",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-06-24",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-06-22",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2025-06-20",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2025-06-18",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-06-17",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-06-11",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-06-09",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2025-06-08",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-06-06",
-          "count": 2,
-          "points": 4
-        },
-        {
-          "date": "2025-04-08",
-          "count": 8,
-          "points": 8
-        },
-        {
-          "date": "2025-04-06",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-04-05",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2025-04-04",
-          "count": 3,
-          "points": 8
-        },
-        {
-          "date": "2025-04-03",
-          "count": 3,
-          "points": 8
-        },
-        {
-          "date": "2025-04-02",
-          "count": 4,
-          "points": 7
-        },
-        {
-          "date": "2025-04-01",
-          "count": 4,
-          "points": 14
-        },
-        {
-          "date": "2025-03-30",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-03-26",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-09-02T17:41:23Z",
-          "title": "Review on PR #802",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/802",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-07-16T14:43:36Z",
-          "title": "Review on PR #272",
-          "link": "https://github.com/CircuitVerse/Blog/pull/272",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-07-15T07:56:11Z",
-          "title": "Review on PR #272",
-          "link": "https://github.com/CircuitVerse/Blog/pull/272",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-07-10T17:40:31Z",
-          "title": "Review on PR #268",
-          "link": "https://github.com/CircuitVerse/Blog/pull/268",
-          "points": 4
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-30T16:42:27Z",
-          "title": "Labeled issue #489 - mergathon - closed-outdated",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/489",
-          "points": 2
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-05-30T16:42:34Z",
-          "title": "Closed issue #489 - Add Issue & PR Label Guide for Project Documentation",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/489",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-05-30T17:10:23Z",
-          "title": "Closed issue #613 - Chapter 1",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/613",
-          "points": 1
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-05-28T20:17:22Z",
-          "title": "Review on PR #593",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/593",
-          "points": 4
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-05-25T20:12:03Z",
-          "title": "Closed issue #510 - Deprecation warning - synthetic-package option in `l10n.yaml` has no effect",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/510",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-25T19:58:16Z",
-          "title": "Labeled issue #259 - mergathon - closed-outdated",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/259",
-          "points": 2
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-05-25T19:58:19Z",
-          "title": "Closed issue #259 - Open links of `About Page` in browser",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/259",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-25T19:51:15Z",
-          "title": "Labeled issue #260 - mergathon - closed-outdated",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/260",
-          "points": 2
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-05-25T19:51:18Z",
-          "title": "Closed issue #260 - Open links of `Contribute Page` in browser",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/260",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-05-25T19:21:56Z",
-          "title": "Closed issue #74 - feature - Implementing Lazy Loading(Scroll to load) for FeaturedProjectView",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/74",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-25T19:37:49Z",
-          "title": "Labeled issue #74 - mergathon - closed-outdated",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/74",
-          "points": 2
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-05-25T19:02:43Z",
-          "title": "Closed issue #41 - Feature - Add the ability to search Projects and Users within the App.",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/41",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-25T19:36:19Z",
-          "title": "Labeled issue #41 - mergathon - closed-outdated",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/41",
-          "points": 2
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-05-25T18:48:37Z",
-          "title": "Closed issue #36 - Simulator for Mobile App",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/36",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-25T19:36:04Z",
-          "title": "Labeled issue #36 - mergathon - closed-outdated",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/36",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-22T06:05:10Z",
-          "title": "Labeled issue #597 - GSoC'26",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/597",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-22T06:05:53Z",
-          "title": "Labeled issue #597 - auth",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/597",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-22T06:06:50Z",
-          "title": "Labeled issue #594 - GSoC'26",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/594",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-22T06:09:36Z",
-          "title": "Labeled issue #594 - state-management",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/594",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-22T06:02:12Z",
-          "title": "Labeled issue #595 - GSoC'26",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/595",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-05-22T06:03:41Z",
-          "title": "Labeled issue #596 - GSoC'26",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/596",
-          "points": 2
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-03-05T05:59:28Z",
-          "title": "Review on PR #6465",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6465",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-26T21:00:39Z",
-          "title": "Review on PR #7071",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7071",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-26T18:09:13Z",
-          "title": "Review on PR #7070",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7070",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-23T03:56:23Z",
-          "title": "Review on PR #6598",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6598",
-          "points": 4
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-23T11:56:53Z",
-          "title": "Closed issue #516 - Add Subtractor as a Core Logical Tool in Misc Menu",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/516",
-          "points": 1
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-22T12:23:12Z",
-          "title": "Review on PR #6803",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6803",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-22T12:20:13Z",
-          "title": "Review on PR #6900",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6900",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-22T12:18:14Z",
-          "title": "Review on PR #758",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/758",
-          "points": 4
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-02-22T11:00:39Z",
-          "title": "Closed issue #928 - 🐞 Bug - \"Download as Image\" Modal inconsistency issues",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/928",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-02-12T07:20:02Z",
-          "title": "Labeled issue #489 - documentation",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/489",
-          "points": 2
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-03T09:54:20Z",
-          "title": "Review on PR #915",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/915",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-02-02T06:22:32Z",
-          "title": "Review on PR #913",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/913",
-          "points": 4
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-01-31T16:24:49Z",
-          "title": "Closed issue #149 - Fix and enable linter rules",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/149",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-04-05T14:34:56Z",
-          "title": "Terms of service button fix",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/335",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-04-04T19:22:45Z",
-          "title": "Terms of service button fix",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/333",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-04-03T21:47:49Z",
-          "title": "I have fixed the UI of view button in the featured circuit page",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/331",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-04-02T17:14:40Z",
-          "title": "I have introduced an icon to open circuit link in browser",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/326",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-04-02T15:04:52Z",
-          "title": "I have introduced an icon to open circuit link in browser",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/325",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-04-02T13:18:45Z",
-          "title": "Improved homepage CTA buttons with responsive sizing, icons, and visual consistency. Solving Issue - #321",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/322",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-04-01T10:33:32Z",
-          "title": "I have resolved the issue of overflow in notification screen and added \"No notifications found\" message when filteredNotifications is empty",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/314",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-04-01T10:10:40Z",
-          "title": "I have made the mail us at feature functional",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/313",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-03-30T20:14:52Z",
-          "title": "mail-us-at feature issue resolved",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/310",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-06-24T10:27:05Z",
-          "title": "Add RTL Language Support with Arabic Translations",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/391",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-06-20T12:08:26Z",
-          "title": "Text capitalization and formatting",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/385",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-06-17T11:42:50Z",
-          "title": "Modernized codebase for multilingual support",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/381",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-06-09T20:13:09Z",
-          "title": "Improved Profile Editing with Enhanced Typeahead and UI Fixes",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/378",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-06-08T11:57:31Z",
-          "title": "fix(localization) - resolve flutter_gen and imageBuilder errors",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/375",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-06-06T21:41:53Z",
-          "title": "Flutter gen resolve",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/373",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-06-06T20:12:32Z",
-          "title": "Resolved the deprecated imageBuilder",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/372",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-07-30T11:30:32Z",
-          "title": "Profile card revamp",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/411",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-07-28T12:30:20Z",
-          "title": "Project re-editing feature",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/409",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-07-19T16:45:54Z",
-          "title": "Featured circuit card",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/406",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-07-19T15:55:48Z",
-          "title": "chore - upgrade flutter_lints from 5.0.0 to 6.0.0",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/405",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-07-17T08:02:07Z",
-          "title": "Project 7 - Flutter Upgrade",
-          "link": "https://github.com/CircuitVerse/Blog/pull/240",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-07-07T16:29:52Z",
-          "title": "Enhance CI with automated releases",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/398",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-08-31T08:50:23Z",
-          "title": "Final report for GSoC 2025 Project 7",
-          "link": "https://github.com/CircuitVerse/Blog/pull/248",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-08-31T08:04:14Z",
-          "title": "Improve UX",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/433",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-08-25T11:19:21Z",
-          "title": "Fix - Remove flutter_facebook_auth dependency",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/429",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-08-12T18:29:49Z",
-          "title": "Upgrade AGP to 8.5.0 and Gradle to 8.7 for Kotlin 2.1.10 compatibility",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/425",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-08-10T11:00:44Z",
-          "title": "Enhance Simulator Download & External Link Handling with Android 13+ Media Support",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/421",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-08-05T17:36:25Z",
-          "title": "Share button in the Featured Circuit Card",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/417",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-08-05T11:11:42Z",
-          "title": "Project details pre-fills saved data and added tags",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/415",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-09-20T19:23:05Z",
-          "title": "Enable R8 optimization and add ProGuard rules",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/438",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-09-07T21:40:23Z",
-          "title": "Migrate share_plus to v11.1.0 and upgrade AGP and Gradle version",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/436",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-10-22T17:17:05Z",
-          "title": "Update README with multilingual support section and new screenshots",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/440",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-04-04T19:58:14Z",
-          "title": "I have fixed the UI of view button in the featured circuit page",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/331",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-04-05T11:23:07Z",
-          "title": "I have introduced an icon to open circuit link in browser",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/326",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-04-03T20:29:05Z",
-          "title": "Improved homepage CTA buttons with responsive sizing, icons, and visual consistency. Solving Issue - #321",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/322",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-04-01T20:28:19Z",
-          "title": "I have resolved the issue of overflow in notification screen and added \"No notifications found\" message when filteredNotifications is empty",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/314",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-04-01T19:03:22Z",
-          "title": "I have made the mail us at feature functional",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/313",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-04-06T16:02:54Z",
-          "title": "Terms of service button fix",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/335",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-06-26T17:46:43Z",
-          "title": "Add RTL Language Support with Arabic Translations",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/391",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-06-20T14:22:19Z",
-          "title": "Text capitalization and formatting",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/385",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-06-18T07:28:58Z",
-          "title": "Modernized codebase for multilingual support",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/381",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-06-11T10:51:15Z",
-          "title": "Improved Profile Editing with Enhanced Typeahead and UI Fixes",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/378",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-06-09T07:44:59Z",
-          "title": "fix(localization) - resolve flutter_gen and imageBuilder errors",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/375",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-07-30T16:48:02Z",
-          "title": "Profile card revamp",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/411",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-07-29T17:06:00Z",
-          "title": "Project re-editing feature",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/409",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-07-21T06:58:17Z",
-          "title": "Featured circuit card",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/406",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-07-19T18:46:31Z",
-          "title": "chore - upgrade flutter_lints from 5.0.0 to 6.0.0",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/405",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-07-29T10:46:47Z",
-          "title": "Project 7 - Flutter Upgrade",
-          "link": "https://github.com/CircuitVerse/Blog/pull/240",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-07-08T06:51:58Z",
-          "title": "Enhance CI with automated releases",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/398",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-08-31T16:29:42Z",
-          "title": "Final report for GSoC 2025 Project 7",
-          "link": "https://github.com/CircuitVerse/Blog/pull/248",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-08-31T09:26:34Z",
-          "title": "Improve UX",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/433",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-08-28T16:26:17Z",
-          "title": "Fix - Remove flutter_facebook_auth dependency",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/429",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-08-12T14:37:36Z",
-          "title": "Enhance Simulator Download & External Link Handling with Android 13+ Media Support",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/421",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-08-06T17:09:56Z",
-          "title": "Share button in the Featured Circuit Card",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/417",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-08-06T17:02:45Z",
-          "title": "Project details pre-fills saved data and added tags",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/415",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-09-21T16:51:22Z",
-          "title": "Enable R8 optimization and add ProGuard rules",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/438",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-09-14T17:01:01Z",
-          "title": "Migrate share_plus to v11.1.0 and upgrade AGP and Gradle version",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/436",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-10-30T17:01:57Z",
-          "title": "Update README with multilingual support section and new screenshots",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/440",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-04-04T18:45:51Z",
-          "title": "Terms of Service Button Layout Issue",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/332",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-04-03T21:42:40Z",
-          "title": "UI Fix button text overflow in project cards",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/330",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-04-02T13:03:02Z",
-          "title": "Improve homepage CTA buttons with responsive sizing, icons, and visual consistency",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/321",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-03-26T22:20:38Z",
-          "title": "Add the missing content",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/407",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-04-08T10:02:03Z",
-          "title": "Add 'Next Chapter' Navigation Button for Seamless Progression",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/420",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-04-08T09:44:41Z",
-          "title": "Broken Forum Link in Chapter 9 and the very first page of documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/419",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-04-08T09:35:51Z",
-          "title": "Missing Content in \"Create and Save New Project\" Section – Chapter 7",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/418",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-04-08T09:30:16Z",
-          "title": "Refer to this section\" Link Returns 404 Error in Chapter 7",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/417",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-04-08T09:26:03Z",
-          "title": "Sequential Element Images Lack Background and Blend Into Page",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/416",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-04-08T09:13:14Z",
-          "title": "Chapter Navigation Buttons Misaligned Due to Long Text",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/415",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-04-08T09:05:42Z",
-          "title": "Absence of demonstration of how the CircuitVerse Chrome extension works in Google Slides",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/414",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-04-08T08:59:40Z",
-          "title": "Sidebar Search Bar Overlaps Content, Making Fields Behind It Inaccessible",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/413",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-07-28T15:37:36Z",
-          "title": "Project re-editing feature",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/410",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-08-05T06:07:56Z",
-          "title": "Edited Project Data Not Persisting on Re-Edit and Tags are missing",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/414",
-          "points": 1
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2025-12-25T12:29:41Z",
-          "title": "Review on PR #454",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/454",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2025-06-22T06:23:01Z",
-          "title": "Review on PR #377",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/377",
-          "points": 4
-        }
-      ]
-    },
-    {
       "username": "SantamRC",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
       "role": "Contributor",
-      "total_points": 288,
+      "total_points": 293,
       "activity_breakdown": {
+        "PR merged": {
+          "count": 13,
+          "points": 65
+        },
         "PR opened": {
           "count": 34,
           "points": 68
-        },
-        "PR merged": {
-          "count": 12,
-          "points": 60
         },
         "Issue opened": {
           "count": 20,
@@ -25337,6 +25361,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-16",
+          "count": 1,
+          "points": 5
+        },
         {
           "date": "2026-09-17",
           "count": 1,
@@ -25514,6 +25543,13 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-16T19:19:19Z",
+          "title": "fix - pin intl and html to versions the app builds with",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/667",
+          "points": 5
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-09-17T19:26:05Z",
@@ -41371,6 +41407,355 @@
       ]
     },
     {
+      "username": "ManyaJain111",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
+      "role": "Contributor",
+      "total_points": 65,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 11,
+          "points": 11
+        },
+        "Issue labeled": {
+          "count": 15,
+          "points": 30
+        },
+        "PR opened": {
+          "count": 7,
+          "points": 14
+        },
+        "PR merged": {
+          "count": 2,
+          "points": 10
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-16",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-15",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-14",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2026-10-13",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-10-07",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-02",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2026-09-30",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2026-09-28",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-09-27",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-09-26",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-09-04",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-09-03",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-08-29",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-08-28",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2026-08-24",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-16T12:05:41Z",
+          "title": "🐞 Bug - secondary mentors launching from LMS are treated as students",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8041",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-16T12:05:43Z",
+          "title": "Labeled issue #8041 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8041",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-15T09:08:25Z",
+          "title": "🐞 Bug - Manual assignment close does not freeze student submissions",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8032",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-15T09:08:27Z",
+          "title": "Labeled issue #8032 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8032",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-14T19:43:46Z",
+          "title": "fix - clear setInterval on unmount in PropertiesPanel.vue",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1443",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-14T07:20:42Z",
+          "title": "fix(vuesim) - preserve project name when circuit data is null (#1336)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1398",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-13T09:48:59Z",
+          "title": "fix(vuesim) - preserve project name when circuit data is null (#1336)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1398",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-13T10:45:28Z",
+          "title": "🐞 Bug - Memory leak due to uncleaned setInterval on unmount in PropertiesPanel.vue",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1400",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-13T10:45:30Z",
+          "title": "Labeled issue #1400 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1400",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-07T19:44:11Z",
+          "title": "🐞 Bug - 404 error after clicking keep editing circuit after saving",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1378",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-07T19:44:13Z",
+          "title": "Labeled issue #1378 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1378",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-02T10:57:46Z",
+          "title": "WIP - update redis version in docker compose",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7956",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-02T12:01:53Z",
+          "title": "🐞 Bug - CollaborationsController runs authorization before authentication for create/update/destroy",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7959",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-02T12:01:54Z",
+          "title": "Labeled issue #7959 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7959",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-02T12:01:55Z",
+          "title": "Labeled issue #7959 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7959",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-30T17:29:43Z",
+          "title": "fix - Enforce 254-character limit on pasted emails for groups and projects",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7951",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-09-30T13:28:41Z",
+          "title": "fix - handle null project data for new assignments",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1335",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-28T12:08:23Z",
+          "title": "🐞 Bug - Project name reset to \"Untitled\" on first save when circuit_data is null",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1336",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-28T12:08:25Z",
+          "title": "Labeled issue #1336 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1336",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-27T16:08:07Z",
+          "title": "fix - handle null project data for new assignments",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1335",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-26T09:06:01Z",
+          "title": "🐞 Bug - \"Could not load\" error popup when starting a new assignment",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1330",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-26T09:06:03Z",
+          "title": "Labeled issue #1330 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1330",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-04T14:38:12Z",
+          "title": "🐞 Bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7842",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-04T14:38:13Z",
+          "title": "Labeled issue #7842 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7842",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-04T14:38:14Z",
+          "title": "Labeled issue #7842 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7842",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-03T09:26:22Z",
+          "title": "fix(organizations) - increase email input limit to 254 characters",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7839",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-08-29T11:18:51Z",
+          "title": "🐞 Bug - Adding an existing group member as a mentor via \"+ Add Mentors\" silently fails and Primary Mentor missing from Mentors list",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7822",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-08-29T11:18:52Z",
+          "title": "Labeled issue #7822 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7822",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-08-28T12:55:29Z",
+          "title": "feat(timing-diagram) - add export waveform as CSV feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1237",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-08-28T15:37:17Z",
+          "title": "🐞 Bug - Cannot type group member emails longer than 30 characters",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7819",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-08-28T15:37:18Z",
+          "title": "Labeled issue #7819 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7819",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-08-28T15:37:19Z",
+          "title": "Labeled issue #7819 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7819",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-08-24T18:33:35Z",
+          "title": "Feature - Export Timing Diagram waveform data as CSV",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1230",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-08-24T18:33:37Z",
+          "title": "Labeled issue #1230 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1230",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-08-24T18:33:38Z",
+          "title": "Labeled issue #1230 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1230",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "JoshVarga",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/400540?u=cde386c5c924fa186d90fcba74a2287230c64243&v=4",
@@ -41864,336 +42249,6 @@
           "title": "Fix undefined method 'project_url' error in JSON jbuilder",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6431",
           "points": 5
-        }
-      ]
-    },
-    {
-      "username": "ManyaJain111",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
-      "role": "Contributor",
-      "total_points": 62,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 10,
-          "points": 10
-        },
-        "Issue labeled": {
-          "count": 14,
-          "points": 28
-        },
-        "PR opened": {
-          "count": 7,
-          "points": 14
-        },
-        "PR merged": {
-          "count": 2,
-          "points": 10
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-15",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-14",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2026-10-13",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-10-07",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-02",
-          "count": 4,
-          "points": 7
-        },
-        {
-          "date": "2026-09-30",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2026-09-28",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-09-27",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-09-26",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-09-04",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-09-03",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-08-29",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-08-28",
-          "count": 4,
-          "points": 7
-        },
-        {
-          "date": "2026-08-24",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-15T09:08:25Z",
-          "title": "🐞 Bug - Manual assignment close does not freeze student submissions",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8032",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-15T09:08:27Z",
-          "title": "Labeled issue #8032 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8032",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-14T19:43:46Z",
-          "title": "fix - clear setInterval on unmount in PropertiesPanel.vue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1443",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-14T07:20:42Z",
-          "title": "fix(vuesim) - preserve project name when circuit data is null (#1336)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1398",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-13T09:48:59Z",
-          "title": "fix(vuesim) - preserve project name when circuit data is null (#1336)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1398",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-13T10:45:28Z",
-          "title": "🐞 Bug - Memory leak due to uncleaned setInterval on unmount in PropertiesPanel.vue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1400",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-13T10:45:30Z",
-          "title": "Labeled issue #1400 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1400",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-07T19:44:11Z",
-          "title": "🐞 Bug - 404 error after clicking keep editing circuit after saving",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1378",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-07T19:44:13Z",
-          "title": "Labeled issue #1378 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1378",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-02T10:57:46Z",
-          "title": "WIP - update redis version in docker compose",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7956",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-02T12:01:53Z",
-          "title": "🐞 Bug - CollaborationsController runs authorization before authentication for create/update/destroy",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7959",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-02T12:01:54Z",
-          "title": "Labeled issue #7959 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7959",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-02T12:01:55Z",
-          "title": "Labeled issue #7959 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7959",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-30T17:29:43Z",
-          "title": "fix - Enforce 254-character limit on pasted emails for groups and projects",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7951",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-09-30T13:28:41Z",
-          "title": "fix - handle null project data for new assignments",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1335",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-28T12:08:23Z",
-          "title": "🐞 Bug - Project name reset to \"Untitled\" on first save when circuit_data is null",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1336",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-28T12:08:25Z",
-          "title": "Labeled issue #1336 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1336",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-27T16:08:07Z",
-          "title": "fix - handle null project data for new assignments",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1335",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-26T09:06:01Z",
-          "title": "🐞 Bug - \"Could not load\" error popup when starting a new assignment",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1330",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-26T09:06:03Z",
-          "title": "Labeled issue #1330 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1330",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-04T14:38:12Z",
-          "title": "🐞 Bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7842",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-04T14:38:13Z",
-          "title": "Labeled issue #7842 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7842",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-04T14:38:14Z",
-          "title": "Labeled issue #7842 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7842",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-03T09:26:22Z",
-          "title": "fix(organizations) - increase email input limit to 254 characters",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7839",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-08-29T11:18:51Z",
-          "title": "🐞 Bug - Adding an existing group member as a mentor via \"+ Add Mentors\" silently fails and Primary Mentor missing from Mentors list",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7822",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-08-29T11:18:52Z",
-          "title": "Labeled issue #7822 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7822",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-08-28T12:55:29Z",
-          "title": "feat(timing-diagram) - add export waveform as CSV feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1237",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-08-28T15:37:17Z",
-          "title": "🐞 Bug - Cannot type group member emails longer than 30 characters",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7819",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-08-28T15:37:18Z",
-          "title": "Labeled issue #7819 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7819",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-08-28T15:37:19Z",
-          "title": "Labeled issue #7819 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7819",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-08-24T18:33:35Z",
-          "title": "Feature - Export Timing Diagram waveform data as CSV",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1230",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-08-24T18:33:37Z",
-          "title": "Labeled issue #1230 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1230",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-08-24T18:33:38Z",
-          "title": "Labeled issue #1230 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1230",
-          "points": 2
         }
       ]
     },
@@ -43650,259 +43705,6 @@
       ]
     },
     {
-      "username": "tushaar-05",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-      "role": "Contributor",
-      "total_points": 52,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 15,
-          "points": 30
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "Issue opened": {
-          "count": 5,
-          "points": 5
-        },
-        "Issue labeled": {
-          "count": 6,
-          "points": 12
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-15",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-14",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2026-10-13",
-          "count": 8,
-          "points": 16
-        },
-        {
-          "date": "2026-10-11",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-10-09",
-          "count": 7,
-          "points": 12
-        },
-        {
-          "date": "2026-10-05",
-          "count": 2,
-          "points": 4
-        },
-        {
-          "date": "2026-10-02",
-          "count": 4,
-          "points": 6
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-15T03:32:01Z",
-          "title": "refactor(v1) - convert Ground and Power modules to TypeScript (#1405)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1444",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-14T13:50:50Z",
-          "title": "fix(v1) - narrow SelectableElement at canvas and hotkey use sites (#1413)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1441",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-14T08:22:07Z",
-          "title": "typecheck(v1) - canvas strict fixes — rotateAngle tuple type and context null guards (#1422)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1427",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-13T22:36:49Z",
-          "title": "typecheck(v1) - widen Circuit and switchCircuit id types in events.ts (#1414)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1435",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-13T22:14:47Z",
-          "title": "typecheck(v1) - fix DeleteCircuit store cast and nullish coalescing precedence (#1415)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1434",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-13T21:51:17Z",
-          "title": "typecheck(v1) - make SimulationArea interface match runtime use — bounds, canvas, objectList (#1418)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1433",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-13T21:16:26Z",
-          "title": "typecheck(v1) - type DOM and ref access in CustomShortcut dialog (#1417)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1432",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-13T20:42:37Z",
-          "title": "refactor(v1) - add lang=ts + script setup to Logo and TextEditor SFCs (#1410)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1430",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-13T20:28:18Z",
-          "title": "typecheck(v1) - one-line use-site fixes batch — subcircuit, utils, zoom, layout, hotkeys (#1420)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1429",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-13T19:48:47Z",
-          "title": "typecheck(v1) - canvas strict fixes — rotateAngle tuple type and context null guards (#1422)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1427",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-13T16:55:01Z",
-          "title": "refactor(v1) - remove jQuery from ApplyThemes and CombinationalAnalysis Vue dialogs (#1412)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1424",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-11T12:19:58Z",
-          "title": "fix(ui) - add close/back buttons to truth table and center table layout (#1391)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-11T12:03:43Z",
-          "title": "🐞 Bug - Combinational Analysis Truth Table lacks Close/Cancel button (trapping user in modal) and table is uncentered",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1391",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-11T12:03:44Z",
-          "title": "Labeled issue #1391 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1391",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-09T14:24:31Z",
-          "title": "fix(ui) - prevent event bubbling on delete, clear stale selection, and add delete confirmation (#1387)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1388",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-09T12:15:56Z",
-          "title": "fix(ui) - fix Custom Shortcut dialog buttons and pencil click target (#1385)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1386",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-09T14:15:22Z",
-          "title": "🐞 Bug - \"Open Offline\" dialog fails to open projects after deletion due to stale selection & event bubbling on delete button",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1387",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-09T11:58:19Z",
-          "title": "🐞 Bug - Custom Shortcut dialog buttons (Save, Close, Reset) crash with TypeError, and keybinding entry erases command name",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1385",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-09T14:15:24Z",
-          "title": "Labeled issue #1387 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1387",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-09T11:58:20Z",
-          "title": "Labeled issue #1385 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1385",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-09T11:58:21Z",
-          "title": "Labeled issue #1385 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1385",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-05T17:51:54Z",
-          "title": "fix(ui) - fix BCD translation key in Hex-Bin-Dec converter (#1358)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1377",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-05T16:29:43Z",
-          "title": "fix(ui) - remove duplicate Hex-Bin-Dec converter dialog (#1357)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1376",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-02T23:00:04Z",
-          "title": "🐞 Bug - Translation fails for \"Binary Coded Decimal Value\" in Hex-Bin-Dec Converter due to single-space replacement",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1358",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-02T22:32:23Z",
-          "title": "🐞 Bug - Duplicate Hex-Bin-Dec Converter dialog rendered with duplicate DOM IDs",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1357",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-02T23:00:06Z",
-          "title": "Labeled issue #1358 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1358",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-02T22:32:24Z",
-          "title": "Labeled issue #1357 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1357",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "amankv1234",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/186990161?v=4",
@@ -44185,6 +43987,259 @@
           "title": "refactor - convert basic logic gates (And, Not, Nand, Nor) to TypeScript",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1183",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "tushaar-05",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
+      "role": "Contributor",
+      "total_points": 52,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 15,
+          "points": 30
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Issue opened": {
+          "count": 5,
+          "points": 5
+        },
+        "Issue labeled": {
+          "count": 6,
+          "points": 12
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-15",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-14",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2026-10-13",
+          "count": 8,
+          "points": 16
+        },
+        {
+          "date": "2026-10-11",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-10-09",
+          "count": 7,
+          "points": 12
+        },
+        {
+          "date": "2026-10-05",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2026-10-02",
+          "count": 4,
+          "points": 6
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-15T03:32:01Z",
+          "title": "refactor(v1) - convert Ground and Power modules to TypeScript (#1405)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1444",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-14T13:50:50Z",
+          "title": "fix(v1) - narrow SelectableElement at canvas and hotkey use sites (#1413)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1441",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-14T08:22:07Z",
+          "title": "typecheck(v1) - canvas strict fixes — rotateAngle tuple type and context null guards (#1422)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1427",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-13T22:36:49Z",
+          "title": "typecheck(v1) - widen Circuit and switchCircuit id types in events.ts (#1414)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1435",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-13T22:14:47Z",
+          "title": "typecheck(v1) - fix DeleteCircuit store cast and nullish coalescing precedence (#1415)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1434",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-13T21:51:17Z",
+          "title": "typecheck(v1) - make SimulationArea interface match runtime use — bounds, canvas, objectList (#1418)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1433",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-13T21:16:26Z",
+          "title": "typecheck(v1) - type DOM and ref access in CustomShortcut dialog (#1417)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1432",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-13T20:42:37Z",
+          "title": "refactor(v1) - add lang=ts + script setup to Logo and TextEditor SFCs (#1410)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1430",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-13T20:28:18Z",
+          "title": "typecheck(v1) - one-line use-site fixes batch — subcircuit, utils, zoom, layout, hotkeys (#1420)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1429",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-13T19:48:47Z",
+          "title": "typecheck(v1) - canvas strict fixes — rotateAngle tuple type and context null guards (#1422)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1427",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-13T16:55:01Z",
+          "title": "refactor(v1) - remove jQuery from ApplyThemes and CombinationalAnalysis Vue dialogs (#1412)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1424",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-11T12:19:58Z",
+          "title": "fix(ui) - add close/back buttons to truth table and center table layout (#1391)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-11T12:03:43Z",
+          "title": "🐞 Bug - Combinational Analysis Truth Table lacks Close/Cancel button (trapping user in modal) and table is uncentered",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1391",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-11T12:03:44Z",
+          "title": "Labeled issue #1391 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1391",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-09T14:24:31Z",
+          "title": "fix(ui) - prevent event bubbling on delete, clear stale selection, and add delete confirmation (#1387)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1388",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-09T12:15:56Z",
+          "title": "fix(ui) - fix Custom Shortcut dialog buttons and pencil click target (#1385)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1386",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-09T14:15:22Z",
+          "title": "🐞 Bug - \"Open Offline\" dialog fails to open projects after deletion due to stale selection & event bubbling on delete button",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1387",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-09T11:58:19Z",
+          "title": "🐞 Bug - Custom Shortcut dialog buttons (Save, Close, Reset) crash with TypeError, and keybinding entry erases command name",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1385",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-09T14:15:24Z",
+          "title": "Labeled issue #1387 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1387",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-09T11:58:20Z",
+          "title": "Labeled issue #1385 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1385",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-09T11:58:21Z",
+          "title": "Labeled issue #1385 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1385",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-05T17:51:54Z",
+          "title": "fix(ui) - fix BCD translation key in Hex-Bin-Dec converter (#1358)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1377",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-05T16:29:43Z",
+          "title": "fix(ui) - remove duplicate Hex-Bin-Dec converter dialog (#1357)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1376",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-02T23:00:04Z",
+          "title": "🐞 Bug - Translation fails for \"Binary Coded Decimal Value\" in Hex-Bin-Dec Converter due to single-space replacement",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1358",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-02T22:32:23Z",
+          "title": "🐞 Bug - Duplicate Hex-Bin-Dec Converter dialog rendered with duplicate DOM IDs",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1357",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-02T23:00:06Z",
+          "title": "Labeled issue #1358 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1358",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-02T22:32:24Z",
+          "title": "Labeled issue #1357 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1357",
+          "points": 2
         }
       ]
     },
@@ -54806,6 +54861,87 @@
       ]
     },
     {
+      "username": "durgeshbg",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/84910181?v=4",
+      "role": "Contributor",
+      "total_points": 13,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        },
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-16",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-01-26",
+          "count": 3,
+          "points": 8
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-16T02:02:43Z",
+          "title": "🐞 Bug - Circuit tabs use undefined draggable keys when reordered or closed",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1451",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-16T02:02:44Z",
+          "title": "Labeled issue #1451 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1451",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-16T02:02:45Z",
+          "title": "Labeled issue #1451 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1451",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-26T07:17:55Z",
+          "title": "Feat/optimistic leaderboard fetch update",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/244",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-26T09:48:40Z",
+          "title": "Feat/optimistic leaderboard fetch update",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/244",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-26T05:30:50Z",
+          "title": "Add Optimistic Interaction and Loading State to `/leaderboard` page",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/243",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "LalitNarayanYadav",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/162928571?v=4",
@@ -55142,6 +55278,85 @@
           "title": "Feature Request - Provide image editing and resizing options during upload",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/5292",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "MYMISERABLEMIND17",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
+      "role": "Contributor",
+      "total_points": 12,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 6,
+          "points": 12
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-15",
+          "count": 3,
+          "points": 6
+        },
+        {
+          "date": "2026-03-04",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-26",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-16T03:59:18Z",
+          "title": "fix(project) - reset stars_count to 0 on project fork (#8023)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8035",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-15T19:52:41Z",
+          "title": "fix(hotkey_binder) - remove no-op if statements, loop storage writes, and invoke getOS() (#8015, #7913)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8033",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-15T19:45:21Z",
+          "title": "fix(docs) - improve technical accuracy and component classification in Verilog docs (#531)",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/546",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-15T19:43:50Z",
+          "title": "fix(docs) - resolve broken anchor links and heading slugs across chapters 4, 7, and 8",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/545",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-03-04T10:51:42Z",
+          "title": "Improve clarity and correctness in Chapter 4 (Muxandplex) documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/535",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-26T14:30:29Z",
+          "title": "fix the page , now the link is working",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/508",
+          "points": 2
         }
       ]
     },
@@ -56443,73 +56658,6 @@
           "title": "New - added flutter web target",
           "link": "https://github.com/CircuitVerse/mobile-app/pull/308",
           "points": 5
-        }
-      ]
-    },
-    {
-      "username": "MYMISERABLEMIND17",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
-      "role": "Contributor",
-      "total_points": 10,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 5,
-          "points": 10
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-15",
-          "count": 3,
-          "points": 6
-        },
-        {
-          "date": "2026-03-04",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-26",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-15T19:52:41Z",
-          "title": "fix(hotkey_binder) - remove no-op if statements, loop storage writes, and invoke getOS() (#8015, #7913)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8033",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-15T19:45:21Z",
-          "title": "fix(docs) - improve technical accuracy and component classification in Verilog docs (#531)",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/546",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-15T19:43:50Z",
-          "title": "fix(docs) - resolve broken anchor links and heading slugs across chapters 4, 7, and 8",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/545",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-03-04T10:51:42Z",
-          "title": "Improve clarity and correctness in Chapter 4 (Muxandplex) documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/535",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-26T14:30:29Z",
-          "title": "fix the page , now the link is working",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/508",
-          "points": 2
         }
       ]
     },
@@ -58861,57 +59009,6 @@
           "title": "Labeled issue #6856 - pending triage",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6856",
           "points": 2
-        }
-      ]
-    },
-    {
-      "username": "durgeshbg",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/84910181?v=4",
-      "role": "Contributor",
-      "total_points": 8,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-26",
-          "count": 3,
-          "points": 8
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-26T07:17:55Z",
-          "title": "Feat/optimistic leaderboard fetch update",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/244",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-26T09:48:40Z",
-          "title": "Feat/optimistic leaderboard fetch update",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/244",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-26T05:30:50Z",
-          "title": "Add Optimistic Interaction and Loading State to `/leaderboard` page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/243",
-          "points": 1
         }
       ]
     },
@@ -65642,6 +65739,35 @@
           "title": "Feature Improve Login Page UI and Password Visibility Toggle",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/5387",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "minnimaggu-lgtm",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/232153152?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-16",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-16T06:12:34Z",
+          "title": "Fix - snapshot student projects when mentor manually closes assignment",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8036",
+          "points": 2
         }
       ]
     },

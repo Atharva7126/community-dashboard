@@ -2,6 +2,24 @@
   {
     "repo": "Mobile App",
     "repoSlug": "CircuitVerse/Mobile-App",
+    "version": "v1283",
+    "date": "2026-10-16",
+    "summary": "This release includes internal improvements, bug fixes, and contributor updates.",
+    "contributors": [
+      {
+        "username": "SantamRC",
+        "commits": 1
+      },
+      {
+        "username": "JatsuAkaYashvant",
+        "commits": 1
+      }
+    ],
+    "githubUrl": "https://github.com/CircuitVerse/mobile-app/releases/tag/v1283"
+  },
+  {
+    "repo": "Mobile App",
+    "repoSlug": "CircuitVerse/Mobile-App",
     "version": "v1258",
     "date": "2026-09-07",
     "summary": "This release includes internal improvements, bug fixes, and contributor updates.",
@@ -386,26 +404,8 @@
     "version": "v1.0.760",
     "date": "2025-08-06",
     "summary": "Android APK release built from commit acfdd170e7c39def656168ad816b0e8e969e5a92.",
-    "contributors": [
-      {
-        "username": "JatsuAkaYashvant",
-        "commits": 3
-      },
-      {
-        "username": "hardik17771",
-        "commits": 2
-      }
-    ],
-    "githubUrl": "https://github.com/CircuitVerse/mobile-app/releases/tag/v1.0.760"
-  },
-  {
-    "repo": "Mobile App",
-    "repoSlug": "CircuitVerse/Mobile-App",
-    "version": "v1.0.752",
-    "date": "2025-07-30",
-    "summary": "Android APK release built from commit 0a7d26f46f0a637162fbf29c1217e585bc70871d.",
     "contributors": [],
-    "githubUrl": "https://github.com/CircuitVerse/mobile-app/releases/tag/v1.0.752"
+    "githubUrl": "https://github.com/CircuitVerse/mobile-app/releases/tag/v1.0.760"
   },
   {
     "repo": "Vue Simulator",

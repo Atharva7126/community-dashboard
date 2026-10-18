@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1792201810725,
-  "startDate": "2026-10-10",
-  "endDate": "2026-10-17",
+  "updatedAt": 1792288089393,
+  "startDate": "2026-10-11",
+  "endDate": "2026-10-18",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -1068,8 +1068,12 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
       "role": "Contributor",
-      "total_points": 18,
+      "total_points": 20,
       "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        },
         "Issue opened": {
           "count": 3,
           "points": 3
@@ -1078,16 +1082,17 @@
           "count": 3,
           "points": 6
         },
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
         "PR merged": {
           "count": 1,
           "points": 5
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-17",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-10-16",
           "count": 2,
@@ -1110,6 +1115,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-17T10:03:17Z",
+          "title": "fix(lti) - recognize secondary mentors as teachers on launch (#8041)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8044",
+          "points": 2
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-10-16T12:05:41Z",
@@ -1178,20 +1190,25 @@
     {
       "username": "Me-Priyank",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 15,
+      "total_points": 16,
       "activity_breakdown": {
+        "Issue closed": {
+          "count": 4,
+          "points": 4
+        },
         "Review submitted": {
           "count": 3,
           "points": 12
-        },
-        "Issue closed": {
-          "count": 3,
-          "points": 3
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-17",
+          "count": 1,
+          "points": 1
+        },
         {
           "date": "2026-10-14",
           "count": 6,
@@ -1199,6 +1216,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-10-17T08:45:27Z",
+          "title": "Closed issue #1208 - 🐞 Bug - Replace favicon icon of website with CircuitVerse's official icon in place of browser's default icon",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1208",
+          "points": 1
+        },
         {
           "type": "Review submitted",
           "occured_at": "2026-10-14T08:16:08Z",
@@ -1311,6 +1335,66 @@
       ]
     },
     {
+      "username": "magic-peach",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
+      "role": "Contributor",
+      "total_points": 8,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-17",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2026-10-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-14",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-17T11:37:41Z",
+          "title": "feat(groups) - exclude subgroups from dashboards and the group index API",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8046",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-17T09:50:12Z",
+          "title": "Feat - add group sync roster",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8043",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-16T07:27:12Z",
+          "title": "feat(groups) - add self-referential subgroups data layer",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8038",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-14T16:40:34Z",
+          "title": "feat(autograder) - add AGS score push",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8029",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "aryan7071",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
@@ -1362,62 +1446,6 @@
           "title": "refactor(v1) - convert sequential and testbench ForceGate to TypeScript",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1425",
           "points": 2
-        }
-      ]
-    },
-    {
-      "username": "iamtanishqjain",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/71930864?v=4",
-      "role": "Contributor",
-      "total_points": 8,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-13",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-10-10",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-13T13:44:01Z",
-          "title": "fix(vuesim) - drop the image formats the canvas cannot produce",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1306",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-10T18:49:49Z",
-          "title": "fix(vuesim) - add the missing Verilog modules for Dlatch, JK and SR in v1",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1389",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-10T18:50:13Z",
-          "title": "🐞 Bug - v1 Verilog export omits the module for D Latch, JK and SR flip flops",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1390",
-          "points": 1
         }
       ]
     },
@@ -1533,112 +1561,6 @@
       ]
     },
     {
-      "username": "magic-peach",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-14",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-10",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-16T07:27:12Z",
-          "title": "feat(groups) - add self-referential subgroups data layer",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8038",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-14T16:40:34Z",
-          "title": "feat(autograder) - add AGS score push",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8029",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-10T07:07:52Z",
-          "title": "feat(assignments) - add student grading result view",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8003",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "YashKumar-404",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-14",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-12",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-10",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-14T16:41:25Z",
-          "title": "fix - report save failure when project name is invalid",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8030",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-12T14:47:32Z",
-          "title": "fix - validate assignment deadline before saving (#8005)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8009",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-10T16:39:57Z",
-          "title": "fix - reuse one SES client across mail deliveries (#7994)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8004",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "SantamRC",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
@@ -1719,6 +1641,35 @@
       ]
     },
     {
+      "username": "iamtanishqjain",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/71930864?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-13",
+          "count": 1,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-13T13:44:01Z",
+          "title": "fix(vuesim) - drop the image formats the canvas cannot produce",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1306",
+          "points": 5
+        }
+      ]
+    },
+    {
       "username": "ujjwalv01",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/219022963?v=4",
@@ -1743,6 +1694,35 @@
           "occured_at": "2026-10-13T13:27:06Z",
           "title": "feat(simulator) - Move keyboard, clipboard and Tauri bindings from `listeners.js` into composables",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1310",
+          "points": 5
+        }
+      ]
+    },
+    {
+      "username": "tirth-patel06",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/185243371?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-17",
+          "count": 1,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-17T08:45:25Z",
+          "title": "fix - serve favicon by setting publicDir to root public/",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1210",
           "points": 5
         }
       ]
@@ -1871,6 +1851,47 @@
       ]
     },
     {
+      "username": "YashKumar-404",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-14",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-12",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-14T16:41:25Z",
+          "title": "fix - report save failure when project name is invalid",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8030",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-12T14:47:32Z",
+          "title": "fix - validate assignment deadline before saving (#8005)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8009",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "peterheo",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/104219687?v=4",
@@ -1902,6 +1923,46 @@
           "occured_at": "2026-10-13T18:47:26Z",
           "title": "typecheck(v1) - merge duplicate useState script blocks in Export and Import dialogs (4 errors)",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1426",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Psykii22",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-17",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-17T17:36:48Z",
+          "title": "🐞 Bug - Changing the tool tip location from the bottom right corner to the left bottom corner",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-17T17:36:50Z",
+          "title": "Labeled issue #8047 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
           "points": 2
         }
       ]

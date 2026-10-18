@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792201810737,
+  "updatedAt": 1792288089400,
   "groups": [
     [
       "2026-10-13",
@@ -679,126 +679,62 @@
       ]
     ],
     [
-      "2026-10-04",
+      "2026-10-17",
       [
         {
-          "username": "tachyons",
+          "username": "Me-Priyank",
           "name": null,
-          "title": "Labeled issue #1366 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1366",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 2
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #7973 - 🐞 Bug - Simulator crashes when Custom Theme localStorage contains invalid JSON",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7973",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "title": "Closed issue #1208 - 🐞 Bug - Replace favicon icon of website with CircuitVerse's official icon in place of browser's default icon",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1208",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
-          "username": "JituRewar",
+          "username": "magic-peach",
           "name": null,
-          "title": "fix(simulator) - prevent fit-to-selection shortcut from intercepting rom input",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1369",
-          "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
+          "title": "feat(groups) - exclude subgroups from dashboards and the group index API",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8046",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
           "points": 2
         },
         {
-          "username": "JituRewar",
+          "username": "magic-peach",
           "name": null,
-          "title": "fix(simulator) - ensure component keyDown runs before mouse bounds check",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7972",
-          "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
+          "title": "Feat - add group sync roster",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8043",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
           "points": 2
         },
         {
-          "username": "JituRewar",
+          "username": "ManyaJain111",
           "name": null,
-          "title": "🐞 Bug - Cannot type hex character 'f' in ROM when cursor is outside canvas",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1366",
-          "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
+          "title": "fix(lti) - recognize secondary mentors as teachers on launch (#8041)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8044",
+          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
+          "points": 2
+        },
+        {
+          "username": "tirth-patel06",
+          "name": null,
+          "title": "fix - serve favicon by setting publicDir to root public/",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1210",
+          "avatar_url": "https://avatars.githubusercontent.com/u/185243371?v=4",
+          "points": 5
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "🐞 Bug - Changing the tool tip location from the bottom right corner to the left bottom corner",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
           "points": 1
         },
         {
-          "username": "JituRewar",
+          "username": "Psykii22",
           "name": null,
-          "title": "Labeled issue #1366 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1366",
-          "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
-          "points": 2
-        },
-        {
-          "username": "iamtanishqjain",
-          "name": null,
-          "title": "fix(vuesim) - point element help links at the current docs site",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1370",
-          "avatar_url": "https://avatars.githubusercontent.com/u/71930864?v=4",
-          "points": 2
-        },
-        {
-          "username": "iamtanishqjain",
-          "name": null,
-          "title": "🐞 Bug - Help button opens the docs home page for 21 elements, old docsify URLs left behind",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1371",
-          "avatar_url": "https://avatars.githubusercontent.com/u/71930864?v=4",
-          "points": 1
-        },
-        {
-          "username": "YashKumar-404",
-          "name": null,
-          "title": "fix - batch star lookups in project serializer to avoid N+1 (#7968)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7977",
-          "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
-          "points": 2
-        },
-        {
-          "username": "eshantharjun9-hub",
-          "name": null,
-          "title": "fix - handle malformed Custom Theme localStorage data",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1368",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235510433?v=4",
-          "points": 2
-        },
-        {
-          "username": "eshantharjun9-hub",
-          "name": null,
-          "title": "fix - prevent simulator crash from malformed custom theme data",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7974",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235510433?v=4",
-          "points": 2
-        },
-        {
-          "username": "eshantharjun9-hub",
-          "name": null,
-          "title": "🐞 Bug - Simulator fails to load with malformed Custom Theme localStorage data",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1367",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235510433?v=4",
-          "points": 1
-        },
-        {
-          "username": "eshantharjun9-hub",
-          "name": null,
-          "title": "🐞 Bug - Simulator crashes when Custom Theme localStorage contains invalid JSON",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7973",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235510433?v=4",
-          "points": 1
-        },
-        {
-          "username": "eshantharjun9-hub",
-          "name": null,
-          "title": "Labeled issue #1367 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1367",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235510433?v=4",
-          "points": 2
-        },
-        {
-          "username": "eshantharjun9-hub",
-          "name": null,
-          "title": "Labeled issue #7973 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7973",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235510433?v=4",
+          "title": "Labeled issue #8047 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
           "points": 2
         }
       ]
@@ -811,7 +747,7 @@
           "name": null,
           "title": "Review on PR #1427",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1427",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -819,7 +755,7 @@
           "name": null,
           "title": "Review on PR #1399",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1399",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -827,7 +763,7 @@
           "name": null,
           "title": "Review on PR #1398",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1398",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -835,7 +771,7 @@
           "name": null,
           "title": "Closed issue #1422 - typecheck(v1) - canvas strict fixes — rotateAngle tuple type and context null guards (7 errors)",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1422",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -843,7 +779,7 @@
           "name": null,
           "title": "Closed issue #1397 - 🐞 Bug - Verilog export generates invalid \"assign undefined\" lines for gates with an unconnected output",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1397",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -851,7 +787,7 @@
           "name": null,
           "title": "Closed issue #1336 - 🐞 Bug - Project name reset to \"Untitled\" on first save when circuit_data is null",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1336",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -1032,7 +968,7 @@
           "name": null,
           "title": "Review on PR #1369",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1369",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -1040,7 +976,7 @@
           "name": null,
           "title": "Closed issue #1366 - Bug - f/F key intercepted by fit-to-selection shortcut, preventing hex/text input in ROM, Text, and Keyboard components",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1366",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -1767,14 +1703,6 @@
       "2026-10-15",
       [
         {
-          "username": "pantha704",
-          "name": null,
-          "title": "refactor(v1) - convert LSB and MSB modules to TypeScript",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1448",
-          "avatar_url": "https://avatars.githubusercontent.com/u/100998543?v=4",
-          "points": 2
-        },
-        {
           "username": "ManyaJain111",
           "name": null,
           "title": "🐞 Bug - Manual assignment close does not freeze student submissions",
@@ -1788,6 +1716,14 @@
           "title": "Labeled issue #8032 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8032",
           "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
+          "points": 2
+        },
+        {
+          "username": "pantha704",
+          "name": null,
+          "title": "refactor(v1) - convert LSB and MSB modules to TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1448",
+          "avatar_url": "https://avatars.githubusercontent.com/u/100998543?v=4",
           "points": 2
         },
         {

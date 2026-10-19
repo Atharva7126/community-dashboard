@@ -1,6 +1,99 @@
 {
-  "updatedAt": 1792288089400,
+  "updatedAt": 1792375512254,
   "groups": [
+    [
+      "2026-10-18",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Review on PR #8019",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8019",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+          "points": 4
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Review on PR #7996",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7996",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+          "points": 4
+        },
+        {
+          "username": "magic-peach",
+          "name": null,
+          "title": "feat(groups) - add subgroup management policy and controller",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8048",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
+          "points": 2
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "perf - add viewport culling for wires",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1453",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "Title - Improve wire rendering performance with viewport culling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1452",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 1
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "chore - consolidate package manager to bun, remove yarn.lock",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8051",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "ManyaJain111",
+          "name": null,
+          "title": "fix(assignment) - freeze submissions on manual close (#8032)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8050",
+          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
+          "points": 2
+        },
+        {
+          "username": "mkumar1205-beep",
+          "name": null,
+          "title": "🐞 Bug - Title Ordinary text between angle brackets is removed by 'stripTags()'",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1454",
+          "avatar_url": "https://avatars.githubusercontent.com/u/233480203?v=4",
+          "points": 1
+        },
+        {
+          "username": "mkumar1205-beep",
+          "name": null,
+          "title": "Labeled issue #1454 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1454",
+          "avatar_url": "https://avatars.githubusercontent.com/u/233480203?v=4",
+          "points": 2
+        },
+        {
+          "username": "mkumar1205-beep",
+          "name": null,
+          "title": "Labeled issue #1454 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1454",
+          "avatar_url": "https://avatars.githubusercontent.com/u/233480203?v=4",
+          "points": 2
+        },
+        {
+          "username": "kritikhatri",
+          "name": null,
+          "title": "fix - handle invalid UTF-8 in rack-attack email throttles (#8040)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8049",
+          "avatar_url": "https://avatars.githubusercontent.com/u/228373846?v=4",
+          "points": 2
+        }
+      ]
+    ],
     [
       "2026-10-13",
       [
@@ -9,7 +102,7 @@
           "name": null,
           "title": "Review on PR #8019",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8019",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
           "points": 4
         },
         {
@@ -1060,19 +1153,19 @@
           "points": 2
         },
         {
-          "username": "anshurajbisoyi98-ctrl",
-          "name": null,
-          "title": "fix(simulator) - remove deleted nodes from their parent's nodeList",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1379",
-          "avatar_url": "https://avatars.githubusercontent.com/u/230949664?v=4",
-          "points": 2
-        },
-        {
           "username": "mkumar1205-beep",
           "name": null,
           "title": "Add widget previews for Interactive Book widgets",
           "link": "https://github.com/CircuitVerse/mobile-app/pull/674",
           "avatar_url": "https://avatars.githubusercontent.com/u/233480203?v=4",
+          "points": 2
+        },
+        {
+          "username": "anshurajbisoyi98-ctrl",
+          "name": null,
+          "title": "fix(simulator) - remove deleted nodes from their parent's nodeList",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1379",
+          "avatar_url": "https://avatars.githubusercontent.com/u/230949664?v=4",
           "points": 2
         }
       ]
@@ -1541,75 +1634,6 @@
           "title": "fix - reuse one SES client across mail deliveries (#7994)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8004",
           "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-10-05",
-      [
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Improve Testbench output lookup using Map",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1375",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Performance - Improve testbench output lookup using map",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1374",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 1
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "fix(ui) - fix BCD translation key in Hex-Bin-Dec converter (#1358)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1377",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 2
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "fix(ui) - remove duplicate Hex-Bin-Dec converter dialog (#1357)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1376",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 2
-        },
-        {
-          "username": "YashKumar-404",
-          "name": null,
-          "title": "fix - retry on statement timeouts and drop duplicate deadline jobs (#7976)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7980",
-          "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
-          "points": 2
-        },
-        {
-          "username": "eshanthh",
-          "name": null,
-          "title": "Fix/duplicate hex bin dec dialog",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1373",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235510433?v=4",
-          "points": 2
-        },
-        {
-          "username": "eshanthh",
-          "name": null,
-          "title": "fix(i18n) - localize hex-bin-dec dialogs",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1372",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235510433?v=4",
-          "points": 2
-        },
-        {
-          "username": "Ken-Kanike",
-          "name": null,
-          "title": "fix - correct 32-bit Adder and ALU carry-out on overflow (#4984)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7981",
-          "avatar_url": "https://avatars.githubusercontent.com/u/161832615?v=4",
           "points": 2
         }
       ]

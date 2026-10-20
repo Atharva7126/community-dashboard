@@ -1,8 +1,8 @@
 {
   "period": "month",
-  "updatedAt": 1792375512250,
-  "startDate": "2026-09-19",
-  "endDate": "2026-10-19",
+  "updatedAt": 1792462904137,
+  "startDate": "2026-09-20",
+  "endDate": "2026-10-20",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -661,274 +661,240 @@
       ]
     },
     {
-      "username": "iamtanishqjain",
+      "username": "Eternity0207",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/71930864?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77221000?v=4",
       "role": "Contributor",
-      "total_points": 53,
+      "total_points": 52,
       "activity_breakdown": {
-        "PR merged": {
-          "count": 4,
-          "points": 20
-        },
         "PR opened": {
-          "count": 11,
-          "points": 22
+          "count": 16,
+          "points": 32
         },
         "Issue opened": {
-          "count": 11,
-          "points": 11
+          "count": 5,
+          "points": 5
+        },
+        "Issue labeled": {
+          "count": 5,
+          "points": 10
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
         }
       },
       "daily_activity": [
         {
+          "date": "2026-10-19",
+          "count": 10,
+          "points": 20
+        },
+        {
+          "date": "2026-10-15",
+          "count": 8,
+          "points": 13
+        },
+        {
+          "date": "2026-10-14",
+          "count": 6,
+          "points": 14
+        },
+        {
           "date": "2026-10-13",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-10-10",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-08",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-04",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-03",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-02",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-01",
           "count": 3,
-          "points": 8
-        },
-        {
-          "date": "2026-09-30",
-          "count": 1,
           "points": 5
-        },
-        {
-          "date": "2026-09-29",
-          "count": 3,
-          "points": 8
-        },
-        {
-          "date": "2026-09-26",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-09-24",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-09-20",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-09-19",
-          "count": 2,
-          "points": 3
         }
       ],
       "activities": [
         {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T07:46:10Z",
+          "title": "fix(vuesim) - resize Keyboard in place when its buffer size changes",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1464",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T07:46:03Z",
+          "title": "fix(testbench) - reset sequential circuits before the first group in Run All",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1463",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T07:45:55Z",
+          "title": "typecheck(v1) - fix Node JavaScript-inference shape — queueProperties, verilogLabel, bitWidth (#1419)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1462",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T07:45:44Z",
+          "title": "typecheck(v1) - pin CircuitElement propagationDelay and saveObject types (#1416)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1461",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T07:45:31Z",
+          "title": "fix(simulator) - correct Adder and ALU carry out at 32-bit width",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1460",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T04:13:28Z",
+          "title": "fix(vuesim) - resize Keyboard in place when its buffer size changes",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1459",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T04:13:25Z",
+          "title": "fix(testbench) - reset sequential circuits before the first group in Run All",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1458",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T04:13:22Z",
+          "title": "typecheck(v1) - fix Node JavaScript-inference shape — queueProperties, verilogLabel, bitWidth (#1419)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1457",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T04:13:18Z",
+          "title": "typecheck(v1) - pin CircuitElement propagationDelay and saveObject types (#1416)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1456",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T04:13:15Z",
+          "title": "fix(simulator) - correct Adder and ALU carry out at 32-bit width",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1455",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-15T18:08:47Z",
+          "title": "fix(vuesim) - resize Keyboard in place when its buffer size changes",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1450",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-15T06:38:39Z",
+          "title": "fix(testbench) - reset sequential circuits before the first group in Run All",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1447",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-15T17:35:29Z",
+          "title": "🐞 Bug - Changing a Keyboard's Buffer Size deletes all its wires, its label and the buffered keys",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1449",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-15T06:11:17Z",
+          "title": "🐞 Bug - Sequential testbench \"Run All\" gives different results on the same circuit (no reset before the first group)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1446",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-15T04:25:12Z",
+          "title": "🐞 Bug - Simulator fails to load (blank page) in v0 and v1 after jQuery CDN removal — \"$ is not defined\" / \"jQuery is not defined\"",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1445",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-15T17:35:31Z",
+          "title": "Labeled issue #1449 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1449",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-15T06:11:18Z",
+          "title": "Labeled issue #1446 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1446",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-15T04:25:14Z",
+          "title": "Labeled issue #1445 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1445",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-14T08:35:28Z",
+          "title": "typecheck(v1) - fix Node JavaScript-inference shape — queueProperties, verilogLabel, bitWidth (#1419)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1440",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-14T08:18:39Z",
+          "title": "typecheck(v1) - pin CircuitElement propagationDelay and saveObject types (#1416)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1439",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-14T06:19:34Z",
+          "title": "fix(simulator) - correct Adder and ALU carry out at 32-bit width",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1437",
+          "points": 2
+        },
+        {
           "type": "PR merged",
-          "occured_at": "2026-10-13T13:44:01Z",
-          "title": "fix(vuesim) - drop the image formats the canvas cannot produce",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1306",
+          "occured_at": "2026-10-14T07:53:14Z",
+          "title": "fix(verilog) - skip elements with no connected outputs in Verilog export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1399",
           "points": 5
         },
         {
+          "type": "Issue opened",
+          "occured_at": "2026-10-14T05:54:32Z",
+          "title": "🐞 Bug - Adder gives wrong carry-out (Cout) at 32-bit width",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1436",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-14T05:54:34Z",
+          "title": "Labeled issue #1436 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1436",
+          "points": 2
+        },
+        {
           "type": "PR opened",
-          "occured_at": "2026-10-10T18:49:49Z",
-          "title": "fix(vuesim) - add the missing Verilog modules for Dlatch, JK and SR in v1",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1389",
+          "occured_at": "2026-10-13T09:54:08Z",
+          "title": "fix(verilog) - skip elements with no connected outputs in Verilog export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1399",
           "points": 2
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-10-10T18:50:13Z",
-          "title": "🐞 Bug - v1 Verilog export omits the module for D Latch, JK and SR flip flops",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1390",
+          "occured_at": "2026-10-13T08:17:24Z",
+          "title": "🐞 Bug - Verilog export generates invalid \"assign undefined\" lines for gates with an unconnected output",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1397",
           "points": 1
         },
         {
-          "type": "PR opened",
-          "occured_at": "2026-10-08T14:21:38Z",
-          "title": "fix(vuesim) - describe what BitSelector does in its tooltip",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1380",
+          "type": "Issue labeled",
+          "occured_at": "2026-10-13T08:17:26Z",
+          "title": "Labeled issue #1397 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1397",
           "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-08T14:21:57Z",
-          "title": "🐞 Bug - BitSelector's tooltip describes the Splitter",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1381",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-04T14:44:32Z",
-          "title": "fix(vuesim) - point element help links at the current docs site",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1370",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-04T14:45:42Z",
-          "title": "🐞 Bug - Help button opens the docs home page for 21 elements, old docsify URLs left behind",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1371",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-03T16:18:16Z",
-          "title": "fix(vuesim) - keep a Flag's box fitting its name after undo or reload",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1359",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-03T16:18:23Z",
-          "title": "🐞 Bug - a Flag's box stops fitting its name after undo or reload",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1360",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-02T08:23:04Z",
-          "title": "fix(vuesim) - stop JK and SR flip flops throwing on the bit width shortcut",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1352",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-02T08:23:27Z",
-          "title": "🐞 Bug - pressing Q on a JK or SR flip flop throws, bit width ends up out of sync with its nodes",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1353",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-01T17:17:12Z",
-          "title": "fix(vuesim) - refuse a splitter bit width narrower than its split",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1348",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-01T08:47:32Z",
-          "title": "fix(vuesim) - keep element label text unescaped in the properties panel",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1303",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-01T17:17:31Z",
-          "title": "🐞 Bug - splitter bit width can go below its split total, overflowing the input pin",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1349",
-          "points": 1
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-09-30T17:38:36Z",
-          "title": "fix(vuesim) - keep splitter output widths when its bit width changes",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1332",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-29T15:18:58Z",
-          "title": "fix(vuesim) - label the tunnel identifier field correctly",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1341",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-09-29T18:57:31Z",
-          "title": "fix(vuesim) - label the tunnel identifier field correctly",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1341",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-29T15:19:16Z",
-          "title": "🐞 Bug - Tunnel properties panel calls its name field Debug Flag identifier",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1342",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-26T10:30:25Z",
-          "title": "fix(vuesim) - keep splitter output widths when its bit width changes",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1332",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-26T10:29:48Z",
-          "title": "🐞 Bug - changing a Splitter's bit width overwrites its output pin widths",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1331",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-24T16:10:54Z",
-          "title": "fix - split search tag input on commas",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7909",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-24T16:09:49Z",
-          "title": "🐞 Bug - search tag filter splits and duplicates tags typed with a comma",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7908",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-20T16:25:53Z",
-          "title": "fix - keep search dropdown highlight on the selected option",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7894",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-20T16:24:22Z",
-          "title": "🐞 Bug - search resource dropdown keeps the arrow-key highlight after you back out",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7893",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-19T15:13:07Z",
-          "title": "fix(vuesim) - resize TTY in place so its wires and text survive",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1317",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-19T15:12:05Z",
-          "title": "🐞 Bug - Changing TTY rows or columns deletes every wire attached to it",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1316",
-          "points": 1
         }
       ]
     },
@@ -1190,19 +1156,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
       "role": "Contributor",
-      "total_points": 47,
+      "total_points": 50,
       "activity_breakdown": {
+        "Issue opened": {
+          "count": 8,
+          "points": 8
+        },
+        "Issue labeled": {
+          "count": 9,
+          "points": 18
+        },
         "PR opened": {
           "count": 7,
           "points": 14
-        },
-        "Issue opened": {
-          "count": 7,
-          "points": 7
-        },
-        "Issue labeled": {
-          "count": 8,
-          "points": 16
         },
         "PR merged": {
           "count": 2,
@@ -1210,6 +1176,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-19",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-10-18",
           "count": 1,
@@ -1272,6 +1243,20 @@
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-19T16:41:00Z",
+          "title": "🐞 Bug - Close and Edit buttons on admin contests page do not open modals",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8057",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-19T16:41:02Z",
+          "title": "Labeled issue #8057 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8057",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-10-18T11:04:38Z",
@@ -1439,6 +1424,259 @@
           "title": "Labeled issue #1330 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1330",
           "points": 2
+        }
+      ]
+    },
+    {
+      "username": "iamtanishqjain",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/71930864?v=4",
+      "role": "Contributor",
+      "total_points": 50,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 4,
+          "points": 20
+        },
+        "PR opened": {
+          "count": 10,
+          "points": 20
+        },
+        "Issue opened": {
+          "count": 10,
+          "points": 10
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-13",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-10-10",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-08",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-04",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-03",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-02",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-01",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2026-09-30",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-09-29",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2026-09-26",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-09-24",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-09-20",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-13T13:44:01Z",
+          "title": "fix(vuesim) - drop the image formats the canvas cannot produce",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1306",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-10T18:49:49Z",
+          "title": "fix(vuesim) - add the missing Verilog modules for Dlatch, JK and SR in v1",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1389",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-10T18:50:13Z",
+          "title": "🐞 Bug - v1 Verilog export omits the module for D Latch, JK and SR flip flops",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1390",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-08T14:21:38Z",
+          "title": "fix(vuesim) - describe what BitSelector does in its tooltip",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1380",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-08T14:21:57Z",
+          "title": "🐞 Bug - BitSelector's tooltip describes the Splitter",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1381",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-04T14:44:32Z",
+          "title": "fix(vuesim) - point element help links at the current docs site",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1370",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-04T14:45:42Z",
+          "title": "🐞 Bug - Help button opens the docs home page for 21 elements, old docsify URLs left behind",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1371",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-03T16:18:16Z",
+          "title": "fix(vuesim) - keep a Flag's box fitting its name after undo or reload",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1359",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-03T16:18:23Z",
+          "title": "🐞 Bug - a Flag's box stops fitting its name after undo or reload",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1360",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-02T08:23:04Z",
+          "title": "fix(vuesim) - stop JK and SR flip flops throwing on the bit width shortcut",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1352",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-02T08:23:27Z",
+          "title": "🐞 Bug - pressing Q on a JK or SR flip flop throws, bit width ends up out of sync with its nodes",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1353",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-01T17:17:12Z",
+          "title": "fix(vuesim) - refuse a splitter bit width narrower than its split",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1348",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-01T08:47:32Z",
+          "title": "fix(vuesim) - keep element label text unescaped in the properties panel",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1303",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-01T17:17:31Z",
+          "title": "🐞 Bug - splitter bit width can go below its split total, overflowing the input pin",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1349",
+          "points": 1
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-09-30T17:38:36Z",
+          "title": "fix(vuesim) - keep splitter output widths when its bit width changes",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1332",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-29T15:18:58Z",
+          "title": "fix(vuesim) - label the tunnel identifier field correctly",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1341",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-09-29T18:57:31Z",
+          "title": "fix(vuesim) - label the tunnel identifier field correctly",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1341",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-29T15:19:16Z",
+          "title": "🐞 Bug - Tunnel properties panel calls its name field Debug Flag identifier",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1342",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-26T10:30:25Z",
+          "title": "fix(vuesim) - keep splitter output widths when its bit width changes",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1332",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-26T10:29:48Z",
+          "title": "🐞 Bug - changing a Splitter's bit width overwrites its output pin widths",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1331",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-24T16:10:54Z",
+          "title": "fix - split search tag input on commas",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7909",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-24T16:09:49Z",
+          "title": "🐞 Bug - search tag filter splits and duplicates tags typed with a comma",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7908",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-20T16:25:53Z",
+          "title": "fix - keep search dropdown highlight on the selected option",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7894",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-20T16:24:22Z",
+          "title": "🐞 Bug - search resource dropdown keeps the arrow-key highlight after you back out",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7893",
+          "points": 1
         }
       ]
     },
@@ -1964,151 +2202,6 @@
       ]
     },
     {
-      "username": "ShinichiShi",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-      "role": "Contributor",
-      "total_points": 35,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 4,
-          "points": 20
-        },
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        },
-        "Issue labeled": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-13",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-10-12",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-10-01",
-          "count": 2,
-          "points": 10
-        },
-        {
-          "date": "2026-09-22",
-          "count": 4,
-          "points": 10
-        },
-        {
-          "date": "2026-09-19",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-13T11:49:45Z",
-          "title": "fix - crash in subcircuit rendering when nodes are undefined",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1396",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-12T15:53:03Z",
-          "title": "fix - crash in subcircuit rendering when nodes are undefined",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1396",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-12T15:30:25Z",
-          "title": "🐞 Bug - vuesim crashes when saved node indices are stale/undefined",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1395",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T15:30:27Z",
-          "title": "Labeled issue #1395 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1395",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-01T08:30:13Z",
-          "title": "fix(vuesim) - ensure the title button is flipped properly",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1325",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-01T08:30:53Z",
-          "title": "Fix(vuesim) - testbench title and type not loading when editing",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1286",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-22T14:27:22Z",
-          "title": "fix(vuesim) - ensure the title button is flipped properly",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1325",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-09-22T12:27:00Z",
-          "title": "fix - add report issue modal to redirect to forums",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1318",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-22T14:22:19Z",
-          "title": "🐞 Bug - vuesim switch of title enabling in layout is flipped",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1324",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-22T14:22:21Z",
-          "title": "Labeled issue #1324 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1324",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-19T16:25:03Z",
-          "title": "fix - add report issue modal to redirect to forums",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1318",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-19T13:38:19Z",
-          "title": "🐞 Bug - vuesim The bug reporting modal doesnt function as expected",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1315",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-19T13:38:21Z",
-          "title": "Labeled issue #1315 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1315",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "Saurabhyadav0",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/134767123?v=4",
@@ -2303,6 +2396,190 @@
       ]
     },
     {
+      "username": "magic-peach",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
+      "role": "Contributor",
+      "total_points": 32,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 16,
+          "points": 32
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-19",
+          "count": 4,
+          "points": 8
+        },
+        {
+          "date": "2026-10-18",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-17",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2026-10-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-14",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-10",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-09-30",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-09-29",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2026-09-28",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-09-24",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-09-23",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T18:06:55Z",
+          "title": "feat(groups) - show per-subgroup progress rollup on the group show page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8058",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T15:32:20Z",
+          "title": "feat(api) - add REST API v1 endpoints for subgroups",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8056",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T12:15:43Z",
+          "title": "feat(groups) - hide subgroups from dashboards and the group index API",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8055",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T08:46:59Z",
+          "title": "feat(groups) - add subgroup member management and group page U",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8053",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-18T07:20:22Z",
+          "title": "feat(groups) - add subgroup management policy and controller",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8048",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-17T11:37:41Z",
+          "title": "feat(groups) - exclude subgroups from dashboards and the group index API",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8046",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-17T09:50:12Z",
+          "title": "Feat - add group sync roster",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8043",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-16T07:27:12Z",
+          "title": "feat(groups) - add self-referential subgroups data layer",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8038",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-14T16:40:34Z",
+          "title": "feat(autograder) - add AGS score push",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8029",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-10T07:07:52Z",
+          "title": "feat(assignments) - add student grading result view",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8003",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-30T04:34:24Z",
+          "title": "feat(autograder) - add GradeScaleMapper",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7944",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-29T15:40:04Z",
+          "title": "feat(autograder) - add AutogradeJob triggered on submission",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7942",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-29T04:18:28Z",
+          "title": "feat(assignments) - add GradingResult model",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7940",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-28T14:51:20Z",
+          "title": "feat(assignments) - add autograde settings",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7926",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-24T15:16:11Z",
+          "title": "feat(assignments) - add test-case editor for autograded suites",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7907",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-23T16:38:30Z",
+          "title": "feat(autograder) - add Autograder - - Runner for headless test runs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7906",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "YashKumar-404",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
@@ -2477,169 +2754,6 @@
       ]
     },
     {
-      "username": "Eternity0207",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/77221000?v=4",
-      "role": "Contributor",
-      "total_points": 32,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 6,
-          "points": 12
-        },
-        "Issue opened": {
-          "count": 5,
-          "points": 5
-        },
-        "Issue labeled": {
-          "count": 5,
-          "points": 10
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-15",
-          "count": 8,
-          "points": 13
-        },
-        {
-          "date": "2026-10-14",
-          "count": 6,
-          "points": 14
-        },
-        {
-          "date": "2026-10-13",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-15T18:08:47Z",
-          "title": "fix(vuesim) - resize Keyboard in place when its buffer size changes",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1450",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-15T06:38:39Z",
-          "title": "fix(testbench) - reset sequential circuits before the first group in Run All",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1447",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-15T17:35:29Z",
-          "title": "🐞 Bug - Changing a Keyboard's Buffer Size deletes all its wires, its label and the buffered keys",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1449",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-15T06:11:17Z",
-          "title": "🐞 Bug - Sequential testbench \"Run All\" gives different results on the same circuit (no reset before the first group)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1446",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-15T04:25:12Z",
-          "title": "🐞 Bug - Simulator fails to load (blank page) in v0 and v1 after jQuery CDN removal — \"$ is not defined\" / \"jQuery is not defined\"",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1445",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-15T17:35:31Z",
-          "title": "Labeled issue #1449 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1449",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-15T06:11:18Z",
-          "title": "Labeled issue #1446 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1446",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-15T04:25:14Z",
-          "title": "Labeled issue #1445 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1445",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-14T08:35:28Z",
-          "title": "typecheck(v1) - fix Node JavaScript-inference shape — queueProperties, verilogLabel, bitWidth (#1419)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1440",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-14T08:18:39Z",
-          "title": "typecheck(v1) - pin CircuitElement propagationDelay and saveObject types (#1416)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1439",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-14T06:19:34Z",
-          "title": "fix(simulator) - correct Adder and ALU carry out at 32-bit width",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1437",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-14T07:53:14Z",
-          "title": "fix(verilog) - skip elements with no connected outputs in Verilog export",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1399",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-14T05:54:32Z",
-          "title": "🐞 Bug - Adder gives wrong carry-out (Cout) at 32-bit width",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1436",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-14T05:54:34Z",
-          "title": "Labeled issue #1436 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1436",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-13T09:54:08Z",
-          "title": "fix(verilog) - skip elements with no connected outputs in Verilog export",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1399",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-13T08:17:24Z",
-          "title": "🐞 Bug - Verilog export generates invalid \"assign undefined\" lines for gates with an unconnected output",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1397",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-13T08:17:26Z",
-          "title": "Labeled issue #1397 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1397",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "mohi2006august",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/218565496?v=4",
@@ -2801,6 +2915,125 @@
           "occured_at": "2026-10-12T18:33:23Z",
           "title": "Labeled issue #8013 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8013",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "ShinichiShi",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+      "role": "Contributor",
+      "total_points": 30,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 4,
+          "points": 20
+        },
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-13",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-10-12",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-10-01",
+          "count": 2,
+          "points": 10
+        },
+        {
+          "date": "2026-09-22",
+          "count": 4,
+          "points": 10
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-13T11:49:45Z",
+          "title": "fix - crash in subcircuit rendering when nodes are undefined",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1396",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-12T15:53:03Z",
+          "title": "fix - crash in subcircuit rendering when nodes are undefined",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1396",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-12T15:30:25Z",
+          "title": "🐞 Bug - vuesim crashes when saved node indices are stale/undefined",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1395",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-12T15:30:27Z",
+          "title": "Labeled issue #1395 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1395",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-01T08:30:13Z",
+          "title": "fix(vuesim) - ensure the title button is flipped properly",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1325",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-01T08:30:53Z",
+          "title": "Fix(vuesim) - testbench title and type not loading when editing",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1286",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-22T14:27:22Z",
+          "title": "fix(vuesim) - ensure the title button is flipped properly",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1325",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-09-22T12:27:00Z",
+          "title": "fix - add report issue modal to redirect to forums",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1318",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-22T14:22:19Z",
+          "title": "🐞 Bug - vuesim switch of title enabling in layout is flipped",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1324",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-22T14:22:21Z",
+          "title": "Labeled issue #1324 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1324",
           "points": 2
         }
       ]
@@ -2972,19 +3205,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
       "role": "Contributor",
-      "total_points": 27,
+      "total_points": 24,
       "activity_breakdown": {
         "PR opened": {
           "count": 12,
           "points": 24
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
         }
       },
       "daily_activity": [
@@ -3037,11 +3262,6 @@
           "date": "2026-09-25",
           "count": 1,
           "points": 2
-        },
-        {
-          "date": "2026-09-19",
-          "count": 2,
-          "points": 3
         }
       ],
       "activities": [
@@ -3128,178 +3348,13 @@
           "title": "fix - use linked sourcemaps in production builds (esbuild)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7915",
           "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-19T20:57:34Z",
-          "title": "Title - 🐞 Bug - Three bugs found while sweeping undo/redo keyboard shortcut conflict, element duplication, and Button bit-width reset",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1319",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-19T20:57:36Z",
-          "title": "Labeled issue #1319 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1319",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "magic-peach",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-      "role": "Contributor",
-      "total_points": 24,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 12,
-          "points": 24
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-18",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-17",
-          "count": 2,
-          "points": 4
-        },
-        {
-          "date": "2026-10-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-14",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-10",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-09-30",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-09-29",
-          "count": 2,
-          "points": 4
-        },
-        {
-          "date": "2026-09-28",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-09-24",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-09-23",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-18T07:20:22Z",
-          "title": "feat(groups) - add subgroup management policy and controller",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8048",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-17T11:37:41Z",
-          "title": "feat(groups) - exclude subgroups from dashboards and the group index API",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8046",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-17T09:50:12Z",
-          "title": "Feat - add group sync roster",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8043",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-16T07:27:12Z",
-          "title": "feat(groups) - add self-referential subgroups data layer",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8038",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-14T16:40:34Z",
-          "title": "feat(autograder) - add AGS score push",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8029",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-10T07:07:52Z",
-          "title": "feat(assignments) - add student grading result view",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8003",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-30T04:34:24Z",
-          "title": "feat(autograder) - add GradeScaleMapper",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7944",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-29T15:40:04Z",
-          "title": "feat(autograder) - add AutogradeJob triggered on submission",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7942",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-29T04:18:28Z",
-          "title": "feat(assignments) - add GradingResult model",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7940",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-28T14:51:20Z",
-          "title": "feat(assignments) - add autograde settings",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7926",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-24T15:16:11Z",
-          "title": "feat(assignments) - add test-case editor for autograded suites",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7907",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-23T16:38:30Z",
-          "title": "feat(autograder) - add Autograder - - Runner for headless test runs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7906",
-          "points": 2
         }
       ]
     },
     {
       "username": "naman79820",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
       "total_points": 23,
       "activity_breakdown": {
@@ -3603,104 +3658,6 @@
       ]
     },
     {
-      "username": "cynicalmindset",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/166590584?v=4",
-      "role": "Contributor",
-      "total_points": 14,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "Issue opened": {
-          "count": 4,
-          "points": 4
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-03",
-          "count": 6,
-          "points": 10
-        },
-        {
-          "date": "2026-09-19",
-          "count": 3,
-          "points": 4
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-03T20:28:48Z",
-          "title": "fix(vuesim) - preserve connected wires when resizing TTY rows and columns",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1365",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-03T19:47:31Z",
-          "title": "fix(vuesim) - synchronize outputBitWidth on newBitWidth in Verilog modules (#1362)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1363",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-03T20:02:38Z",
-          "title": "🐞 Bug - Changing TTY rows or columns deletes all connected wires",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1364",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-03T19:28:57Z",
-          "title": "🐞 Bug - outputBitWidth de-synchronization on newBitWidth() in Verilog arithmetic elements",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1362",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-03T20:02:39Z",
-          "title": "Labeled issue #1364 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1364",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-03T19:28:58Z",
-          "title": "Labeled issue #1362 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1362",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-19T04:03:44Z",
-          "title": "feat(i18n) - extract hardcoded strings into localization arb files",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/670",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-19T03:48:14Z",
-          "title": "feat(i18n) - extract hardcoded strings into localization arb files",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/669",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-19T03:21:13Z",
-          "title": "unhandled UnauthorizedException in NotificationsService and missing unit tests",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/668",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "kartikey24prakash",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/146826917?v=4",
@@ -3872,6 +3829,78 @@
           "occured_at": "2026-10-05T03:57:04Z",
           "title": "fix(i18n) - localize hex-bin-dec dialogs",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1372",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "cynicalmindset",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/166590584?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-03",
+          "count": 6,
+          "points": 10
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-03T20:28:48Z",
+          "title": "fix(vuesim) - preserve connected wires when resizing TTY rows and columns",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1365",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-03T19:47:31Z",
+          "title": "fix(vuesim) - synchronize outputBitWidth on newBitWidth in Verilog modules (#1362)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1363",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-03T20:02:38Z",
+          "title": "🐞 Bug - Changing TTY rows or columns deletes all connected wires",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1364",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-03T19:28:57Z",
+          "title": "🐞 Bug - outputBitWidth de-synchronization on newBitWidth() in Verilog arithmetic elements",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1362",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-03T20:02:39Z",
+          "title": "Labeled issue #1364 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1364",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-03T19:28:58Z",
+          "title": "Labeled issue #1362 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1362",
           "points": 2
         }
       ]
@@ -5016,6 +5045,64 @@
           "occured_at": "2026-10-15T13:30:34Z",
           "title": "refactor(v1) - convert LSB and MSB modules to TypeScript",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1448",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "hardikkaurani",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/224249943?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-19",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T10:09:00Z",
+          "title": "fix - parse Accept-Language header as symbol for locale fallback (#8020)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8054",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "knowprasad",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/144908638?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-19",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-19T08:34:47Z",
+          "title": "fix(contests) - prevent users from voting on their own submission (#8022)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8052",
           "points": 2
         }
       ]

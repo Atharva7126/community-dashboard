@@ -1,6 +1,43 @@
 {
-  "updatedAt": 1792548922888,
+  "updatedAt": 1792634989009,
   "groups": [
+    [
+      "2026-10-21",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Review on PR #8073",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8073",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+          "points": 4
+        },
+        {
+          "username": "MYMISERABLEMIND17",
+          "name": null,
+          "title": "perf(api) - eliminate duplicate pagination counts and eager-load project associations (#8074)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8076",
+          "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
+          "points": 2
+        },
+        {
+          "username": "Jashan32",
+          "name": null,
+          "title": "fix - use POST request for project forking",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/680",
+          "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
+          "points": 2
+        },
+        {
+          "username": "Arnam-arch",
+          "name": null,
+          "title": "refactor - migrate verilogHelpers.js to TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1467",
+          "avatar_url": "https://avatars.githubusercontent.com/u/223543360?v=4",
+          "points": 2
+        }
+      ]
+    ],
     [
       "2026-10-18",
       [
@@ -9,7 +46,7 @@
           "name": null,
           "title": "Review on PR #8019",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8019",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
           "points": 4
         },
         {
@@ -17,7 +54,7 @@
           "name": null,
           "title": "Review on PR #7996",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7996",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
           "points": 4
         },
         {
@@ -102,7 +139,7 @@
           "name": null,
           "title": "Review on PR #8019",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8019",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
           "points": 4
         },
         {
@@ -1347,59 +1384,6 @@
       ]
     ],
     [
-      "2026-10-08",
-      [
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Closed issue #804 - Fix incorrect answer options in the Binary Multiplication quiz",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/804",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
-          "points": 1
-        },
-        {
-          "username": "iamtanishqjain",
-          "name": null,
-          "title": "fix(vuesim) - describe what BitSelector does in its tooltip",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1380",
-          "avatar_url": "https://avatars.githubusercontent.com/u/71930864?v=4",
-          "points": 2
-        },
-        {
-          "username": "iamtanishqjain",
-          "name": null,
-          "title": "🐞 Bug - BitSelector's tooltip describes the Splitter",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1381",
-          "avatar_url": "https://avatars.githubusercontent.com/u/71930864?v=4",
-          "points": 1
-        },
-        {
-          "username": "amankv1234",
-          "name": null,
-          "title": "feat - Add \"Copy to Clipboard\" button in Render Image dialog",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1382",
-          "avatar_url": "https://avatars.githubusercontent.com/u/186990161?v=4",
-          "points": 2
-        },
-        {
-          "username": "Meghali54",
-          "name": null,
-          "title": "Fix incorrect answer options in the Binary Multiplication quiz",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/804",
-          "avatar_url": "https://avatars.githubusercontent.com/u/174095061?v=4",
-          "points": 1
-        },
-        {
-          "username": "bropal404",
-          "name": null,
-          "title": "Fix - Project search API returning 500 when pagination parameters are omitted",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8000",
-          "avatar_url": "https://avatars.githubusercontent.com/u/46397896?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
       "2026-10-20",
       [
         {
@@ -1781,6 +1765,14 @@
           "points": 2
         },
         {
+          "username": "MYMISERABLEMIND17",
+          "name": null,
+          "title": "fix(project) - reset stars_count to 0 on project fork (#8023)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8035",
+          "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
+          "points": 2
+        },
+        {
           "username": "durgeshbg",
           "name": null,
           "title": "🐞 Bug - Circuit tabs use undefined draggable keys when reordered or closed",
@@ -1802,14 +1794,6 @@
           "title": "Labeled issue #1451 - pending triage",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1451",
           "avatar_url": "https://avatars.githubusercontent.com/u/84910181?v=4",
-          "points": 2
-        },
-        {
-          "username": "MYMISERABLEMIND17",
-          "name": null,
-          "title": "fix(project) - reset stars_count to 0 on project fork (#8023)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8035",
-          "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
           "points": 2
         },
         {

@@ -1,8 +1,8 @@
 {
   "period": "month",
-  "updatedAt": 1792548922882,
-  "startDate": "2026-09-21",
-  "endDate": "2026-10-21",
+  "updatedAt": 1792634989003,
+  "startDate": "2026-09-22",
+  "endDate": "2026-10-22",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,11 +11,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
       "role": "Maintainer",
-      "total_points": 108,
+      "total_points": 86,
       "activity_breakdown": {
         "Issue opened": {
-          "count": 26,
-          "points": 26
+          "count": 19,
+          "points": 19
         },
         "Issue labeled": {
           "count": 24,
@@ -24,10 +24,6 @@
         "Issue closed": {
           "count": 19,
           "points": 19
-        },
-        "PR merged": {
-          "count": 3,
-          "points": 15
         }
       },
       "daily_activity": [
@@ -60,11 +56,6 @@
           "date": "2026-09-22",
           "count": 2,
           "points": 2
-        },
-        {
-          "date": "2026-09-21",
-          "count": 10,
-          "points": 22
         }
       ],
       "activities": [
@@ -500,76 +491,6 @@
           "occured_at": "2026-09-22T12:27:01Z",
           "title": "Closed issue #1315 - 🐞 Bug - vuesim The bug reporting modal doesnt function as expected",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1315",
-          "points": 1
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-09-21T07:30:26Z",
-          "title": "Remove simple_discussion (forum moved to Discourse)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7890",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-09-21T07:24:52Z",
-          "title": "Remove commontator and switch the asset backend to Propshaft",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7888",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-09-21T07:24:11Z",
-          "title": "Cut the JSON API over to homegrown comments",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7887",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-21T15:54:21Z",
-          "title": "Modernize - uploads / API / pagination consolidation",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7902",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-21T15:54:21Z",
-          "title": "Modernize - toolchain / Docker / CI (single package manager)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7901",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-21T15:54:20Z",
-          "title": "Modernize - Sidekiq/Redis/Cable tuning (keep Sidekiq)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7900",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-21T15:54:20Z",
-          "title": "Modernize - Postgres 14 -> 17/18 + DB config tuning",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7899",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-21T15:54:20Z",
-          "title": "Modernize - production logging / security / observability",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7898",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-21T15:54:20Z",
-          "title": "Modernize - Rails frontend legacy cleanup (Turbolinks/UJS/jQuery)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7897",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-21T15:54:01Z",
-          "title": "Modernize - complete Rails 8.1 adoption (keep Sidekiq)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7896",
           "points": 1
         }
       ]
@@ -3340,6 +3261,115 @@
       ]
     },
     {
+      "username": "naman79820",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+      "role": "Contributor",
+      "total_points": 27,
+      "activity_breakdown": {
+        "Review submitted": {
+          "count": 6,
+          "points": 24
+        },
+        "Issue closed": {
+          "count": 3,
+          "points": 3
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-21",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-10-18",
+          "count": 2,
+          "points": 8
+        },
+        {
+          "date": "2026-10-13",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-09-29",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-09-24",
+          "count": 4,
+          "points": 7
+        }
+      ],
+      "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-10-21T22:20:59Z",
+          "title": "Review on PR #8073",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8073",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-10-18T16:30:18Z",
+          "title": "Review on PR #8019",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8019",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-10-18T16:27:05Z",
+          "title": "Review on PR #7996",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7996",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-10-13T17:44:35Z",
+          "title": "Review on PR #8019",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8019",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-09-29T17:49:11Z",
+          "title": "Review on PR #7839",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7839",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-09-24T17:53:14Z",
+          "title": "Review on PR #7909",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7909",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-09-24T11:13:15Z",
+          "title": "Closed issue #7861 - 🐞 Header dropdown menus (e.g. Help) overflow off-screen at smaller viewport widths",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7861",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-09-24T11:08:25Z",
+          "title": "Closed issue #7878 - 🐞 Bug - Pin labels are all rendered at the top-left corner in circuit layout",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7878",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-09-24T11:19:20Z",
+          "title": "Closed issue #7858 - 🐞 BugWhite profile icon is displayed incorrectly.",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7858",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "JituRewar",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
@@ -3478,103 +3508,6 @@
       ]
     },
     {
-      "username": "naman79820",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-      "role": "Contributor",
-      "total_points": 23,
-      "activity_breakdown": {
-        "Review submitted": {
-          "count": 5,
-          "points": 20
-        },
-        "Issue closed": {
-          "count": 3,
-          "points": 3
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-18",
-          "count": 2,
-          "points": 8
-        },
-        {
-          "date": "2026-10-13",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-09-29",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-09-24",
-          "count": 4,
-          "points": 7
-        }
-      ],
-      "activities": [
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-10-18T16:30:18Z",
-          "title": "Review on PR #8019",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8019",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-10-18T16:27:05Z",
-          "title": "Review on PR #7996",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7996",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-10-13T17:44:35Z",
-          "title": "Review on PR #8019",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8019",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-09-29T17:49:11Z",
-          "title": "Review on PR #7839",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7839",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-09-24T17:53:14Z",
-          "title": "Review on PR #7909",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7909",
-          "points": 4
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-09-24T11:13:15Z",
-          "title": "Closed issue #7861 - 🐞 Header dropdown menus (e.g. Help) overflow off-screen at smaller viewport widths",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7861",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-09-24T11:08:25Z",
-          "title": "Closed issue #7878 - 🐞 Bug - Pin labels are all rendered at the top-left corner in circuit layout",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7878",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-09-24T11:19:20Z",
-          "title": "Closed issue #7858 - 🐞 BugWhite profile icon is displayed incorrectly.",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7858",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "Nihal4777",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
@@ -3668,100 +3601,6 @@
           "title": "Closed issue #1342 - 🐞 Bug - Tunnel properties panel calls its name field Debug Flag identifier",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1342",
           "points": 1
-        }
-      ]
-    },
-    {
-      "username": "kartikey24prakash",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/146826917?v=4",
-      "role": "Contributor",
-      "total_points": 12,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-01",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-09-30",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-09-26",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-09-21",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-01T20:13:55Z",
-          "title": "fix - resolve Node 22 test suite crashes and harden localStorage access",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1350",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-30T20:46:56Z",
-          "title": "🐞 Bug - Test cases crash on Node 22 due to unhandled local Storage access",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1345",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-30T20:47:00Z",
-          "title": "Labeled issue #1345 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1345",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-30T20:47:01Z",
-          "title": "Labeled issue #1345 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1345",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-26T21:10:11Z",
-          "title": "fix - resolve circuit elements panel viewport overflow (#1320)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1333",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-21T21:49:34Z",
-          "title": "🐞 Bug - Circuit Elements panel overflows viewport when expanding categories and snaps behind navbar",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1320",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-21T21:49:35Z",
-          "title": "Labeled issue #1320 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1320",
-          "points": 2
         }
       ]
     },
@@ -3987,6 +3826,73 @@
       ]
     },
     {
+      "username": "MYMISERABLEMIND17",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 5,
+          "points": 10
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-15",
+          "count": 3,
+          "points": 6
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-21T13:21:53Z",
+          "title": "perf(api) - eliminate duplicate pagination counts and eager-load project associations (#8074)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8076",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-16T03:59:18Z",
+          "title": "fix(project) - reset stars_count to 0 on project fork (#8023)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8035",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-15T19:52:41Z",
+          "title": "fix(hotkey_binder) - remove no-op if statements, loop storage writes, and invoke getOS() (#8015, #7913)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8033",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-15T19:45:21Z",
+          "title": "fix(docs) - improve technical accuracy and component classification in Verilog docs (#531)",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/546",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-15T19:43:50Z",
+          "title": "fix(docs) - resolve broken anchor links and heading slugs across chapters 4, 7, and 8",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/545",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "eshantharjun9-hub",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235510433?v=4",
@@ -4136,57 +4042,155 @@
       ]
     },
     {
-      "username": "MYMISERABLEMIND17",
+      "username": "kartikey24prakash",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146826917?v=4",
       "role": "Contributor",
-      "total_points": 8,
+      "total_points": 9,
       "activity_breakdown": {
         "PR opened": {
-          "count": 4,
-          "points": 8
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
         }
       },
       "daily_activity": [
         {
-          "date": "2026-10-16",
+          "date": "2026-10-01",
           "count": 1,
           "points": 2
         },
         {
-          "date": "2026-10-15",
+          "date": "2026-09-30",
           "count": 3,
-          "points": 6
+          "points": 5
+        },
+        {
+          "date": "2026-09-26",
+          "count": 1,
+          "points": 2
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-10-16T03:59:18Z",
-          "title": "fix(project) - reset stars_count to 0 on project fork (#8023)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8035",
+          "occured_at": "2026-10-01T20:13:55Z",
+          "title": "fix - resolve Node 22 test suite crashes and harden localStorage access",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1350",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-30T20:46:56Z",
+          "title": "🐞 Bug - Test cases crash on Node 22 due to unhandled local Storage access",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1345",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-30T20:47:00Z",
+          "title": "Labeled issue #1345 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1345",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-30T20:47:01Z",
+          "title": "Labeled issue #1345 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1345",
           "points": 2
         },
         {
           "type": "PR opened",
-          "occured_at": "2026-10-15T19:52:41Z",
-          "title": "fix(hotkey_binder) - remove no-op if statements, loop storage writes, and invoke getOS() (#8015, #7913)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8033",
+          "occured_at": "2026-09-26T21:10:11Z",
+          "title": "fix - resolve circuit elements panel viewport overflow (#1320)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1333",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Jashan32",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
+      "role": "Contributor",
+      "total_points": 9,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        },
+        "Issue opened": {
+          "count": 3,
+          "points": 3
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-20",
+          "count": 3,
+          "points": 4
+        },
+        {
+          "date": "2026-10-15",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-21T18:37:53Z",
+          "title": "fix - use POST request for project forking",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/680",
           "points": 2
         },
         {
           "type": "PR opened",
-          "occured_at": "2026-10-15T19:45:21Z",
-          "title": "fix(docs) - improve technical accuracy and component classification in Verilog docs (#531)",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/546",
+          "occured_at": "2026-10-20T05:26:50Z",
+          "title": "Fix responsive feature cards sizing on large screens",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/678",
           "points": 2
         },
         {
+          "type": "Issue opened",
+          "occured_at": "2026-10-20T18:38:33Z",
+          "title": "Project forking fails with 404 due to incorrect HTTP method",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/679",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-20T05:19:10Z",
+          "title": "Fix responsive feature cards sizing on large screens",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/677",
+          "points": 1
+        },
+        {
           "type": "PR opened",
-          "occured_at": "2026-10-15T19:43:50Z",
-          "title": "fix(docs) - resolve broken anchor links and heading slugs across chapters 4, 7, and 8",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/545",
+          "occured_at": "2026-10-15T20:12:05Z",
+          "title": "fix - make home feature cards responsive across screen sizes",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/676",
           "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-15T19:20:17Z",
+          "title": "Feature cards overflow on different screen sizes",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/675",
+          "points": 1
         }
       ]
     },
@@ -4377,72 +4381,6 @@
           "title": "fix(vuesim) - distinguish flip-flop types on canvas",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1304",
           "points": 5
-        }
-      ]
-    },
-    {
-      "username": "Jashan32",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
-      "role": "Contributor",
-      "total_points": 7,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-20",
-          "count": 3,
-          "points": 4
-        },
-        {
-          "date": "2026-10-15",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-20T05:26:50Z",
-          "title": "Fix responsive feature cards sizing on large screens",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/678",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-20T18:38:33Z",
-          "title": "Project forking fails with 404 due to incorrect HTTP method",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/679",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-20T05:19:10Z",
-          "title": "Fix responsive feature cards sizing on large screens",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/677",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-15T20:12:05Z",
-          "title": "fix - make home feature cards responsive across screen sizes",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/676",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-15T19:20:17Z",
-          "title": "Feature cards overflow on different screen sizes",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/675",
-          "points": 1
         }
       ]
     },
@@ -5200,6 +5138,35 @@
           "occured_at": "2026-10-15T13:30:34Z",
           "title": "refactor(v1) - convert LSB and MSB modules to TypeScript",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1448",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Arnam-arch",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/223543360?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-21",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-21T12:36:23Z",
+          "title": "refactor - migrate verilogHelpers.js to TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1467",
           "points": 2
         }
       ]

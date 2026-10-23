@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792634989009,
+  "updatedAt": 1792721691437,
   "groups": [
     [
       "2026-10-21",
@@ -2009,123 +2009,6 @@
       ]
     ],
     [
-      "2026-10-09",
-      [
-        {
-          "username": "amankv1234",
-          "name": null,
-          "title": "Performance - Optimize PR Review fetching to prevent GitHub API rate limiting",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/282",
-          "avatar_url": "https://avatars.githubusercontent.com/u/186990161?v=4",
-          "points": 1
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "fix(ui) - prevent event bubbling on delete, clear stale selection, and add delete confirmation (#1387)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1388",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 2
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "fix(ui) - fix Custom Shortcut dialog buttons and pencil click target (#1385)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1386",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 2
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "🐞 Bug - \"Open Offline\" dialog fails to open projects after deletion due to stale selection & event bubbling on delete button",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1387",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 1
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "🐞 Bug - Custom Shortcut dialog buttons (Save, Close, Reset) crash with TypeError, and keybinding entry erases command name",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1385",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 1
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "Labeled issue #1387 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1387",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 2
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "Labeled issue #1385 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1385",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 2
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "Labeled issue #1385 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1385",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 2
-        },
-        {
-          "username": "Meghali54",
-          "name": null,
-          "title": "Feature - Add recently closed circuit history",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1384",
-          "avatar_url": "https://avatars.githubusercontent.com/u/174095061?v=4",
-          "points": 1
-        },
-        {
-          "username": "Meghali54",
-          "name": null,
-          "title": "Feature - Add a pre-run circuit validation and diagnostics panel",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1383",
-          "avatar_url": "https://avatars.githubusercontent.com/u/174095061?v=4",
-          "points": 1
-        },
-        {
-          "username": "Meghali54",
-          "name": null,
-          "title": "Labeled issue #1384 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1384",
-          "avatar_url": "https://avatars.githubusercontent.com/u/174095061?v=4",
-          "points": 2
-        },
-        {
-          "username": "Meghali54",
-          "name": null,
-          "title": "Labeled issue #1383 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1383",
-          "avatar_url": "https://avatars.githubusercontent.com/u/174095061?v=4",
-          "points": 2
-        },
-        {
-          "username": "ridhimagehlot18-ship-it",
-          "name": null,
-          "title": "docs - clarify definations for MSB,LSB and Decoder in ch-4",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/543",
-          "avatar_url": "https://avatars.githubusercontent.com/u/229157066?v=4",
-          "points": 2
-        },
-        {
-          "username": "shubhamrai9122-creator",
-          "name": null,
-          "title": "fix(api) - prevent RangeError by sanitizing pagination parameters in BaseController#paginate (#8001)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8002",
-          "avatar_url": "https://avatars.githubusercontent.com/u/224145541?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
       "2026-10-11",
       [
         {
@@ -2158,6 +2041,99 @@
           "title": "docs - improve technical accuracy and clarity of Verilog documentation (#531)",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/544",
           "avatar_url": "https://avatars.githubusercontent.com/u/229157066?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-10-22",
+      [
+        {
+          "username": "kushald121",
+          "name": null,
+          "title": "fix - resolve n+1 query on stars in project serializer (#7968)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8079",
+          "avatar_url": "https://avatars.githubusercontent.com/u/188738420?v=4",
+          "points": 2
+        },
+        {
+          "username": "kushald121",
+          "name": null,
+          "title": "🐞 Bug - Simulation loop continues past 1M step safety limit — missing `break` in play() causes potential browser freeze",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1471",
+          "avatar_url": "https://avatars.githubusercontent.com/u/188738420?v=4",
+          "points": 1
+        },
+        {
+          "username": "kushald121",
+          "name": null,
+          "title": "🐞 Bug Simulation loop continues executing past safety limit — missing `break` after step count exceeded in `play()`",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8078",
+          "avatar_url": "https://avatars.githubusercontent.com/u/188738420?v=4",
+          "points": 1
+        },
+        {
+          "username": "kushald121",
+          "name": null,
+          "title": "Labeled issue #8078 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8078",
+          "avatar_url": "https://avatars.githubusercontent.com/u/188738420?v=4",
+          "points": 2
+        },
+        {
+          "username": "kushald121",
+          "name": null,
+          "title": "Labeled issue #8078 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8078",
+          "avatar_url": "https://avatars.githubusercontent.com/u/188738420?v=4",
+          "points": 2
+        },
+        {
+          "username": "kushald121",
+          "name": null,
+          "title": "Labeled issue #1471 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1471",
+          "avatar_url": "https://avatars.githubusercontent.com/u/188738420?v=4",
+          "points": 2
+        },
+        {
+          "username": "Jashan32",
+          "name": null,
+          "title": "Fix Home button navigation in CV drawer",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/681",
+          "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
+          "points": 1
+        },
+        {
+          "username": "Ayushi-ux-sys",
+          "name": null,
+          "title": "🐞 Bug - Ineffective access modifier for `self.to_csv` in Grade model",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
+          "avatar_url": "https://avatars.githubusercontent.com/u/230010174?v=4",
+          "points": 1
+        },
+        {
+          "username": "Ayushi-ux-sys",
+          "name": null,
+          "title": "Labeled issue #8080 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
+          "avatar_url": "https://avatars.githubusercontent.com/u/230010174?v=4",
+          "points": 2
+        },
+        {
+          "username": "Ayushi-ux-sys",
+          "name": null,
+          "title": "Labeled issue #8080 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
+          "avatar_url": "https://avatars.githubusercontent.com/u/230010174?v=4",
+          "points": 2
+        },
+        {
+          "username": "kritikhatri",
+          "name": null,
+          "title": "fix - validate pending invitation email format (#7528)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8077",
+          "avatar_url": "https://avatars.githubusercontent.com/u/228373846?v=4",
           "points": 2
         }
       ]

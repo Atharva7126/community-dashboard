@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1792634988982,
-  "lastFetchedAt": 1792634988982,
-  "startDate": "2025-10-22",
-  "endDate": "2026-10-22",
+  "updatedAt": 1792721691410,
+  "lastFetchedAt": 1792721691410,
+  "startDate": "2025-10-23",
+  "endDate": "2026-10-23",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -57153,6 +57153,168 @@
       ]
     },
     {
+      "username": "kushald121",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/188738420?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-22",
+          "count": 6,
+          "points": 10
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-22T17:38:13Z",
+          "title": "fix - resolve n+1 query on stars in project serializer (#7968)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8079",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-22T15:59:00Z",
+          "title": "🐞 Bug - Simulation loop continues past 1M step safety limit — missing `break` in play() causes potential browser freeze",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1471",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-22T15:11:17Z",
+          "title": "🐞 Bug Simulation loop continues executing past safety limit — missing `break` after step count exceeded in `play()`",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8078",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-22T15:11:19Z",
+          "title": "Labeled issue #8078 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8078",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-22T15:11:20Z",
+          "title": "Labeled issue #8078 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8078",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-22T15:59:01Z",
+          "title": "Labeled issue #1471 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1471",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Jashan32",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 4,
+          "points": 4
+        },
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-22",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2026-10-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-20",
+          "count": 3,
+          "points": 4
+        },
+        {
+          "date": "2026-10-15",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-22T18:31:41Z",
+          "title": "Fix Home button navigation in CV drawer",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/681",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-21T18:37:53Z",
+          "title": "fix - use POST request for project forking",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/680",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-20T05:26:50Z",
+          "title": "Fix responsive feature cards sizing on large screens",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/678",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-20T18:38:33Z",
+          "title": "Project forking fails with 404 due to incorrect HTTP method",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/679",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-20T05:19:10Z",
+          "title": "Fix responsive feature cards sizing on large screens",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/677",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-15T20:12:05Z",
+          "title": "fix - make home feature cards responsive across screen sizes",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/676",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-15T19:20:17Z",
+          "title": "Feature cards overflow on different screen sizes",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/675",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "eshantharjun9-hub",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235510433?v=4",
@@ -58265,84 +58427,6 @@
           "title": "Update brewfile node 24",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6413",
           "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Jashan32",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
-      "role": "Contributor",
-      "total_points": 9,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-21",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-20",
-          "count": 3,
-          "points": 4
-        },
-        {
-          "date": "2026-10-15",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-21T18:37:53Z",
-          "title": "fix - use POST request for project forking",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/680",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-20T05:26:50Z",
-          "title": "Fix responsive feature cards sizing on large screens",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/678",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-20T18:38:33Z",
-          "title": "Project forking fails with 404 due to incorrect HTTP method",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/679",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-20T05:19:10Z",
-          "title": "Fix responsive feature cards sizing on large screens",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/677",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-15T20:12:05Z",
-          "title": "fix - make home feature cards responsive across screen sizes",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/676",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-15T19:20:17Z",
-          "title": "Feature cards overflow on different screen sizes",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/675",
-          "points": 1
         }
       ]
     },
@@ -62254,6 +62338,53 @@
       ]
     },
     {
+      "username": "Ayushi-ux-sys",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/230010174?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-22",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-22T18:38:51Z",
+          "title": "🐞 Bug - Ineffective access modifier for `self.to_csv` in Grade model",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-22T18:38:52Z",
+          "title": "Labeled issue #8080 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-22T18:38:53Z",
+          "title": "Labeled issue #8080 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "beedell-roke",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/42837531?v=4",
@@ -63203,6 +63334,47 @@
           "title": "Review on PR #386",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/386",
           "points": 4
+        }
+      ]
+    },
+    {
+      "username": "kritikhatri",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/228373846?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-22",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-18",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-22T05:55:13Z",
+          "title": "fix - validate pending invitation email format (#7528)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8077",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-18T10:37:53Z",
+          "title": "fix - handle invalid UTF-8 in rack-attack email throttles (#8040)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8049",
+          "points": 2
         }
       ]
     },
@@ -66493,35 +66665,6 @@
           "occured_at": "2026-10-19T10:09:00Z",
           "title": "fix - parse Accept-Language header as symbol for locale fallback (#8020)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8054",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "kritikhatri",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/228373846?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-18",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-18T10:37:53Z",
-          "title": "fix - handle invalid UTF-8 in rack-attack email throttles (#8040)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8049",
           "points": 2
         }
       ]

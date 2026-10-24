@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1792721691430,
-  "startDate": "2026-10-16",
-  "endDate": "2026-10-23",
+  "updatedAt": 1792808007738,
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-24",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -19,6 +19,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-23",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-10-20",
           "count": 5,
@@ -38,14 +43,16 @@
           "date": "2026-10-17",
           "count": 2,
           "points": 4
-        },
-        {
-          "date": "2026-10-16",
-          "count": 1,
-          "points": 2
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-23T17:01:14Z",
+          "title": "feat(assignments) - copy the linked template circuit into each student project",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8084",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-10-20T17:57:51Z",
@@ -128,13 +135,6 @@
           "occured_at": "2026-10-17T09:50:12Z",
           "title": "Feat - add group sync roster",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8043",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-16T07:27:12Z",
-          "title": "feat(groups) - add self-referential subgroups data layer",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8038",
           "points": 2
         }
       ]
@@ -234,7 +234,7 @@
     {
       "username": "naman79820",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
       "total_points": 12,
       "activity_breakdown": {
@@ -301,6 +301,11 @@
       },
       "daily_activity": [
         {
+          "date": "2026-10-23",
+          "count": 2,
+          "points": 3
+        },
+        {
           "date": "2026-10-19",
           "count": 2,
           "points": 3
@@ -314,14 +319,23 @@
           "date": "2026-10-17",
           "count": 1,
           "points": 2
-        },
-        {
-          "date": "2026-10-16",
-          "count": 2,
-          "points": 3
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-23T09:45:34Z",
+          "title": "🐞 Bug - Verilog \"Save Code\" fails with 403 when logged in",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1472",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-23T09:45:36Z",
+          "title": "Labeled issue #1472 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1472",
+          "points": 2
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-10-19T16:41:00Z",
@@ -348,20 +362,6 @@
           "occured_at": "2026-10-17T10:03:17Z",
           "title": "fix(lti) - recognize secondary mentors as teachers on launch (#8041)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8044",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-16T12:05:41Z",
-          "title": "🐞 Bug - secondary mentors launching from LMS are treated as students",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8041",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-16T12:05:43Z",
-          "title": "Labeled issue #8041 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8041",
           "points": 2
         }
       ]
@@ -580,18 +580,23 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
       "role": "Contributor",
-      "total_points": 7,
+      "total_points": 9,
       "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        },
         "Issue opened": {
           "count": 3,
           "points": 3
-        },
-        "PR opened": {
-          "count": 2,
-          "points": 4
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-23",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-10-22",
           "count": 1,
@@ -609,6 +614,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-23T18:51:38Z",
+          "title": "fix - restore home button navigation in CV drawer",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/682",
+          "points": 2
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-10-22T18:31:41Z",
@@ -647,31 +659,60 @@
       ]
     },
     {
-      "username": "SantamRC",
+      "username": "Maaz2212",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188797552?v=4",
       "role": "Contributor",
-      "total_points": 5,
+      "total_points": 7,
       "activity_breakdown": {
-        "PR merged": {
+        "PR opened": {
           "count": 1,
-          "points": 5
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
         }
       },
       "daily_activity": [
         {
-          "date": "2026-10-16",
-          "count": 1,
-          "points": 5
+          "date": "2026-10-23",
+          "count": 4,
+          "points": 7
         }
       ],
       "activities": [
         {
-          "type": "PR merged",
-          "occured_at": "2026-10-16T19:19:19Z",
-          "title": "fix - pin intl and html to versions the app builds with",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/667",
-          "points": 5
+          "type": "PR opened",
+          "occured_at": "2026-10-23T16:19:18Z",
+          "title": "fix - use dynamic alt text for user profile picture",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8083",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-23T15:57:26Z",
+          "title": "🐞 Bug - User profile picture uses hardcoded alt=\"project.name\" on public profile page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8082",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-23T15:57:27Z",
+          "title": "Labeled issue #8082 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8082",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-23T15:57:28Z",
+          "title": "Labeled issue #8082 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8082",
+          "points": 2
         }
       ]
     },
@@ -817,43 +858,31 @@
       ]
     },
     {
-      "username": "MYMISERABLEMIND17",
+      "username": "shantanu-chaudharyy",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167026008?u=c482b46e7afc2159eb497dd309701cf92afbd1a2&v=4",
       "role": "Contributor",
       "total_points": 4,
       "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
+        "Review submitted": {
+          "count": 1,
           "points": 4
         }
       },
       "daily_activity": [
         {
-          "date": "2026-10-21",
+          "date": "2026-10-23",
           "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-16",
-          "count": 1,
-          "points": 2
+          "points": 4
         }
       ],
       "activities": [
         {
-          "type": "PR opened",
-          "occured_at": "2026-10-21T13:21:53Z",
-          "title": "perf(api) - eliminate duplicate pagination counts and eager-load project associations (#8074)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8076",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-16T03:59:18Z",
-          "title": "fix(project) - reset stars_count to 0 on project fork (#8023)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8035",
-          "points": 2
+          "type": "Review submitted",
+          "occured_at": "2026-10-23T08:50:22Z",
+          "title": "Review on PR #1210",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1210",
+          "points": 4
         }
       ]
     },
@@ -1056,35 +1085,6 @@
       ]
     },
     {
-      "username": "JatsuAkaYashvant",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
-      "role": "Maintainer",
-      "total_points": 2,
-      "activity_breakdown": {
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-16",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-16T18:46:14Z",
-          "title": "Labeled issue #8031 - ui",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8031",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "YashKumar-404",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
@@ -1109,6 +1109,35 @@
           "occured_at": "2026-10-20T09:06:52Z",
           "title": "fix - remove unnecessary params.permit in switch_locale to fix performance regression (#8059)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8066",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "MYMISERABLEMIND17",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-21",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-21T13:21:53Z",
+          "title": "perf(api) - eliminate duplicate pagination counts and eager-load project associations (#8074)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8076",
           "points": 2
         }
       ]
@@ -1196,35 +1225,6 @@
           "occured_at": "2026-10-19T10:09:00Z",
           "title": "fix - parse Accept-Language header as symbol for locale fallback (#8020)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8054",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "minnimaggu-lgtm",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/232153152?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-16",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-16T06:12:34Z",
-          "title": "Fix - snapshot student projects when mentor manually closes assignment",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8036",
           "points": 2
         }
       ]

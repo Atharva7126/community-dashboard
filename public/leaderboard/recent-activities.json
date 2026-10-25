@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792808007748,
+  "updatedAt": 1792893587845,
   "groups": [
     [
       "2026-10-21",
@@ -804,6 +804,91 @@
           "title": "typecheck(v1) - merge duplicate useState script blocks in Export and Import dialogs (4 errors)",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1426",
           "avatar_url": "https://avatars.githubusercontent.com/u/104219687?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-10-24",
+      [
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #8072 - 🐞 Bug bundler-audit CI check fails on master - css_parser 3.0.0 has 2 known CVEs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8072",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "fix - bump crass and view_component to resolve bundler-audit advisories",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8090",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "chore - remove will_paginate after pagy migration",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8087",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "fix - resolve css_parser vulnerabilities flagged by bundler-audit",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8073",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 5
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "🐞 Bug 🐞 Bug - bundler-audit CI check fails on master - crass 1.0.7 and view_component 4.12.0 have known advisories",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 1
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "Labeled issue #8088 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "Labeled issue #8088 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "knowprasad",
+          "name": null,
+          "title": "fix(models) - move Grade.to_csv before private modifier (#8080)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8089",
+          "avatar_url": "https://avatars.githubusercontent.com/u/144908638?v=4",
+          "points": 2
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "🐞 Bug - Element tooltip appears in bottom-right corner far away from Circuit Elements panel",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 1
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "Labeled issue #1473 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
           "points": 2
         }
       ]
@@ -1616,6 +1701,14 @@
           "points": 1
         },
         {
+          "username": "knowprasad",
+          "name": null,
+          "title": "fix(admin) - resolve modal target mismatch on admin contests page (#8057)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8062",
+          "avatar_url": "https://avatars.githubusercontent.com/u/144908638?v=4",
+          "points": 2
+        },
+        {
           "username": "priyanshu1976",
           "name": null,
           "title": "fix - block submissions to completed contests",
@@ -1629,14 +1722,6 @@
           "title": "fix - match collaborator emails case-insensitively (#8024)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8061",
           "avatar_url": "https://avatars.githubusercontent.com/u/139453653?v=4",
-          "points": 2
-        },
-        {
-          "username": "knowprasad",
-          "name": null,
-          "title": "fix(admin) - resolve modal target mismatch on admin contests page (#8057)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8062",
-          "avatar_url": "https://avatars.githubusercontent.com/u/144908638?v=4",
           "points": 2
         },
         {
@@ -2044,43 +2129,6 @@
           "title": "fix(seo) - add missing social preview image referenced by og - image (closes #8031)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8034",
           "avatar_url": "https://avatars.githubusercontent.com/u/216119346?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-10-11",
-      [
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "fix(ui) - add close/back buttons to truth table and center table layout (#1391)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 2
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "🐞 Bug - Combinational Analysis Truth Table lacks Close/Cancel button (trapping user in modal) and table is uncentered",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1391",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 1
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "Labeled issue #1391 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1391",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 2
-        },
-        {
-          "username": "ridhimagehlot18-ship-it",
-          "name": null,
-          "title": "docs - improve technical accuracy and clarity of Verilog documentation (#531)",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/544",
-          "avatar_url": "https://avatars.githubusercontent.com/u/229157066?v=4",
           "points": 2
         }
       ]

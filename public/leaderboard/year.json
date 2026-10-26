@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1792893587827,
-  "lastFetchedAt": 1792893587827,
-  "startDate": "2025-10-25",
-  "endDate": "2026-10-25",
+  "updatedAt": 1792980083412,
+  "lastFetchedAt": 1792980083412,
+  "startDate": "2025-10-26",
+  "endDate": "2026-10-26",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -17114,11 +17114,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
       "role": "Contributor",
-      "total_points": 560,
+      "total_points": 562,
       "activity_breakdown": {
         "PR opened": {
-          "count": 92,
-          "points": 184
+          "count": 93,
+          "points": 186
         },
         "PR merged": {
           "count": 10,
@@ -17142,6 +17142,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-25",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-10-23",
           "count": 1,
@@ -17349,6 +17354,13 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-25T13:45:23Z",
+          "title": "feat(templates) - let a template carry a test suite and copy it to linked assignments",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8092",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-10-23T17:01:14Z",
@@ -37200,14 +37212,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
       "role": "Contributor",
-      "total_points": 106,
+      "total_points": 110,
       "activity_breakdown": {
         "PR opened": {
-          "count": 53,
-          "points": 106
+          "count": 55,
+          "points": 110
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-25",
+          "count": 2,
+          "points": 4
+        },
         {
           "date": "2026-10-07",
           "count": 3,
@@ -37340,6 +37357,20 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-25T20:02:56Z",
+          "title": "fix(groups) - authenticate user before loading and authorizing group member (#8017)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8096",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-25T19:57:24Z",
+          "title": "fix(api) - use params.expect for comment payload in CommentsController (#8018)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8095",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-10-07T20:47:04Z",
@@ -59965,6 +59996,69 @@
       ]
     },
     {
+      "username": "Ayushi-ux-sys",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/230010174?v=4",
+      "role": "Contributor",
+      "total_points": 7,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-25",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-22",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-25T21:00:46Z",
+          "title": "fix - resolve ineffective access modifier in Grade model (#8080)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8097",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-22T18:38:51Z",
+          "title": "🐞 Bug - Ineffective access modifier for `self.to_csv` in Grade model",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-22T18:38:52Z",
+          "title": "Labeled issue #8080 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-22T18:38:53Z",
+          "title": "Labeled issue #8080 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "Maaz2212",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/188797552?v=4",
@@ -62606,53 +62700,6 @@
           "title": "UX/Enhancement - Improve Project Name input - add maxlength and update label",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/712",
           "points": 1
-        }
-      ]
-    },
-    {
-      "username": "Ayushi-ux-sys",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/230010174?v=4",
-      "role": "Contributor",
-      "total_points": 5,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-22",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-22T18:38:51Z",
-          "title": "🐞 Bug - Ineffective access modifier for `self.to_csv` in Grade model",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-22T18:38:52Z",
-          "title": "Labeled issue #8080 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-22T18:38:53Z",
-          "title": "Labeled issue #8080 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
-          "points": 2
         }
       ]
     },
@@ -66770,6 +66817,64 @@
           "title": "Feature Improve Login Page UI and Password Visibility Toggle",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/5387",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "bellussi1",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/113950272?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-25",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-25T15:12:43Z",
+          "title": "fix - render Markdown previews in thread list (#12)",
+          "link": "https://github.com/CircuitVerse/simple_discussion/pull/34",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Nandan-Raichura-Dev",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/231933469?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-25",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-25T13:13:18Z",
+          "title": "Migrate ImageAnnotation upload from Imgur to Rails ActiveStorage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8091",
+          "points": 2
         }
       ]
     },

@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1792980083412,
-  "lastFetchedAt": 1792980083412,
-  "startDate": "2025-10-26",
-  "endDate": "2026-10-26",
+  "updatedAt": 1793068737509,
+  "lastFetchedAt": 1793068737509,
+  "startDate": "2025-10-27",
+  "endDate": "2026-10-27",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -35741,11 +35741,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
       "role": "Contributor",
-      "total_points": 120,
+      "total_points": 122,
       "activity_breakdown": {
         "PR opened": {
-          "count": 26,
-          "points": 52
+          "count": 27,
+          "points": 54
         },
         "PR merged": {
           "count": 7,
@@ -35761,6 +35761,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-26",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-10-24",
           "count": 6,
@@ -35898,6 +35903,13 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-26T16:28:09Z",
+          "title": "refactor - migrate pagination from will_paginate to pagy (#7902)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8098",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-10-24T14:32:51Z",
@@ -56869,6 +56881,91 @@
       ]
     },
     {
+      "username": "Psykii22",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+      "role": "Contributor",
+      "total_points": 11,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 3,
+          "points": 3
+        },
+        "Issue labeled": {
+          "count": 4,
+          "points": 8
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-26",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-10-24",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-17",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-26T17:22:10Z",
+          "title": "Feature - add Undo/Redo history and Back button navigation to Combinational Analysis dialog and close button when table is made",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-26T17:22:11Z",
+          "title": "Labeled issue #1474 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-26T17:22:12Z",
+          "title": "Labeled issue #1474 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-24T07:40:13Z",
+          "title": "🐞 Bug - Element tooltip appears in bottom-right corner far away from Circuit Elements panel",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-24T07:40:14Z",
+          "title": "Labeled issue #1473 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-17T17:36:48Z",
+          "title": "🐞 Bug - Changing the tool tip location from the bottom right corner to the left bottom corner",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-17T17:36:50Z",
+          "title": "Labeled issue #8047 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "eshanthh",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235510433?v=4",
@@ -61360,65 +61457,6 @@
           "occured_at": "2026-10-19T08:34:47Z",
           "title": "fix(contests) - prevent users from voting on their own submission (#8022)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8052",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Psykii22",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-24",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-17",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-24T07:40:13Z",
-          "title": "🐞 Bug - Element tooltip appears in bottom-right corner far away from Circuit Elements panel",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-24T07:40:14Z",
-          "title": "Labeled issue #1473 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-17T17:36:48Z",
-          "title": "🐞 Bug - Changing the tool tip location from the bottom right corner to the left bottom corner",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-17T17:36:50Z",
-          "title": "Labeled issue #8047 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
           "points": 2
         }
       ]

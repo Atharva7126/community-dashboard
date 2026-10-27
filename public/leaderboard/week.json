@@ -1,135 +1,21 @@
 {
   "period": "week",
-  "updatedAt": 1792980083435,
-  "startDate": "2026-10-19",
-  "endDate": "2026-10-26",
+  "updatedAt": 1793068737522,
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-27",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
-    {
-      "username": "magic-peach",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-      "role": "Contributor",
-      "total_points": 22,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 11,
-          "points": 22
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-25",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-23",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-20",
-          "count": 5,
-          "points": 10
-        },
-        {
-          "date": "2026-10-19",
-          "count": 4,
-          "points": 8
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-25T13:45:23Z",
-          "title": "feat(templates) - let a template carry a test suite and copy it to linked assignments",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8092",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-23T17:01:14Z",
-          "title": "feat(assignments) - copy the linked template circuit into each student project",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8084",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-20T17:57:51Z",
-          "title": "Feat/assignment template link",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8070",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-20T13:16:48Z",
-          "title": "Feat/project template gallery",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8069",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-20T10:48:03Z",
-          "title": "feat(projects) - add save-as-template action and template show page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8068",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-20T08:33:19Z",
-          "title": "feat(projects) - add is_template flag and template_visibility enum",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8065",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-20T06:55:46Z",
-          "title": "feat(groups) - add a shared team project for subgroups",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8064",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-19T18:06:55Z",
-          "title": "feat(groups) - show per-subgroup progress rollup on the group show page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8058",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-19T15:32:20Z",
-          "title": "feat(api) - add REST API v1 endpoints for subgroups",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8056",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-19T12:15:43Z",
-          "title": "feat(groups) - hide subgroups from dashboards and the group index API",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8055",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-19T08:46:59Z",
-          "title": "feat(groups) - add subgroup member management and group page U",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8053",
-          "points": 2
-        }
-      ]
-    },
     {
       "username": "aryan7071",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
       "role": "Contributor",
-      "total_points": 21,
+      "total_points": 23,
       "activity_breakdown": {
         "PR opened": {
-          "count": 3,
-          "points": 6
+          "count": 4,
+          "points": 8
         },
         "PR merged": {
           "count": 1,
@@ -146,6 +32,11 @@
       },
       "daily_activity": [
         {
+          "date": "2026-10-26",
+          "count": 1,
+          "points": 2
+        },
+        {
           "date": "2026-10-24",
           "count": 6,
           "points": 14
@@ -157,6 +48,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-26T16:28:09Z",
+          "title": "refactor - migrate pagination from will_paginate to pagy (#7902)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8098",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-10-24T14:32:51Z",
@@ -230,93 +128,82 @@
       ]
     },
     {
-      "username": "Eternity0207",
+      "username": "magic-peach",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/77221000?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
       "role": "Contributor",
-      "total_points": 20,
+      "total_points": 14,
       "activity_breakdown": {
         "PR opened": {
-          "count": 10,
-          "points": 20
+          "count": 7,
+          "points": 14
         }
       },
       "daily_activity": [
         {
-          "date": "2026-10-19",
-          "count": 10,
-          "points": 20
+          "date": "2026-10-25",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-23",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-20",
+          "count": 5,
+          "points": 10
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-10-19T07:46:10Z",
-          "title": "fix(vuesim) - resize Keyboard in place when its buffer size changes",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1464",
+          "occured_at": "2026-10-25T13:45:23Z",
+          "title": "feat(templates) - let a template carry a test suite and copy it to linked assignments",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8092",
           "points": 2
         },
         {
           "type": "PR opened",
-          "occured_at": "2026-10-19T07:46:03Z",
-          "title": "fix(testbench) - reset sequential circuits before the first group in Run All",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1463",
+          "occured_at": "2026-10-23T17:01:14Z",
+          "title": "feat(assignments) - copy the linked template circuit into each student project",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8084",
           "points": 2
         },
         {
           "type": "PR opened",
-          "occured_at": "2026-10-19T07:45:55Z",
-          "title": "typecheck(v1) - fix Node JavaScript-inference shape — queueProperties, verilogLabel, bitWidth (#1419)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1462",
+          "occured_at": "2026-10-20T17:57:51Z",
+          "title": "Feat/assignment template link",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8070",
           "points": 2
         },
         {
           "type": "PR opened",
-          "occured_at": "2026-10-19T07:45:44Z",
-          "title": "typecheck(v1) - pin CircuitElement propagationDelay and saveObject types (#1416)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1461",
+          "occured_at": "2026-10-20T13:16:48Z",
+          "title": "Feat/project template gallery",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8069",
           "points": 2
         },
         {
           "type": "PR opened",
-          "occured_at": "2026-10-19T07:45:31Z",
-          "title": "fix(simulator) - correct Adder and ALU carry out at 32-bit width",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1460",
+          "occured_at": "2026-10-20T10:48:03Z",
+          "title": "feat(projects) - add save-as-template action and template show page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8068",
           "points": 2
         },
         {
           "type": "PR opened",
-          "occured_at": "2026-10-19T04:13:28Z",
-          "title": "fix(vuesim) - resize Keyboard in place when its buffer size changes",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1459",
+          "occured_at": "2026-10-20T08:33:19Z",
+          "title": "feat(projects) - add is_template flag and template_visibility enum",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8065",
           "points": 2
         },
         {
           "type": "PR opened",
-          "occured_at": "2026-10-19T04:13:25Z",
-          "title": "fix(testbench) - reset sequential circuits before the first group in Run All",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1458",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-19T04:13:22Z",
-          "title": "typecheck(v1) - fix Node JavaScript-inference shape — queueProperties, verilogLabel, bitWidth (#1419)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1457",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-19T04:13:18Z",
-          "title": "typecheck(v1) - pin CircuitElement propagationDelay and saveObject types (#1416)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1456",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-19T04:13:15Z",
-          "title": "fix(simulator) - correct Adder and ALU carry out at 32-bit width",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1455",
+          "occured_at": "2026-10-20T06:55:46Z",
+          "title": "feat(groups) - add a shared team project for subgroups",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8064",
           "points": 2
         }
       ]
@@ -477,6 +364,72 @@
       ]
     },
     {
+      "username": "Psykii22",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+      "role": "Contributor",
+      "total_points": 8,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-26",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-10-24",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-26T17:22:10Z",
+          "title": "Feature - add Undo/Redo history and Back button navigation to Combinational Analysis dialog and close button when table is made",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-26T17:22:11Z",
+          "title": "Labeled issue #1474 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-26T17:22:12Z",
+          "title": "Labeled issue #1474 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-24T07:40:13Z",
+          "title": "🐞 Bug - Element tooltip appears in bottom-right corner far away from Circuit Elements panel",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-24T07:40:14Z",
+          "title": "Labeled issue #1473 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "Ayushi-ux-sys",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/230010174?v=4",
@@ -593,118 +546,6 @@
           "occured_at": "2026-10-23T15:57:28Z",
           "title": "Labeled issue #8082 - pending triage",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8082",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "ManyaJain111",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-23",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-19",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-23T09:45:34Z",
-          "title": "🐞 Bug - Verilog \"Save Code\" fails with 403 when logged in",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1472",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-23T09:45:36Z",
-          "title": "Labeled issue #1472 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1472",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-19T16:41:00Z",
-          "title": "🐞 Bug - Close and Edit buttons on admin contests page do not open modals",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8057",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-19T16:41:02Z",
-          "title": "Labeled issue #8057 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8057",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "knowprasad",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/144908638?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-24",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-20",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-19",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-24T14:25:41Z",
-          "title": "fix(models) - move Grade.to_csv before private modifier (#8080)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8089",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-20T04:58:30Z",
-          "title": "fix(admin) - resolve modal target mismatch on admin contests page (#8057)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8062",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-19T08:34:47Z",
-          "title": "fix(contests) - prevent users from voting on their own submission (#8022)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8052",
           "points": 2
         }
       ]
@@ -873,6 +714,47 @@
       ]
     },
     {
+      "username": "knowprasad",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/144908638?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-24",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-20",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-24T14:25:41Z",
+          "title": "fix(models) - move Grade.to_csv before private modifier (#8080)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8089",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-20T04:58:30Z",
+          "title": "fix(admin) - resolve modal target mismatch on admin contests page (#8057)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8062",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "shantanu-chaudharyy",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/167026008?u=c482b46e7afc2159eb497dd309701cf92afbd1a2&v=4",
@@ -938,9 +820,9 @@
       ]
     },
     {
-      "username": "Psykii22",
+      "username": "ManyaJain111",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
       "role": "Contributor",
       "total_points": 3,
       "activity_breakdown": {
@@ -955,7 +837,7 @@
       },
       "daily_activity": [
         {
-          "date": "2026-10-24",
+          "date": "2026-10-23",
           "count": 2,
           "points": 3
         }
@@ -963,16 +845,16 @@
       "activities": [
         {
           "type": "Issue opened",
-          "occured_at": "2026-10-24T07:40:13Z",
-          "title": "🐞 Bug - Element tooltip appears in bottom-right corner far away from Circuit Elements panel",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
+          "occured_at": "2026-10-23T09:45:34Z",
+          "title": "🐞 Bug - Verilog \"Save Code\" fails with 403 when logged in",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1472",
           "points": 1
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-10-24T07:40:14Z",
-          "title": "Labeled issue #1473 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
+          "occured_at": "2026-10-23T09:45:36Z",
+          "title": "Labeled issue #1472 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1472",
           "points": 2
         }
       ]
@@ -1176,35 +1058,6 @@
           "occured_at": "2026-10-20T09:44:00Z",
           "title": "fix - return 422 when the emails param is missing (#7852)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8067",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "hardikkaurani",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/224249943?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-19",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-19T10:09:00Z",
-          "title": "fix - parse Accept-Language header as symbol for locale fallback (#8020)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8054",
           "points": 2
         }
       ]

@@ -1,22 +1,22 @@
 {
   "period": "year",
-  "updatedAt": 1793155657273,
-  "lastFetchedAt": 1793155657273,
-  "startDate": "2025-10-28",
-  "endDate": "2026-10-28",
+  "updatedAt": 1793243338629,
+  "lastFetchedAt": 1793243338629,
+  "startDate": "2025-10-29",
+  "endDate": "2026-10-29",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
     {
       "username": "naman79820",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
       "role": "Contributor",
-      "total_points": 1112,
+      "total_points": 1116,
       "activity_breakdown": {
         "Review submitted": {
-          "count": 63,
-          "points": 252
+          "count": 64,
+          "points": 256
         },
         "Issue closed": {
           "count": 68,
@@ -40,6 +40,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "points": 4
+        },
         {
           "date": "2026-10-21",
           "count": 1,
@@ -792,6 +797,13 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-10-28T08:52:09Z",
+          "title": "Review on PR #8083",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8083",
+          "points": 4
+        },
         {
           "type": "Review submitted",
           "occured_at": "2026-10-21T22:20:59Z",
@@ -4201,11 +4213,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
       "role": "Maintainer",
-      "total_points": 875,
+      "total_points": 876,
       "activity_breakdown": {
         "Issue closed": {
-          "count": 375,
-          "points": 375
+          "count": 376,
+          "points": 376
         },
         "Issue opened": {
           "count": 51,
@@ -4229,6 +4241,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "points": 1
+        },
         {
           "date": "2026-10-24",
           "count": 1,
@@ -4856,6 +4873,13 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-10-28T09:23:59Z",
+          "title": "Closed issue #1475 - Performance - Avoid Redundant Canvas Resets in Timing Diagram",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1475",
+          "points": 1
+        },
         {
           "type": "Issue closed",
           "occured_at": "2026-10-24T08:22:34Z",
@@ -34492,6 +34516,672 @@
       ]
     },
     {
+      "username": "yashveer-1",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+      "role": "Contributor",
+      "total_points": 136,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 28,
+          "points": 56
+        },
+        "PR merged": {
+          "count": 8,
+          "points": 40
+        },
+        "Issue opened": {
+          "count": 20,
+          "points": 20
+        },
+        "Issue labeled": {
+          "count": 10,
+          "points": 20
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-28",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2026-10-27",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-18",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-12",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-10-05",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-01",
+          "count": 2,
+          "points": 10
+        },
+        {
+          "date": "2026-09-29",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-09-23",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-09-22",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2026-09-13",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-09-12",
+          "count": 6,
+          "points": 10
+        },
+        {
+          "date": "2026-09-10",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-09-08",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-09-06",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2026-09-02",
+          "count": 4,
+          "points": 10
+        },
+        {
+          "date": "2026-09-01",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-08-31",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-05-31",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-05-30",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-02-13",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2026-01-26",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-19",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-18",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-11",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2026-01-09",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-08",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-05",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2026-01-04",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-02",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-26",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-22",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-19",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-17",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-07",
+          "count": 2,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-28T13:52:44Z",
+          "title": "perf - batch canvas grid dot drawing",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1483",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-28T09:23:58Z",
+          "title": "perf - avoid redundant canvas dimension assignments",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1476",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-28T13:27:24Z",
+          "title": "Performance - Batch Canvas Grid Dot Drawing to Reduce Redundant Canvas Calls",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1482",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-27T06:29:22Z",
+          "title": "perf - avoid redundant canvas dimension assignments",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1476",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-27T06:20:04Z",
+          "title": "Performance - Avoid Redundant Canvas Resets in Timing Diagram",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1475",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-18T09:43:03Z",
+          "title": "perf - add viewport culling for wires",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1453",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-18T09:38:55Z",
+          "title": "Title - Improve wire rendering performance with viewport culling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1452",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-12T07:08:15Z",
+          "title": "perf - optimize circuit element rendering with viewport culling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1394",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-12T07:01:23Z",
+          "title": "Feature - Optimize circuit element rendering with viewport culling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1393",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-12T07:01:25Z",
+          "title": "Labeled issue #1393 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1393",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-05T11:49:42Z",
+          "title": "Improve Testbench output lookup using Map",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1375",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-05T11:28:54Z",
+          "title": "Performance - Improve testbench output lookup using map",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1374",
+          "points": 1
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-01T05:39:51Z",
+          "title": "fix - add fallback for invalid embed theme",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1327",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-01T13:05:57Z",
+          "title": "fix - correct BCD converter value handling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1296",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-29T08:55:41Z",
+          "title": "fix - respect explicit zero delay in event queue",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1338",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-29T08:59:46Z",
+          "title": "🐞 Bug - Fix zero-delay event handling in EventQueue",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1339",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-29T08:59:48Z",
+          "title": "Labeled issue #1339 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1339",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-23T07:31:50Z",
+          "title": "fix - add fallback for invalid embed theme",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1327",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-09-22T14:38:10Z",
+          "title": "fix - correct layout label positioning",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1301",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-22T11:25:47Z",
+          "title": "🐞 Bug - Invalid or missing theme query can break embed",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1323",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-22T11:25:48Z",
+          "title": "Labeled issue #1323 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1323",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-13T08:16:06Z",
+          "title": "fix - correct layout label positioning",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1301",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-13T08:12:17Z",
+          "title": "🐞Bug - Layout label positioning is incorrect",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1300",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-13T08:12:18Z",
+          "title": "Labeled issue #1300 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1300",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-12T22:33:13Z",
+          "title": "fix - correct pinch zoom distance calculation",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1298",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-12T08:34:44Z",
+          "title": "fix - correct BCD converter value handling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1296",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-12T22:20:58Z",
+          "title": "Bug - Pinch zoom distance calculation is incorrect",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1297",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-12T08:30:20Z",
+          "title": "🐞 Bug - BCD converter uses undefined variable",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1295",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-12T08:30:21Z",
+          "title": "Labeled issue #1295 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1295",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-12T22:20:59Z",
+          "title": "Labeled issue #1297 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1297",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-10T17:30:10Z",
+          "title": "fix - guard testbench navigation against invalid data",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1290",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-10T14:00:25Z",
+          "title": "🐞 Bug - Prevent testbench runtime errors with empty or invalid test data",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1283",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-10T14:00:27Z",
+          "title": "Labeled issue #1283 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1283",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-09-08T16:27:24Z",
+          "title": "fix - correct mouse event type in Extra component",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1271",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-06T14:35:45Z",
+          "title": "fix - correct mouse event type in Extra component",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1271",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-06T13:16:40Z",
+          "title": "Fix/extra mouse event type",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1270",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-06T13:06:19Z",
+          "title": "🐞 Bug - Incorrect React.MouseEvent type in Vue Extra component",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1269",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-06T13:06:21Z",
+          "title": "Labeled issue #1269 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1269",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-09-02T09:44:44Z",
+          "title": "Fix/testbench panel unsafe access",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1249",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-09-02T06:33:29Z",
+          "title": "Fix simulator resize listener lifecycle",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1244",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-02T09:21:05Z",
+          "title": "🐞 Bug - TestBenchPanel crashes when testbench groups are empty",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1248",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-02T09:21:07Z",
+          "title": "Labeled issue #1248 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1248",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-09-01T10:37:58Z",
+          "title": "🐞 Bug - Properly manage window resize listener in simulatorHandler.vue",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1245",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-09-01T10:38:00Z",
+          "title": "Labeled issue #1245 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1245",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-08-31T14:47:05Z",
+          "title": "Fix simulator resize listener lifecycle",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1244",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-05-31T09:19:20Z",
+          "title": "feat(simulator) - add fit view to selection helper",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/872",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-05-30T10:59:41Z",
+          "title": "Add wire hover fallback without overriding node hover",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/820",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-13T14:00:33Z",
+          "title": "feat(simulation) - add explicit post-stabilization hook at end of play()",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/935",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-13T13:40:25Z",
+          "title": "feat(simulator) - add explicit post-stabilization hook at end of play()",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/934",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-26T12:41:33Z",
+          "title": "feat(simulator) - add fit view to selection helper",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/872",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-21T15:52:17Z",
+          "title": "ux - normalize canvas cursor states",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/838",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-19T23:35:09Z",
+          "title": "Add subtle empty canvas onboarding hint",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/833",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-18T02:16:26Z",
+          "title": "Add wire hover fallback without overriding node hover",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/820",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-11T13:58:52Z",
+          "title": "Enable wire hover detection in global hover resolution",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/775",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-11T13:23:19Z",
+          "title": "Wire hover highlight",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/773",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-09T12:44:34Z",
+          "title": "UX - Improve cursor feedback for simulator hover targets",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/749",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-08T13:22:53Z",
+          "title": "Add subtle empty-canvas guidance text in simulator",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/741",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-05T12:32:29Z",
+          "title": "Feature - Fit view to selection in simulator toolbar",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/717",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-17T09:01:35Z",
+          "title": "Add documentation for simulator circuit data flow",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/695",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-04T12:55:08Z",
+          "title": "UX - Fit view to selected elements (F shortcut)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/713",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-02T12:34:53Z",
+          "title": "UX - Reset view via Ctrl/Cmd+0 and empty canvas double-click",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/708",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-26T11:52:45Z",
+          "title": "🐞 Bug - Canvas does not fully redraw after resize (DevTools toggle) in v0 simulator",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/700",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-22T12:41:11Z",
+          "title": "Wire routing parity investigation - v0 simulator tightly couples wire geometry with transform/listener system",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/697",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-19T10:02:40Z",
+          "title": "🐞 Bug - Wire routing parity issue - cv-frontend-vue does not support orthogonal (zig-zag) wires",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/696",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-07T09:23:58Z",
+          "title": "TestBenchPanel.vue UI cleanup for spacing & consistency",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/685",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-07T08:48:20Z",
+          "title": "UI Cleanup - Improve TestBench Panel (Spacing, Header, Inline Styles)",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/448",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "blazethunderstorm",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/149250431?v=4",
@@ -35728,646 +36418,6 @@
           "title": "fix - patch CGI.parse for Ruby 4.0 compatibility in LTI specs",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7397",
           "points": 5
-        }
-      ]
-    },
-    {
-      "username": "yashveer-1",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-      "role": "Contributor",
-      "total_points": 128,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 27,
-          "points": 54
-        },
-        "Issue opened": {
-          "count": 19,
-          "points": 19
-        },
-        "Issue labeled": {
-          "count": 10,
-          "points": 20
-        },
-        "PR merged": {
-          "count": 7,
-          "points": 35
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-27",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-18",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-12",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-10-05",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-01",
-          "count": 2,
-          "points": 10
-        },
-        {
-          "date": "2026-09-29",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-09-23",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-09-22",
-          "count": 3,
-          "points": 8
-        },
-        {
-          "date": "2026-09-13",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-09-12",
-          "count": 6,
-          "points": 10
-        },
-        {
-          "date": "2026-09-10",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-09-08",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-09-06",
-          "count": 4,
-          "points": 7
-        },
-        {
-          "date": "2026-09-02",
-          "count": 4,
-          "points": 10
-        },
-        {
-          "date": "2026-09-01",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-08-31",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-05-31",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-05-30",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-02-13",
-          "count": 2,
-          "points": 4
-        },
-        {
-          "date": "2026-01-26",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-21",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-19",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-18",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-11",
-          "count": 2,
-          "points": 4
-        },
-        {
-          "date": "2026-01-09",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-08",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-05",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2026-01-04",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-02",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-26",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-22",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-19",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-17",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-07",
-          "count": 2,
-          "points": 2
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-27T06:29:22Z",
-          "title": "perf - avoid redundant canvas dimension assignments",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1476",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-27T06:20:04Z",
-          "title": "Performance - Avoid Redundant Canvas Resets in Timing Diagram",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1475",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-18T09:43:03Z",
-          "title": "perf - add viewport culling for wires",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1453",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-18T09:38:55Z",
-          "title": "Title - Improve wire rendering performance with viewport culling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1452",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-12T07:08:15Z",
-          "title": "perf - optimize circuit element rendering with viewport culling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1394",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-12T07:01:23Z",
-          "title": "Feature - Optimize circuit element rendering with viewport culling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1393",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T07:01:25Z",
-          "title": "Labeled issue #1393 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1393",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-05T11:49:42Z",
-          "title": "Improve Testbench output lookup using Map",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1375",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-05T11:28:54Z",
-          "title": "Performance - Improve testbench output lookup using map",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1374",
-          "points": 1
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-01T05:39:51Z",
-          "title": "fix - add fallback for invalid embed theme",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1327",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-01T13:05:57Z",
-          "title": "fix - correct BCD converter value handling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1296",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-29T08:55:41Z",
-          "title": "fix - respect explicit zero delay in event queue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1338",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-29T08:59:46Z",
-          "title": "🐞 Bug - Fix zero-delay event handling in EventQueue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1339",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-29T08:59:48Z",
-          "title": "Labeled issue #1339 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1339",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-23T07:31:50Z",
-          "title": "fix - add fallback for invalid embed theme",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1327",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-09-22T14:38:10Z",
-          "title": "fix - correct layout label positioning",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1301",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-22T11:25:47Z",
-          "title": "🐞 Bug - Invalid or missing theme query can break embed",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1323",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-22T11:25:48Z",
-          "title": "Labeled issue #1323 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1323",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-13T08:16:06Z",
-          "title": "fix - correct layout label positioning",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1301",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-13T08:12:17Z",
-          "title": "🐞Bug - Layout label positioning is incorrect",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1300",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-13T08:12:18Z",
-          "title": "Labeled issue #1300 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1300",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-12T22:33:13Z",
-          "title": "fix - correct pinch zoom distance calculation",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1298",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-12T08:34:44Z",
-          "title": "fix - correct BCD converter value handling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1296",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-12T22:20:58Z",
-          "title": "Bug - Pinch zoom distance calculation is incorrect",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1297",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-12T08:30:20Z",
-          "title": "🐞 Bug - BCD converter uses undefined variable",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1295",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-12T08:30:21Z",
-          "title": "Labeled issue #1295 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1295",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-12T22:20:59Z",
-          "title": "Labeled issue #1297 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1297",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-10T17:30:10Z",
-          "title": "fix - guard testbench navigation against invalid data",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1290",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-10T14:00:25Z",
-          "title": "🐞 Bug - Prevent testbench runtime errors with empty or invalid test data",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1283",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-10T14:00:27Z",
-          "title": "Labeled issue #1283 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1283",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-09-08T16:27:24Z",
-          "title": "fix - correct mouse event type in Extra component",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1271",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-06T14:35:45Z",
-          "title": "fix - correct mouse event type in Extra component",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1271",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-06T13:16:40Z",
-          "title": "Fix/extra mouse event type",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1270",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-06T13:06:19Z",
-          "title": "🐞 Bug - Incorrect React.MouseEvent type in Vue Extra component",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1269",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-06T13:06:21Z",
-          "title": "Labeled issue #1269 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1269",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-09-02T09:44:44Z",
-          "title": "Fix/testbench panel unsafe access",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1249",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-09-02T06:33:29Z",
-          "title": "Fix simulator resize listener lifecycle",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1244",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-02T09:21:05Z",
-          "title": "🐞 Bug - TestBenchPanel crashes when testbench groups are empty",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1248",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-02T09:21:07Z",
-          "title": "Labeled issue #1248 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1248",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-09-01T10:37:58Z",
-          "title": "🐞 Bug - Properly manage window resize listener in simulatorHandler.vue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1245",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-09-01T10:38:00Z",
-          "title": "Labeled issue #1245 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1245",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-08-31T14:47:05Z",
-          "title": "Fix simulator resize listener lifecycle",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1244",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-05-31T09:19:20Z",
-          "title": "feat(simulator) - add fit view to selection helper",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/872",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-05-30T10:59:41Z",
-          "title": "Add wire hover fallback without overriding node hover",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/820",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-13T14:00:33Z",
-          "title": "feat(simulation) - add explicit post-stabilization hook at end of play()",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/935",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-13T13:40:25Z",
-          "title": "feat(simulator) - add explicit post-stabilization hook at end of play()",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/934",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-26T12:41:33Z",
-          "title": "feat(simulator) - add fit view to selection helper",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/872",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-21T15:52:17Z",
-          "title": "ux - normalize canvas cursor states",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/838",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-19T23:35:09Z",
-          "title": "Add subtle empty canvas onboarding hint",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/833",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-18T02:16:26Z",
-          "title": "Add wire hover fallback without overriding node hover",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/820",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-11T13:58:52Z",
-          "title": "Enable wire hover detection in global hover resolution",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/775",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-11T13:23:19Z",
-          "title": "Wire hover highlight",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/773",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-09T12:44:34Z",
-          "title": "UX - Improve cursor feedback for simulator hover targets",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/749",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-08T13:22:53Z",
-          "title": "Add subtle empty-canvas guidance text in simulator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/741",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-05T12:32:29Z",
-          "title": "Feature - Fit view to selection in simulator toolbar",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/717",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-17T09:01:35Z",
-          "title": "Add documentation for simulator circuit data flow",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/695",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-04T12:55:08Z",
-          "title": "UX - Fit view to selected elements (F shortcut)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/713",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-02T12:34:53Z",
-          "title": "UX - Reset view via Ctrl/Cmd+0 and empty canvas double-click",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/708",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-26T11:52:45Z",
-          "title": "🐞 Bug - Canvas does not fully redraw after resize (DevTools toggle) in v0 simulator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/700",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-22T12:41:11Z",
-          "title": "Wire routing parity investigation - v0 simulator tightly couples wire geometry with transform/listener system",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/697",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-19T10:02:40Z",
-          "title": "🐞 Bug - Wire routing parity issue - cv-frontend-vue does not support orthogonal (zig-zag) wires",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/696",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-07T09:23:58Z",
-          "title": "TestBenchPanel.vue UI cleanup for spacing & consistency",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/685",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-07T08:48:20Z",
-          "title": "UI Cleanup - Improve TestBench Panel (Spacing, Header, Inline Styles)",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/448",
-          "points": 1
         }
       ]
     },
@@ -62900,6 +62950,57 @@
       ]
     },
     {
+      "username": "awantika-m",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/227009544?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-28",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-28T11:43:59Z",
+          "title": "fix - reject invalid TestBench attachments",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1481",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-28T04:10:18Z",
+          "title": "🐞 Bug - TestBench attaches invalid circuit I/O after showing validation error",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1480",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-28T04:10:20Z",
+          "title": "Labeled issue #1480 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1480",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "beedell-roke",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/42837531?v=4",
@@ -67013,6 +67114,93 @@
           "title": "Feature Improve Login Page UI and Password Visibility Toggle",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/5387",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "Anurag-S1ngh",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/169547609?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-28T23:55:35Z",
+          "title": "refactor - reduce per-request work in switch_locale (#8059)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8105",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "SkIzazAhmed",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/233928135?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-28T19:00:33Z",
+          "title": "fix - pin noticed params coder so notifications render (#7685)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8104",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "atharva-vaish240",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/230833665?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-28T16:02:07Z",
+          "title": "fix - avoid mailer deserialization timeouts (#8094)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8103",
+          "points": 2
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1793155657290,
-  "startDate": "2026-10-21",
-  "endDate": "2026-10-28",
+  "updatedAt": 1793243338646,
+  "startDate": "2026-10-22",
+  "endDate": "2026-10-29",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -110,6 +110,76 @@
           "title": "Labeled issue #8088 - pending triage",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
           "points": 2
+        }
+      ]
+    },
+    {
+      "username": "yashveer-1",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+      "role": "Contributor",
+      "total_points": 11,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-28",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2026-10-27",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-28T13:52:44Z",
+          "title": "perf - batch canvas grid dot drawing",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1483",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-28T09:23:58Z",
+          "title": "perf - avoid redundant canvas dimension assignments",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1476",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-28T13:27:24Z",
+          "title": "Performance - Batch Canvas Grid Dot Drawing to Reduce Redundant Canvas Calls",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1482",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-27T06:29:22Z",
+          "title": "perf - avoid redundant canvas dimension assignments",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1476",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-27T06:20:04Z",
+          "title": "Performance - Avoid Redundant Canvas Resets in Timing Diagram",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1475",
+          "points": 1
         }
       ]
     },
@@ -536,58 +606,52 @@
       ]
     },
     {
-      "username": "Jashan32",
+      "username": "awantika-m",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227009544?v=4",
       "role": "Contributor",
       "total_points": 5,
       "activity_breakdown": {
         "PR opened": {
-          "count": 2,
-          "points": 4
+          "count": 1,
+          "points": 2
         },
         "Issue opened": {
           "count": 1,
           "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
         }
       },
       "daily_activity": [
         {
-          "date": "2026-10-23",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-22",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2026-10-21",
-          "count": 1,
-          "points": 2
+          "date": "2026-10-28",
+          "count": 3,
+          "points": 5
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-10-23T18:51:38Z",
-          "title": "fix - restore home button navigation in CV drawer",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/682",
+          "occured_at": "2026-10-28T11:43:59Z",
+          "title": "fix - reject invalid TestBench attachments",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1481",
           "points": 2
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-10-22T18:31:41Z",
-          "title": "Fix Home button navigation in CV drawer",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/681",
+          "occured_at": "2026-10-28T04:10:18Z",
+          "title": "🐞 Bug - TestBench attaches invalid circuit I/O after showing validation error",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1480",
           "points": 1
         },
         {
-          "type": "PR opened",
-          "occured_at": "2026-10-21T18:37:53Z",
-          "title": "fix - use POST request for project forking",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/680",
+          "type": "Issue labeled",
+          "occured_at": "2026-10-28T04:10:20Z",
+          "title": "Labeled issue #1480 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1480",
           "points": 2
         }
       ]
@@ -595,7 +659,7 @@
     {
       "username": "naman79820",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
       "role": "Contributor",
       "total_points": 4,
       "activity_breakdown": {
@@ -606,7 +670,7 @@
       },
       "daily_activity": [
         {
-          "date": "2026-10-21",
+          "date": "2026-10-28",
           "count": 1,
           "points": 4
         }
@@ -614,9 +678,9 @@
       "activities": [
         {
           "type": "Review submitted",
-          "occured_at": "2026-10-21T22:20:59Z",
-          "title": "Review on PR #8073",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8073",
+          "occured_at": "2026-10-28T08:52:09Z",
+          "title": "Review on PR #8083",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8083",
           "points": 4
         }
       ]
@@ -687,46 +751,6 @@
       ]
     },
     {
-      "username": "yashveer-1",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-27",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-27T06:29:22Z",
-          "title": "perf - avoid redundant canvas dimension assignments",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1476",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-27T06:20:04Z",
-          "title": "Performance - Avoid Redundant Canvas Resets in Timing Diagram",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1475",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "ManyaJain111",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
@@ -767,31 +791,88 @@
       ]
     },
     {
-      "username": "MYMISERABLEMIND17",
+      "username": "Jashan32",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
       "role": "Contributor",
-      "total_points": 2,
+      "total_points": 3,
       "activity_breakdown": {
         "PR opened": {
           "count": 1,
           "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
         }
       },
       "daily_activity": [
         {
-          "date": "2026-10-21",
+          "date": "2026-10-23",
           "count": 1,
           "points": 2
+        },
+        {
+          "date": "2026-10-22",
+          "count": 1,
+          "points": 1
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-10-21T13:21:53Z",
-          "title": "perf(api) - eliminate duplicate pagination counts and eager-load project associations (#8074)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8076",
+          "occured_at": "2026-10-23T18:51:38Z",
+          "title": "fix - restore home button navigation in CV drawer",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/682",
           "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-22T18:31:41Z",
+          "title": "Fix Home button navigation in CV drawer",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/681",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "tachyons",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+      "role": "Maintainer",
+      "total_points": 2,
+      "activity_breakdown": {
+        "Issue closed": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2026-10-24",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-10-28T09:23:59Z",
+          "title": "Closed issue #1475 - Performance - Avoid Redundant Canvas Resets in Timing Diagram",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1475",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-10-24T08:22:34Z",
+          "title": "Closed issue #8072 - 🐞 Bug bundler-audit CI check fails on master - css_parser 3.0.0 has 2 known CVEs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8072",
+          "points": 1
         }
       ]
     },
@@ -849,6 +930,93 @@
           "occured_at": "2026-10-22T05:55:13Z",
           "title": "fix - validate pending invitation email format (#7528)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8077",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Anurag-S1ngh",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/169547609?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-28T23:55:35Z",
+          "title": "refactor - reduce per-request work in switch_locale (#8059)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8105",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "SkIzazAhmed",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/233928135?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-28T19:00:33Z",
+          "title": "fix - pin noticed params coder so notifications render (#7685)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8104",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "atharva-vaish240",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/230833665?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-28T16:02:07Z",
+          "title": "fix - avoid mailer deserialization timeouts (#8094)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8103",
           "points": 2
         }
       ]
@@ -937,64 +1105,6 @@
           "title": "Migrate ImageAnnotation upload from Imgur to Rails ActiveStorage",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8091",
           "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Arnam-arch",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/223543360?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-21",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-21T12:36:23Z",
-          "title": "refactor - migrate verilogHelpers.js to TypeScript",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1467",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "tachyons",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-      "role": "Maintainer",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue closed": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-24",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-10-24T08:22:34Z",
-          "title": "Closed issue #8072 - 🐞 Bug bundler-audit CI check fails on master - css_parser 3.0.0 has 2 known CVEs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8072",
-          "points": 1
         }
       ]
     }

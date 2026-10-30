@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1793243338646,
-  "startDate": "2026-10-22",
-  "endDate": "2026-10-29",
+  "updatedAt": 1793329971463,
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-30",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -118,11 +118,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
       "role": "Contributor",
-      "total_points": 11,
+      "total_points": 13,
       "activity_breakdown": {
         "PR opened": {
-          "count": 2,
-          "points": 4
+          "count": 3,
+          "points": 6
         },
         "PR merged": {
           "count": 1,
@@ -135,6 +135,11 @@
       },
       "daily_activity": [
         {
+          "date": "2026-10-29",
+          "count": 1,
+          "points": 2
+        },
+        {
           "date": "2026-10-28",
           "count": 3,
           "points": 8
@@ -146,6 +151,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-29T11:54:08Z",
+          "title": "perf - batch canvas grid dot drawing in TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1485",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-10-28T13:52:44Z",
@@ -184,90 +196,23 @@
       ]
     },
     {
-      "username": "kushald121",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/188738420?v=4",
-      "role": "Contributor",
-      "total_points": 10,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-22",
-          "count": 6,
-          "points": 10
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-22T17:38:13Z",
-          "title": "fix - resolve n+1 query on stars in project serializer (#7968)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8079",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-22T15:59:00Z",
-          "title": "🐞 Bug - Simulation loop continues past 1M step safety limit — missing `break` in play() causes potential browser freeze",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1471",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-22T15:11:17Z",
-          "title": "🐞 Bug Simulation loop continues executing past safety limit — missing `break` after step count exceeded in `play()`",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8078",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-22T15:11:19Z",
-          "title": "Labeled issue #8078 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8078",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-22T15:11:20Z",
-          "title": "Labeled issue #8078 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8078",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-22T15:59:01Z",
-          "title": "Labeled issue #1471 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1471",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "magic-peach",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
       "role": "Contributor",
-      "total_points": 8,
+      "total_points": 10,
       "activity_breakdown": {
         "PR opened": {
-          "count": 4,
-          "points": 8
+          "count": 5,
+          "points": 10
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-29",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-10-28",
           "count": 1,
@@ -290,6 +235,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-29T13:20:00Z",
+          "title": "feat(templates) - show how many assignments use a template",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8107",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-10-28T02:33:01Z",
@@ -325,8 +277,12 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
       "role": "Contributor",
-      "total_points": 8,
+      "total_points": 10,
       "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
         "Issue opened": {
           "count": 2,
           "points": 2
@@ -337,6 +293,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-29",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-10-26",
           "count": 3,
@@ -349,6 +310,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-29T17:44:23Z",
+          "title": "feat - add undo/redo and back button to combinational analysis",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1487",
+          "points": 2
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-10-26T17:22:10Z",
@@ -440,69 +408,6 @@
           "occured_at": "2026-10-27T08:18:01Z",
           "title": "Labeled issue #1477 - pending triage",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1477",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Ayushi-ux-sys",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/230010174?v=4",
-      "role": "Contributor",
-      "total_points": 7,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-25",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-22",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-25T21:00:46Z",
-          "title": "fix - resolve ineffective access modifier in Grade model (#8080)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8097",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-22T18:38:51Z",
-          "title": "🐞 Bug - Ineffective access modifier for `self.to_csv` in Grade model",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-22T18:38:52Z",
-          "title": "Labeled issue #8080 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-22T18:38:53Z",
-          "title": "Labeled issue #8080 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8080",
           "points": 2
         }
       ]
@@ -722,6 +627,47 @@
       ]
     },
     {
+      "username": "atharva-vaish240",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/230833665?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-29",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-29T11:13:53Z",
+          "title": "fix - handle Puma client disconnect (#7943)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8106",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-28T16:02:07Z",
+          "title": "fix - avoid mailer deserialization timeouts (#8094)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8103",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "shantanu-chaudharyy",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/167026008?u=c482b46e7afc2159eb497dd309701cf92afbd1a2&v=4",
@@ -791,9 +737,9 @@
       ]
     },
     {
-      "username": "Jashan32",
+      "username": "tushaar-05",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
       "role": "Contributor",
       "total_points": 3,
       "activity_breakdown": {
@@ -808,30 +754,65 @@
       },
       "daily_activity": [
         {
-          "date": "2026-10-23",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-22",
-          "count": 1,
-          "points": 1
+          "date": "2026-10-29",
+          "count": 2,
+          "points": 3
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-10-23T18:51:38Z",
-          "title": "fix - restore home button navigation in CV drawer",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/682",
+          "occured_at": "2026-10-29T17:51:09Z",
+          "title": "perf - eliminate redundant DOM style and dimension updates in simulation loops (#1484)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1488",
           "points": 2
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-10-22T18:31:41Z",
-          "title": "Fix Home button navigation in CV drawer",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/681",
+          "occured_at": "2026-10-29T10:30:13Z",
+          "title": "perf - eliminate redundant DOM style and dimension updates in simulation loops",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1484",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "Smriti-N",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/184945002?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-29",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-29T12:43:07Z",
+          "title": "🐞 Bug - Ctrl+V with non-CircuitVerse clipboard data throws an uncaught JSON parsing error",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1486",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-29T12:43:09Z",
+          "title": "Labeled issue #1486 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1486",
+          "points": 2
         }
       ]
     },
@@ -877,6 +858,64 @@
       ]
     },
     {
+      "username": "Jashan32",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-23",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-23T18:51:38Z",
+          "title": "fix - restore home button navigation in CV drawer",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/682",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Ayushi-ux-sys",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/230010174?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-25",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-25T21:00:46Z",
+          "title": "fix - resolve ineffective access modifier in Grade model (#8080)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8097",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "knowprasad",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/144908638?v=4",
@@ -906,9 +945,9 @@
       ]
     },
     {
-      "username": "kritikhatri",
+      "username": "Goblin-24",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/228373846?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
       "role": "Contributor",
       "total_points": 2,
       "activity_breakdown": {
@@ -919,7 +958,7 @@
       },
       "daily_activity": [
         {
-          "date": "2026-10-22",
+          "date": "2026-10-29",
           "count": 1,
           "points": 2
         }
@@ -927,9 +966,9 @@
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-10-22T05:55:13Z",
-          "title": "fix - validate pending invitation email format (#7528)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8077",
+          "occured_at": "2026-10-29T21:15:07Z",
+          "title": "Enhancement - Interactive mouse resizing and constant highlight for Rectangle annotations",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1489",
           "points": 2
         }
       ]
@@ -988,35 +1027,6 @@
           "occured_at": "2026-10-28T19:00:33Z",
           "title": "fix - pin noticed params coder so notifications render (#7685)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8104",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "atharva-vaish240",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/230833665?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-28",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-28T16:02:07Z",
-          "title": "fix - avoid mailer deserialization timeouts (#8094)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8103",
           "points": 2
         }
       ]

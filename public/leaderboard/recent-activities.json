@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793243338659,
+  "updatedAt": 1793329971474,
   "groups": [
     [
       "2026-10-28",
@@ -77,6 +77,14 @@
           "points": 2
         },
         {
+          "username": "atharva-vaish240",
+          "name": null,
+          "title": "fix - avoid mailer deserialization timeouts (#8094)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8103",
+          "avatar_url": "https://avatars.githubusercontent.com/u/230833665?v=4",
+          "points": 2
+        },
+        {
           "username": "Anurag-S1ngh",
           "name": null,
           "title": "refactor - reduce per-request work in switch_locale (#8059)",
@@ -90,14 +98,6 @@
           "title": "fix - pin noticed params coder so notifications render (#7685)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8104",
           "avatar_url": "https://avatars.githubusercontent.com/u/233928135?v=4",
-          "points": 2
-        },
-        {
-          "username": "atharva-vaish240",
-          "name": null,
-          "title": "fix - avoid mailer deserialization timeouts (#8094)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8103",
-          "avatar_url": "https://avatars.githubusercontent.com/u/230833665?v=4",
           "points": 2
         }
       ]
@@ -475,6 +475,83 @@
           "title": "Labeled issue #8047 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
           "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-10-29",
+      [
+        {
+          "username": "magic-peach",
+          "name": null,
+          "title": "feat(templates) - show how many assignments use a template",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8107",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
+          "points": 2
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "perf - batch canvas grid dot drawing in TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1485",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
+        },
+        {
+          "username": "tushaar-05",
+          "name": null,
+          "title": "perf - eliminate redundant DOM style and dimension updates in simulation loops (#1484)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1488",
+          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
+          "points": 2
+        },
+        {
+          "username": "tushaar-05",
+          "name": null,
+          "title": "perf - eliminate redundant DOM style and dimension updates in simulation loops",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1484",
+          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
+          "points": 1
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "feat - add undo/redo and back button to combinational analysis",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1487",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 2
+        },
+        {
+          "username": "atharva-vaish240",
+          "name": null,
+          "title": "fix - handle Puma client disconnect (#7943)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8106",
+          "avatar_url": "https://avatars.githubusercontent.com/u/230833665?v=4",
+          "points": 2
+        },
+        {
+          "username": "Smriti-N",
+          "name": null,
+          "title": "🐞 Bug - Ctrl+V with non-CircuitVerse clipboard data throws an uncaught JSON parsing error",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1486",
+          "avatar_url": "https://avatars.githubusercontent.com/u/184945002?v=4",
+          "points": 1
+        },
+        {
+          "username": "Smriti-N",
+          "name": null,
+          "title": "Labeled issue #1486 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1486",
+          "avatar_url": "https://avatars.githubusercontent.com/u/184945002?v=4",
+          "points": 2
+        },
+        {
+          "username": "Goblin-24",
+          "name": null,
+          "title": "Enhancement - Interactive mouse resizing and constant highlight for Rectangle annotations",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1489",
+          "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
           "points": 2
         }
       ]
@@ -943,91 +1020,6 @@
           "title": "fix - parse Accept-Language header as symbol for locale fallback (#8020)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8054",
           "avatar_url": "https://avatars.githubusercontent.com/u/224249943?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-10-16",
-      [
-        {
-          "username": "magic-peach",
-          "name": null,
-          "title": "feat(groups) - add self-referential subgroups data layer",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8038",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-          "points": 2
-        },
-        {
-          "username": "JatsuAkaYashvant",
-          "name": null,
-          "title": "Labeled issue #8031 - ui",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8031",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
-          "points": 2
-        },
-        {
-          "username": "SantamRC",
-          "name": null,
-          "title": "fix - pin intl and html to versions the app builds with",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/667",
-          "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
-          "points": 5
-        },
-        {
-          "username": "ManyaJain111",
-          "name": null,
-          "title": "🐞 Bug - secondary mentors launching from LMS are treated as students",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8041",
-          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
-          "points": 1
-        },
-        {
-          "username": "ManyaJain111",
-          "name": null,
-          "title": "Labeled issue #8041 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8041",
-          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
-          "points": 2
-        },
-        {
-          "username": "MYMISERABLEMIND17",
-          "name": null,
-          "title": "fix(project) - reset stars_count to 0 on project fork (#8023)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8035",
-          "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
-          "points": 2
-        },
-        {
-          "username": "durgeshbg",
-          "name": null,
-          "title": "🐞 Bug - Circuit tabs use undefined draggable keys when reordered or closed",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1451",
-          "avatar_url": "https://avatars.githubusercontent.com/u/84910181?v=4",
-          "points": 1
-        },
-        {
-          "username": "durgeshbg",
-          "name": null,
-          "title": "Labeled issue #1451 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1451",
-          "avatar_url": "https://avatars.githubusercontent.com/u/84910181?v=4",
-          "points": 2
-        },
-        {
-          "username": "durgeshbg",
-          "name": null,
-          "title": "Labeled issue #1451 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1451",
-          "avatar_url": "https://avatars.githubusercontent.com/u/84910181?v=4",
-          "points": 2
-        },
-        {
-          "username": "minnimaggu-lgtm",
-          "name": null,
-          "title": "Fix - snapshot student projects when mentor manually closes assignment",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8036",
-          "avatar_url": "https://avatars.githubusercontent.com/u/232153152?v=4",
           "points": 2
         }
       ]

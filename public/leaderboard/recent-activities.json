@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793329971474,
+  "updatedAt": 1793415474673,
   "groups": [
     [
       "2026-10-28",
@@ -9,7 +9,7 @@
           "name": null,
           "title": "Review on PR #8083",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8083",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
           "points": 4
         },
         {
@@ -110,7 +110,7 @@
           "name": null,
           "title": "Review on PR #8073",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8073",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
           "points": 4
         },
         {
@@ -147,7 +147,7 @@
           "name": null,
           "title": "Review on PR #8019",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8019",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
           "points": 4
         },
         {
@@ -155,7 +155,7 @@
           "name": null,
           "title": "Review on PR #7996",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7996",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
           "points": 4
         },
         {
@@ -414,67 +414,6 @@
           "title": "typecheck(v1) - type DOM and ref access in CustomShortcut dialog (#1417)",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1479",
           "avatar_url": "https://avatars.githubusercontent.com/u/169418292?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-10-17",
-      [
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Closed issue #1208 - 🐞 Bug - Replace favicon icon of website with CircuitVerse's official icon in place of browser's default icon",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1208",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
-          "points": 1
-        },
-        {
-          "username": "magic-peach",
-          "name": null,
-          "title": "feat(groups) - exclude subgroups from dashboards and the group index API",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8046",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-          "points": 2
-        },
-        {
-          "username": "magic-peach",
-          "name": null,
-          "title": "Feat - add group sync roster",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8043",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-          "points": 2
-        },
-        {
-          "username": "ManyaJain111",
-          "name": null,
-          "title": "fix(lti) - recognize secondary mentors as teachers on launch (#8041)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8044",
-          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
-          "points": 2
-        },
-        {
-          "username": "tirth-patel06",
-          "name": null,
-          "title": "fix - serve favicon by setting publicDir to root public/",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1210",
-          "avatar_url": "https://avatars.githubusercontent.com/u/185243371?v=4",
-          "points": 5
-        },
-        {
-          "username": "Psykii22",
-          "name": null,
-          "title": "🐞 Bug - Changing the tool tip location from the bottom right corner to the left bottom corner",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
-          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-          "points": 1
-        },
-        {
-          "username": "Psykii22",
-          "name": null,
-          "title": "Labeled issue #8047 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
-          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
           "points": 2
         }
       ]
@@ -1020,6 +959,59 @@
           "title": "fix - parse Accept-Language header as symbol for locale fallback (#8020)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8054",
           "avatar_url": "https://avatars.githubusercontent.com/u/224249943?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-10-30",
+      [
+        {
+          "username": "Harkeerat24",
+          "name": null,
+          "title": "Review on PR #1466",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1466",
+          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 4
+        },
+        {
+          "username": "Harkeerat24",
+          "name": null,
+          "title": "Review on PR #1429",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1429",
+          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 4
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "fix - bump Ruby to 4.0.9 in .tool-versions for ubuntu-26.04 CI runners (#8109)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8110",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "🐞 Bug - Ruby on Rails CI and DBChecker fail on all PRs - Ruby 4.0.2 unavailable on ubuntu-26.04 runners",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 1
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "Labeled issue #8109 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "Labeled issue #8109 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
           "points": 2
         }
       ]

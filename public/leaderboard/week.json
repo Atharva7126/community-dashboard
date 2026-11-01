@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1793415474664,
-  "startDate": "2026-10-24",
-  "endDate": "2026-10-31",
+  "updatedAt": 1793501539678,
+  "startDate": "2026-10-25",
+  "endDate": "2026-11-01",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,26 +11,31 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
       "role": "Contributor",
-      "total_points": 30,
+      "total_points": 26,
       "activity_breakdown": {
+        "PR merged": {
+          "count": 3,
+          "points": 15
+        },
         "PR opened": {
-          "count": 5,
-          "points": 10
+          "count": 3,
+          "points": 6
         },
         "Issue opened": {
-          "count": 2,
-          "points": 2
+          "count": 1,
+          "points": 1
         },
         "Issue labeled": {
-          "count": 4,
-          "points": 8
-        },
-        "PR merged": {
           "count": 2,
-          "points": 10
+          "points": 4
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-31",
+          "count": 2,
+          "points": 10
+        },
         {
           "date": "2026-10-30",
           "count": 4,
@@ -45,14 +50,23 @@
           "date": "2026-10-26",
           "count": 1,
           "points": 2
-        },
-        {
-          "date": "2026-10-24",
-          "count": 6,
-          "points": 14
         }
       ],
       "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-31T03:10:19Z",
+          "title": "fix - bump Ruby to 4.0.9 in .tool-versions for ubuntu-26.04 CI runners (#8109)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8110",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-31T03:10:41Z",
+          "title": "fix - bump crass, view_component, sanitize and avo to resolve bundler-audit advisories",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8090",
+          "points": 5
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-10-30T19:04:47Z",
@@ -101,48 +115,6 @@
           "title": "refactor - migrate pagination from will_paginate to pagy (#7902)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8098",
           "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-24T14:32:51Z",
-          "title": "fix - bump crass and view_component to resolve bundler-audit advisories",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8090",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-24T13:37:07Z",
-          "title": "chore - remove will_paginate after pagy migration",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8087",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-24T08:22:31Z",
-          "title": "fix - resolve css_parser vulnerabilities flagged by bundler-audit",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8073",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-24T14:19:32Z",
-          "title": "🐞 Bug 🐞 Bug - bundler-audit CI check fails on master - crass 1.0.7 and view_component 4.12.0 have known advisories",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-24T14:19:33Z",
-          "title": "Labeled issue #8088 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-24T14:19:34Z",
-          "title": "Labeled issue #8088 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
-          "points": 2
         }
       ]
     },
@@ -151,15 +123,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
       "role": "Contributor",
-      "total_points": 13,
+      "total_points": 18,
       "activity_breakdown": {
+        "PR merged": {
+          "count": 2,
+          "points": 10
+        },
         "PR opened": {
           "count": 3,
           "points": 6
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
         },
         "Issue opened": {
           "count": 2,
@@ -167,6 +139,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-10-31",
+          "count": 1,
+          "points": 5
+        },
         {
           "date": "2026-10-29",
           "count": 1,
@@ -184,6 +161,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-31T10:14:14Z",
+          "title": "perf - batch canvas grid dot drawing in TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1485",
+          "points": 5
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-10-29T11:54:08Z",
@@ -229,84 +213,54 @@
       ]
     },
     {
-      "username": "Psykii22",
+      "username": "Me-Priyank",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
       "role": "Contributor",
-      "total_points": 10,
+      "total_points": 9,
       "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
+        "Review submitted": {
           "count": 2,
-          "points": 2
+          "points": 8
         },
-        "Issue labeled": {
-          "count": 3,
-          "points": 6
+        "Issue closed": {
+          "count": 1,
+          "points": 1
         }
       },
       "daily_activity": [
         {
-          "date": "2026-10-29",
+          "date": "2026-10-31",
           "count": 1,
-          "points": 2
+          "points": 4
         },
         {
-          "date": "2026-10-26",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-10-24",
+          "date": "2026-10-27",
           "count": 2,
-          "points": 3
+          "points": 5
         }
       ],
       "activities": [
         {
-          "type": "PR opened",
-          "occured_at": "2026-10-29T17:44:23Z",
-          "title": "feat - add undo/redo and back button to combinational analysis",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1487",
-          "points": 2
+          "type": "Review submitted",
+          "occured_at": "2026-10-31T14:24:14Z",
+          "title": "Review on PR #1392",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
+          "points": 4
         },
         {
-          "type": "Issue opened",
-          "occured_at": "2026-10-26T17:22:10Z",
-          "title": "Feature - add Undo/Redo history and Back button navigation to Combinational Analysis dialog and close button when table is made",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
+          "type": "Review submitted",
+          "occured_at": "2026-10-27T08:48:51Z",
+          "title": "Review on PR #1438",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1438",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-10-27T08:58:08Z",
+          "title": "Closed issue #1408 - refactor(v1) - convert verilog arithmetic shims to TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1408",
           "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-26T17:22:11Z",
-          "title": "Labeled issue #1474 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-26T17:22:12Z",
-          "title": "Labeled issue #1474 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-24T07:40:13Z",
-          "title": "🐞 Bug - Element tooltip appears in bottom-right corner far away from Circuit Elements panel",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-24T07:40:14Z",
-          "title": "Labeled issue #1473 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
-          "points": 2
         }
       ]
     },
@@ -412,6 +366,69 @@
       ]
     },
     {
+      "username": "Psykii22",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+      "role": "Contributor",
+      "total_points": 7,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-29",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-26",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-29T17:44:23Z",
+          "title": "feat - add undo/redo and back button to combinational analysis",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1487",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-26T17:22:10Z",
+          "title": "Feature - add Undo/Redo history and Back button navigation to Combinational Analysis dialog and close button when table is made",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-26T17:22:11Z",
+          "title": "Labeled issue #1474 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-26T17:22:12Z",
+          "title": "Labeled issue #1474 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "ManshaAgarwal716",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/218825298?v=4",
@@ -470,9 +487,9 @@
       ]
     },
     {
-      "username": "Me-Priyank",
+      "username": "ShinichiShi",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?u=89d8c6cefb3b72abde02af74cfdd8c72222146aa&v=4",
       "role": "Contributor",
       "total_points": 5,
       "activity_breakdown": {
@@ -487,7 +504,7 @@
       },
       "daily_activity": [
         {
-          "date": "2026-10-27",
+          "date": "2026-10-31",
           "count": 2,
           "points": 5
         }
@@ -495,16 +512,16 @@
       "activities": [
         {
           "type": "Review submitted",
-          "occured_at": "2026-10-27T08:48:51Z",
-          "title": "Review on PR #1438",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1438",
+          "occured_at": "2026-10-31T12:08:23Z",
+          "title": "Review on PR #1392",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
           "points": 4
         },
         {
           "type": "Issue closed",
-          "occured_at": "2026-10-27T08:58:08Z",
-          "title": "Closed issue #1408 - refactor(v1) - convert verilog arithmetic shims to TypeScript",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1408",
+          "occured_at": "2026-10-31T12:16:05Z",
+          "title": "Closed issue #734 - 🐞 Bug - Output component displays 'X' (undefined) state even when connected to valid gate output",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/734",
           "points": 1
         }
       ]
@@ -586,6 +603,61 @@
           "title": "Review on PR #8083",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8083",
           "points": 4
+        }
+      ]
+    },
+    {
+      "username": "tachyons",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+      "role": "Maintainer",
+      "total_points": 4,
+      "activity_breakdown": {
+        "Issue closed": {
+          "count": 4,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-31",
+          "count": 3,
+          "points": 3
+        },
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-10-31T03:10:22Z",
+          "title": "Closed issue #8109 - 🐞 Bug - Ruby on Rails CI and DBChecker fail on all PRs - Ruby 4.0.2 unavailable on ubuntu-26.04 runners",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-10-31T03:10:43Z",
+          "title": "Closed issue #8088 - 🐞 Bug 🐞 Bug - bundler-audit CI check fails on master - crass 1.0.7 and view_component 4.12.0 have known advisories",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-10-31T10:14:16Z",
+          "title": "Closed issue #1482 - Performance - Batch Canvas Grid Dot Drawing to Reduce Redundant Canvas Calls",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1482",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-10-28T09:23:59Z",
+          "title": "Closed issue #1475 - Performance - Avoid Redundant Canvas Resets in Timing Diagram",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1475",
+          "points": 1
         }
       ]
     },
@@ -747,47 +819,6 @@
       ]
     },
     {
-      "username": "tachyons",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-      "role": "Maintainer",
-      "total_points": 2,
-      "activity_breakdown": {
-        "Issue closed": {
-          "count": 2,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-28",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2026-10-24",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-10-28T09:23:59Z",
-          "title": "Closed issue #1475 - Performance - Avoid Redundant Canvas Resets in Timing Diagram",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1475",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-10-24T08:22:34Z",
-          "title": "Closed issue #8072 - 🐞 Bug bundler-audit CI check fails on master - css_parser 3.0.0 has 2 known CVEs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8072",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "Ayushi-ux-sys",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/230010174?v=4",
@@ -817,9 +848,9 @@
       ]
     },
     {
-      "username": "knowprasad",
+      "username": "Anushreebasics",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/144908638?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122273783?v=4",
       "role": "Contributor",
       "total_points": 2,
       "activity_breakdown": {
@@ -830,7 +861,7 @@
       },
       "daily_activity": [
         {
-          "date": "2026-10-24",
+          "date": "2026-10-31",
           "count": 1,
           "points": 2
         }
@@ -838,9 +869,9 @@
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-10-24T14:25:41Z",
-          "title": "fix(models) - move Grade.to_csv before private modifier (#8080)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8089",
+          "occured_at": "2026-10-31T13:05:15Z",
+          "title": "bug - removed extra popup after creating new project",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1491",
           "points": 2
         }
       ]

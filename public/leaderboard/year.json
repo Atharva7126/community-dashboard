@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1793588372276,
-  "lastFetchedAt": 1793588372276,
-  "startDate": "2025-11-02",
-  "endDate": "2026-11-02",
+  "updatedAt": 1793679464049,
+  "lastFetchedAt": 1793679464049,
+  "startDate": "2025-11-03",
+  "endDate": "2026-11-03",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -4225,11 +4225,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
       "role": "Maintainer",
-      "total_points": 879,
+      "total_points": 880,
       "activity_breakdown": {
         "Issue closed": {
-          "count": 379,
-          "points": 379
+          "count": 380,
+          "points": 380
         },
         "Issue opened": {
           "count": 51,
@@ -4253,6 +4253,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-02",
+          "count": 1,
+          "points": 1
+        },
         {
           "date": "2026-10-31",
           "count": 3,
@@ -4890,6 +4895,13 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-11-02T05:11:21Z",
+          "title": "Closed issue #1493 - Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
+          "points": 1
+        },
         {
           "type": "Issue closed",
           "occured_at": "2026-10-31T03:10:22Z",
@@ -17245,11 +17257,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
       "role": "Contributor",
-      "total_points": 568,
+      "total_points": 570,
       "activity_breakdown": {
         "PR opened": {
-          "count": 96,
-          "points": 192
+          "count": 97,
+          "points": 194
         },
         "PR merged": {
           "count": 10,
@@ -17273,6 +17285,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-02",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-10-29",
           "count": 1,
@@ -17500,6 +17517,13 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-02T12:26:38Z",
+          "title": "docs - Akanksha Trehun GSoC 2026 final report",
+          "link": "https://github.com/CircuitVerse/Blog/pull/280",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-10-29T13:20:00Z",
@@ -20889,8 +20913,12 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
       "role": "Contributor",
-      "total_points": 383,
+      "total_points": 388,
       "activity_breakdown": {
+        "PR merged": {
+          "count": 20,
+          "points": 100
+        },
         "Review submitted": {
           "count": 6,
           "points": 24
@@ -20903,10 +20931,6 @@
           "count": 25,
           "points": 50
         },
-        "PR merged": {
-          "count": 19,
-          "points": 95
-        },
         "Issue opened": {
           "count": 15,
           "points": 15
@@ -20917,6 +20941,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-02",
+          "count": 1,
+          "points": 5
+        },
         {
           "date": "2026-11-01",
           "count": 2,
@@ -21139,6 +21168,13 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-02T04:23:53Z",
+          "title": "docs - make the structured format final report beginner friendly",
+          "link": "https://github.com/CircuitVerse/Blog/pull/279",
+          "points": 5
+        },
         {
           "type": "Review submitted",
           "occured_at": "2026-11-01T14:45:32Z",
@@ -35337,19 +35373,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
       "role": "Contributor",
-      "total_points": 146,
+      "total_points": 154,
       "activity_breakdown": {
         "PR opened": {
-          "count": 30,
-          "points": 60
-        },
-        "Issue opened": {
-          "count": 21,
-          "points": 21
+          "count": 31,
+          "points": 62
         },
         "PR merged": {
-          "count": 9,
-          "points": 45
+          "count": 10,
+          "points": 50
+        },
+        "Issue opened": {
+          "count": 22,
+          "points": 22
         },
         "Issue labeled": {
           "count": 10,
@@ -35357,6 +35393,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-02",
+          "count": 3,
+          "points": 8
+        },
         {
           "date": "2026-11-01",
           "count": 2,
@@ -35549,6 +35590,27 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-02T07:54:19Z",
+          "title": "perf(v1) - guard clockTick on static circuits without clock elements",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1496",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-02T05:11:18Z",
+          "title": "Perf/timing diagram idle polling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1494",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-02T07:35:31Z",
+          "title": "perf - avoid unnecessary clock polling when circuits contain no Clock components",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1495",
+          "points": 1
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-11-01T10:56:22Z",
@@ -54455,6 +54517,116 @@
       ]
     },
     {
+      "username": "Saniya-r-Shaikh",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+      "role": "Contributor",
+      "total_points": 17,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        },
+        "Issue opened": {
+          "count": 3,
+          "points": 3
+        },
+        "Issue labeled": {
+          "count": 4,
+          "points": 8
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-02",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2026-03-01",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-02-16",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-02T22:11:51Z",
+          "title": "fix(ui) - allow clearing circuit name field and apply \"Untitled\" fallback on blur",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1500",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-02T21:18:08Z",
+          "title": "🐞 Bug - Circuit name resets to \"Untitled\" on every keystroke, so the field cannot be cleared",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1499",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-02T21:18:09Z",
+          "title": "Labeled issue #1499 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1499",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-02T21:18:10Z",
+          "title": "Labeled issue #1499 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1499",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-03-01T18:40:45Z",
+          "title": "Implement auto-incrementing suffixes for duplicate project and circuit names",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7107",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-03-01T09:08:12Z",
+          "title": "Feature - Auto-Increment Circuit and Project Names to Prevent Duplicates",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7102",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-03-01T09:08:13Z",
+          "title": "Labeled issue #7102 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7102",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-16T21:07:54Z",
+          "title": "Add active state highlighting for navbar items",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6918",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-16T11:49:51Z",
+          "title": "Feature - Improve Navbar UX by Highlighting Active Navigation Item",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6915",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-02-16T11:49:52Z",
+          "title": "Labeled issue #6915 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6915",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "M-V-RAGHUPATHI-SAI",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/157268152?v=4",
@@ -58393,83 +58565,6 @@
           "title": "improve grammar and documentation consistency",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/496",
           "points": 1
-        }
-      ]
-    },
-    {
-      "username": "Saniya-r-Shaikh",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
-      "role": "Contributor",
-      "total_points": 10,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-03-01",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-02-16",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-03-01T18:40:45Z",
-          "title": "Implement auto-incrementing suffixes for duplicate project and circuit names",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7107",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-03-01T09:08:12Z",
-          "title": "Feature - Auto-Increment Circuit and Project Names to Prevent Duplicates",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7102",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-03-01T09:08:13Z",
-          "title": "Labeled issue #7102 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7102",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-16T21:07:54Z",
-          "title": "Add active state highlighting for navbar items",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6918",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-02-16T11:49:51Z",
-          "title": "Feature - Improve Navbar UX by Highlighting Active Navigation Item",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6915",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-02-16T11:49:52Z",
-          "title": "Labeled issue #6915 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6915",
-          "points": 2
         }
       ]
     },
@@ -71483,6 +71578,35 @@
           "occured_at": "2025-12-03T17:59:36Z",
           "title": "Dark Mode Bug - Disqus Sign-Up Input Background Stays Light",
           "link": "https://github.com/CircuitVerse/Interactive-Book/issues/737",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "motalib6",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
+      "role": "Contributor",
+      "total_points": 1,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-02",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-02T12:28:36Z",
+          "title": "Bug - Deleting a circuit tab that is used as a SubCircuit breaks the parent circuit with \"Not found\" - no warning before delete",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1497",
           "points": 1
         }
       ]

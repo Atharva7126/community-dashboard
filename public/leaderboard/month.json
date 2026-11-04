@@ -1,8 +1,8 @@
 {
   "period": "month",
-  "updatedAt": 1793679464074,
-  "startDate": "2026-10-04",
-  "endDate": "2026-11-03",
+  "updatedAt": 1793763395996,
+  "startDate": "2026-10-05",
+  "endDate": "2026-11-04",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,19 +11,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
       "role": "Maintainer",
-      "total_points": 83,
+      "total_points": 80,
       "activity_breakdown": {
         "Issue closed": {
-          "count": 16,
-          "points": 16
+          "count": 15,
+          "points": 15
         },
         "Issue opened": {
           "count": 19,
           "points": 19
         },
         "Issue labeled": {
-          "count": 24,
-          "points": 48
+          "count": 23,
+          "points": 46
         }
       },
       "daily_activity": [
@@ -51,11 +51,6 @@
           "date": "2026-10-13",
           "count": 51,
           "points": 74
-        },
-        {
-          "date": "2026-10-04",
-          "count": 2,
-          "points": 3
         }
       ],
       "activities": [
@@ -456,20 +451,6 @@
           "occured_at": "2026-10-13T13:41:43Z",
           "title": "Closed issue #491 - Sync the src changes to v0 and v1 versions of the simualtor",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/491",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-04T10:43:53Z",
-          "title": "Labeled issue #1366 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1366",
-          "points": 2
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-10-04T10:42:14Z",
-          "title": "Closed issue #7973 - 🐞 Bug - Simulator crashes when Custom Theme localStorage contains invalid JSON",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7973",
           "points": 1
         }
       ]
@@ -1707,11 +1688,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
       "role": "Contributor",
-      "total_points": 35,
+      "total_points": 39,
       "activity_breakdown": {
         "Review submitted": {
-          "count": 7,
-          "points": 28
+          "count": 8,
+          "points": 32
         },
         "Issue closed": {
           "count": 7,
@@ -1719,6 +1700,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-03",
+          "count": 1,
+          "points": 4
+        },
         {
           "date": "2026-11-01",
           "count": 2,
@@ -1751,6 +1737,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-11-03T06:24:20Z",
+          "title": "Review on PR #1491",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1491",
+          "points": 4
+        },
         {
           "type": "Review submitted",
           "occured_at": "2026-11-01T07:23:09Z",
@@ -2666,106 +2659,6 @@
       ]
     },
     {
-      "username": "JituRewar",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
-      "role": "Contributor",
-      "total_points": 17,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 3,
-          "points": 6
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-20",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-10-07",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-10-04",
-          "count": 4,
-          "points": 7
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-20T18:37:19Z",
-          "title": "🐞 Bug - Production XML sitemaps are stale and the sitemap index is not advertised in robots.txt",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8071",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-20T18:37:21Z",
-          "title": "Labeled issue #8071 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8071",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-20T18:37:22Z",
-          "title": "Labeled issue #8071 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8071",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-07T06:32:39Z",
-          "title": "fix(simulator) - prevent fit-to-selection shortcut from intercepting keyDown component input",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1369",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-04T12:28:20Z",
-          "title": "fix(simulator) - prevent fit-to-selection shortcut from intercepting rom input",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1369",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-04T06:36:12Z",
-          "title": "fix(simulator) - ensure component keyDown runs before mouse bounds check",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7972",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-04T06:30:14Z",
-          "title": "🐞 Bug - Cannot type hex character 'f' in ROM when cursor is outside canvas",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1366",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-04T06:30:15Z",
-          "title": "Labeled issue #1366 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1366",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "ShinichiShi",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/141218988?u=89d8c6cefb3b72abde02af74cfdd8c72222146aa&v=4",
@@ -2973,189 +2866,6 @@
       ]
     },
     {
-      "username": "iamtanishqjain",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/71930864?v=4",
-      "role": "Contributor",
-      "total_points": 14,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-13",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-10-10",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-08",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-04",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-13T13:44:01Z",
-          "title": "fix(vuesim) - drop the image formats the canvas cannot produce",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1306",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-10T18:49:49Z",
-          "title": "fix(vuesim) - add the missing Verilog modules for Dlatch, JK and SR in v1",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1389",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-10T18:50:13Z",
-          "title": "🐞 Bug - v1 Verilog export omits the module for D Latch, JK and SR flip flops",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1390",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-08T14:21:38Z",
-          "title": "fix(vuesim) - describe what BitSelector does in its tooltip",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1380",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-08T14:21:57Z",
-          "title": "🐞 Bug - BitSelector's tooltip describes the Splitter",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1381",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-04T14:44:32Z",
-          "title": "fix(vuesim) - point element help links at the current docs site",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1370",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-04T14:45:42Z",
-          "title": "🐞 Bug - Help button opens the docs home page for 21 elements, old docsify URLs left behind",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1371",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "YashKumar-404",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
-      "role": "Contributor",
-      "total_points": 12,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 6,
-          "points": 12
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-20",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-14",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-12",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-10",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-05",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-04",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-20T09:06:52Z",
-          "title": "fix - remove unnecessary params.permit in switch_locale to fix performance regression (#8059)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8066",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-14T16:41:25Z",
-          "title": "fix - report save failure when project name is invalid",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8030",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-12T14:47:32Z",
-          "title": "fix - validate assignment deadline before saving (#8005)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8009",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-10T16:39:57Z",
-          "title": "fix - reuse one SES client across mail deliveries (#7994)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8004",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-05T14:19:29Z",
-          "title": "fix - retry on statement timeouts and drop duplicate deadline jobs (#7976)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7980",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-04T18:43:10Z",
-          "title": "fix - batch star lookups in project serializer to avoid N+1 (#7968)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7977",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "kushald121",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/188738420?v=4",
@@ -3342,6 +3052,81 @@
       ]
     },
     {
+      "username": "iamtanishqjain",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/71930864?v=4",
+      "role": "Contributor",
+      "total_points": 11,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-13",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-10-10",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-08",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-13T13:44:01Z",
+          "title": "fix(vuesim) - drop the image formats the canvas cannot produce",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1306",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-10T18:49:49Z",
+          "title": "fix(vuesim) - add the missing Verilog modules for Dlatch, JK and SR in v1",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1389",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-10T18:50:13Z",
+          "title": "🐞 Bug - v1 Verilog export omits the module for D Latch, JK and SR flip flops",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1390",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-08T14:21:38Z",
+          "title": "fix(vuesim) - describe what BitSelector does in its tooltip",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1380",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-08T14:21:57Z",
+          "title": "🐞 Bug - BitSelector's tooltip describes the Splitter",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1381",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "amankv1234",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/186990161?v=4",
@@ -3508,6 +3293,146 @@
       ]
     },
     {
+      "username": "JituRewar",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-20",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-10-07",
+          "count": 1,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-20T18:37:19Z",
+          "title": "🐞 Bug - Production XML sitemaps are stale and the sitemap index is not advertised in robots.txt",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8071",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-20T18:37:21Z",
+          "title": "Labeled issue #8071 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8071",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-20T18:37:22Z",
+          "title": "Labeled issue #8071 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8071",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-07T06:32:39Z",
+          "title": "fix(simulator) - prevent fit-to-selection shortcut from intercepting keyDown component input",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1369",
+          "points": 5
+        }
+      ]
+    },
+    {
+      "username": "YashKumar-404",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 5,
+          "points": 10
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-20",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-14",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-12",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-10",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-05",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-20T09:06:52Z",
+          "title": "fix - remove unnecessary params.permit in switch_locale to fix performance regression (#8059)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8066",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-14T16:41:25Z",
+          "title": "fix - report save failure when project name is invalid",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8030",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-12T14:47:32Z",
+          "title": "fix - validate assignment deadline before saving (#8005)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8009",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-10T16:39:57Z",
+          "title": "fix - reuse one SES client across mail deliveries (#7994)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8004",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-05T14:19:29Z",
+          "title": "fix - retry on statement timeouts and drop duplicate deadline jobs (#7976)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7980",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "tirth-patel06",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/185243371?v=4",
@@ -3637,78 +3562,6 @@
           "occured_at": "2026-10-15T19:43:50Z",
           "title": "fix(docs) - resolve broken anchor links and heading slugs across chapters 4, 7, and 8",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/545",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "eshantharjun9-hub",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/235510433?v=4",
-      "role": "Contributor",
-      "total_points": 10,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-04",
-          "count": 6,
-          "points": 10
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-04T11:47:49Z",
-          "title": "fix - handle malformed Custom Theme localStorage data",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1368",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-04T10:18:22Z",
-          "title": "fix - prevent simulator crash from malformed custom theme data",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7974",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-04T11:15:37Z",
-          "title": "🐞 Bug - Simulator fails to load with malformed Custom Theme localStorage data",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1367",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-04T10:05:00Z",
-          "title": "🐞 Bug - Simulator crashes when Custom Theme localStorage contains invalid JSON",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7973",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-04T11:15:39Z",
-          "title": "Labeled issue #1367 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1367",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-04T10:05:02Z",
-          "title": "Labeled issue #7973 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7973",
           "points": 2
         }
       ]

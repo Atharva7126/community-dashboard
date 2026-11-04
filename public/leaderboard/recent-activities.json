@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793679464080,
+  "updatedAt": 1793763396003,
   "groups": [
     [
       "2026-11-01",
@@ -252,138 +252,29 @@
       ]
     ],
     [
-      "2026-10-21",
+      "2026-11-03",
       [
         {
-          "username": "naman79820",
+          "username": "Me-Priyank",
           "name": null,
-          "title": "Review on PR #8073",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8073",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+          "title": "Review on PR #1491",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1491",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
           "points": 4
-        },
-        {
-          "username": "MYMISERABLEMIND17",
-          "name": null,
-          "title": "perf(api) - eliminate duplicate pagination counts and eager-load project associations (#8074)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8076",
-          "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
-          "points": 2
-        },
-        {
-          "username": "Jashan32",
-          "name": null,
-          "title": "fix - use POST request for project forking",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/680",
-          "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
-          "points": 2
-        },
-        {
-          "username": "Arnam-arch",
-          "name": null,
-          "title": "refactor - migrate verilogHelpers.js to TypeScript",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1467",
-          "avatar_url": "https://avatars.githubusercontent.com/u/223543360?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-11-02",
-      [
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #1493 - Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "magic-peach",
-          "name": null,
-          "title": "docs - Akanksha Trehun GSoC 2026 final report",
-          "link": "https://github.com/CircuitVerse/Blog/pull/280",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-          "points": 2
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "docs - make the structured format final report beginner friendly",
-          "link": "https://github.com/CircuitVerse/Blog/pull/279",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 5
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "perf(v1) - guard clockTick on static circuits without clock elements",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1496",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Perf/timing diagram idle polling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1494",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 5
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "perf - avoid unnecessary clock polling when circuits contain no Clock components",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1495",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 1
-        },
-        {
-          "username": "Saniya-r-Shaikh",
-          "name": null,
-          "title": "fix(ui) - allow clearing circuit name field and apply \"Untitled\" fallback on blur",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1500",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
-          "points": 2
-        },
-        {
-          "username": "Saniya-r-Shaikh",
-          "name": null,
-          "title": "🐞 Bug - Circuit name resets to \"Untitled\" on every keystroke, so the field cannot be cleared",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1499",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
-          "points": 1
-        },
-        {
-          "username": "Saniya-r-Shaikh",
-          "name": null,
-          "title": "Labeled issue #1499 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1499",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
-          "points": 2
-        },
-        {
-          "username": "Saniya-r-Shaikh",
-          "name": null,
-          "title": "Labeled issue #1499 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1499",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
-          "points": 2
-        },
-        {
-          "username": "motalib6",
-          "name": null,
-          "title": "Bug - Deleting a circuit tab that is used as a SubCircuit breaks the parent circuit with \"Not found\" - no warning before delete",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1497",
-          "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
-          "points": 1
         }
       ]
     ],
     [
       "2026-10-31",
       [
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "Review on PR #1392",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "points": 4
+        },
         {
           "username": "tachyons",
           "name": null,
@@ -407,14 +298,6 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1482",
           "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
           "points": 1
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Review on PR #1392",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
-          "points": 4
         },
         {
           "username": "ShinichiShi",
@@ -462,91 +345,6 @@
           "title": "bug - removed extra popup after creating new project",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1491",
           "avatar_url": "https://avatars.githubusercontent.com/u/122273783?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-10-24",
-      [
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #8072 - 🐞 Bug bundler-audit CI check fails on master - css_parser 3.0.0 has 2 known CVEs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8072",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "fix - bump crass and view_component to resolve bundler-audit advisories",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8090",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "chore - remove will_paginate after pagy migration",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8087",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "fix - resolve css_parser vulnerabilities flagged by bundler-audit",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8073",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 5
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "🐞 Bug 🐞 Bug - bundler-audit CI check fails on master - crass 1.0.7 and view_component 4.12.0 have known advisories",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 1
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8088 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8088 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "Psykii22",
-          "name": null,
-          "title": "🐞 Bug - Element tooltip appears in bottom-right corner far away from Circuit Elements panel",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
-          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-          "points": 1
-        },
-        {
-          "username": "Psykii22",
-          "name": null,
-          "title": "Labeled issue #1473 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
-          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-          "points": 2
-        },
-        {
-          "username": "knowprasad",
-          "name": null,
-          "title": "fix(models) - move Grade.to_csv before private modifier (#8080)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8089",
-          "avatar_url": "https://avatars.githubusercontent.com/u/144908638?v=4",
           "points": 2
         }
       ]
@@ -648,6 +446,184 @@
           "title": "typecheck(v1) - type DOM and ref access in CustomShortcut dialog (#1417)",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1479",
           "avatar_url": "https://avatars.githubusercontent.com/u/169418292?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-11-02",
+      [
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #1493 - Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "magic-peach",
+          "name": null,
+          "title": "docs - Akanksha Trehun GSoC 2026 final report",
+          "link": "https://github.com/CircuitVerse/Blog/pull/280",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
+          "points": 2
+        },
+        {
+          "username": "Harkeerat24",
+          "name": null,
+          "title": "docs - make the structured format final report beginner friendly",
+          "link": "https://github.com/CircuitVerse/Blog/pull/279",
+          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 5
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "perf(v1) - guard clockTick on static circuits without clock elements",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1496",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "Perf/timing diagram idle polling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1494",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 5
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "perf - avoid unnecessary clock polling when circuits contain no Clock components",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1495",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 1
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "fix(ui) - allow clearing circuit name field and apply \"Untitled\" fallback on blur",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1500",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 2
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "🐞 Bug - Circuit name resets to \"Untitled\" on every keystroke, so the field cannot be cleared",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1499",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 1
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "Labeled issue #1499 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1499",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 2
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "Labeled issue #1499 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1499",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 2
+        },
+        {
+          "username": "motalib6",
+          "name": null,
+          "title": "Bug - Deleting a circuit tab that is used as a SubCircuit breaks the parent circuit with \"Not found\" - no warning before delete",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1497",
+          "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
+          "points": 1
+        }
+      ]
+    ],
+    [
+      "2026-10-24",
+      [
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #8072 - 🐞 Bug bundler-audit CI check fails on master - css_parser 3.0.0 has 2 known CVEs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8072",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "fix - bump crass and view_component to resolve bundler-audit advisories",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8090",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "chore - remove will_paginate after pagy migration",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8087",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "fix - resolve css_parser vulnerabilities flagged by bundler-audit",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8073",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 5
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "🐞 Bug 🐞 Bug - bundler-audit CI check fails on master - crass 1.0.7 and view_component 4.12.0 have known advisories",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 1
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "Labeled issue #8088 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "Labeled issue #8088 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "🐞 Bug - Element tooltip appears in bottom-right corner far away from Circuit Elements panel",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 1
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "Labeled issue #1473 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 2
+        },
+        {
+          "username": "knowprasad",
+          "name": null,
+          "title": "fix(models) - move Grade.to_csv before private modifier (#8080)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8089",
+          "avatar_url": "https://avatars.githubusercontent.com/u/144908638?v=4",
           "points": 2
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793850996610,
+  "updatedAt": 1793937274219,
   "groups": [
     [
       "2026-11-01",
@@ -42,6 +42,22 @@
           "title": "Closed issue #1420 - typecheck(v1) - one-line use-site fixes batch — subcircuit, utils, zoom, layout, hotkeys (7 errors)",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1420",
           "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 1
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "Perf/timing diagram idle polling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1494",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
           "points": 1
         },
         {
@@ -99,22 +115,6 @@
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8114",
           "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
           "points": 2
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Perf/timing diagram idle polling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1494",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 1
         },
         {
           "username": "tushaar-05",
@@ -316,6 +316,14 @@
           "points": 1
         },
         {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "perf - batch canvas grid dot drawing in TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1485",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 5
+        },
+        {
           "username": "aryan7071",
           "name": null,
           "title": "fix - bump Ruby to 4.0.9 in .tool-versions for ubuntu-26.04 CI runners (#8109)",
@@ -329,14 +337,6 @@
           "title": "fix - bump crass, view_component, sanitize and avo to resolve bundler-audit advisories",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8090",
           "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 5
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "perf - batch canvas grid dot drawing in TypeScript",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1485",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
           "points": 5
         },
         {
@@ -377,22 +377,6 @@
           "points": 2
         },
         {
-          "username": "aryan7071",
-          "name": null,
-          "title": "chore - remove unused CircuitElementsImageUploader (#7902)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8101",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "refactor(v1) - convert verilog arithmetic shims to TypeScript",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1438",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 5
-        },
-        {
           "username": "yashveer-1",
           "name": null,
           "title": "perf - avoid redundant canvas dimension assignments",
@@ -407,6 +391,22 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1475",
           "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
           "points": 1
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "chore - remove unused CircuitElementsImageUploader (#7902)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8101",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "refactor(v1) - convert verilog arithmetic shims to TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1438",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 5
         },
         {
           "username": "ManshaAgarwal716",
@@ -759,83 +759,6 @@
       ]
     ],
     [
-      "2026-10-23",
-      [
-        {
-          "username": "magic-peach",
-          "name": null,
-          "title": "feat(assignments) - copy the linked template circuit into each student project",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8084",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
-          "points": 2
-        },
-        {
-          "username": "ManyaJain111",
-          "name": null,
-          "title": "🐞 Bug - Verilog \"Save Code\" fails with 403 when logged in",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1472",
-          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
-          "points": 1
-        },
-        {
-          "username": "ManyaJain111",
-          "name": null,
-          "title": "Labeled issue #1472 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1472",
-          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
-          "points": 2
-        },
-        {
-          "username": "Jashan32",
-          "name": null,
-          "title": "fix - restore home button navigation in CV drawer",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/682",
-          "avatar_url": "https://avatars.githubusercontent.com/u/172306367?v=4",
-          "points": 2
-        },
-        {
-          "username": "Maaz2212",
-          "name": null,
-          "title": "fix - use dynamic alt text for user profile picture",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8083",
-          "avatar_url": "https://avatars.githubusercontent.com/u/188797552?v=4",
-          "points": 2
-        },
-        {
-          "username": "Maaz2212",
-          "name": null,
-          "title": "🐞 Bug - User profile picture uses hardcoded alt=\"project.name\" on public profile page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8082",
-          "avatar_url": "https://avatars.githubusercontent.com/u/188797552?v=4",
-          "points": 1
-        },
-        {
-          "username": "Maaz2212",
-          "name": null,
-          "title": "Labeled issue #8082 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8082",
-          "avatar_url": "https://avatars.githubusercontent.com/u/188797552?v=4",
-          "points": 2
-        },
-        {
-          "username": "Maaz2212",
-          "name": null,
-          "title": "Labeled issue #8082 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8082",
-          "avatar_url": "https://avatars.githubusercontent.com/u/188797552?v=4",
-          "points": 2
-        },
-        {
-          "username": "shantanu-chaudharyy",
-          "name": null,
-          "title": "Review on PR #1210",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1210",
-          "avatar_url": "https://avatars.githubusercontent.com/u/167026008?u=c482b46e7afc2159eb497dd309701cf92afbd1a2&v=4",
-          "points": 4
-        }
-      ]
-    ],
-    [
       "2026-10-30",
       [
         {
@@ -884,6 +807,75 @@
           "title": "Labeled issue #8109 - pending triage",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
           "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-11-05",
+      [
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "fix(simulator) - update outputs after ConstantVal double-click",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1512",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "🐞 Bug - ConstantVal double-click does not update connected outputs when Clock Enabled is off",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 1
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "Labeled issue #1511 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "Labeled issue #1511 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "refactor - read project previews from ActiveStorage with CarrierWave fallback (#7902)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8129",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "tirth-patel06",
+          "name": null,
+          "title": "feat(v1) - add Beautify Circuit using existing auto-layout pipeline",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1510",
+          "avatar_url": "https://avatars.githubusercontent.com/u/185243371?v=4",
+          "points": 2
+        },
+        {
+          "username": "Goblin-24",
+          "name": null,
+          "title": "fix - theme selection, preview rollback, and custom apply (#1504)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
+          "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
+          "points": 2
+        },
+        {
+          "username": "motalib6",
+          "name": null,
+          "title": "fix(v1) - align left/right labels in layout mode with subcircuit labels (#830)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1509",
+          "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
           "points": 2
         }
       ]
@@ -1030,19 +1022,6 @@
           "title": "fix - reject non-HTML simulator editor requests (#8118)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8123",
           "avatar_url": "https://avatars.githubusercontent.com/u/328323946?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-11-05",
-      [
-        {
-          "username": "motalib6",
-          "name": null,
-          "title": "fix(v1) - align left/right labels in layout mode with subcircuit labels (#830)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1509",
-          "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
           "points": 2
         }
       ]

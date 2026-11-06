@@ -1,8 +1,8 @@
 {
   "period": "month",
-  "updatedAt": 1793850996607,
-  "startDate": "2026-10-06",
-  "endDate": "2026-11-05",
+  "updatedAt": 1793937274212,
+  "startDate": "2026-10-07",
+  "endDate": "2026-11-06",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -460,11 +460,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
       "role": "Contributor",
-      "total_points": 69,
+      "total_points": 71,
       "activity_breakdown": {
         "PR opened": {
-          "count": 13,
-          "points": 26
+          "count": 14,
+          "points": 28
         },
         "Issue opened": {
           "count": 5,
@@ -480,6 +480,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-05",
+          "count": 1,
+          "points": 2
+        },
         {
           "date": "2026-11-01",
           "count": 7,
@@ -532,6 +537,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-05T16:59:04Z",
+          "title": "refactor - read project previews from ActiveStorage with CarrierWave fallback (#7902)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8129",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-11-01T17:57:45Z",
@@ -1229,6 +1241,227 @@
       ]
     },
     {
+      "username": "yashveer-1",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+      "role": "Contributor",
+      "total_points": 44,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 8,
+          "points": 16
+        },
+        "Issue opened": {
+          "count": 7,
+          "points": 7
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
+        },
+        "PR merged": {
+          "count": 3,
+          "points": 15
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-05",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2026-11-02",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2026-11-01",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-31",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-10-29",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-28",
+          "count": 3,
+          "points": 8
+        },
+        {
+          "date": "2026-10-27",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-18",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-12",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-05T08:59:52Z",
+          "title": "fix(simulator) - update outputs after ConstantVal double-click",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1512",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-05T06:56:19Z",
+          "title": "🐞 Bug - ConstantVal double-click does not update connected outputs when Clock Enabled is off",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-05T06:56:20Z",
+          "title": "Labeled issue #1511 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-05T06:56:21Z",
+          "title": "Labeled issue #1511 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-02T07:54:19Z",
+          "title": "perf(v1) - guard clockTick on static circuits without clock elements",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1496",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-02T05:11:18Z",
+          "title": "Perf/timing diagram idle polling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1494",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-02T07:35:31Z",
+          "title": "perf - avoid unnecessary clock polling when circuits contain no Clock components",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1495",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-01T10:56:22Z",
+          "title": "Perf/timing diagram idle polling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1494",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-01T09:56:25Z",
+          "title": "Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
+          "points": 1
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-31T10:14:14Z",
+          "title": "perf - batch canvas grid dot drawing in TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1485",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-29T11:54:08Z",
+          "title": "perf - batch canvas grid dot drawing in TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1485",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-28T13:52:44Z",
+          "title": "perf - batch canvas grid dot drawing",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1483",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-28T09:23:58Z",
+          "title": "perf - avoid redundant canvas dimension assignments",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1476",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-28T13:27:24Z",
+          "title": "Performance - Batch Canvas Grid Dot Drawing to Reduce Redundant Canvas Calls",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1482",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-27T06:29:22Z",
+          "title": "perf - avoid redundant canvas dimension assignments",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1476",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-27T06:20:04Z",
+          "title": "Performance - Avoid Redundant Canvas Resets in Timing Diagram",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1475",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-18T09:43:03Z",
+          "title": "perf - add viewport culling for wires",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1453",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-18T09:38:55Z",
+          "title": "Title - Improve wire rendering performance with viewport culling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1452",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-12T07:08:15Z",
+          "title": "perf - optimize circuit element rendering with viewport culling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1394",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-12T07:01:23Z",
+          "title": "Feature - Optimize circuit element rendering with viewport culling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1393",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-12T07:01:25Z",
+          "title": "Labeled issue #1393 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1393",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "magic-peach",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
@@ -1615,194 +1848,6 @@
           "title": "Closed issue #1366 - Bug - f/F key intercepted by fit-to-selection shortcut, preventing hex/text input in ROM, Text, and Keyboard components",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1366",
           "points": 1
-        }
-      ]
-    },
-    {
-      "username": "yashveer-1",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-      "role": "Contributor",
-      "total_points": 37,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 7,
-          "points": 14
-        },
-        "PR merged": {
-          "count": 3,
-          "points": 15
-        },
-        "Issue opened": {
-          "count": 6,
-          "points": 6
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-02",
-          "count": 3,
-          "points": 8
-        },
-        {
-          "date": "2026-11-01",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-31",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-10-29",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-28",
-          "count": 3,
-          "points": 8
-        },
-        {
-          "date": "2026-10-27",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-18",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-12",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-02T07:54:19Z",
-          "title": "perf(v1) - guard clockTick on static circuits without clock elements",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1496",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-11-02T05:11:18Z",
-          "title": "Perf/timing diagram idle polling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1494",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-02T07:35:31Z",
-          "title": "perf - avoid unnecessary clock polling when circuits contain no Clock components",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1495",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-01T10:56:22Z",
-          "title": "Perf/timing diagram idle polling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1494",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-01T09:56:25Z",
-          "title": "Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
-          "points": 1
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-31T10:14:14Z",
-          "title": "perf - batch canvas grid dot drawing in TypeScript",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1485",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-29T11:54:08Z",
-          "title": "perf - batch canvas grid dot drawing in TypeScript",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1485",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-28T13:52:44Z",
-          "title": "perf - batch canvas grid dot drawing",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1483",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-28T09:23:58Z",
-          "title": "perf - avoid redundant canvas dimension assignments",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1476",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-28T13:27:24Z",
-          "title": "Performance - Batch Canvas Grid Dot Drawing to Reduce Redundant Canvas Calls",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1482",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-27T06:29:22Z",
-          "title": "perf - avoid redundant canvas dimension assignments",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1476",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-27T06:20:04Z",
-          "title": "Performance - Avoid Redundant Canvas Resets in Timing Diagram",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1475",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-18T09:43:03Z",
-          "title": "perf - add viewport culling for wires",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1453",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-18T09:38:55Z",
-          "title": "Title - Improve wire rendering performance with viewport culling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1452",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-12T07:08:15Z",
-          "title": "perf - optimize circuit element rendering with viewport culling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1394",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-12T07:01:23Z",
-          "title": "Feature - Optimize circuit element rendering with viewport culling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1393",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T07:01:25Z",
-          "title": "Labeled issue #1393 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1393",
-          "points": 2
         }
       ]
     },
@@ -2456,108 +2501,6 @@
       ]
     },
     {
-      "username": "UwaisBaig",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
-      "role": "Contributor",
-      "total_points": 20,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 10,
-          "points": 20
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-25",
-          "count": 2,
-          "points": 4
-        },
-        {
-          "date": "2026-10-07",
-          "count": 3,
-          "points": 6
-        },
-        {
-          "date": "2026-10-06",
-          "count": 5,
-          "points": 10
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-25T20:02:56Z",
-          "title": "fix(groups) - authenticate user before loading and authorizing group member (#8017)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8096",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-25T19:57:24Z",
-          "title": "fix(api) - use params.expect for comment payload in CommentsController (#8018)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8095",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-07T20:47:04Z",
-          "title": "fix(simulator) - honor explicit delay=0 in EventQueue.add (#7802)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7999",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-07T20:43:39Z",
-          "title": "fix(simulator) - safe selection handling and operator precedence in copyToClipboard (#7874)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7998",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-07T20:23:20Z",
-          "title": "fix(simulator) - handle nil image data_url safely in SimulatorHelper (#7575)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7997",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-06T21:09:06Z",
-          "title": "fix(errors) - handle arbitrary formats via format.all in errors and application controller (#7565)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7992",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-06T21:06:43Z",
-          "title": "fix - sanitize null bytes and rescue ArgumentError across controllers (#7978, #7979)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7991",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-06T21:02:59Z",
-          "title": "fix - rescue ActiveRecord - - QueryCanceled in ApplicationController and tags (#7987)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7990",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-06T21:00:31Z",
-          "title": "fix(simulator) - handle non-HTML formats gracefully in embed action (#7986)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7989",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-06T20:51:34Z",
-          "title": "fix(api) - validate emails presence in GroupMembersController#create (#7852)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7988",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "Harkeerat24",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
@@ -3003,6 +2946,85 @@
       ]
     },
     {
+      "username": "tirth-patel06",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/185243371?v=4",
+      "role": "Contributor",
+      "total_points": 12,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-05",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-20",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-10-17",
+          "count": 1,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-05T05:28:17Z",
+          "title": "feat(v1) - add Beautify Circuit using existing auto-layout pipeline",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1510",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-20T09:43:25Z",
+          "title": "feat(simulator) - add interactive ELK.js circuit auto-layout and orthogonal wire routing",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1466",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-20T08:13:51Z",
+          "title": "Feature - Interactive \"Beautify Circuit\" (Auto-Layout) for Vue Simulator",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1465",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-20T08:13:53Z",
+          "title": "Labeled issue #1465 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1465",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-17T08:45:25Z",
+          "title": "fix - serve favicon by setting publicDir to root public/",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1210",
+          "points": 5
+        }
+      ]
+    },
+    {
       "username": "kushald121",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/188738420?v=4",
@@ -3348,69 +3370,146 @@
       ]
     },
     {
-      "username": "tirth-patel06",
+      "username": "Goblin-24",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/185243371?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
       "role": "Contributor",
-      "total_points": 10,
+      "total_points": 11,
       "activity_breakdown": {
         "PR opened": {
-          "count": 1,
-          "points": 2
+          "count": 3,
+          "points": 6
         },
         "Issue opened": {
           "count": 1,
           "points": 1
         },
         "Issue labeled": {
-          "count": 1,
-          "points": 2
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
+          "count": 2,
+          "points": 4
         }
       },
       "daily_activity": [
         {
-          "date": "2026-10-20",
-          "count": 3,
-          "points": 5
+          "date": "2026-11-05",
+          "count": 1,
+          "points": 2
         },
         {
-          "date": "2026-10-17",
+          "date": "2026-11-04",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2026-10-29",
           "count": 1,
-          "points": 5
+          "points": 2
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-10-20T09:43:25Z",
-          "title": "feat(simulator) - add interactive ELK.js circuit auto-layout and orthogonal wire routing",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1466",
+          "occured_at": "2026-11-05T10:43:39Z",
+          "title": "fix - theme selection, preview rollback, and custom apply (#1504)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-04T22:24:36Z",
+          "title": "fix - resolve themes dialog selection, rollback, and custom theme persistence (#1504)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1508",
           "points": 2
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-10-20T08:13:51Z",
-          "title": "Feature - Interactive \"Beautify Circuit\" (Auto-Layout) for Vue Simulator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1465",
+          "occured_at": "2026-11-04T07:08:09Z",
+          "title": "🐞 Bug - Themes dialog dot and Custom Theme apply behave incorrectly",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
           "points": 1
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-10-20T08:13:53Z",
-          "title": "Labeled issue #1465 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1465",
+          "occured_at": "2026-11-04T07:08:10Z",
+          "title": "Labeled issue #1504 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
           "points": 2
         },
         {
-          "type": "PR merged",
-          "occured_at": "2026-10-17T08:45:25Z",
-          "title": "fix - serve favicon by setting publicDir to root public/",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1210",
-          "points": 5
+          "type": "Issue labeled",
+          "occured_at": "2026-11-04T07:08:11Z",
+          "title": "Labeled issue #1504 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-29T21:15:07Z",
+          "title": "Enhancement - Interactive mouse resizing and constant highlight for Rectangle annotations",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1489",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "UwaisBaig",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 5,
+          "points": 10
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-25",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2026-10-07",
+          "count": 3,
+          "points": 6
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-25T20:02:56Z",
+          "title": "fix(groups) - authenticate user before loading and authorizing group member (#8017)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8096",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-25T19:57:24Z",
+          "title": "fix(api) - use params.expect for comment payload in CommentsController (#8018)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8095",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-07T20:47:04Z",
+          "title": "fix(simulator) - honor explicit delay=0 in EventQueue.add (#7802)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7999",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-07T20:43:39Z",
+          "title": "fix(simulator) - safe selection handling and operator precedence in copyToClipboard (#7874)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7998",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-07T20:23:20Z",
+          "title": "fix(simulator) - handle nil image data_url safely in SimulatorHelper (#7575)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7997",
+          "points": 2
         }
       ]
     },
@@ -3482,76 +3581,6 @@
       ]
     },
     {
-      "username": "Goblin-24",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
-      "role": "Contributor",
-      "total_points": 9,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-04",
-          "count": 4,
-          "points": 7
-        },
-        {
-          "date": "2026-10-29",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-04T22:24:36Z",
-          "title": "fix - resolve themes dialog selection, rollback, and custom theme persistence (#1504)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1508",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-04T07:08:09Z",
-          "title": "🐞 Bug - Themes dialog dot and Custom Theme apply behave incorrectly",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-04T07:08:10Z",
-          "title": "Labeled issue #1504 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-04T07:08:11Z",
-          "title": "Labeled issue #1504 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-29T21:15:07Z",
-          "title": "Enhancement - Interactive mouse resizing and constant highlight for Rectangle annotations",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1489",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "YashKumar-404",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
@@ -3612,61 +3641,6 @@
           "occured_at": "2026-10-10T16:39:57Z",
           "title": "fix - reuse one SES client across mail deliveries (#7994)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8004",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "iUjjwalRaj",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/173326668?v=4",
-      "role": "Contributor",
-      "total_points": 8,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-07",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-06",
-          "count": 3,
-          "points": 6
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-07T04:42:24Z",
-          "title": "fix(controllers) - authenticate user before action in CollaborationsController",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7993",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-06T08:12:44Z",
-          "title": "fix(grades) - ensure authorization is performed in destroy when grade is not found",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7985",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-06T05:55:45Z",
-          "title": "fix(notifications) - handle non-hash and missing params in notifications",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7984",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-06T05:43:45Z",
-          "title": "fix(api) - handle missing page parameter in search_projects",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7983",
           "points": 2
         }
       ]
@@ -4706,6 +4680,35 @@
       ]
     },
     {
+      "username": "iUjjwalRaj",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/173326668?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-07",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-07T04:42:24Z",
+          "title": "fix(controllers) - authenticate user before action in CollaborationsController",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7993",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "Nadiya-Shaikh",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/142484981?v=4",
@@ -5166,42 +5169,6 @@
           "title": "fix(simulator) - remove deleted nodes from their parent's nodeList",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1379",
           "points": 2
-        }
-      ]
-    },
-    {
-      "username": "shivam-saini18",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/239511134?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-06",
-          "count": 2,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-06T06:57:01Z",
-          "title": "# FEATURE Add Pull Request Reviews to Leaderboard Scoring",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/281",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-06T06:55:37Z",
-          "title": "# ENHANCEMENT Add label triaging activity to leaderboard scoring",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/280",
-          "points": 1
         }
       ]
     },

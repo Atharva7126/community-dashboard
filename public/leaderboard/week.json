@@ -1,158 +1,11 @@
 {
   "period": "week",
-  "updatedAt": 1793937274208,
-  "startDate": "2026-10-30",
-  "endDate": "2026-11-06",
+  "updatedAt": 1794022142526,
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-07",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
-    {
-      "username": "aryan7071",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-      "role": "Contributor",
-      "total_points": 31,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        },
-        "Issue labeled": {
-          "count": 5,
-          "points": 10
-        },
-        "PR merged": {
-          "count": 2,
-          "points": 10
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-05",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-01",
-          "count": 7,
-          "points": 12
-        },
-        {
-          "date": "2026-10-31",
-          "count": 2,
-          "points": 10
-        },
-        {
-          "date": "2026-10-30",
-          "count": 4,
-          "points": 7
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-05T16:59:04Z",
-          "title": "refactor - read project previews from ActiveStorage with CarrierWave fallback (#7902)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8129",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-01T17:57:45Z",
-          "title": "fix - bump rack and addressable to resolve bundler-audit advisories (#8116)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8117",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-01T17:27:57Z",
-          "title": "fix - install libjitterentropy3-dev so rugged builds on ubuntu-26.04 CI (#8114)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8115",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-01T17:46:48Z",
-          "title": "🐞 BugCI lint fails on bundler-audit - new advisories for rack 3.2.6 and addressable 2.9.0",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-01T17:14:35Z",
-          "title": "🐞 Bug - CI bundle install fails on ubuntu-26.04 - rugged can't link (missing libjitterentropy)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8114",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-01T17:46:49Z",
-          "title": "Labeled issue #8116 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-01T17:46:50Z",
-          "title": "Labeled issue #8116 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-01T17:14:37Z",
-          "title": "Labeled issue #8114 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8114",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-31T03:10:19Z",
-          "title": "fix - bump Ruby to 4.0.9 in .tool-versions for ubuntu-26.04 CI runners (#8109)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8110",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-31T03:10:41Z",
-          "title": "fix - bump crass, view_component, sanitize and avo to resolve bundler-audit advisories",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8090",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-30T19:04:47Z",
-          "title": "fix - bump Ruby to 4.0.9 in .tool-versions for ubuntu-26.04 CI runners (#8109)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8110",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-30T18:59:37Z",
-          "title": "🐞 Bug - Ruby on Rails CI and DBChecker fail on all PRs - Ruby 4.0.2 unavailable on ubuntu-26.04 runners",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-30T18:59:38Z",
-          "title": "Labeled issue #8109 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-30T18:59:39Z",
-          "title": "Labeled issue #8109 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
-          "points": 2
-        }
-      ]
-    },
     {
       "username": "yashveer-1",
       "name": null,
@@ -273,77 +126,93 @@
       ]
     },
     {
-      "username": "Harkeerat24",
+      "username": "aryan7071",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
       "role": "Contributor",
-      "total_points": 18,
+      "total_points": 14,
       "activity_breakdown": {
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "Review submitted": {
+        "PR opened": {
           "count": 3,
-          "points": 12
+          "points": 6
         },
-        "Issue closed": {
-          "count": 1,
-          "points": 1
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
         }
       },
       "daily_activity": [
         {
-          "date": "2026-11-02",
+          "date": "2026-11-05",
           "count": 1,
-          "points": 5
+          "points": 2
         },
         {
           "date": "2026-11-01",
-          "count": 2,
-          "points": 5
-        },
-        {
-          "date": "2026-10-30",
-          "count": 2,
-          "points": 8
+          "count": 7,
+          "points": 12
         }
       ],
       "activities": [
         {
-          "type": "PR merged",
-          "occured_at": "2026-11-02T04:23:53Z",
-          "title": "docs - make the structured format final report beginner friendly",
-          "link": "https://github.com/CircuitVerse/Blog/pull/279",
-          "points": 5
+          "type": "PR opened",
+          "occured_at": "2026-11-05T16:59:04Z",
+          "title": "refactor - read project previews from ActiveStorage with CarrierWave fallback (#7902)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8129",
+          "points": 2
         },
         {
-          "type": "Review submitted",
-          "occured_at": "2026-11-01T14:45:32Z",
-          "title": "Review on PR #1429",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1429",
-          "points": 4
+          "type": "PR opened",
+          "occured_at": "2026-11-01T17:57:45Z",
+          "title": "fix - bump rack and addressable to resolve bundler-audit advisories (#8116)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8117",
+          "points": 2
         },
         {
-          "type": "Issue closed",
-          "occured_at": "2026-11-01T20:22:39Z",
-          "title": "Closed issue #1420 - typecheck(v1) - one-line use-site fixes batch — subcircuit, utils, zoom, layout, hotkeys (7 errors)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1420",
+          "type": "PR opened",
+          "occured_at": "2026-11-01T17:27:57Z",
+          "title": "fix - install libjitterentropy3-dev so rugged builds on ubuntu-26.04 CI (#8114)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8115",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-01T17:46:48Z",
+          "title": "🐞 BugCI lint fails on bundler-audit - new advisories for rack 3.2.6 and addressable 2.9.0",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
           "points": 1
         },
         {
-          "type": "Review submitted",
-          "occured_at": "2026-10-30T18:33:51Z",
-          "title": "Review on PR #1466",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1466",
-          "points": 4
+          "type": "Issue opened",
+          "occured_at": "2026-11-01T17:14:35Z",
+          "title": "🐞 Bug - CI bundle install fails on ubuntu-26.04 - rugged can't link (missing libjitterentropy)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8114",
+          "points": 1
         },
         {
-          "type": "Review submitted",
-          "occured_at": "2026-10-30T19:26:20Z",
-          "title": "Review on PR #1429",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1429",
-          "points": 4
+          "type": "Issue labeled",
+          "occured_at": "2026-11-01T17:46:49Z",
+          "title": "Labeled issue #8116 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-01T17:46:50Z",
+          "title": "Labeled issue #8116 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-01T17:14:37Z",
+          "title": "Labeled issue #8114 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8114",
+          "points": 2
         }
       ]
     },
@@ -496,6 +365,62 @@
       ]
     },
     {
+      "username": "Harkeerat24",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Review submitted": {
+          "count": 1,
+          "points": 4
+        },
+        "Issue closed": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-02",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-11-01",
+          "count": 2,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-02T04:23:53Z",
+          "title": "docs - make the structured format final report beginner friendly",
+          "link": "https://github.com/CircuitVerse/Blog/pull/279",
+          "points": 5
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-11-01T14:45:32Z",
+          "title": "Review on PR #1429",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1429",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-11-01T20:22:39Z",
+          "title": "Closed issue #1420 - typecheck(v1) - one-line use-site fixes batch — subcircuit, utils, zoom, layout, hotkeys (7 errors)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1420",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "tushaar-05",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
@@ -528,6 +453,76 @@
           "title": "fix(ui) - add close/back buttons to truth table and center table layout (#1391)",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
           "points": 5
+        }
+      ]
+    },
+    {
+      "username": "Psykii22",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+      "role": "Contributor",
+      "total_points": 9,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-06",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2026-11-01",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-06T14:49:07Z",
+          "title": "fix - resolve Adder Verilog export syntax errors for disconnected pins and sync v1",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1516",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-06T08:24:47Z",
+          "title": "fix - resolve infinite recursion in SquareRGBLed.generateVerilog",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1515",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-06T07:28:52Z",
+          "title": "🐞 Bug - Infinite recursion in SquareRGBLed.generateVerilog() crashes Verilog export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-06T07:28:53Z",
+          "title": "Labeled issue #1514 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-01T06:53:56Z",
+          "title": "fix - move element tooltip from right to left side",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1492",
+          "points": 2
         }
       ]
     },
@@ -642,6 +637,62 @@
       ]
     },
     {
+      "username": "hanshu922",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-06",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-04",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-06T21:50:48Z",
+          "title": "Localize error pages and use root_path for homepage link (#8133)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8133",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-04T14:21:21Z",
+          "title": "🐞 Bug - Windows setup docs list Ruby 3.2.1 but the project requires Ruby >= 3.3",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8125",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-04T14:21:23Z",
+          "title": "Labeled issue #8125 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8125",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "naman79820",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
@@ -671,57 +722,38 @@
       ]
     },
     {
-      "username": "tachyons",
+      "username": "UwaisBaig",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-      "role": "Maintainer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
+      "role": "Contributor",
       "total_points": 4,
       "activity_breakdown": {
-        "Issue closed": {
-          "count": 4,
+        "PR opened": {
+          "count": 2,
           "points": 4
         }
       },
       "daily_activity": [
         {
-          "date": "2026-11-02",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2026-10-31",
-          "count": 3,
-          "points": 3
+          "date": "2026-11-06",
+          "count": 2,
+          "points": 4
         }
       ],
       "activities": [
         {
-          "type": "Issue closed",
-          "occured_at": "2026-11-02T05:11:21Z",
-          "title": "Closed issue #1493 - Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
-          "points": 1
+          "type": "PR opened",
+          "occured_at": "2026-11-06T16:59:49Z",
+          "title": "fix(seo) - use latest public project update date for user projects sitemap (#8071)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8132",
+          "points": 2
         },
         {
-          "type": "Issue closed",
-          "occured_at": "2026-10-31T03:10:22Z",
-          "title": "Closed issue #8109 - 🐞 Bug - Ruby on Rails CI and DBChecker fail on all PRs - Ruby 4.0.2 unavailable on ubuntu-26.04 runners",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-10-31T03:10:43Z",
-          "title": "Closed issue #8088 - 🐞 Bug 🐞 Bug - bundler-audit CI check fails on master - crass 1.0.7 and view_component 4.12.0 have known advisories",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-10-31T10:14:16Z",
-          "title": "Closed issue #1482 - Performance - Batch Canvas Grid Dot Drawing to Reduce Redundant Canvas Calls",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1482",
-          "points": 1
+          "type": "PR opened",
+          "occured_at": "2026-11-06T16:26:01Z",
+          "title": "fix(groups) - normalize email whitespace and case when inviting members (#8013)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8131",
+          "points": 2
         }
       ]
     },
@@ -800,42 +832,43 @@
       ]
     },
     {
-      "username": "hanshu922",
+      "username": "tachyons",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
-      "role": "Contributor",
-      "total_points": 3,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+      "role": "Maintainer",
+      "total_points": 2,
       "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
+        "Issue closed": {
+          "count": 2,
           "points": 2
         }
       },
       "daily_activity": [
         {
-          "date": "2026-11-04",
-          "count": 2,
-          "points": 3
+          "date": "2026-11-02",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2026-10-31",
+          "count": 1,
+          "points": 1
         }
       ],
       "activities": [
         {
-          "type": "Issue opened",
-          "occured_at": "2026-11-04T14:21:21Z",
-          "title": "🐞 Bug - Windows setup docs list Ruby 3.2.1 but the project requires Ruby >= 3.3",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8125",
+          "type": "Issue closed",
+          "occured_at": "2026-11-02T05:11:21Z",
+          "title": "Closed issue #1493 - Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
           "points": 1
         },
         {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-04T14:21:23Z",
-          "title": "Labeled issue #8125 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8125",
-          "points": 2
+          "type": "Issue closed",
+          "occured_at": "2026-10-31T10:14:16Z",
+          "title": "Closed issue #1482 - Performance - Batch Canvas Grid Dot Drawing to Reduce Redundant Canvas Calls",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1482",
+          "points": 1
         }
       ]
     },
@@ -922,35 +955,6 @@
           "occured_at": "2026-11-05T05:28:17Z",
           "title": "feat(v1) - add Beautify Circuit using existing auto-layout pipeline",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1510",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Psykii22",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-01",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-01T06:53:56Z",
-          "title": "fix - move element tooltip from right to left side",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1492",
           "points": 2
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793937274219,
+  "updatedAt": 1794022142533,
   "groups": [
     [
       "2026-11-01",
@@ -544,91 +544,6 @@
       ]
     ],
     [
-      "2026-10-24",
-      [
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #8072 - 🐞 Bug bundler-audit CI check fails on master - css_parser 3.0.0 has 2 known CVEs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8072",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "fix - bump crass and view_component to resolve bundler-audit advisories",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8090",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "chore - remove will_paginate after pagy migration",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8087",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "fix - resolve css_parser vulnerabilities flagged by bundler-audit",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8073",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 5
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "🐞 Bug 🐞 Bug - bundler-audit CI check fails on master - crass 1.0.7 and view_component 4.12.0 have known advisories",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 1
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8088 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8088 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "Psykii22",
-          "name": null,
-          "title": "🐞 Bug - Element tooltip appears in bottom-right corner far away from Circuit Elements panel",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
-          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-          "points": 1
-        },
-        {
-          "username": "Psykii22",
-          "name": null,
-          "title": "Labeled issue #1473 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
-          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-          "points": 2
-        },
-        {
-          "username": "knowprasad",
-          "name": null,
-          "title": "fix(models) - move Grade.to_csv before private modifier (#8080)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8089",
-          "avatar_url": "https://avatars.githubusercontent.com/u/144908638?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
       "2026-10-29",
       [
         {
@@ -913,6 +828,67 @@
           "title": "Labeled issue #1474 - pending triage",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
           "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-11-06",
+      [
+        {
+          "username": "UwaisBaig",
+          "name": null,
+          "title": "fix(seo) - use latest public project update date for user projects sitemap (#8071)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8132",
+          "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
+          "points": 2
+        },
+        {
+          "username": "UwaisBaig",
+          "name": null,
+          "title": "fix(groups) - normalize email whitespace and case when inviting members (#8013)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8131",
+          "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
+          "points": 2
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "fix - resolve Adder Verilog export syntax errors for disconnected pins and sync v1",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1516",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 2
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "fix - resolve infinite recursion in SquareRGBLed.generateVerilog",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1515",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 2
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "🐞 Bug - Infinite recursion in SquareRGBLed.generateVerilog() crashes Verilog export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 1
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "Labeled issue #1514 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 2
+        },
+        {
+          "username": "hanshu922",
+          "name": null,
+          "title": "Localize error pages and use root_path for homepage link (#8133)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8133",
+          "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
           "points": 2
         }
       ]

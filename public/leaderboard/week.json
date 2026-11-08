@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1794022142526,
-  "startDate": "2026-10-31",
-  "endDate": "2026-11-07",
+  "updatedAt": 1794106655570,
+  "startDate": "2026-11-01",
+  "endDate": "2026-11-08",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,7 +11,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
       "role": "Contributor",
-      "total_points": 23,
+      "total_points": 18,
       "activity_breakdown": {
         "PR opened": {
           "count": 3,
@@ -26,8 +26,8 @@
           "points": 4
         },
         "PR merged": {
-          "count": 2,
-          "points": 10
+          "count": 1,
+          "points": 5
         }
       },
       "daily_activity": [
@@ -45,11 +45,6 @@
           "date": "2026-11-01",
           "count": 2,
           "points": 3
-        },
-        {
-          "date": "2026-10-31",
-          "count": 1,
-          "points": 5
         }
       ],
       "activities": [
@@ -115,13 +110,116 @@
           "title": "Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "Psykii22",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+      "role": "Contributor",
+      "total_points": 17,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        },
+        "Issue opened": {
+          "count": 3,
+          "points": 3
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-07",
+          "count": 5,
+          "points": 8
         },
         {
-          "type": "PR merged",
-          "occured_at": "2026-10-31T10:14:14Z",
-          "title": "perf - batch canvas grid dot drawing in TypeScript",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1485",
-          "points": 5
+          "date": "2026-11-06",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2026-11-01",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T08:01:13Z",
+          "title": "perf - remove redundant O(N²) outer loop in Splitter.processVerilog",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1519",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-07T07:05:07Z",
+          "title": "🐞 Bug - Redundant O(N²) outer loop in Splitter.processVerilog() re-executes bit slicing N times",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1518",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-07T06:54:32Z",
+          "title": "🐞 Bug - Adder Verilog export produces syntax errors when only one output is connected & drops Cout in v1",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1517",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-07T06:54:33Z",
+          "title": "Labeled issue #1517 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1517",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-07T07:05:09Z",
+          "title": "Labeled issue #1518 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1518",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-06T14:49:07Z",
+          "title": "fix - resolve Adder Verilog export syntax errors for disconnected pins and sync v1",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1516",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-06T08:24:47Z",
+          "title": "fix - resolve infinite recursion in SquareRGBLed.generateVerilog",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1515",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-06T07:28:52Z",
+          "title": "🐞 Bug - Infinite recursion in SquareRGBLed.generateVerilog() crashes Verilog export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-06T07:28:53Z",
+          "title": "Labeled issue #1514 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-01T06:53:56Z",
+          "title": "fix - move element tooltip from right to left side",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1492",
+          "points": 2
         }
       ]
     },
@@ -217,66 +315,86 @@
       ]
     },
     {
-      "username": "Me-Priyank",
+      "username": "ManyaJain111",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
       "role": "Contributor",
-      "total_points": 13,
+      "total_points": 12,
       "activity_breakdown": {
-        "Review submitted": {
+        "PR opened": {
           "count": 3,
-          "points": 12
+          "points": 6
         },
-        "Issue closed": {
-          "count": 1,
-          "points": 1
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
         }
       },
       "daily_activity": [
         {
-          "date": "2026-11-03",
-          "count": 1,
-          "points": 4
+          "date": "2026-11-07",
+          "count": 6,
+          "points": 10
         },
         {
-          "date": "2026-11-01",
-          "count": 2,
-          "points": 5
-        },
-        {
-          "date": "2026-10-31",
+          "date": "2026-11-04",
           "count": 1,
-          "points": 4
+          "points": 2
         }
       ],
       "activities": [
         {
-          "type": "Review submitted",
-          "occured_at": "2026-11-03T06:24:20Z",
-          "title": "Review on PR #1491",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1491",
-          "points": 4
+          "type": "PR opened",
+          "occured_at": "2026-11-07T15:40:43Z",
+          "title": "fix - send CSRF and auth headers with Verilog compile request",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1524",
+          "points": 2
         },
         {
-          "type": "Review submitted",
-          "occured_at": "2026-11-01T07:23:09Z",
-          "title": "Review on PR #1392",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
-          "points": 4
+          "type": "PR opened",
+          "occured_at": "2026-11-07T09:36:09Z",
+          "title": "fix - login token ignores \"Remember me\" setting",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8137",
+          "points": 2
         },
         {
-          "type": "Issue closed",
-          "occured_at": "2026-11-01T07:25:12Z",
-          "title": "Closed issue #1391 - 🐞 Bug - Combinational Analysis Truth Table lacks Close/Cancel button (trapping user in modal) and table is uncentered",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1391",
+          "type": "Issue opened",
+          "occured_at": "2026-11-07T11:59:00Z",
+          "title": "🐞 Bug - New users can still sign up with Google/GitHub when registration is blocked",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8139",
           "points": 1
         },
         {
-          "type": "Review submitted",
-          "occured_at": "2026-10-31T14:24:14Z",
-          "title": "Review on PR #1392",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
-          "points": 4
+          "type": "Issue opened",
+          "occured_at": "2026-11-07T07:46:04Z",
+          "title": "🐞 Bug - Unticking \"Remember me\" still gives a 2-week token",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8135",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-07T11:59:01Z",
+          "title": "Labeled issue #8139 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8139",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-07T07:46:06Z",
+          "title": "Labeled issue #8135 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8135",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-04T20:30:07Z",
+          "title": "fix(contests) - point close/edit buttons at per-contest modals (#8057)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8127",
+          "points": 2
         }
       ]
     },
@@ -361,6 +479,84 @@
           "title": "Labeled issue #1499 - pending triage",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1499",
           "points": 2
+        }
+      ]
+    },
+    {
+      "username": "motalib6",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
+      "role": "Contributor",
+      "total_points": 11,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 5,
+          "points": 10
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-07",
+          "count": 4,
+          "points": 8
+        },
+        {
+          "date": "2026-11-05",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-02",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T12:26:31Z",
+          "title": "feat(v1) - add Pinia store for multi-file Verilog state (#1213)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1523",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T12:19:48Z",
+          "title": "fix(v1) - pin CircuitElement propagationDelay type via JSDoc (#1416)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1522",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T12:15:47Z",
+          "title": "fix(v1) - sanitize CSS selector characters in stripTags (#786)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1521",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T12:05:30Z",
+          "title": "fix(v0) - normalize theme colors to #rrggbb (#727)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1520",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-05T03:50:07Z",
+          "title": "fix(v1) - align left/right labels in layout mode with subcircuit labels (#830)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1509",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-02T12:28:36Z",
+          "title": "Bug - Deleting a circuit tab that is used as a SubCircuit breaks the parent circuit with \"Not found\" - no warning before delete",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1497",
+          "points": 1
         }
       ]
     },
@@ -457,72 +653,54 @@
       ]
     },
     {
-      "username": "Psykii22",
+      "username": "Me-Priyank",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
       "total_points": 9,
       "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
+        "Review submitted": {
+          "count": 2,
+          "points": 8
         },
-        "Issue opened": {
+        "Issue closed": {
           "count": 1,
           "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
         }
       },
       "daily_activity": [
         {
-          "date": "2026-11-06",
-          "count": 4,
-          "points": 7
+          "date": "2026-11-03",
+          "count": 1,
+          "points": 4
         },
         {
           "date": "2026-11-01",
-          "count": 1,
-          "points": 2
+          "count": 2,
+          "points": 5
         }
       ],
       "activities": [
         {
-          "type": "PR opened",
-          "occured_at": "2026-11-06T14:49:07Z",
-          "title": "fix - resolve Adder Verilog export syntax errors for disconnected pins and sync v1",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1516",
-          "points": 2
+          "type": "Review submitted",
+          "occured_at": "2026-11-03T06:24:20Z",
+          "title": "Review on PR #1491",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1491",
+          "points": 4
         },
         {
-          "type": "PR opened",
-          "occured_at": "2026-11-06T08:24:47Z",
-          "title": "fix - resolve infinite recursion in SquareRGBLed.generateVerilog",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1515",
-          "points": 2
+          "type": "Review submitted",
+          "occured_at": "2026-11-01T07:23:09Z",
+          "title": "Review on PR #1392",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
+          "points": 4
         },
         {
-          "type": "Issue opened",
-          "occured_at": "2026-11-06T07:28:52Z",
-          "title": "🐞 Bug - Infinite recursion in SquareRGBLed.generateVerilog() crashes Verilog export",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
+          "type": "Issue closed",
+          "occured_at": "2026-11-01T07:25:12Z",
+          "title": "Closed issue #1391 - 🐞 Bug - Combinational Analysis Truth Table lacks Close/Cancel button (trapping user in modal) and table is uncentered",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1391",
           "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-06T07:28:53Z",
-          "title": "Labeled issue #1514 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-01T06:53:56Z",
-          "title": "fix - move element tooltip from right to left side",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1492",
-          "points": 2
         }
       ]
     },
@@ -597,55 +775,15 @@
       ]
     },
     {
-      "username": "ShinichiShi",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?u=89d8c6cefb3b72abde02af74cfdd8c72222146aa&v=4",
-      "role": "Contributor",
-      "total_points": 5,
-      "activity_breakdown": {
-        "Review submitted": {
-          "count": 1,
-          "points": 4
-        },
-        "Issue closed": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-31",
-          "count": 2,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-10-31T12:08:23Z",
-          "title": "Review on PR #1392",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
-          "points": 4
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-10-31T12:16:05Z",
-          "title": "Closed issue #734 - 🐞 Bug - Output component displays 'X' (undefined) state even when connected to valid gate output",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/734",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "hanshu922",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
       "role": "Contributor",
-      "total_points": 5,
+      "total_points": 7,
       "activity_breakdown": {
         "PR opened": {
-          "count": 1,
-          "points": 2
+          "count": 2,
+          "points": 4
         },
         "Issue opened": {
           "count": 1,
@@ -658,6 +796,11 @@
       },
       "daily_activity": [
         {
+          "date": "2026-11-07",
+          "count": 1,
+          "points": 2
+        },
+        {
           "date": "2026-11-06",
           "count": 1,
           "points": 2
@@ -669,6 +812,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T10:55:04Z",
+          "title": "docs - update Windows setup guide to Ruby 3.3.5",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8138",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-11-06T21:50:48Z",
@@ -787,92 +937,6 @@
       ]
     },
     {
-      "username": "motalib6",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-05",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-02",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-05T03:50:07Z",
-          "title": "fix(v1) - align left/right labels in layout mode with subcircuit labels (#830)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1509",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-02T12:28:36Z",
-          "title": "Bug - Deleting a circuit tab that is used as a SubCircuit breaks the parent circuit with \"Not found\" - no warning before delete",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1497",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "tachyons",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-      "role": "Maintainer",
-      "total_points": 2,
-      "activity_breakdown": {
-        "Issue closed": {
-          "count": 2,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-02",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2026-10-31",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-11-02T05:11:21Z",
-          "title": "Closed issue #1493 - Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-10-31T10:14:16Z",
-          "title": "Closed issue #1482 - Performance - Batch Canvas Grid Dot Drawing to Reduce Redundant Canvas Calls",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1482",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "magic-peach",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
@@ -897,35 +961,6 @@
           "occured_at": "2026-11-02T12:26:38Z",
           "title": "docs - Akanksha Trehun GSoC 2026 final report",
           "link": "https://github.com/CircuitVerse/Blog/pull/280",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "ManyaJain111",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-04",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-04T20:30:07Z",
-          "title": "fix(contests) - point close/edit buttons at per-contest modals (#8057)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8127",
           "points": 2
         }
       ]
@@ -1047,31 +1082,31 @@
       ]
     },
     {
-      "username": "Anushreebasics",
+      "username": "tachyons",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/122273783?v=4",
-      "role": "Contributor",
-      "total_points": 2,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+      "role": "Maintainer",
+      "total_points": 1,
       "activity_breakdown": {
-        "PR opened": {
+        "Issue closed": {
           "count": 1,
-          "points": 2
+          "points": 1
         }
       },
       "daily_activity": [
         {
-          "date": "2026-10-31",
+          "date": "2026-11-02",
           "count": 1,
-          "points": 2
+          "points": 1
         }
       ],
       "activities": [
         {
-          "type": "PR opened",
-          "occured_at": "2026-10-31T13:05:15Z",
-          "title": "bug - removed extra popup after creating new project",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1491",
-          "points": 2
+          "type": "Issue closed",
+          "occured_at": "2026-11-02T05:11:21Z",
+          "title": "Closed issue #1493 - Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
+          "points": 1
         }
       ]
     }

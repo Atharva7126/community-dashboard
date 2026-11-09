@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1794106655554,
-  "lastFetchedAt": 1794106655554,
-  "startDate": "2025-11-08",
-  "endDate": "2026-11-08",
+  "updatedAt": 1794194304672,
+  "lastFetchedAt": 1794194304672,
+  "startDate": "2025-11-09",
+  "endDate": "2026-11-09",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -47802,6 +47802,218 @@
       ]
     },
     {
+      "username": "Psykii22",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+      "role": "Contributor",
+      "total_points": 35,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 6,
+          "points": 12
+        },
+        "Issue opened": {
+          "count": 7,
+          "points": 7
+        },
+        "Issue labeled": {
+          "count": 8,
+          "points": 16
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-08",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-11-07",
+          "count": 5,
+          "points": 8
+        },
+        {
+          "date": "2026-11-06",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2026-11-01",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-29",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-26",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-10-24",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-10-17",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-08T09:34:29Z",
+          "title": "feat - add Verilog export support for arithmetic modules",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1527",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-08T06:44:45Z",
+          "title": "Feature - Add Verilog export support for arithmetic modules (verilogMultiplier, verilogDivider, verilogPower, verilogShiftLeft, verilogShiftRight)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1526",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-08T06:44:47Z",
+          "title": "Labeled issue #1526 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1526",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T08:01:13Z",
+          "title": "perf - remove redundant O(N²) outer loop in Splitter.processVerilog",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1519",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-07T07:05:07Z",
+          "title": "🐞 Bug - Redundant O(N²) outer loop in Splitter.processVerilog() re-executes bit slicing N times",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1518",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-07T06:54:32Z",
+          "title": "🐞 Bug - Adder Verilog export produces syntax errors when only one output is connected & drops Cout in v1",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1517",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-07T06:54:33Z",
+          "title": "Labeled issue #1517 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1517",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-07T07:05:09Z",
+          "title": "Labeled issue #1518 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1518",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-06T14:49:07Z",
+          "title": "fix - resolve Adder Verilog export syntax errors for disconnected pins and sync v1",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1516",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-06T08:24:47Z",
+          "title": "fix - resolve infinite recursion in SquareRGBLed.generateVerilog",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1515",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-06T07:28:52Z",
+          "title": "🐞 Bug - Infinite recursion in SquareRGBLed.generateVerilog() crashes Verilog export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-06T07:28:53Z",
+          "title": "Labeled issue #1514 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-01T06:53:56Z",
+          "title": "fix - move element tooltip from right to left side",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1492",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-29T17:44:23Z",
+          "title": "feat - add undo/redo and back button to combinational analysis",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1487",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-26T17:22:10Z",
+          "title": "Feature - add Undo/Redo history and Back button navigation to Combinational Analysis dialog and close button when table is made",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-26T17:22:11Z",
+          "title": "Labeled issue #1474 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-26T17:22:12Z",
+          "title": "Labeled issue #1474 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-24T07:40:13Z",
+          "title": "🐞 Bug - Element tooltip appears in bottom-right corner far away from Circuit Elements panel",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-24T07:40:14Z",
+          "title": "Labeled issue #1473 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-17T17:36:48Z",
+          "title": "🐞 Bug - Changing the tool tip location from the bottom right corner to the left bottom corner",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-17T17:36:50Z",
+          "title": "Labeled issue #8047 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "Saurabhyadav0",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/134767123?v=4",
@@ -49827,192 +50039,6 @@
           "title": "Signup social auth text update",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6539",
           "points": 1
-        }
-      ]
-    },
-    {
-      "username": "Psykii22",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-      "role": "Contributor",
-      "total_points": 30,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 5,
-          "points": 10
-        },
-        "Issue opened": {
-          "count": 6,
-          "points": 6
-        },
-        "Issue labeled": {
-          "count": 7,
-          "points": 14
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-07",
-          "count": 5,
-          "points": 8
-        },
-        {
-          "date": "2026-11-06",
-          "count": 4,
-          "points": 7
-        },
-        {
-          "date": "2026-11-01",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-29",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-26",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-10-24",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-10-17",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-07T08:01:13Z",
-          "title": "perf - remove redundant O(N²) outer loop in Splitter.processVerilog",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1519",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-07T07:05:07Z",
-          "title": "🐞 Bug - Redundant O(N²) outer loop in Splitter.processVerilog() re-executes bit slicing N times",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1518",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-07T06:54:32Z",
-          "title": "🐞 Bug - Adder Verilog export produces syntax errors when only one output is connected & drops Cout in v1",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1517",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-07T06:54:33Z",
-          "title": "Labeled issue #1517 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1517",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-07T07:05:09Z",
-          "title": "Labeled issue #1518 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1518",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-06T14:49:07Z",
-          "title": "fix - resolve Adder Verilog export syntax errors for disconnected pins and sync v1",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1516",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-06T08:24:47Z",
-          "title": "fix - resolve infinite recursion in SquareRGBLed.generateVerilog",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1515",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-06T07:28:52Z",
-          "title": "🐞 Bug - Infinite recursion in SquareRGBLed.generateVerilog() crashes Verilog export",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-06T07:28:53Z",
-          "title": "Labeled issue #1514 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-01T06:53:56Z",
-          "title": "fix - move element tooltip from right to left side",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1492",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-29T17:44:23Z",
-          "title": "feat - add undo/redo and back button to combinational analysis",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1487",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-26T17:22:10Z",
-          "title": "Feature - add Undo/Redo history and Back button navigation to Combinational Analysis dialog and close button when table is made",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-26T17:22:11Z",
-          "title": "Labeled issue #1474 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-26T17:22:12Z",
-          "title": "Labeled issue #1474 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-24T07:40:13Z",
-          "title": "🐞 Bug - Element tooltip appears in bottom-right corner far away from Circuit Elements panel",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-24T07:40:14Z",
-          "title": "Labeled issue #1473 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-17T17:36:48Z",
-          "title": "🐞 Bug - Changing the tool tip location from the bottom right corner to the left bottom corner",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-17T17:36:50Z",
-          "title": "Labeled issue #8047 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8047",
-          "points": 2
         }
       ]
     },
@@ -56567,6 +56593,96 @@
       ]
     },
     {
+      "username": "motalib6",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
+      "role": "Contributor",
+      "total_points": 13,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 6,
+          "points": 12
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-08",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-07",
+          "count": 4,
+          "points": 8
+        },
+        {
+          "date": "2026-11-05",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-02",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-08T14:46:22Z",
+          "title": "feat - add central logging system with leveled logs (#630)",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/683",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T12:26:31Z",
+          "title": "feat(v1) - add Pinia store for multi-file Verilog state (#1213)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1523",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T12:19:48Z",
+          "title": "fix(v1) - pin CircuitElement propagationDelay type via JSDoc (#1416)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1522",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T12:15:47Z",
+          "title": "fix(v1) - sanitize CSS selector characters in stripTags (#786)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1521",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T12:05:30Z",
+          "title": "fix(v0) - normalize theme colors to #rrggbb (#727)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1520",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-05T03:50:07Z",
+          "title": "fix(v1) - align left/right labels in layout mode with subcircuit labels (#830)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1509",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-02T12:28:36Z",
+          "title": "Bug - Deleting a circuit tab that is used as a SubCircuit breaks the parent circuit with \"Not found\" - no warning before delete",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1497",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "durgeshbg",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/84910181?v=4",
@@ -57964,84 +58080,6 @@
           "title": "Add undo/redo buttons to simulator",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/5630",
           "points": 2
-        }
-      ]
-    },
-    {
-      "username": "motalib6",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
-      "role": "Contributor",
-      "total_points": 11,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 5,
-          "points": 10
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-07",
-          "count": 4,
-          "points": 8
-        },
-        {
-          "date": "2026-11-05",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-02",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-07T12:26:31Z",
-          "title": "feat(v1) - add Pinia store for multi-file Verilog state (#1213)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1523",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-07T12:19:48Z",
-          "title": "fix(v1) - pin CircuitElement propagationDelay type via JSDoc (#1416)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1522",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-07T12:15:47Z",
-          "title": "fix(v1) - sanitize CSS selector characters in stripTags (#786)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1521",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-07T12:05:30Z",
-          "title": "fix(v0) - normalize theme colors to #rrggbb (#727)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1520",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-05T03:50:07Z",
-          "title": "fix(v1) - align left/right labels in layout mode with subcircuit labels (#830)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1509",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-02T12:28:36Z",
-          "title": "Bug - Deleting a circuit tab that is used as a SubCircuit breaks the parent circuit with \"Not found\" - no warning before delete",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1497",
-          "points": 1
         }
       ]
     },
@@ -68145,6 +68183,64 @@
           "title": "Feature Improve Login Page UI and Password Visibility Toggle",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/5387",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "pitaya7",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/161907894?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-08",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-08T05:37:19Z",
+          "title": "docs - update ruby version in linux setup docs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8140",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "yash2006kr",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/148343851?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-08",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-08T04:26:25Z",
+          "title": "fix - ignore invalid clipboard data on paste (#1486)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1525",
+          "points": 2
         }
       ]
     },

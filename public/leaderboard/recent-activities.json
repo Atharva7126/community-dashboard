@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794106655579,
+  "updatedAt": 1794194304693,
   "groups": [
     [
       "2026-11-01",
@@ -743,43 +743,6 @@
       ]
     ],
     [
-      "2026-10-26",
-      [
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "refactor - migrate pagination from will_paginate to pagy (#7902)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8098",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "Psykii22",
-          "name": null,
-          "title": "Feature - add Undo/Redo history and Back button navigation to Combinational Analysis dialog and close button when table is made",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
-          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-          "points": 1
-        },
-        {
-          "username": "Psykii22",
-          "name": null,
-          "title": "Labeled issue #1474 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
-          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-          "points": 2
-        },
-        {
-          "username": "Psykii22",
-          "name": null,
-          "title": "Labeled issue #1474 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
-          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
       "2026-11-06",
       [
         {
@@ -1078,6 +1041,59 @@
           "title": "fix - reject non-HTML simulator editor requests (#8118)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8123",
           "avatar_url": "https://avatars.githubusercontent.com/u/328323946?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-11-08",
+      [
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "feat - add Verilog export support for arithmetic modules",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1527",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 2
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "Feature - Add Verilog export support for arithmetic modules (verilogMultiplier, verilogDivider, verilogPower, verilogShiftLeft, verilogShiftRight)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1526",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 1
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "Labeled issue #1526 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1526",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 2
+        },
+        {
+          "username": "motalib6",
+          "name": null,
+          "title": "feat - add central logging system with leveled logs (#630)",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/683",
+          "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
+          "points": 2
+        },
+        {
+          "username": "pitaya7",
+          "name": null,
+          "title": "docs - update ruby version in linux setup docs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8140",
+          "avatar_url": "https://avatars.githubusercontent.com/u/161907894?v=4",
+          "points": 2
+        },
+        {
+          "username": "yash2006kr",
+          "name": null,
+          "title": "fix - ignore invalid clipboard data on paste (#1486)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1525",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148343851?v=4",
           "points": 2
         }
       ]

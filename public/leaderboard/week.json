@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1794286650867,
-  "startDate": "2026-11-03",
-  "endDate": "2026-11-10",
+  "updatedAt": 1794367636790,
+  "startDate": "2026-11-04",
+  "endDate": "2026-11-11",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -126,6 +126,105 @@
           "occured_at": "2026-11-06T07:28:53Z",
           "title": "Labeled issue #1514 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "hanshu922",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
+      "role": "Contributor",
+      "total_points": 13,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 5,
+          "points": 10
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-10",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2026-11-09",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-07",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-06",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-04",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-10T17:23:11Z",
+          "title": "fix - prevent duplicate push subscriptions and prune expired endpoints (#8016)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8151",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-10T12:37:53Z",
+          "title": "fix(testbench) - add validateBinding to avoid TypeError on missing lab… (#8014)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8149",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-09T17:01:07Z",
+          "title": "Fix - LTI grade passback score for letter and custom grading scales (#8144)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8144",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T10:55:04Z",
+          "title": "docs - update Windows setup guide to Ruby 3.3.5",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8138",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-06T21:50:48Z",
+          "title": "Localize error pages and use root_path for homepage link (#8133)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8133",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-04T14:21:21Z",
+          "title": "🐞 Bug - Windows setup docs list Ruby 3.2.1 but the project requires Ruby >= 3.3",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8125",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-04T14:21:23Z",
+          "title": "Labeled issue #8125 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8125",
           "points": 2
         }
       ]
@@ -429,86 +528,6 @@
       ]
     },
     {
-      "username": "hanshu922",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
-      "role": "Contributor",
-      "total_points": 9,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-09",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-07",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-06",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-04",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-09T17:01:07Z",
-          "title": "Fix - LTI grade passback score for letter and custom grading scales (#8144)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8144",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-07T10:55:04Z",
-          "title": "docs - update Windows setup guide to Ruby 3.3.5",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8138",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-06T21:50:48Z",
-          "title": "Localize error pages and use root_path for homepage link (#8133)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8133",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-04T14:21:21Z",
-          "title": "🐞 Bug - Windows setup docs list Ruby 3.2.1 but the project requires Ruby >= 3.3",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8125",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-04T14:21:23Z",
-          "title": "Labeled issue #8125 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8125",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "yashveer-1",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
@@ -618,31 +637,53 @@
       ]
     },
     {
-      "username": "Me-Priyank",
+      "username": "Somilg11",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
       "role": "Contributor",
-      "total_points": 4,
+      "total_points": 5,
       "activity_breakdown": {
-        "Review submitted": {
+        "PR opened": {
           "count": 1,
-          "points": 4
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
         }
       },
       "daily_activity": [
         {
-          "date": "2026-11-03",
-          "count": 1,
-          "points": 4
+          "date": "2026-11-10",
+          "count": 3,
+          "points": 5
         }
       ],
       "activities": [
         {
-          "type": "Review submitted",
-          "occured_at": "2026-11-03T06:24:20Z",
-          "title": "Review on PR #1491",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1491",
-          "points": 4
+          "type": "PR opened",
+          "occured_at": "2026-11-10T13:17:51Z",
+          "title": "fix - preserve search sort when reselecting resource (#8148)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8150",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-10T12:37:49Z",
+          "title": "🐞 Bug - Reselecting the current search resource resets the selected sort order",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8148",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-10T12:37:51Z",
+          "title": "Labeled issue #8148 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8148",
+          "points": 2
         }
       ]
     },
@@ -712,6 +753,42 @@
       ]
     },
     {
+      "username": "Anurag-S1ngh",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/169547609?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-10",
+          "count": 2,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-10T22:20:16Z",
+          "title": "fix - snapshot reopened assignments when they close (#8037)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8158",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-10T22:07:04Z",
+          "title": "fix - handle relative launch_presentation_return_url (#7169)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8155",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "harikrishna-au",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/169121181?v=4",
@@ -765,6 +842,35 @@
           "occured_at": "2026-11-05T05:28:17Z",
           "title": "feat(v1) - add Beautify Circuit using existing auto-layout pipeline",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1510",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Harsh-DevOps117",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/217444297?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-10",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-10T23:35:07Z",
+          "title": "Allow deployment-specific Sidekiq Redis network timeouts",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8160",
           "points": 2
         }
       ]

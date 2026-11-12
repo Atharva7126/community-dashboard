@@ -1,8 +1,8 @@
 {
   "period": "month",
-  "updatedAt": 1794367636793,
-  "startDate": "2026-10-12",
-  "endDate": "2026-11-11",
+  "updatedAt": 1794458234451,
+  "startDate": "2026-10-13",
+  "endDate": "2026-11-12",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -1039,7 +1039,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
       "role": "Contributor",
-      "total_points": 44,
+      "total_points": 42,
       "activity_breakdown": {
         "PR opened": {
           "count": 8,
@@ -1050,8 +1050,8 @@
           "points": 7
         },
         "Issue labeled": {
-          "count": 3,
-          "points": 6
+          "count": 2,
+          "points": 4
         },
         "PR merged": {
           "count": 3,
@@ -1059,6 +1059,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-11",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-11-05",
           "count": 4,
@@ -1098,14 +1103,23 @@
           "date": "2026-10-18",
           "count": 2,
           "points": 3
-        },
-        {
-          "date": "2026-10-12",
-          "count": 3,
-          "points": 5
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-11T10:41:03Z",
+          "title": "perf - optimize group dragging for multiple selections",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1529",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-11T10:34:50Z",
+          "title": "Performance - Eliminate Redundant Drag Operations During Multi-Selection in Vue Simulator",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1528",
+          "points": 1
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-11-05T08:59:52Z",
@@ -1231,27 +1245,6 @@
           "title": "Title - Improve wire rendering performance with viewport culling",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1452",
           "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-12T07:08:15Z",
-          "title": "perf - optimize circuit element rendering with viewport culling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1394",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-12T07:01:23Z",
-          "title": "Feature - Optimize circuit element rendering with viewport culling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1393",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T07:01:25Z",
-          "title": "Labeled issue #1393 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1393",
-          "points": 2
         }
       ]
     },
@@ -2073,200 +2066,6 @@
       ]
     },
     {
-      "username": "Saurabhyadav0",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/134767123?v=4",
-      "role": "Contributor",
-      "total_points": 35,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 9,
-          "points": 9
-        },
-        "Issue labeled": {
-          "count": 12,
-          "points": 24
-        },
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-14",
-          "count": 7,
-          "points": 11
-        },
-        {
-          "date": "2026-10-13",
-          "count": 10,
-          "points": 16
-        },
-        {
-          "date": "2026-10-12",
-          "count": 5,
-          "points": 8
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-14T10:37:11Z",
-          "title": "🐞 Bug - Saving a circuit with an empty project name reports \"success\" but silently drops the name",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8028",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-14T10:04:34Z",
-          "title": "🐞 Bug - Error pages (404/422/500) are hardcoded in English and link to production instead of the local site",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8027",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-14T05:33:39Z",
-          "title": "🐞 Bug - Comments API lets you POST a comment but returns 403 on GET (Limited-access viewers and collaborators)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8025",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-14T10:37:13Z",
-          "title": "Labeled issue #8028 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8028",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-14T10:04:36Z",
-          "title": "Labeled issue #8027 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8027",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-14T05:33:41Z",
-          "title": "Labeled issue #8025 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8025",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-14T05:33:42Z",
-          "title": "Labeled issue #8025 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8025",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-13T19:47:24Z",
-          "title": "🐞 Bug - Adding a project collaborator silently fails when the email contains uppercase letters",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8024",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-13T07:38:43Z",
-          "title": "🐞 Bug - Forked project starts with the original project's star count",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8023",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-13T07:33:19Z",
-          "title": "🐞 Bug - Users can vote for their own contest submission",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8022",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-13T07:27:08Z",
-          "title": "🐞 Bug - Users can submit a project to a contest that has already ended",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8021",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-13T19:47:25Z",
-          "title": "Labeled issue #8024 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8024",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-13T19:47:26Z",
-          "title": "Labeled issue #8024 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8024",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-13T07:27:10Z",
-          "title": "Labeled issue #8021 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8021",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-13T07:38:44Z",
-          "title": "Labeled issue #8023 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8023",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-13T07:33:20Z",
-          "title": "Labeled issue #8022 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8022",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-13T07:33:21Z",
-          "title": "Labeled issue #8022 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8022",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-12T21:02:30Z",
-          "title": "fix - resolve missing i18n keys in contribute and org UI (#8006)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8019",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-12T22:23:44Z",
-          "title": "🐞 Bug - Browser language (Accept-Language header) is never used to pick the site language",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8020",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-12T04:25:38Z",
-          "title": "🐞 Bug - Missing translation keys on Contribute page, Organizations header link and Organization form",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8006",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T22:23:46Z",
-          "title": "Labeled issue #8020 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8020",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T04:25:39Z",
-          "title": "Labeled issue #8006 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8006",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "Me-Priyank",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
@@ -2409,167 +2208,151 @@
       ]
     },
     {
-      "username": "mohi2006august",
+      "username": "Saurabhyadav0",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/218565496?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134767123?v=4",
       "role": "Contributor",
-      "total_points": 31,
+      "total_points": 27,
       "activity_breakdown": {
         "Issue opened": {
-          "count": 9,
-          "points": 9
+          "count": 7,
+          "points": 7
         },
         "Issue labeled": {
-          "count": 11,
-          "points": 22
+          "count": 10,
+          "points": 20
         }
       },
       "daily_activity": [
         {
-          "date": "2026-10-12",
-          "count": 20,
-          "points": 31
+          "date": "2026-10-14",
+          "count": 7,
+          "points": 11
+        },
+        {
+          "date": "2026-10-13",
+          "count": 10,
+          "points": 16
         }
       ],
       "activities": [
         {
           "type": "Issue opened",
-          "occured_at": "2026-10-12T18:45:10Z",
-          "title": "🐞 Bug - CommentsController may return 500 on malformed params because it uses params.dig",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8018",
+          "occured_at": "2026-10-14T10:37:11Z",
+          "title": "🐞 Bug - Saving a circuit with an empty project name reports \"success\" but silently drops the name",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8028",
           "points": 1
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-10-12T18:43:59Z",
-          "title": "🐞 Bug - GroupMembersController authenticates after loading and authorizing the record",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8017",
+          "occured_at": "2026-10-14T10:04:34Z",
+          "title": "🐞 Bug - Error pages (404/422/500) are hardcoded in English and link to production instead of the local site",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8027",
           "points": 1
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-10-12T18:42:21Z",
-          "title": "🐞 Bug - Push subscriptions skip CSRF protection, create duplicate rows and never prune expired endpoints",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8016",
+          "occured_at": "2026-10-14T05:33:39Z",
+          "title": "🐞 Bug - Comments API lets you POST a comment but returns 403 on GET (Limited-access viewers and collaborators)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8025",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-14T10:37:13Z",
+          "title": "Labeled issue #8028 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8028",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-14T10:04:36Z",
+          "title": "Labeled issue #8027 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8027",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-14T05:33:41Z",
+          "title": "Labeled issue #8025 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8025",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-14T05:33:42Z",
+          "title": "Labeled issue #8025 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8025",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-13T19:47:24Z",
+          "title": "🐞 Bug - Adding a project collaborator silently fails when the email contains uppercase letters",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8024",
           "points": 1
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-10-12T18:36:45Z",
-          "title": "🐞 Bug - Hotkey binder has a no-op \"if;\" statement and rewrites localStorage inside a loop",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8015",
+          "occured_at": "2026-10-13T07:38:43Z",
+          "title": "🐞 Bug - Forked project starts with the original project's star count",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8023",
           "points": 1
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-10-12T18:34:53Z",
-          "title": "🐞 Bug - Testbench crashes with a bare TypeError when input/output labels or RST are missing from the circuit",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8014",
+          "occured_at": "2026-10-13T07:33:19Z",
+          "title": "🐞 Bug - Users can vote for their own contest submission",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8022",
           "points": 1
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-10-12T18:33:21Z",
-          "title": "🐞 Bug - Group invitations mishandle email case and whitespace, so existing users get pending invites instead of being added",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8013",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-12T18:31:41Z",
-          "title": "🐞 Bug - LTI grade passback sends a score of 0 to the LMS for letter-scale and custom-scale grades",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8012",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-12T18:28:39Z",
-          "title": "🐞 Bug Grades CSV export is vulnerable to CSV/formula injection",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8011",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-12T18:27:04Z",
-          "title": "🐞 Bug Grade format validation uses ^/$ so multi-line input bypasses the grading scale",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8010",
+          "occured_at": "2026-10-13T07:27:08Z",
+          "title": "🐞 Bug - Users can submit a project to a contest that has already ended",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8021",
           "points": 1
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-10-12T18:36:47Z",
-          "title": "Labeled issue #8015 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8015",
+          "occured_at": "2026-10-13T19:47:25Z",
+          "title": "Labeled issue #8024 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8024",
           "points": 2
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-10-12T18:44:01Z",
-          "title": "Labeled issue #8017 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8017",
+          "occured_at": "2026-10-13T19:47:26Z",
+          "title": "Labeled issue #8024 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8024",
           "points": 2
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-10-12T18:31:43Z",
-          "title": "Labeled issue #8012 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8012",
+          "occured_at": "2026-10-13T07:27:10Z",
+          "title": "Labeled issue #8021 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8021",
           "points": 2
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-10-12T18:34:54Z",
-          "title": "Labeled issue #8014 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8014",
+          "occured_at": "2026-10-13T07:38:44Z",
+          "title": "Labeled issue #8023 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8023",
           "points": 2
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-10-12T18:27:05Z",
-          "title": "Labeled issue #8010 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8010",
+          "occured_at": "2026-10-13T07:33:20Z",
+          "title": "Labeled issue #8022 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8022",
           "points": 2
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-10-12T18:27:06Z",
-          "title": "Labeled issue #8010 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8010",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T18:45:11Z",
-          "title": "Labeled issue #8018 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8018",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T18:42:22Z",
-          "title": "Labeled issue #8016 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8016",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T18:28:40Z",
-          "title": "Labeled issue #8011 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8011",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T18:28:41Z",
-          "title": "Labeled issue #8011 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8011",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T18:33:23Z",
-          "title": "Labeled issue #8013 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8013",
+          "occured_at": "2026-10-13T07:33:21Z",
+          "title": "Labeled issue #8022 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8022",
           "points": 2
         }
       ]
@@ -2730,100 +2513,6 @@
           "title": "Review on PR #1429",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1429",
           "points": 4
-        }
-      ]
-    },
-    {
-      "username": "ShinichiShi",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?u=89d8c6cefb3b72abde02af74cfdd8c72222146aa&v=4",
-      "role": "Contributor",
-      "total_points": 15,
-      "activity_breakdown": {
-        "Review submitted": {
-          "count": 1,
-          "points": 4
-        },
-        "Issue closed": {
-          "count": 1,
-          "points": 1
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-31",
-          "count": 2,
-          "points": 5
-        },
-        {
-          "date": "2026-10-13",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-10-12",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-10-31T12:08:23Z",
-          "title": "Review on PR #1392",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
-          "points": 4
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-10-31T12:16:05Z",
-          "title": "Closed issue #734 - 🐞 Bug - Output component displays 'X' (undefined) state even when connected to valid gate output",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/734",
-          "points": 1
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-13T11:49:45Z",
-          "title": "fix - crash in subcircuit rendering when nodes are undefined",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1396",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-12T15:53:03Z",
-          "title": "fix - crash in subcircuit rendering when nodes are undefined",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1396",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-12T15:30:25Z",
-          "title": "🐞 Bug - vuesim crashes when saved node indices are stale/undefined",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1395",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T15:30:27Z",
-          "title": "Labeled issue #1395 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1395",
-          "points": 2
         }
       ]
     },
@@ -3448,6 +3137,62 @@
       ]
     },
     {
+      "username": "ShinichiShi",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?u=89d8c6cefb3b72abde02af74cfdd8c72222146aa&v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "Review submitted": {
+          "count": 1,
+          "points": 4
+        },
+        "Issue closed": {
+          "count": 1,
+          "points": 1
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-10-31",
+          "count": 2,
+          "points": 5
+        },
+        {
+          "date": "2026-10-13",
+          "count": 1,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-10-31T12:08:23Z",
+          "title": "Review on PR #1392",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-10-31T12:16:05Z",
+          "title": "Closed issue #734 - 🐞 Bug - Output component displays 'X' (undefined) state even when connected to valid gate output",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/734",
+          "points": 1
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-13T11:49:45Z",
+          "title": "fix - crash in subcircuit rendering when nodes are undefined",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1396",
+          "points": 5
+        }
+      ]
+    },
+    {
       "username": "MYMISERABLEMIND17",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/211515906?v=4",
@@ -3510,6 +3255,83 @@
           "occured_at": "2026-10-15T19:43:50Z",
           "title": "fix(docs) - resolve broken anchor links and heading slugs across chapters 4, 7, and 8",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/545",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Somilg11",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
+        },
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-11",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-11-10",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-11T14:25:10Z",
+          "title": "Feature - Make search sorting options keyboard accessible",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8167",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-11T14:25:11Z",
+          "title": "Labeled issue #8167 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8167",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-11T14:25:12Z",
+          "title": "Labeled issue #8167 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8167",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-10T13:17:51Z",
+          "title": "fix - preserve search sort when reselecting resource (#8148)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8150",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-10T12:37:49Z",
+          "title": "🐞 Bug - Reselecting the current search resource resets the selected sort order",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8148",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-10T12:37:51Z",
+          "title": "Labeled issue #8148 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8148",
           "points": 2
         }
       ]
@@ -3689,6 +3511,66 @@
       ]
     },
     {
+      "username": "Anurag-S1ngh",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/169547609?v=4",
+      "role": "Contributor",
+      "total_points": 8,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-11",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-10",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-11T09:08:22Z",
+          "title": "feat - notify assignment collaborators on add (#7230)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8163",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-10T22:20:16Z",
+          "title": "fix - snapshot reopened assignments when they close (#8037)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8158",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-10T22:07:04Z",
+          "title": "fix - handle relative launch_presentation_return_url (#7169)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8155",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-28T23:55:35Z",
+          "title": "refactor - reduce per-request work in switch_locale (#8059)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8105",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "ManshaAgarwal716",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/218825298?v=4",
@@ -3863,107 +3745,6 @@
           "occured_at": "2026-10-23T15:57:28Z",
           "title": "Labeled issue #8082 - pending triage",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8082",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "YashKumar-404",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-20",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-14",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-12",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-20T09:06:52Z",
-          "title": "fix - remove unnecessary params.permit in switch_locale to fix performance regression (#8059)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8066",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-14T16:41:25Z",
-          "title": "fix - report save failure when project name is invalid",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8030",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-12T14:47:32Z",
-          "title": "fix - validate assignment deadline before saving (#8005)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8009",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Anurag-S1ngh",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/169547609?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-10",
-          "count": 2,
-          "points": 4
-        },
-        {
-          "date": "2026-10-28",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-10T22:20:16Z",
-          "title": "fix - snapshot reopened assignments when they close (#8037)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8158",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-10T22:07:04Z",
-          "title": "fix - handle relative launch_presentation_return_url (#7169)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8155",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-28T23:55:35Z",
-          "title": "refactor - reduce per-request work in switch_locale (#8059)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8105",
           "points": 2
         }
       ]
@@ -4203,9 +3984,9 @@
       ]
     },
     {
-      "username": "Somilg11",
+      "username": "Kushalv06",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216526196?v=4",
       "role": "Contributor",
       "total_points": 5,
       "activity_breakdown": {
@@ -4224,7 +4005,7 @@
       },
       "daily_activity": [
         {
-          "date": "2026-11-10",
+          "date": "2026-11-11",
           "count": 3,
           "points": 5
         }
@@ -4232,23 +4013,23 @@
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-11-10T13:17:51Z",
-          "title": "fix - preserve search sort when reselecting resource (#8148)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8150",
+          "occured_at": "2026-11-11T10:23:13Z",
+          "title": "fix - preserve aspect ratio on user profile pictures (#8164)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8165",
           "points": 2
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-11-10T12:37:49Z",
-          "title": "🐞 Bug - Reselecting the current search resource resets the selected sort order",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8148",
+          "occured_at": "2026-11-11T09:22:55Z",
+          "title": "🐞 Bug - Profile pictures without a 1 - 1 aspect ratio appear squashed on Edit Profile, Groups, and Comments",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8164",
           "points": 1
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-11-10T12:37:51Z",
-          "title": "Labeled issue #8148 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8148",
+          "occured_at": "2026-11-11T09:22:57Z",
+          "title": "Labeled issue #8164 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8164",
           "points": 2
         }
       ]
@@ -4305,48 +4086,42 @@
       ]
     },
     {
-      "username": "beedell-roke",
+      "username": "YashKumar-404",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/42837531?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192852439?v=4",
       "role": "Contributor",
-      "total_points": 5,
+      "total_points": 4,
       "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
+        "PR opened": {
           "count": 2,
           "points": 4
         }
       },
       "daily_activity": [
         {
-          "date": "2026-10-12",
-          "count": 3,
-          "points": 5
+          "date": "2026-10-20",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-10-14",
+          "count": 1,
+          "points": 2
         }
       ],
       "activities": [
         {
-          "type": "Issue opened",
-          "occured_at": "2026-10-12T13:57:00Z",
-          "title": "Provide a way to have diagrams automatically adjust their layout to what is optimal.",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8008",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T13:57:01Z",
-          "title": "Labeled issue #8008 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8008",
+          "type": "PR opened",
+          "occured_at": "2026-10-20T09:06:52Z",
+          "title": "fix - remove unnecessary params.permit in switch_locale to fix performance regression (#8059)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8066",
           "points": 2
         },
         {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-12T13:57:02Z",
-          "title": "Labeled issue #8008 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8008",
+          "type": "PR opened",
+          "occured_at": "2026-10-14T16:41:25Z",
+          "title": "fix - report save failure when project name is invalid",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8030",
           "points": 2
         }
       ]
@@ -4657,35 +4432,6 @@
           "occured_at": "2026-11-10T01:32:10Z",
           "title": "fix - show error view with retry when featured projects fail to load (#84)",
           "link": "https://github.com/CircuitVerse/mobile-app/pull/684",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "eshanthh",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/235510433?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-12",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-12T05:14:07Z",
-          "title": "fix - use existing locale keys for organization UI text",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8007",
           "points": 2
         }
       ]

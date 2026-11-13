@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1794458234447,
-  "startDate": "2026-11-05",
-  "endDate": "2026-11-12",
+  "updatedAt": 1794541839721,
+  "startDate": "2026-11-06",
+  "endDate": "2026-11-13",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -131,78 +131,195 @@
       ]
     },
     {
-      "username": "yashveer-1",
+      "username": "Somilg11",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
       "role": "Contributor",
-      "total_points": 10,
+      "total_points": 17,
       "activity_breakdown": {
         "PR opened": {
           "count": 2,
           "points": 4
         },
         "Issue opened": {
-          "count": 2,
-          "points": 2
+          "count": 3,
+          "points": 3
         },
         "Issue labeled": {
-          "count": 2,
-          "points": 4
+          "count": 5,
+          "points": 10
         }
       },
       "daily_activity": [
         {
-          "date": "2026-11-11",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-11-05",
+          "date": "2026-11-12",
           "count": 4,
           "points": 7
+        },
+        {
+          "date": "2026-11-11",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-11-10",
+          "count": 3,
+          "points": 5
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-11-11T10:41:03Z",
-          "title": "perf - optimize group dragging for multiple selections",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1529",
+          "occured_at": "2026-11-12T16:55:09Z",
+          "title": "fix - correct PriorityEncoder Verilog export (#1531)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1534",
           "points": 2
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-11-11T10:34:50Z",
-          "title": "Performance - Eliminate Redundant Drag Operations During Multi-Selection in Vue Simulator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1528",
+          "occured_at": "2026-11-12T15:36:28Z",
+          "title": "🐞 Bug - PriorityEncoder Verilog export omits lower-priority inputs and inverts the valid output",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1531",
           "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-12T15:36:29Z",
+          "title": "Labeled issue #1531 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1531",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-12T15:36:30Z",
+          "title": "Labeled issue #1531 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1531",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-11T14:25:10Z",
+          "title": "Feature - Make search sorting options keyboard accessible",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8167",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-11T14:25:11Z",
+          "title": "Labeled issue #8167 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8167",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-11T14:25:12Z",
+          "title": "Labeled issue #8167 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8167",
+          "points": 2
         },
         {
           "type": "PR opened",
-          "occured_at": "2026-11-05T08:59:52Z",
-          "title": "fix(simulator) - update outputs after ConstantVal double-click",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1512",
+          "occured_at": "2026-11-10T13:17:51Z",
+          "title": "fix - preserve search sort when reselecting resource (#8148)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8150",
           "points": 2
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-11-05T06:56:19Z",
-          "title": "🐞 Bug - ConstantVal double-click does not update connected outputs when Clock Enabled is off",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
+          "occured_at": "2026-11-10T12:37:49Z",
+          "title": "🐞 Bug - Reselecting the current search resource resets the selected sort order",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8148",
           "points": 1
         },
         {
           "type": "Issue labeled",
-          "occured_at": "2026-11-05T06:56:20Z",
-          "title": "Labeled issue #1511 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
+          "occured_at": "2026-11-10T12:37:51Z",
+          "title": "Labeled issue #8148 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8148",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "hanshu922",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
+      "role": "Contributor",
+      "total_points": 12,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 6,
+          "points": 12
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-12",
+          "count": 1,
           "points": 2
         },
         {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-05T06:56:21Z",
-          "title": "Labeled issue #1511 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
+          "date": "2026-11-10",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2026-11-09",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-07",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-06",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-12T08:12:15Z",
+          "title": "feat - make search sorting options keyboard accessible(#8167)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8168",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-10T17:23:11Z",
+          "title": "fix - prevent duplicate push subscriptions and prune expired endpoints (#8016)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8151",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-10T12:37:53Z",
+          "title": "fix(testbench) - add validateBinding to avoid TypeError on missing lab… (#8014)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8149",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-09T17:01:07Z",
+          "title": "Fix - LTI grade passback score for letter and custom grading scales (#8144)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8144",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T10:55:04Z",
+          "title": "docs - update Windows setup guide to Ruby 3.3.5",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8138",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-06T21:50:48Z",
+          "title": "Localize error pages and use root_path for homepage link (#8133)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8133",
           "points": 2
         }
       ]
@@ -280,78 +397,6 @@
       ]
     },
     {
-      "username": "hanshu922",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
-      "role": "Contributor",
-      "total_points": 10,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 5,
-          "points": 10
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-10",
-          "count": 2,
-          "points": 4
-        },
-        {
-          "date": "2026-11-09",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-07",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-06",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-10T17:23:11Z",
-          "title": "fix - prevent duplicate push subscriptions and prune expired endpoints (#8016)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8151",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-10T12:37:53Z",
-          "title": "fix(testbench) - add validateBinding to avoid TypeError on missing lab… (#8014)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8149",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-09T17:01:07Z",
-          "title": "Fix - LTI grade passback score for letter and custom grading scales (#8144)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8144",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-07T10:55:04Z",
-          "title": "docs - update Windows setup guide to Ruby 3.3.5",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8138",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-06T21:50:48Z",
-          "title": "Localize error pages and use root_path for homepage link (#8133)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8133",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "motalib6",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
@@ -414,92 +459,15 @@
       ]
     },
     {
-      "username": "Somilg11",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
-      "role": "Contributor",
-      "total_points": 10,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 3,
-          "points": 6
-        },
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-11",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-11-10",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-11T14:25:10Z",
-          "title": "Feature - Make search sorting options keyboard accessible",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8167",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-11T14:25:11Z",
-          "title": "Labeled issue #8167 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8167",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-11T14:25:12Z",
-          "title": "Labeled issue #8167 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8167",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-10T13:17:51Z",
-          "title": "fix - preserve search sort when reselecting resource (#8148)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8150",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-10T12:37:49Z",
-          "title": "🐞 Bug - Reselecting the current search resource resets the selected sort order",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8148",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-10T12:37:51Z",
-          "title": "Labeled issue #8148 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8148",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "aryan7071",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
       "role": "Contributor",
-      "total_points": 9,
+      "total_points": 7,
       "activity_breakdown": {
         "PR opened": {
-          "count": 2,
-          "points": 4
+          "count": 1,
+          "points": 2
         },
         "Issue opened": {
           "count": 1,
@@ -515,11 +483,6 @@
           "date": "2026-11-09",
           "count": 4,
           "points": 7
-        },
-        {
-          "date": "2026-11-05",
-          "count": 1,
-          "points": 2
         }
       ],
       "activities": [
@@ -549,13 +512,6 @@
           "occured_at": "2026-11-09T14:40:41Z",
           "title": "Labeled issue #8142 - pending triage",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-05T16:59:04Z",
-          "title": "refactor - read project previews from ActiveStorage with CarrierWave fallback (#7902)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8129",
           "points": 2
         }
       ]
@@ -660,6 +616,64 @@
       ]
     },
     {
+      "username": "naman79820",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "Review submitted": {
+          "count": 1,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-12",
+          "count": 1,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-11-12T21:15:39Z",
+          "title": "Review on PR #8165",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8165",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "username": "Me-Priyank",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "Review submitted": {
+          "count": 1,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-12",
+          "count": 1,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-11-12T08:22:03Z",
+          "title": "Review on PR #1513",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
+          "points": 4
+        }
+      ]
+    },
+    {
       "username": "UwaisBaig",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
@@ -696,6 +710,46 @@
       ]
     },
     {
+      "username": "yashveer-1",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-11",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-11T10:41:03Z",
+          "title": "perf - optimize group dragging for multiple selections",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1529",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-11T10:34:50Z",
+          "title": "Performance - Eliminate Redundant Drag Operations During Multi-Selection in Vue Simulator",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1528",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "harikrishna-au",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/169121181?v=4",
@@ -725,9 +779,9 @@
       ]
     },
     {
-      "username": "tirth-patel06",
+      "username": "VishalSirimalla",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/185243371?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221854121?v=4",
       "role": "Contributor",
       "total_points": 2,
       "activity_breakdown": {
@@ -738,7 +792,7 @@
       },
       "daily_activity": [
         {
-          "date": "2026-11-05",
+          "date": "2026-11-12",
           "count": 1,
           "points": 2
         }
@@ -746,17 +800,17 @@
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-11-05T05:28:17Z",
-          "title": "feat(v1) - add Beautify Circuit using existing auto-layout pipeline",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1510",
+          "occured_at": "2026-11-12T12:37:54Z",
+          "title": "Fix zero-delay EventQueue scheduling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1530",
           "points": 2
         }
       ]
     },
     {
-      "username": "Goblin-24",
+      "username": "Smriti-N",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184945002?v=4",
       "role": "Contributor",
       "total_points": 2,
       "activity_breakdown": {
@@ -767,7 +821,7 @@
       },
       "daily_activity": [
         {
-          "date": "2026-11-05",
+          "date": "2026-11-12",
           "count": 1,
           "points": 2
         }
@@ -775,9 +829,9 @@
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-11-05T10:43:39Z",
-          "title": "fix - theme selection, preview rollback, and custom apply (#1504)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
+          "occured_at": "2026-11-12T15:44:06Z",
+          "title": "fix - handle invalid clipboard data during paste (#1486)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1532",
           "points": 2
         }
       ]
@@ -895,6 +949,35 @@
           "title": "fix - ignore invalid clipboard data on paste (#1486)",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1525",
           "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Rehan6225",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/42702093?v=4",
+      "role": "Contributor",
+      "total_points": 1,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-12",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-12T15:57:54Z",
+          "title": "Slack invite link (circuitverse.org/slack) has expired",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1533",
+          "points": 1
         }
       ]
     }

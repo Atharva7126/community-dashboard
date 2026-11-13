@@ -1,6 +1,91 @@
 {
-  "updatedAt": 1794458234458,
+  "updatedAt": 1794541839732,
   "groups": [
+    [
+      "2026-11-12",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Review on PR #8165",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8165",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+          "points": 4
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "Review on PR #1513",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "points": 4
+        },
+        {
+          "username": "Somilg11",
+          "name": null,
+          "title": "fix - correct PriorityEncoder Verilog export (#1531)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1534",
+          "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
+          "points": 2
+        },
+        {
+          "username": "Somilg11",
+          "name": null,
+          "title": "🐞 Bug - PriorityEncoder Verilog export omits lower-priority inputs and inverts the valid output",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1531",
+          "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
+          "points": 1
+        },
+        {
+          "username": "Somilg11",
+          "name": null,
+          "title": "Labeled issue #1531 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1531",
+          "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
+          "points": 2
+        },
+        {
+          "username": "Somilg11",
+          "name": null,
+          "title": "Labeled issue #1531 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1531",
+          "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
+          "points": 2
+        },
+        {
+          "username": "hanshu922",
+          "name": null,
+          "title": "feat - make search sorting options keyboard accessible(#8167)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8168",
+          "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
+          "points": 2
+        },
+        {
+          "username": "VishalSirimalla",
+          "name": null,
+          "title": "Fix zero-delay EventQueue scheduling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1530",
+          "avatar_url": "https://avatars.githubusercontent.com/u/221854121?v=4",
+          "points": 2
+        },
+        {
+          "username": "Smriti-N",
+          "name": null,
+          "title": "fix - handle invalid clipboard data during paste (#1486)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1532",
+          "avatar_url": "https://avatars.githubusercontent.com/u/184945002?v=4",
+          "points": 2
+        },
+        {
+          "username": "Rehan6225",
+          "name": null,
+          "title": "Slack invite link (circuitverse.org/slack) has expired",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1533",
+          "avatar_url": "https://avatars.githubusercontent.com/u/42702093?v=4",
+          "points": 1
+        }
+      ]
+    ],
     [
       "2026-11-01",
       [
@@ -17,7 +102,7 @@
           "name": null,
           "title": "Review on PR #1392",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
           "points": 4
         },
         {
@@ -25,7 +110,7 @@
           "name": null,
           "title": "Closed issue #1391 - 🐞 Bug - Combinational Analysis Truth Table lacks Close/Cancel button (trapping user in modal) and table is uncentered",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1391",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
           "points": 1
         },
         {
@@ -158,7 +243,7 @@
           "name": null,
           "title": "Review on PR #1491",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1491",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
           "points": 4
         }
       ]
@@ -171,7 +256,7 @@
           "name": null,
           "title": "Review on PR #1392",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
           "points": 4
         },
         {
@@ -338,59 +423,6 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1497",
           "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
           "points": 1
-        }
-      ]
-    ],
-    [
-      "2026-10-30",
-      [
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "Review on PR #1466",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1466",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 4
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "Review on PR #1429",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1429",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 4
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "fix - bump Ruby to 4.0.9 in .tool-versions for ubuntu-26.04 CI runners (#8109)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8110",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "🐞 Bug - Ruby on Rails CI and DBChecker fail on all PRs - Ruby 4.0.2 unavailable on ubuntu-26.04 runners",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 1
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8109 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8109 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
         }
       ]
     ],
@@ -961,22 +993,6 @@
           "points": 2
         },
         {
-          "username": "hanshu922",
-          "name": null,
-          "title": "fix - prevent duplicate push subscriptions and prune expired endpoints (#8016)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8151",
-          "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
-          "points": 2
-        },
-        {
-          "username": "hanshu922",
-          "name": null,
-          "title": "fix(testbench) - add validateBinding to avoid TypeError on missing lab… (#8014)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8149",
-          "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
-          "points": 2
-        },
-        {
           "username": "Somilg11",
           "name": null,
           "title": "fix - preserve search sort when reselecting resource (#8148)",
@@ -998,6 +1014,22 @@
           "title": "Labeled issue #8148 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8148",
           "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
+          "points": 2
+        },
+        {
+          "username": "hanshu922",
+          "name": null,
+          "title": "fix - prevent duplicate push subscriptions and prune expired endpoints (#8016)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8151",
+          "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
+          "points": 2
+        },
+        {
+          "username": "hanshu922",
+          "name": null,
+          "title": "fix(testbench) - add validateBinding to avoid TypeError on missing lab… (#8014)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8149",
+          "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
           "points": 2
         },
         {

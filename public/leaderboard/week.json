@@ -1,156 +1,41 @@
 {
   "period": "week",
-  "updatedAt": 1794541839721,
-  "startDate": "2026-11-06",
-  "endDate": "2026-11-13",
+  "updatedAt": 1794628141115,
+  "startDate": "2026-11-07",
+  "endDate": "2026-11-14",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
-    {
-      "username": "Psykii22",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-      "role": "Contributor",
-      "total_points": 20,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        },
-        "Issue opened": {
-          "count": 4,
-          "points": 4
-        },
-        "Issue labeled": {
-          "count": 4,
-          "points": 8
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-08",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-11-07",
-          "count": 5,
-          "points": 8
-        },
-        {
-          "date": "2026-11-06",
-          "count": 4,
-          "points": 7
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-08T09:34:29Z",
-          "title": "feat - add Verilog export support for arithmetic modules",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1527",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-08T06:44:45Z",
-          "title": "Feature - Add Verilog export support for arithmetic modules (verilogMultiplier, verilogDivider, verilogPower, verilogShiftLeft, verilogShiftRight)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1526",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-08T06:44:47Z",
-          "title": "Labeled issue #1526 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1526",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-07T08:01:13Z",
-          "title": "perf - remove redundant O(N²) outer loop in Splitter.processVerilog",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1519",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-07T07:05:07Z",
-          "title": "🐞 Bug - Redundant O(N²) outer loop in Splitter.processVerilog() re-executes bit slicing N times",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1518",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-07T06:54:32Z",
-          "title": "🐞 Bug - Adder Verilog export produces syntax errors when only one output is connected & drops Cout in v1",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1517",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-07T06:54:33Z",
-          "title": "Labeled issue #1517 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1517",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-07T07:05:09Z",
-          "title": "Labeled issue #1518 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1518",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-06T14:49:07Z",
-          "title": "fix - resolve Adder Verilog export syntax errors for disconnected pins and sync v1",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1516",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-06T08:24:47Z",
-          "title": "fix - resolve infinite recursion in SquareRGBLed.generateVerilog",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1515",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-06T07:28:52Z",
-          "title": "🐞 Bug - Infinite recursion in SquareRGBLed.generateVerilog() crashes Verilog export",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-06T07:28:53Z",
-          "title": "Labeled issue #1514 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1514",
-          "points": 2
-        }
-      ]
-    },
     {
       "username": "Somilg11",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
       "role": "Contributor",
-      "total_points": 17,
+      "total_points": 29,
       "activity_breakdown": {
         "PR opened": {
-          "count": 2,
-          "points": 4
+          "count": 3,
+          "points": 6
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
         },
         "Issue opened": {
-          "count": 3,
-          "points": 3
+          "count": 4,
+          "points": 4
         },
         "Issue labeled": {
-          "count": 5,
-          "points": 10
+          "count": 7,
+          "points": 14
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-13",
+          "count": 5,
+          "points": 12
+        },
         {
           "date": "2026-11-12",
           "count": 4,
@@ -168,6 +53,41 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-13T08:32:42Z",
+          "title": "fix - omit unsupported Decoder width parameter (#1535)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1536",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-13T06:31:07Z",
+          "title": "fix - correct PriorityEncoder Verilog export (#1531)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1534",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-13T08:20:39Z",
+          "title": "🐞 Bug - Decoder Verilog export passes an unsupported width parameter",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1535",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-13T08:20:40Z",
+          "title": "Labeled issue #1535 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1535",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-13T08:20:41Z",
+          "title": "Labeled issue #1535 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1535",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-11-12T16:55:09Z",
@@ -241,86 +161,68 @@
       ]
     },
     {
-      "username": "hanshu922",
+      "username": "Me-Priyank",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
       "role": "Contributor",
-      "total_points": 12,
+      "total_points": 14,
       "activity_breakdown": {
-        "PR opened": {
-          "count": 6,
+        "Review submitted": {
+          "count": 3,
           "points": 12
+        },
+        "Issue closed": {
+          "count": 2,
+          "points": 2
         }
       },
       "daily_activity": [
         {
+          "date": "2026-11-13",
+          "count": 4,
+          "points": 10
+        },
+        {
           "date": "2026-11-12",
           "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-10",
-          "count": 2,
           "points": 4
-        },
-        {
-          "date": "2026-11-09",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-07",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-06",
-          "count": 1,
-          "points": 2
         }
       ],
       "activities": [
         {
-          "type": "PR opened",
-          "occured_at": "2026-11-12T08:12:15Z",
-          "title": "feat - make search sorting options keyboard accessible(#8167)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8168",
-          "points": 2
+          "type": "Review submitted",
+          "occured_at": "2026-11-13T06:11:45Z",
+          "title": "Review on PR #1513",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
+          "points": 4
         },
         {
-          "type": "PR opened",
-          "occured_at": "2026-11-10T17:23:11Z",
-          "title": "fix - prevent duplicate push subscriptions and prune expired endpoints (#8016)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8151",
-          "points": 2
+          "type": "Review submitted",
+          "occured_at": "2026-11-13T06:22:11Z",
+          "title": "Review on PR #1534",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1534",
+          "points": 4
         },
         {
-          "type": "PR opened",
-          "occured_at": "2026-11-10T12:37:53Z",
-          "title": "fix(testbench) - add validateBinding to avoid TypeError on missing lab… (#8014)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8149",
-          "points": 2
+          "type": "Issue closed",
+          "occured_at": "2026-11-13T06:31:09Z",
+          "title": "Closed issue #1531 - 🐞 Bug - PriorityEncoder Verilog export omits lower-priority inputs and inverts the valid output",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1531",
+          "points": 1
         },
         {
-          "type": "PR opened",
-          "occured_at": "2026-11-09T17:01:07Z",
-          "title": "Fix - LTI grade passback score for letter and custom grading scales (#8144)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8144",
-          "points": 2
+          "type": "Issue closed",
+          "occured_at": "2026-11-13T06:14:31Z",
+          "title": "Closed issue #1504 - 🐞 Bug - Themes dialog dot and Custom Theme apply behave incorrectly",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
+          "points": 1
         },
         {
-          "type": "PR opened",
-          "occured_at": "2026-11-07T10:55:04Z",
-          "title": "docs - update Windows setup guide to Ruby 3.3.5",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8138",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-06T21:50:48Z",
-          "title": "Localize error pages and use root_path for homepage link (#8133)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8133",
-          "points": 2
+          "type": "Review submitted",
+          "occured_at": "2026-11-12T08:22:03Z",
+          "title": "Review on PR #1513",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
+          "points": 4
         }
       ]
     },
@@ -329,22 +231,27 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
       "role": "Contributor",
-      "total_points": 10,
+      "total_points": 13,
       "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
         "Issue opened": {
-          "count": 2,
-          "points": 2
+          "count": 3,
+          "points": 3
         },
         "Issue labeled": {
+          "count": 3,
+          "points": 6
+        },
+        "PR opened": {
           "count": 2,
           "points": 4
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-13",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-11-07",
           "count": 6,
@@ -352,6 +259,20 @@
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-13T20:57:43Z",
+          "title": "🐞 Bug - Docker publish and deploy builds fail with BlobNotFound from a stale GitHub Actions cache entry",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8175",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-13T20:57:45Z",
+          "title": "Labeled issue #8175 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8175",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-11-07T15:40:43Z",
@@ -392,6 +313,227 @@
           "occured_at": "2026-11-07T07:46:06Z",
           "title": "Labeled issue #8135 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8135",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Psykii22",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+      "role": "Contributor",
+      "total_points": 13,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 3,
+          "points": 3
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-08",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-11-07",
+          "count": 5,
+          "points": 8
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-08T09:34:29Z",
+          "title": "feat - add Verilog export support for arithmetic modules",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1527",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-08T06:44:45Z",
+          "title": "Feature - Add Verilog export support for arithmetic modules (verilogMultiplier, verilogDivider, verilogPower, verilogShiftLeft, verilogShiftRight)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1526",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-08T06:44:47Z",
+          "title": "Labeled issue #1526 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1526",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T08:01:13Z",
+          "title": "perf - remove redundant O(N²) outer loop in Splitter.processVerilog",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1519",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-07T07:05:07Z",
+          "title": "🐞 Bug - Redundant O(N²) outer loop in Splitter.processVerilog() re-executes bit slicing N times",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1518",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-07T06:54:32Z",
+          "title": "🐞 Bug - Adder Verilog export produces syntax errors when only one output is connected & drops Cout in v1",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1517",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-07T06:54:33Z",
+          "title": "Labeled issue #1517 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1517",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-07T07:05:09Z",
+          "title": "Labeled issue #1518 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1518",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Goblin-24",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-13",
+          "count": 4,
+          "points": 10
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-13T06:14:29Z",
+          "title": "fix - theme selection, preview rollback, and custom apply (#1504)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-13T17:14:28Z",
+          "title": "Feature - Interactive mouse drag resizing and constant highlight for Rectangle annotations.",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1537",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-13T17:14:30Z",
+          "title": "Labeled issue #1537 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1537",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-13T17:14:31Z",
+          "title": "Labeled issue #1537 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1537",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "hanshu922",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 5,
+          "points": 10
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-12",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-10",
+          "count": 2,
+          "points": 4
+        },
+        {
+          "date": "2026-11-09",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-07",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-12T08:12:15Z",
+          "title": "feat - make search sorting options keyboard accessible(#8167)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8168",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-10T17:23:11Z",
+          "title": "fix - prevent duplicate push subscriptions and prune expired endpoints (#8016)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8151",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-10T12:37:53Z",
+          "title": "fix(testbench) - add validateBinding to avoid TypeError on missing lab… (#8014)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8149",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-09T17:01:07Z",
+          "title": "Fix - LTI grade passback score for letter and custom grading scales (#8144)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8144",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-07T10:55:04Z",
+          "title": "docs - update Windows setup guide to Ruby 3.3.5",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8138",
           "points": 2
         }
       ]
@@ -641,71 +783,6 @@
           "title": "Review on PR #8165",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8165",
           "points": 4
-        }
-      ]
-    },
-    {
-      "username": "Me-Priyank",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
-      "role": "Contributor",
-      "total_points": 4,
-      "activity_breakdown": {
-        "Review submitted": {
-          "count": 1,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-12",
-          "count": 1,
-          "points": 4
-        }
-      ],
-      "activities": [
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-11-12T08:22:03Z",
-          "title": "Review on PR #1513",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
-          "points": 4
-        }
-      ]
-    },
-    {
-      "username": "UwaisBaig",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
-      "role": "Contributor",
-      "total_points": 4,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-06",
-          "count": 2,
-          "points": 4
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-06T16:59:49Z",
-          "title": "fix(seo) - use latest public project update date for user projects sitemap (#8071)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8132",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-06T16:26:01Z",
-          "title": "fix(groups) - normalize email whitespace and case when inviting members (#8013)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8131",
-          "points": 2
         }
       ]
     },

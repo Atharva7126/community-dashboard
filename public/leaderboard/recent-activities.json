@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794628141126,
+  "updatedAt": 1794713298647,
   "groups": [
     [
       "2026-11-12",
@@ -87,150 +87,102 @@
       ]
     ],
     [
-      "2026-11-01",
+      "2026-11-14",
       [
         {
-          "username": "naman79820",
-          "name": null,
-          "title": "Review on PR #8083",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8083",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 4
-        },
-        {
           "username": "Me-Priyank",
           "name": null,
-          "title": "Review on PR #1392",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
+          "title": "Review on PR #1536",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1536",
           "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
           "points": 4
         },
         {
           "username": "Me-Priyank",
           "name": null,
-          "title": "Closed issue #1391 - 🐞 Bug - Combinational Analysis Truth Table lacks Close/Cancel button (trapping user in modal) and table is uncentered",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1391",
+          "title": "Closed issue #1511 - 🐞 Bug - ConstantVal double-click does not update connected outputs when Clock Enabled is off",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
           "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
           "points": 1
         },
         {
-          "username": "Harkeerat24",
+          "username": "Me-Priyank",
           "name": null,
-          "title": "Review on PR #1429",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1429",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "title": "Closed issue #1535 - 🐞 Bug - Decoder Verilog export passes an unsupported width parameter",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1535",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "points": 1
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "fix(simulator) - update outputs after ConstantVal double-click",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1512",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 5
+        },
+        {
+          "username": "ManyaJain111",
+          "name": null,
+          "title": "fix - block new OAuth sign-ups when registration is blocked (#8139)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8178",
+          "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
+          "points": 2
+        },
+        {
+          "username": "JituRewar",
+          "name": null,
+          "title": "Review on PR #1532",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1532",
+          "avatar_url": "https://avatars.githubusercontent.com/u/229604335?u=cee901c508a5182a886a45939876e54c43ea71a5&v=4",
           "points": 4
         },
         {
-          "username": "Harkeerat24",
+          "username": "Somilg11",
           "name": null,
-          "title": "Closed issue #1420 - typecheck(v1) - one-line use-site fixes batch — subcircuit, utils, zoom, layout, hotkeys (7 errors)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1420",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 1
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "fix - bump rack and addressable to resolve bundler-audit advisories (#8116)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8117",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "title": "fix - correct LSB and MSB Verilog exports (#1538)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1539",
+          "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
           "points": 2
         },
         {
-          "username": "aryan7071",
+          "username": "Somilg11",
           "name": null,
-          "title": "fix - install libjitterentropy3-dev so rugged builds on ubuntu-26.04 CI (#8114)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8115",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "🐞 BugCI lint fails on bundler-audit - new advisories for rack 3.2.6 and addressable 2.9.0",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 1
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "🐞 Bug - CI bundle install fails on ubuntu-26.04 - rugged can't link (missing libjitterentropy)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8114",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 1
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8116 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8116 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8114 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8114",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Perf/timing diagram idle polling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1494",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 1
-        },
-        {
-          "username": "tushaar-05",
-          "name": null,
-          "title": "fix(v1) - one-line use-site fixes batch - subcircuit, utils, zoom, layout, hotkeys (#1420)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1429",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
+          "title": "fix - omit unsupported Decoder width parameter (#1535)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1536",
+          "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
           "points": 5
         },
         {
-          "username": "tushaar-05",
+          "username": "Somilg11",
           "name": null,
-          "title": "fix(ui) - add close/back buttons to truth table and center table layout (#1391)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1392",
-          "avatar_url": "https://avatars.githubusercontent.com/u/131668855?v=4",
-          "points": 5
+          "title": "🐞 Bug - LSB/MSB Verilog export returns incorrect bit positions and leaves valid output undriven",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1538",
+          "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
+          "points": 1
         },
         {
-          "username": "Psykii22",
+          "username": "Somilg11",
           "name": null,
-          "title": "fix - move element tooltip from right to left side",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1492",
-          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "title": "Labeled issue #1538 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1538",
+          "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
           "points": 2
         },
         {
-          "username": "kushald121",
+          "username": "Goblin-24",
           "name": null,
-          "title": "fix - handle geocoder system errors and stub test lookups (#8081)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8113",
-          "avatar_url": "https://avatars.githubusercontent.com/u/188738420?v=4",
+          "title": "feat(v1) - interactive mouse drag resizing and constant highlight for Rectangle annotation",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1540",
+          "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
+          "points": 2
+        },
+        {
+          "username": "Anbu200224",
+          "name": null,
+          "title": "fix - prevent signed_id error for unpersisted profile picture (#8174)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8177",
+          "avatar_url": "https://avatars.githubusercontent.com/u/263539670?v=4",
           "points": 2
         }
       ]
@@ -467,128 +419,6 @@
       ]
     ],
     [
-      "2026-11-09",
-      [
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "style - fix argument alignment in toggle_star_spec (#8142)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8143",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Lint - RuboCop ArgumentAlignment offenses in toggle_star_spec.rb on master",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 1
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8142 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8142 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "hanshu922",
-          "name": null,
-          "title": "Fix - LTI grade passback score for letter and custom grading scales (#8144)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8144",
-          "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashaswit24-source",
-          "name": null,
-          "title": "Fix HTML lang attribute formatting",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8141",
-          "avatar_url": "https://avatars.githubusercontent.com/u/304998064?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-11-05",
-      [
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "refactor - read project previews from ActiveStorage with CarrierWave fallback (#7902)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8129",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "fix(simulator) - update outputs after ConstantVal double-click",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1512",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "🐞 Bug - ConstantVal double-click does not update connected outputs when Clock Enabled is off",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 1
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Labeled issue #1511 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Labeled issue #1511 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
-          "username": "Goblin-24",
-          "name": null,
-          "title": "fix - theme selection, preview rollback, and custom apply (#1504)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
-          "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
-          "points": 2
-        },
-        {
-          "username": "tirth-patel06",
-          "name": null,
-          "title": "feat(v1) - add Beautify Circuit using existing auto-layout pipeline",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1510",
-          "avatar_url": "https://avatars.githubusercontent.com/u/185243371?v=4",
-          "points": 2
-        },
-        {
-          "username": "motalib6",
-          "name": null,
-          "title": "fix(v1) - align left/right labels in layout mode with subcircuit labels (#830)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1509",
-          "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
       "2026-11-11",
       [
         {
@@ -661,6 +491,128 @@
           "title": "Labeled issue #8164 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8164",
           "avatar_url": "https://avatars.githubusercontent.com/u/216526196?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-11-05",
+      [
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "fix(simulator) - update outputs after ConstantVal double-click",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1512",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "🐞 Bug - ConstantVal double-click does not update connected outputs when Clock Enabled is off",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 1
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "Labeled issue #1511 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "Labeled issue #1511 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "refactor - read project previews from ActiveStorage with CarrierWave fallback (#7902)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8129",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "Goblin-24",
+          "name": null,
+          "title": "fix - theme selection, preview rollback, and custom apply (#1504)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
+          "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
+          "points": 2
+        },
+        {
+          "username": "tirth-patel06",
+          "name": null,
+          "title": "feat(v1) - add Beautify Circuit using existing auto-layout pipeline",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1510",
+          "avatar_url": "https://avatars.githubusercontent.com/u/185243371?v=4",
+          "points": 2
+        },
+        {
+          "username": "motalib6",
+          "name": null,
+          "title": "fix(v1) - align left/right labels in layout mode with subcircuit labels (#830)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1509",
+          "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-11-09",
+      [
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "style - fix argument alignment in toggle_star_spec (#8142)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8143",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "Lint - RuboCop ArgumentAlignment offenses in toggle_star_spec.rb on master",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 1
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "Labeled issue #8142 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "Labeled issue #8142 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "hanshu922",
+          "name": null,
+          "title": "Fix - LTI grade passback score for letter and custom grading scales (#8144)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8144",
+          "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
+          "points": 2
+        },
+        {
+          "username": "yashaswit24-source",
+          "name": null,
+          "title": "Fix HTML lang attribute formatting",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8141",
+          "avatar_url": "https://avatars.githubusercontent.com/u/304998064?v=4",
           "points": 2
         }
       ]
@@ -879,30 +831,6 @@
           "points": 4
         },
         {
-          "username": "Saniya-r-Shaikh",
-          "name": null,
-          "title": "fix(ui) - default empty project name to \"Untitled\" on blur",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1506",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
-          "points": 2
-        },
-        {
-          "username": "Saniya-r-Shaikh",
-          "name": null,
-          "title": "🐞 Bug - Clearing the project name leaves it empty instead of defaulting to \"Untitled\"",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1505",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
-          "points": 1
-        },
-        {
-          "username": "Saniya-r-Shaikh",
-          "name": null,
-          "title": "Labeled issue #1505 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1505",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
-          "points": 2
-        },
-        {
           "username": "Goblin-24",
           "name": null,
           "title": "fix - resolve themes dialog selection, rollback, and custom theme persistence (#1504)",
@@ -935,6 +863,30 @@
           "points": 2
         },
         {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "fix(ui) - default empty project name to \"Untitled\" on blur",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1506",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 2
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "🐞 Bug - Clearing the project name leaves it empty instead of defaulting to \"Untitled\"",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1505",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 1
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "Labeled issue #1505 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1505",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 2
+        },
+        {
           "username": "hanshu922",
           "name": null,
           "title": "🐞 Bug - Windows setup docs list Ruby 3.2.1 but the project requires Ruby >= 3.3",
@@ -964,59 +916,6 @@
           "title": "fix - reject non-HTML simulator editor requests (#8118)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8123",
           "avatar_url": "https://avatars.githubusercontent.com/u/328323946?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-11-08",
-      [
-        {
-          "username": "Psykii22",
-          "name": null,
-          "title": "feat - add Verilog export support for arithmetic modules",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1527",
-          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-          "points": 2
-        },
-        {
-          "username": "Psykii22",
-          "name": null,
-          "title": "Feature - Add Verilog export support for arithmetic modules (verilogMultiplier, verilogDivider, verilogPower, verilogShiftLeft, verilogShiftRight)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1526",
-          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-          "points": 1
-        },
-        {
-          "username": "Psykii22",
-          "name": null,
-          "title": "Labeled issue #1526 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1526",
-          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
-          "points": 2
-        },
-        {
-          "username": "motalib6",
-          "name": null,
-          "title": "feat - add central logging system with leveled logs (#630)",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/683",
-          "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
-          "points": 2
-        },
-        {
-          "username": "pitaya7",
-          "name": null,
-          "title": "docs - update ruby version in linux setup docs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8140",
-          "avatar_url": "https://avatars.githubusercontent.com/u/161907894?v=4",
-          "points": 2
-        },
-        {
-          "username": "yash2006kr",
-          "name": null,
-          "title": "fix - ignore invalid clipboard data on paste (#1486)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1525",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148343851?v=4",
           "points": 2
         }
       ]
@@ -1094,6 +993,59 @@
           "title": "Allow deployment-specific Sidekiq Redis network timeouts",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8160",
           "avatar_url": "https://avatars.githubusercontent.com/u/217444297?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-11-08",
+      [
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "feat - add Verilog export support for arithmetic modules",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1527",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 2
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "Feature - Add Verilog export support for arithmetic modules (verilogMultiplier, verilogDivider, verilogPower, verilogShiftLeft, verilogShiftRight)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1526",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 1
+        },
+        {
+          "username": "Psykii22",
+          "name": null,
+          "title": "Labeled issue #1526 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1526",
+          "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
+          "points": 2
+        },
+        {
+          "username": "motalib6",
+          "name": null,
+          "title": "feat - add central logging system with leveled logs (#630)",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/683",
+          "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
+          "points": 2
+        },
+        {
+          "username": "pitaya7",
+          "name": null,
+          "title": "docs - update ruby version in linux setup docs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8140",
+          "avatar_url": "https://avatars.githubusercontent.com/u/161907894?v=4",
+          "points": 2
+        },
+        {
+          "username": "yash2006kr",
+          "name": null,
+          "title": "fix - ignore invalid clipboard data on paste (#1486)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1525",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148343851?v=4",
           "points": 2
         }
       ]

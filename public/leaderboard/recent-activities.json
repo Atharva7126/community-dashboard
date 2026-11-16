@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794713298647,
+  "updatedAt": 1794799718679,
   "groups": [
     [
       "2026-11-12",
@@ -326,95 +326,209 @@
       ]
     ],
     [
-      "2026-11-02",
+      "2026-11-15",
       [
         {
-          "username": "tachyons",
+          "username": "aryan7071",
           "name": null,
-          "title": "Closed issue #1493 - Performance - Avoid unnecessary Timing Diagram updates when panel is hidden",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1493",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "title": "🐞 Bug Setup docs list outdated Ruby versions across all guides",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8180",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
           "points": 1
         },
         {
-          "username": "magic-peach",
+          "username": "aryan7071",
           "name": null,
-          "title": "docs - Akanksha Trehun GSoC 2026 final report",
-          "link": "https://github.com/CircuitVerse/Blog/pull/280",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146705736?v=4",
+          "title": "Labeled issue #8180 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8180",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
           "points": 2
         },
         {
-          "username": "Harkeerat24",
+          "username": "UwaisBaig",
           "name": null,
-          "title": "docs - make the structured format final report beginner friendly",
-          "link": "https://github.com/CircuitVerse/Blog/pull/279",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 5
+          "title": "style(users) - preserve aspect ratio with object-fit cover on profile pictures (#8164)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8185",
+          "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
+          "points": 2
+        },
+        {
+          "username": "UwaisBaig",
+          "name": null,
+          "title": "i18n(hi) - add missing Hindi translations for homepage and navbar (#8181)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8184",
+          "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
+          "points": 2
+        },
+        {
+          "username": "UwaisBaig",
+          "name": null,
+          "title": "fix(simulator) - respond with 406 on unsupported formats instead of missing template 500 (#8118)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8183",
+          "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
+          "points": 2
+        },
+        {
+          "username": "UwaisBaig",
+          "name": null,
+          "title": "fix(users) - avoid calling signed_id on unpersisted profile picture blobs (#8174)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8182",
+          "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
+          "points": 2
+        },
+        {
+          "username": "swastik-basu",
+          "name": null,
+          "title": "🐞 Bug - Homepage contains untranslated English text when Hindi locale is selected",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8181",
+          "avatar_url": "https://avatars.githubusercontent.com/u/147093746?v=4",
+          "points": 1
+        },
+        {
+          "username": "swastik-basu",
+          "name": null,
+          "title": "Labeled issue #8181 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8181",
+          "avatar_url": "https://avatars.githubusercontent.com/u/147093746?v=4",
+          "points": 2
+        },
+        {
+          "username": "Princess0407",
+          "name": null,
+          "title": "Security - Upgrade Rails 8.1.3.1 → 8.1.4.1 (High severity advisories)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8186",
+          "avatar_url": "https://avatars.githubusercontent.com/u/109491718?v=4",
+          "points": 1
+        },
+        {
+          "username": "KrishangeeTayal",
+          "name": null,
+          "title": "Potential v1 auto-layout issue - downstream devices collapse into the same layer after a feedback loop",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1541",
+          "avatar_url": "https://avatars.githubusercontent.com/u/244515928?v=4",
+          "points": 1
+        }
+      ]
+    ],
+    [
+      "2026-11-09",
+      [
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "style - fix argument alignment in toggle_star_spec (#8142)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8143",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "Lint - RuboCop ArgumentAlignment offenses in toggle_star_spec.rb on master",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 1
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "Labeled issue #8142 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "Labeled issue #8142 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
+        },
+        {
+          "username": "hanshu922",
+          "name": null,
+          "title": "Fix - LTI grade passback score for letter and custom grading scales (#8144)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8144",
+          "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
+          "points": 2
+        },
+        {
+          "username": "yashaswit24-source",
+          "name": null,
+          "title": "Fix HTML lang attribute formatting",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8141",
+          "avatar_url": "https://avatars.githubusercontent.com/u/304998064?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-11-05",
+      [
+        {
+          "username": "aryan7071",
+          "name": null,
+          "title": "refactor - read project previews from ActiveStorage with CarrierWave fallback (#7902)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8129",
+          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+          "points": 2
         },
         {
           "username": "yashveer-1",
           "name": null,
-          "title": "perf(v1) - guard clockTick on static circuits without clock elements",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1496",
+          "title": "fix(simulator) - update outputs after ConstantVal double-click",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1512",
           "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
           "points": 2
         },
         {
           "username": "yashveer-1",
           "name": null,
-          "title": "Perf/timing diagram idle polling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1494",
+          "title": "🐞 Bug - ConstantVal double-click does not update connected outputs when Clock Enabled is off",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
           "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 5
+          "points": 1
         },
         {
           "username": "yashveer-1",
           "name": null,
-          "title": "perf - avoid unnecessary clock polling when circuits contain no Clock components",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1495",
+          "title": "Labeled issue #1511 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
           "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 1
-        },
-        {
-          "username": "Saniya-r-Shaikh",
-          "name": null,
-          "title": "fix(ui) - allow clearing circuit name field and apply \"Untitled\" fallback on blur",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1500",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
           "points": 2
         },
         {
-          "username": "Saniya-r-Shaikh",
+          "username": "yashveer-1",
           "name": null,
-          "title": "🐞 Bug - Circuit name resets to \"Untitled\" on every keystroke, so the field cannot be cleared",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1499",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
-          "points": 1
-        },
-        {
-          "username": "Saniya-r-Shaikh",
-          "name": null,
-          "title": "Labeled issue #1499 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1499",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "title": "Labeled issue #1511 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
           "points": 2
         },
         {
-          "username": "Saniya-r-Shaikh",
+          "username": "Goblin-24",
           "name": null,
-          "title": "Labeled issue #1499 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1499",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "title": "fix - theme selection, preview rollback, and custom apply (#1504)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
+          "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
+          "points": 2
+        },
+        {
+          "username": "tirth-patel06",
+          "name": null,
+          "title": "feat(v1) - add Beautify Circuit using existing auto-layout pipeline",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1510",
+          "avatar_url": "https://avatars.githubusercontent.com/u/185243371?v=4",
           "points": 2
         },
         {
           "username": "motalib6",
           "name": null,
-          "title": "Bug - Deleting a circuit tab that is used as a SubCircuit breaks the parent circuit with \"Not found\" - no warning before delete",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1497",
+          "title": "fix(v1) - align left/right labels in layout mode with subcircuit labels (#830)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1509",
           "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
-          "points": 1
+          "points": 2
         }
       ]
     ],
@@ -491,128 +605,6 @@
           "title": "Labeled issue #8164 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8164",
           "avatar_url": "https://avatars.githubusercontent.com/u/216526196?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-11-05",
-      [
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "fix(simulator) - update outputs after ConstantVal double-click",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1512",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "🐞 Bug - ConstantVal double-click does not update connected outputs when Clock Enabled is off",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 1
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Labeled issue #1511 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Labeled issue #1511 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "refactor - read project previews from ActiveStorage with CarrierWave fallback (#7902)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8129",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "Goblin-24",
-          "name": null,
-          "title": "fix - theme selection, preview rollback, and custom apply (#1504)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
-          "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
-          "points": 2
-        },
-        {
-          "username": "tirth-patel06",
-          "name": null,
-          "title": "feat(v1) - add Beautify Circuit using existing auto-layout pipeline",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1510",
-          "avatar_url": "https://avatars.githubusercontent.com/u/185243371?v=4",
-          "points": 2
-        },
-        {
-          "username": "motalib6",
-          "name": null,
-          "title": "fix(v1) - align left/right labels in layout mode with subcircuit labels (#830)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1509",
-          "avatar_url": "https://avatars.githubusercontent.com/u/212304150?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-11-09",
-      [
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "style - fix argument alignment in toggle_star_spec (#8142)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8143",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Lint - RuboCop ArgumentAlignment offenses in toggle_star_spec.rb on master",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 1
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8142 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8142 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "hanshu922",
-          "name": null,
-          "title": "Fix - LTI grade passback score for letter and custom grading scales (#8144)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8144",
-          "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashaswit24-source",
-          "name": null,
-          "title": "Fix HTML lang attribute formatting",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8141",
-          "avatar_url": "https://avatars.githubusercontent.com/u/304998064?v=4",
           "points": 2
         }
       ]

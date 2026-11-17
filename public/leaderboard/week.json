@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1794799718671,
-  "startDate": "2026-11-09",
-  "endDate": "2026-11-16",
+  "updatedAt": 1794893282393,
+  "startDate": "2026-11-10",
+  "endDate": "2026-11-17",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,15 +11,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
       "role": "Contributor",
-      "total_points": 39,
+      "total_points": 44,
       "activity_breakdown": {
+        "PR merged": {
+          "count": 3,
+          "points": 15
+        },
         "PR opened": {
           "count": 4,
           "points": 8
-        },
-        "PR merged": {
-          "count": 2,
-          "points": 10
         },
         "Issue opened": {
           "count": 5,
@@ -31,6 +31,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-16",
+          "count": 1,
+          "points": 5
+        },
         {
           "date": "2026-11-14",
           "count": 4,
@@ -58,6 +63,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-16T17:11:18Z",
+          "title": "fix - correct LSB and MSB Verilog exports (#1538)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1539",
+          "points": 5
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-11-14T20:08:10Z",
@@ -198,18 +210,23 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
       "role": "Contributor",
-      "total_points": 20,
+      "total_points": 25,
       "activity_breakdown": {
         "Review submitted": {
-          "count": 4,
-          "points": 16
+          "count": 5,
+          "points": 20
         },
         "Issue closed": {
-          "count": 4,
-          "points": 4
+          "count": 5,
+          "points": 5
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-16",
+          "count": 2,
+          "points": 5
+        },
         {
           "date": "2026-11-14",
           "count": 3,
@@ -227,6 +244,20 @@
         }
       ],
       "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-11-16T17:11:06Z",
+          "title": "Review on PR #1539",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1539",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-11-16T17:11:21Z",
+          "title": "Closed issue #1538 - 🐞 Bug - LSB/MSB Verilog export returns incorrect bit positions and leaves valid output undriven",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1538",
+          "points": 1
+        },
         {
           "type": "Review submitted",
           "occured_at": "2026-11-14T07:38:32Z",
@@ -290,26 +321,31 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
       "role": "Contributor",
-      "total_points": 12,
+      "total_points": 17,
       "activity_breakdown": {
         "PR opened": {
-          "count": 1,
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 2,
           "points": 2
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
         },
         "PR merged": {
           "count": 1,
           "points": 5
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-16",
+          "count": 3,
+          "points": 5
+        },
         {
           "date": "2026-11-14",
           "count": 1,
@@ -322,6 +358,27 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-16T14:01:15Z",
+          "title": "refactor(properties-panel) - rename panleBodyData to panelBodyData (#1542)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1543",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-16T13:35:38Z",
+          "title": "🐞 Bug - Typo in PropertiesPanel prop name panleBodyData across desktop and child components",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-16T13:35:40Z",
+          "title": "Labeled issue #1542 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-11-14T21:08:41Z",
@@ -360,78 +417,63 @@
       ]
     },
     {
-      "username": "aryan7071",
+      "username": "UwaisBaig",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
       "role": "Contributor",
       "total_points": 10,
       "activity_breakdown": {
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 3,
-          "points": 6
-        },
         "PR opened": {
-          "count": 1,
-          "points": 2
+          "count": 5,
+          "points": 10
         }
       },
       "daily_activity": [
         {
-          "date": "2026-11-15",
-          "count": 2,
-          "points": 3
+          "date": "2026-11-16",
+          "count": 1,
+          "points": 2
         },
         {
-          "date": "2026-11-09",
+          "date": "2026-11-15",
           "count": 4,
-          "points": 7
+          "points": 8
         }
       ],
       "activities": [
         {
-          "type": "Issue opened",
-          "occured_at": "2026-11-15T09:09:03Z",
-          "title": "🐞 Bug Setup docs list outdated Ruby versions across all guides",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8180",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-15T09:09:05Z",
-          "title": "Labeled issue #8180 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8180",
+          "type": "PR opened",
+          "occured_at": "2026-11-16T19:31:06Z",
+          "title": "fix(simulator) - move projectSavedSet to after confirmed save and fix jQuery error callback (#8187)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8190",
           "points": 2
         },
         {
           "type": "PR opened",
-          "occured_at": "2026-11-09T14:45:26Z",
-          "title": "style - fix argument alignment in toggle_star_spec (#8142)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8143",
+          "occured_at": "2026-11-15T17:51:07Z",
+          "title": "style(users) - preserve aspect ratio with object-fit cover on profile pictures (#8164)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8185",
           "points": 2
         },
         {
-          "type": "Issue opened",
-          "occured_at": "2026-11-09T14:40:39Z",
-          "title": "Lint - RuboCop ArgumentAlignment offenses in toggle_star_spec.rb on master",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-09T14:40:40Z",
-          "title": "Labeled issue #8142 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
+          "type": "PR opened",
+          "occured_at": "2026-11-15T17:43:39Z",
+          "title": "i18n(hi) - add missing Hindi translations for homepage and navbar (#8181)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8184",
           "points": 2
         },
         {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-09T14:40:41Z",
-          "title": "Labeled issue #8142 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
+          "type": "PR opened",
+          "occured_at": "2026-11-15T17:40:55Z",
+          "title": "fix(simulator) - respond with 406 on unsupported formats instead of missing template 500 (#8118)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8183",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-15T17:38:22Z",
+          "title": "fix(users) - avoid calling signed_id on unpersisted profile picture blobs (#8174)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8182",
           "points": 2
         }
       ]
@@ -493,65 +535,15 @@
       ]
     },
     {
-      "username": "UwaisBaig",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
-      "role": "Contributor",
-      "total_points": 8,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-15",
-          "count": 4,
-          "points": 8
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-15T17:51:07Z",
-          "title": "style(users) - preserve aspect ratio with object-fit cover on profile pictures (#8164)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8185",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-15T17:43:39Z",
-          "title": "i18n(hi) - add missing Hindi translations for homepage and navbar (#8181)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8184",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-15T17:40:55Z",
-          "title": "fix(simulator) - respond with 406 on unsupported formats instead of missing template 500 (#8118)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8183",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-15T17:38:22Z",
-          "title": "fix(users) - avoid calling signed_id on unpersisted profile picture blobs (#8174)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8182",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "hanshu922",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
       "role": "Contributor",
-      "total_points": 8,
+      "total_points": 6,
       "activity_breakdown": {
         "PR opened": {
-          "count": 4,
-          "points": 8
+          "count": 3,
+          "points": 6
         }
       },
       "daily_activity": [
@@ -564,11 +556,6 @@
           "date": "2026-11-10",
           "count": 2,
           "points": 4
-        },
-        {
-          "date": "2026-11-09",
-          "count": 1,
-          "points": 2
         }
       ],
       "activities": [
@@ -591,13 +578,6 @@
           "occured_at": "2026-11-10T12:37:53Z",
           "title": "fix(testbench) - add validateBinding to avoid TypeError on missing lab… (#8014)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8149",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-09T17:01:07Z",
-          "title": "Fix - LTI grade passback score for letter and custom grading scales (#8144)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8144",
           "points": 2
         }
       ]
@@ -647,6 +627,69 @@
           "title": "fix - handle relative launch_presentation_return_url (#7169)",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8155",
           "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Princess0407",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/109491718?v=4",
+      "role": "Contributor",
+      "total_points": 6,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-16",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-11-15",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-16T06:48:09Z",
+          "title": "fix(simulator) - mark project saved only after confirmed AJAX response",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8188",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-16T06:16:45Z",
+          "title": "🐞 Bug - failed save silently marks project as saved, suppressing unsaved changes warning on navigation",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8187",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-16T06:16:46Z",
+          "title": "Labeled issue #8187 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8187",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-15T20:29:14Z",
+          "title": "Security - Upgrade Rails 8.1.3.1 → 8.1.4.1 (High severity advisories)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8186",
+          "points": 1
         }
       ]
     },
@@ -816,6 +859,46 @@
       ]
     },
     {
+      "username": "aryan7071",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-15",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-15T09:09:03Z",
+          "title": "🐞 Bug Setup docs list outdated Ruby versions across all guides",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8180",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-15T09:09:05Z",
+          "title": "Labeled issue #8180 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8180",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "swastik-basu",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/147093746?v=4",
@@ -851,35 +934,6 @@
           "occured_at": "2026-11-15T10:15:33Z",
           "title": "Labeled issue #8181 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8181",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "harikrishna-au",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/169121181?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-10",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-10T01:32:10Z",
-          "title": "fix - show error view with retry when featured projects fail to load (#84)",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/684",
           "points": 2
         }
       ]
@@ -997,64 +1051,6 @@
           "title": "Allow deployment-specific Sidekiq Redis network timeouts",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8160",
           "points": 2
-        }
-      ]
-    },
-    {
-      "username": "yashaswit24-source",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/304998064?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-09",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-09T07:36:35Z",
-          "title": "Fix HTML lang attribute formatting",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8141",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Princess0407",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/109491718?v=4",
-      "role": "Contributor",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-15",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-15T20:29:14Z",
-          "title": "Security - Upgrade Rails 8.1.3.1 → 8.1.4.1 (High severity advisories)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8186",
-          "points": 1
         }
       ]
     },

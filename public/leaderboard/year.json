@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1794893282377,
-  "lastFetchedAt": 1794893282377,
-  "startDate": "2025-11-17",
-  "endDate": "2026-11-17",
+  "updatedAt": 1794977660746,
+  "lastFetchedAt": 1794977660746,
+  "startDate": "2025-11-18",
+  "endDate": "2026-11-18",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -12,11 +12,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
       "role": "Contributor",
-      "total_points": 1124,
+      "total_points": 1132,
       "activity_breakdown": {
         "Review submitted": {
-          "count": 66,
-          "points": 264
+          "count": 68,
+          "points": 272
         },
         "Issue closed": {
           "count": 68,
@@ -40,6 +40,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-17",
+          "count": 2,
+          "points": 8
+        },
         {
           "date": "2026-11-12",
           "count": 1,
@@ -807,6 +812,20 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-11-17T21:06:51Z",
+          "title": "Review on PR #8137",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8137",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-11-17T21:00:00Z",
+          "title": "Review on PR #1543",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1543",
+          "points": 4
+        },
         {
           "type": "Review submitted",
           "occured_at": "2026-11-12T21:15:39Z",
@@ -4235,7 +4254,7 @@
     {
       "username": "Me-Priyank",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
       "total_points": 906,
       "activity_breakdown": {
@@ -8085,11 +8104,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
       "role": "Maintainer",
-      "total_points": 880,
+      "total_points": 882,
       "activity_breakdown": {
         "Issue closed": {
-          "count": 380,
-          "points": 380
+          "count": 382,
+          "points": 382
         },
         "Issue opened": {
           "count": 51,
@@ -8113,6 +8132,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-17",
+          "count": 2,
+          "points": 2
+        },
         {
           "date": "2026-11-02",
           "count": 1,
@@ -8755,6 +8779,20 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-11-17T14:30:08Z",
+          "title": "Closed issue #8142 - Lint - RuboCop ArgumentAlignment offenses in toggle_star_spec.rb on master",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-11-17T14:30:06Z",
+          "title": "Closed issue #8116 - 🐞 BugCI lint fails on bundler-audit - new advisories for rack 3.2.6 and addressable 2.9.0",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
+          "points": 1
+        },
         {
           "type": "Issue closed",
           "occured_at": "2026-11-02T05:11:21Z",
@@ -33406,8 +33444,12 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
       "role": "Contributor",
-      "total_points": 170,
+      "total_points": 175,
       "activity_breakdown": {
+        "PR merged": {
+          "count": 11,
+          "points": 55
+        },
         "Issue opened": {
           "count": 14,
           "points": 14
@@ -33419,13 +33461,14 @@
         "PR opened": {
           "count": 33,
           "points": 66
-        },
-        "PR merged": {
-          "count": 10,
-          "points": 50
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-17",
+          "count": 1,
+          "points": 5
+        },
         {
           "date": "2026-11-15",
           "count": 2,
@@ -33603,6 +33646,13 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-17T14:30:02Z",
+          "title": "fix - bump rails to 8.1.4.1, rack, addressable, loofah, nokogiri and rails-html-sanitizer (#8116)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8117",
+          "points": 5
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-11-15T09:09:03Z",
@@ -34149,8 +34199,16 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
       "role": "Contributor",
-      "total_points": 169,
+      "total_points": 172,
       "activity_breakdown": {
+        "Issue opened": {
+          "count": 25,
+          "points": 25
+        },
+        "Issue labeled": {
+          "count": 13,
+          "points": 26
+        },
         "PR merged": {
           "count": 11,
           "points": 55
@@ -34158,17 +34216,14 @@
         "PR opened": {
           "count": 33,
           "points": 66
-        },
-        "Issue opened": {
-          "count": 24,
-          "points": 24
-        },
-        "Issue labeled": {
-          "count": 12,
-          "points": 24
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-17",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-11-14",
           "count": 1,
@@ -34381,6 +34436,20 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-17T12:18:56Z",
+          "title": "🐞 Bug - Red bar appears on canvas edge and extreme over-zoom occurs when using Fit to View (F) on small selection",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1547",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-17T12:18:58Z",
+          "title": "Labeled issue #1547 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1547",
+          "points": 2
+        },
         {
           "type": "PR merged",
           "occured_at": "2026-11-14T15:58:21Z",
@@ -55405,6 +55474,123 @@
       ]
     },
     {
+      "username": "Princess0407",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/109491718?v=4",
+      "role": "Contributor",
+      "total_points": 18,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        },
+        "Issue opened": {
+          "count": 4,
+          "points": 4
+        },
+        "Issue labeled": {
+          "count": 4,
+          "points": 8
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-17",
+          "count": 7,
+          "points": 12
+        },
+        {
+          "date": "2026-11-16",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-11-15",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-17T13:57:48Z",
+          "title": "fix - guard projectSavedSet with revision counter to prevent race cond…",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1548",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-17T09:53:58Z",
+          "title": "fix - move projectSavedSet into fetch success branch and handle catch …",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1545",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-17T10:25:16Z",
+          "title": "🐞 Bug - edit during in-flight save can silently discard unsaved-changes warnin",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1546",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-17T07:42:15Z",
+          "title": "🐞 Bug - projectSavedSet called before fetch completes, masking save failures and unsaved changes warning",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1544",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-17T07:42:16Z",
+          "title": "Labeled issue #1544 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1544",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-17T07:42:17Z",
+          "title": "Labeled issue #1544 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1544",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-17T10:25:17Z",
+          "title": "Labeled issue #1546 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1546",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-16T06:48:09Z",
+          "title": "fix(simulator) - mark project saved only after confirmed AJAX response",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8188",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-16T06:16:45Z",
+          "title": "🐞 Bug - failed save silently marks project as saved, suppressing unsaved changes warning on navigation",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8187",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-16T06:16:46Z",
+          "title": "Labeled issue #8187 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8187",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-15T20:29:14Z",
+          "title": "Security - Upgrade Rails 8.1.3.1 → 8.1.4.1 (High severity advisories)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8186",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "Saksham-Gupta-GH",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/222087587?v=4",
@@ -63279,69 +63465,6 @@
       ]
     },
     {
-      "username": "Princess0407",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/109491718?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-16",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-11-15",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-16T06:48:09Z",
-          "title": "fix(simulator) - mark project saved only after confirmed AJAX response",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8188",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-16T06:16:45Z",
-          "title": "🐞 Bug - failed save silently marks project as saved, suppressing unsaved changes warning on navigation",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8187",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-16T06:16:46Z",
-          "title": "Labeled issue #8187 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8187",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-15T20:29:14Z",
-          "title": "Security - Upgrade Rails 8.1.3.1 → 8.1.4.1 (High severity advisories)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8186",
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "knowprasad",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/144908638?v=4",
@@ -67629,6 +67752,91 @@
           "title": "Review on PR #5367",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/5367",
           "points": 4
+        }
+      ]
+    },
+    {
+      "username": "KrishangeeTayal",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/244515928?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-17",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-15",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-17T21:35:07Z",
+          "title": "fix - preserve downstream layout after feedback loops",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1549",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-15T14:56:37Z",
+          "title": "Potential v1 auto-layout issue - downstream devices collapse into the same layer after a feedback loop",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1541",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "karthik120710",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/91374842?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-18",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T04:14:11Z",
+          "title": "🐞 Bug`Security Facebook OAuth access token passed as URL query parameter`",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8192",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T04:14:12Z",
+          "title": "Labeled issue #8192 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8192",
+          "points": 2
         }
       ]
     },
@@ -73095,35 +73303,6 @@
           "occured_at": "2025-12-03T17:59:36Z",
           "title": "Dark Mode Bug - Disqus Sign-Up Input Background Stays Light",
           "link": "https://github.com/CircuitVerse/Interactive-Book/issues/737",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "KrishangeeTayal",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/244515928?v=4",
-      "role": "Contributor",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-15",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-15T14:56:37Z",
-          "title": "Potential v1 auto-layout issue - downstream devices collapse into the same layer after a feedback loop",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1541",
           "points": 1
         }
       ]

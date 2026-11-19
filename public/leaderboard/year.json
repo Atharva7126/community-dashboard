@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1794977660746,
-  "lastFetchedAt": 1794977660746,
-  "startDate": "2025-11-18",
-  "endDate": "2026-11-18",
+  "updatedAt": 1795063588393,
+  "lastFetchedAt": 1795063588393,
+  "startDate": "2025-11-19",
+  "endDate": "2026-11-19",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -33444,26 +33444,31 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
       "role": "Contributor",
-      "total_points": 175,
+      "total_points": 180,
       "activity_breakdown": {
+        "PR opened": {
+          "count": 34,
+          "points": 68
+        },
+        "Issue opened": {
+          "count": 15,
+          "points": 15
+        },
+        "Issue labeled": {
+          "count": 21,
+          "points": 42
+        },
         "PR merged": {
           "count": 11,
           "points": 55
-        },
-        "Issue opened": {
-          "count": 14,
-          "points": 14
-        },
-        "Issue labeled": {
-          "count": 20,
-          "points": 40
-        },
-        "PR opened": {
-          "count": 33,
-          "points": 66
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-18",
+          "count": 3,
+          "points": 5
+        },
         {
           "date": "2026-11-17",
           "count": 1,
@@ -33646,6 +33651,27 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-18T18:58:07Z",
+          "title": "fix - bump puma, sanitize, omniauth and msgpack for bundler-audit advisories (#8196)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8197",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T18:34:06Z",
+          "title": "🐞 Bug bundler-audit fails on master - new advisories for puma, sanitize, omniauth and msgpack",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8196",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T18:34:08Z",
+          "title": "Labeled issue #8196 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8196",
+          "points": 2
+        },
         {
           "type": "PR merged",
           "occured_at": "2026-11-17T14:30:02Z",
@@ -34199,15 +34225,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
       "role": "Contributor",
-      "total_points": 172,
+      "total_points": 178,
       "activity_breakdown": {
         "Issue opened": {
-          "count": 25,
-          "points": 25
+          "count": 27,
+          "points": 27
         },
         "Issue labeled": {
-          "count": 13,
-          "points": 26
+          "count": 15,
+          "points": 30
         },
         "PR merged": {
           "count": 11,
@@ -34219,6 +34245,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-18",
+          "count": 4,
+          "points": 6
+        },
         {
           "date": "2026-11-17",
           "count": 2,
@@ -34436,6 +34467,34 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T12:23:29Z",
+          "title": "🐞 Bug - Cannot type spaces when renaming an existing circuit/sheet in Properties panel",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1553",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T11:05:34Z",
+          "title": "🐞 Bug - Double-clicking subcircuit fails to update Project Properties panel and active tab highlight",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1552",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T11:05:36Z",
+          "title": "Labeled issue #1552 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1552",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T12:23:30Z",
+          "title": "Labeled issue #1553 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1553",
+          "points": 2
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-11-17T12:18:56Z",
@@ -49925,6 +49984,182 @@
       ]
     },
     {
+      "username": "Goblin-24",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
+      "role": "Contributor",
+      "total_points": 31,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 4,
+          "points": 4
+        },
+        "Issue labeled": {
+          "count": 6,
+          "points": 12
+        },
+        "PR opened": {
+          "count": 5,
+          "points": 10
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-18",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-11-16",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-11-14",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-13",
+          "count": 4,
+          "points": 10
+        },
+        {
+          "date": "2026-11-05",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-04",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2026-10-29",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T13:40:03Z",
+          "title": "🐞 Bug - Recover Project fails for unsaved project work in v0 dev and build version",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1554",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T13:40:05Z",
+          "title": "Labeled issue #1554 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1554",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-16T14:01:15Z",
+          "title": "refactor(properties-panel) - rename panleBodyData to panelBodyData (#1542)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1543",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-16T13:35:38Z",
+          "title": "🐞 Bug - Typo in PropertiesPanel prop name panleBodyData across desktop and child components",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-16T13:35:40Z",
+          "title": "Labeled issue #1542 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-14T21:08:41Z",
+          "title": "feat(v1) - interactive mouse drag resizing and constant highlight for Rectangle annotation",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1540",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-13T06:14:29Z",
+          "title": "fix - theme selection, preview rollback, and custom apply (#1504)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-13T17:14:28Z",
+          "title": "Feature - Interactive mouse drag resizing and constant highlight for Rectangle annotations.",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1537",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-13T17:14:30Z",
+          "title": "Labeled issue #1537 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1537",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-13T17:14:31Z",
+          "title": "Labeled issue #1537 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1537",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-05T10:43:39Z",
+          "title": "fix - theme selection, preview rollback, and custom apply (#1504)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-04T22:24:36Z",
+          "title": "fix - resolve themes dialog selection, rollback, and custom theme persistence (#1504)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1508",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-04T07:08:09Z",
+          "title": "🐞 Bug - Themes dialog dot and Custom Theme apply behave incorrectly",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-04T07:08:10Z",
+          "title": "Labeled issue #1504 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-04T07:08:11Z",
+          "title": "Labeled issue #1504 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-29T21:15:07Z",
+          "title": "Enhancement - Interactive mouse resizing and constant highlight for Rectangle annotations",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1489",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "mohi2006august",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/218565496?v=4",
@@ -51052,163 +51287,6 @@
           "title": "Enhancement - Add hover-to-open functionality for \"Getting Started\" navbar dropdown",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6501",
           "points": 1
-        }
-      ]
-    },
-    {
-      "username": "Goblin-24",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
-      "role": "Contributor",
-      "total_points": 28,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 5,
-          "points": 10
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        },
-        "Issue labeled": {
-          "count": 5,
-          "points": 10
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-16",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-11-14",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-13",
-          "count": 4,
-          "points": 10
-        },
-        {
-          "date": "2026-11-05",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-04",
-          "count": 4,
-          "points": 7
-        },
-        {
-          "date": "2026-10-29",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-16T14:01:15Z",
-          "title": "refactor(properties-panel) - rename panleBodyData to panelBodyData (#1542)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1543",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-16T13:35:38Z",
-          "title": "🐞 Bug - Typo in PropertiesPanel prop name panleBodyData across desktop and child components",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-16T13:35:40Z",
-          "title": "Labeled issue #1542 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-14T21:08:41Z",
-          "title": "feat(v1) - interactive mouse drag resizing and constant highlight for Rectangle annotation",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1540",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-11-13T06:14:29Z",
-          "title": "fix - theme selection, preview rollback, and custom apply (#1504)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-13T17:14:28Z",
-          "title": "Feature - Interactive mouse drag resizing and constant highlight for Rectangle annotations.",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1537",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-13T17:14:30Z",
-          "title": "Labeled issue #1537 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1537",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-13T17:14:31Z",
-          "title": "Labeled issue #1537 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1537",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-05T10:43:39Z",
-          "title": "fix - theme selection, preview rollback, and custom apply (#1504)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-04T22:24:36Z",
-          "title": "fix - resolve themes dialog selection, rollback, and custom theme persistence (#1504)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1508",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-04T07:08:09Z",
-          "title": "🐞 Bug - Themes dialog dot and Custom Theme apply behave incorrectly",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-04T07:08:10Z",
-          "title": "Labeled issue #1504 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-04T07:08:11Z",
-          "title": "Labeled issue #1504 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-29T21:15:07Z",
-          "title": "Enhancement - Interactive mouse resizing and constant highlight for Rectangle annotations",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1489",
-          "points": 2
         }
       ]
     },
@@ -62149,6 +62227,69 @@
       ]
     },
     {
+      "username": "SkIzazAhmed",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/233928135?v=4",
+      "role": "Contributor",
+      "total_points": 7,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        },
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-18",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-10-28",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T17:14:16Z",
+          "title": "🐞 Bug - \"Static type checking\" (steep check) hangs ~6h, so every Ruby on Rails CI test job times out",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8194",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T17:14:17Z",
+          "title": "Labeled issue #8194 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8194",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T17:14:18Z",
+          "title": "Labeled issue #8194 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8194",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-28T19:00:33Z",
+          "title": "fix - pin noticed params coder so notifications render (#7685)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8104",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "Ayushi-ux-sys",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/230010174?v=4",
@@ -64794,6 +64935,212 @@
           "title": "UX/Enhancement - Improve Project Name input - add maxlength and update label",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/712",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "KrishangeeTayal",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/244515928?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-18",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-17",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-15",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-18T17:31:19Z",
+          "title": "fix - preserve spaces when renaming circuit sheets",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1555",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-17T21:35:07Z",
+          "title": "fix - preserve downstream layout after feedback loops",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1549",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-15T14:56:37Z",
+          "title": "Potential v1 auto-layout issue - downstream devices collapse into the same layer after a feedback loop",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1541",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "parth-9292",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/343520170?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-18",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-18T10:17:54Z",
+          "title": "docs - fix stale hotkey binder and Verilog docs, broken README link",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1551",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T09:50:46Z",
+          "title": "🐞 Bug - Stale hotkey binder docs, Circuit2Verilog formatting, and broken README link",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1550",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T09:50:48Z",
+          "title": "Labeled issue #1550 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1550",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "karthik120710",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/91374842?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-18",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-18T07:43:54Z",
+          "title": "fix - move Facebook OAuth access token from URL to Authorization header",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8193",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T04:14:11Z",
+          "title": "🐞 Bug`Security Facebook OAuth access token passed as URL query parameter`",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8192",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T04:14:12Z",
+          "title": "Labeled issue #8192 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8192",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "pranshup04",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/263219144?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-18",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T17:18:59Z",
+          "title": "🐞 Bug Removing all organization external links does not clear them on save",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8195",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T17:19:01Z",
+          "title": "Labeled issue #8195 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8195",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T17:19:02Z",
+          "title": "Labeled issue #8195 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8195",
+          "points": 2
         }
       ]
     },
@@ -67756,91 +68103,6 @@
       ]
     },
     {
-      "username": "KrishangeeTayal",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/244515928?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-17",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-15",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-17T21:35:07Z",
-          "title": "fix - preserve downstream layout after feedback loops",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1549",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-15T14:56:37Z",
-          "title": "Potential v1 auto-layout issue - downstream devices collapse into the same layer after a feedback loop",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1541",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "karthik120710",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/91374842?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-18",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-18T04:14:11Z",
-          "title": "🐞 Bug`Security Facebook OAuth access token passed as URL query parameter`",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8192",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-18T04:14:12Z",
-          "title": "Labeled issue #8192 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8192",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "swastik-basu",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/147093746?v=4",
@@ -69495,35 +69757,6 @@
           "occured_at": "2026-08-03T18:09:41Z",
           "title": "Fixed Progress bar script throws",
           "link": "https://github.com/CircuitVerse/Interactive-Book/pull/801",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "SkIzazAhmed",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/233928135?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-10-28",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-28T19:00:33Z",
-          "title": "fix - pin noticed params coder so notifications render (#7685)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8104",
           "points": 2
         }
       ]

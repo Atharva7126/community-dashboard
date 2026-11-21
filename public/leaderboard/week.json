@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1795149459463,
-  "startDate": "2026-11-13",
-  "endDate": "2026-11-20",
+  "updatedAt": 1795235484990,
+  "startDate": "2026-11-14",
+  "endDate": "2026-11-21",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,26 +11,31 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
       "role": "Contributor",
-      "total_points": 32,
+      "total_points": 40,
       "activity_breakdown": {
         "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        },
-        "Issue labeled": {
           "count": 4,
           "points": 8
         },
         "PR merged": {
-          "count": 3,
-          "points": 15
+          "count": 4,
+          "points": 20
+        },
+        "Issue opened": {
+          "count": 4,
+          "points": 4
+        },
+        "Issue labeled": {
+          "count": 4,
+          "points": 8
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-20",
+          "count": 8,
+          "points": 20
+        },
         {
           "date": "2026-11-19",
           "count": 3,
@@ -45,14 +50,65 @@
           "date": "2026-11-14",
           "count": 4,
           "points": 10
-        },
-        {
-          "date": "2026-11-13",
-          "count": 5,
-          "points": 12
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-20T19:08:46Z",
+          "title": "fix(simulator) - preserve multiplier precision (#1565)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1566",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-20T11:08:18Z",
+          "title": "fix - reject out-of-range BitSelector indices (#1563)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1564",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-20T15:44:44Z",
+          "title": "fix - reject out-of-range BitSelector indices (#1563)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1564",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-20T17:31:11Z",
+          "title": "fix - match Counter Zero Verilog output to simulator (#1560)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1561",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-20T19:00:40Z",
+          "title": "🐞 Bug - Verilog multiplier produces incorrect results for large operands in v0 and v1",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1565",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-20T10:52:59Z",
+          "title": "🐞 Bug - BitSelector wraps out-of-range indices modulo 32 and disagrees with Verilog export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1563",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-20T19:00:42Z",
+          "title": "Labeled issue #1565 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1565",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-20T10:53:01Z",
+          "title": "Labeled issue #1563 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1563",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-11-19T14:54:04Z",
@@ -108,192 +164,31 @@
           "title": "Labeled issue #1538 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1538",
           "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-13T08:32:42Z",
-          "title": "fix - omit unsupported Decoder width parameter (#1535)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1536",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-11-13T06:31:07Z",
-          "title": "fix - correct PriorityEncoder Verilog export (#1531)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1534",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-13T08:20:39Z",
-          "title": "🐞 Bug - Decoder Verilog export passes an unsupported width parameter",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1535",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-13T08:20:40Z",
-          "title": "Labeled issue #1535 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1535",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-13T08:20:41Z",
-          "title": "Labeled issue #1535 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1535",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Goblin-24",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
-      "role": "Contributor",
-      "total_points": 25,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 2,
-          "points": 10
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        },
-        "Issue labeled": {
-          "count": 4,
-          "points": 8
-        },
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-19",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-11-18",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-11-16",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-11-14",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-13",
-          "count": 4,
-          "points": 10
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR merged",
-          "occured_at": "2026-11-19T11:48:06Z",
-          "title": "refactor(properties-panel) - rename panleBodyData to panelBodyData (#1542)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1543",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-18T13:40:03Z",
-          "title": "🐞 Bug - Recover Project fails for unsaved project work in v0 dev and build version",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1554",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-18T13:40:05Z",
-          "title": "Labeled issue #1554 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1554",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-16T14:01:15Z",
-          "title": "refactor(properties-panel) - rename panleBodyData to panelBodyData (#1542)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1543",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-16T13:35:38Z",
-          "title": "🐞 Bug - Typo in PropertiesPanel prop name panleBodyData across desktop and child components",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-16T13:35:40Z",
-          "title": "Labeled issue #1542 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-14T21:08:41Z",
-          "title": "feat(v1) - interactive mouse drag resizing and constant highlight for Rectangle annotation",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1540",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-11-13T06:14:29Z",
-          "title": "fix - theme selection, preview rollback, and custom apply (#1504)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-13T17:14:28Z",
-          "title": "Feature - Interactive mouse drag resizing and constant highlight for Rectangle annotations.",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1537",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-13T17:14:30Z",
-          "title": "Labeled issue #1537 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1537",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-13T17:14:31Z",
-          "title": "Labeled issue #1537 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1537",
-          "points": 2
         }
       ]
     },
     {
       "username": "Me-Priyank",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
       "role": "Contributor",
-      "total_points": 22,
+      "total_points": 27,
       "activity_breakdown": {
-        "Issue closed": {
-          "count": 6,
-          "points": 6
-        },
         "Review submitted": {
-          "count": 4,
-          "points": 16
+          "count": 5,
+          "points": 20
+        },
+        "Issue closed": {
+          "count": 7,
+          "points": 7
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-20",
+          "count": 6,
+          "points": 15
+        },
         {
           "date": "2026-11-19",
           "count": 1,
@@ -308,14 +203,51 @@
           "date": "2026-11-14",
           "count": 3,
           "points": 6
-        },
-        {
-          "date": "2026-11-13",
-          "count": 4,
-          "points": 10
         }
       ],
       "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-11-20T18:06:24Z",
+          "title": "Review on PR #1276",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1276",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-11-20T17:30:59Z",
+          "title": "Review on PR #1561",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1561",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-11-20T15:44:29Z",
+          "title": "Review on PR #1564",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1564",
+          "points": 4
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-11-20T17:31:14Z",
+          "title": "Closed issue #1560 - 🐞 Bug - Counter Verilog export ignores Clock when generating the Zero output",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1560",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-11-20T15:44:46Z",
+          "title": "Closed issue #1563 - 🐞 Bug - BitSelector wraps out-of-range indices modulo 32 and disagrees with Verilog export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1563",
+          "points": 1
+        },
+        {
+          "type": "Issue closed",
+          "occured_at": "2026-11-20T18:16:28Z",
+          "title": "Closed issue #1275 - 🐞 Bug - Multiple circuit tabs overlap issue",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1275",
+          "points": 1
+        },
         {
           "type": "Issue closed",
           "occured_at": "2026-11-19T11:48:09Z",
@@ -356,34 +288,6 @@
           "occured_at": "2026-11-14T07:38:46Z",
           "title": "Closed issue #1535 - 🐞 Bug - Decoder Verilog export passes an unsupported width parameter",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1535",
-          "points": 1
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-11-13T06:11:45Z",
-          "title": "Review on PR #1513",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-11-13T06:22:11Z",
-          "title": "Review on PR #1534",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1534",
-          "points": 4
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-11-13T06:31:09Z",
-          "title": "Closed issue #1531 - 🐞 Bug - PriorityEncoder Verilog export omits lower-priority inputs and inverts the valid output",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1531",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-11-13T06:14:31Z",
-          "title": "Closed issue #1504 - 🐞 Bug - Themes dialog dot and Custom Theme apply behave incorrectly",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
           "points": 1
         }
       ]
@@ -607,6 +511,104 @@
           "title": "fix(simulator) - update outputs after ConstantVal double-click",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1512",
           "points": 5
+        }
+      ]
+    },
+    {
+      "username": "Goblin-24",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
+      "role": "Contributor",
+      "total_points": 15,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        },
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-19",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-11-18",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-11-16",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-11-14",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-19T11:48:06Z",
+          "title": "refactor(properties-panel) - rename panleBodyData to panelBodyData (#1542)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1543",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T13:40:03Z",
+          "title": "🐞 Bug - Recover Project fails for unsaved project work in v0 dev and build version",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1554",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T13:40:05Z",
+          "title": "Labeled issue #1554 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1554",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-16T14:01:15Z",
+          "title": "refactor(properties-panel) - rename panleBodyData to panelBodyData (#1542)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1543",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-16T13:35:38Z",
+          "title": "🐞 Bug - Typo in PropertiesPanel prop name panleBodyData across desktop and child components",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-16T13:35:40Z",
+          "title": "Labeled issue #1542 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-14T21:08:41Z",
+          "title": "feat(v1) - interactive mouse drag resizing and constant highlight for Rectangle annotation",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1540",
+          "points": 2
         }
       ]
     },
@@ -857,6 +859,51 @@
       ]
     },
     {
+      "username": "JituRewar",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/229604335?v=4",
+      "role": "Contributor",
+      "total_points": 9,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Review submitted": {
+          "count": 1,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-20",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-11-14",
+          "count": 1,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-20T18:16:26Z",
+          "title": "fix(ui) - dynamic panel offset and z-index for expanded circuit tabs",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1276",
+          "points": 5
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-11-14T14:00:56Z",
+          "title": "Review on PR #1532",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1532",
+          "points": 4
+        }
+      ]
+    },
+    {
       "username": "naman79820",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
@@ -1011,53 +1058,45 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/224918778?v=4",
       "role": "Contributor",
-      "total_points": 5,
+      "total_points": 6,
       "activity_breakdown": {
         "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
+          "count": 3,
+          "points": 6
         }
       },
       "daily_activity": [
         {
+          "date": "2026-11-20",
+          "count": 2,
+          "points": 4
+        },
+        {
           "date": "2026-11-14",
           "count": 1,
           "points": 2
-        },
-        {
-          "date": "2026-11-13",
-          "count": 2,
-          "points": 3
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-11-14T13:57:19Z",
-          "title": "fix - block new OAuth sign-ups when registration is blocked (#8139)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8178",
+          "occured_at": "2026-11-20T18:13:01Z",
+          "title": "fix - allow collaborators to leave a project (#7842)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8215",
           "points": 2
         },
         {
-          "type": "Issue opened",
-          "occured_at": "2026-11-13T20:57:43Z",
-          "title": "🐞 Bug - Docker publish and deploy builds fail with BlobNotFound from a stale GitHub Actions cache entry",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8175",
-          "points": 1
+          "type": "PR opened",
+          "occured_at": "2026-11-20T11:01:56Z",
+          "title": "fix(ci) - use a new Docker cache scope to fix BlobNotFound (#8175)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8201",
+          "points": 2
         },
         {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-13T20:57:45Z",
-          "title": "Labeled issue #8175 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8175",
+          "type": "PR opened",
+          "occured_at": "2026-11-14T13:57:19Z",
+          "title": "fix - block new OAuth sign-ups when registration is blocked (#8139)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8178",
           "points": 2
         }
       ]
@@ -1265,35 +1304,6 @@
       ]
     },
     {
-      "username": "JituRewar",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/229604335?u=cee901c508a5182a886a45939876e54c43ea71a5&v=4",
-      "role": "Contributor",
-      "total_points": 4,
-      "activity_breakdown": {
-        "Review submitted": {
-          "count": 1,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-14",
-          "count": 1,
-          "points": 4
-        }
-      ],
-      "activities": [
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-11-14T14:00:56Z",
-          "title": "Review on PR #1532",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1532",
-          "points": 4
-        }
-      ]
-    },
-    {
       "username": "tachyons",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
@@ -1326,6 +1336,35 @@
           "title": "Closed issue #8116 - 🐞 BugCI lint fails on bundler-audit - new advisories for rack 3.2.6 and addressable 2.9.0",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "ayush-shft-ctrl",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/356560039?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-20",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-20T09:31:31Z",
+          "title": "build(deps) - update puma, sanitize, omniauth, msgpack to clear advisories (#8196)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8200",
+          "points": 2
         }
       ]
     },

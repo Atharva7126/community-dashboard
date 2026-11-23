@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795319141155,
+  "updatedAt": 1795407743687,
   "groups": [
     [
       "2026-11-17",
@@ -1202,14 +1202,6 @@
           "points": 2
         },
         {
-          "username": "Anurag-S1ngh",
-          "name": null,
-          "title": "feat - notify assignment collaborators on add (#7230)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8163",
-          "avatar_url": "https://avatars.githubusercontent.com/u/169547609?v=4",
-          "points": 2
-        },
-        {
           "username": "Kushalv06",
           "name": null,
           "title": "fix - preserve aspect ratio on user profile pictures (#8164)",
@@ -1231,6 +1223,14 @@
           "title": "Labeled issue #8164 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8164",
           "avatar_url": "https://avatars.githubusercontent.com/u/216526196?v=4",
+          "points": 2
+        },
+        {
+          "username": "Anurag-S1ngh",
+          "name": null,
+          "title": "feat - notify assignment collaborators on add (#7230)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8163",
+          "avatar_url": "https://avatars.githubusercontent.com/u/169547609?v=4",
           "points": 2
         }
       ]
@@ -1321,59 +1321,6 @@
       ]
     ],
     [
-      "2026-11-09",
-      [
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "style - fix argument alignment in toggle_star_spec (#8142)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8143",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Lint - RuboCop ArgumentAlignment offenses in toggle_star_spec.rb on master",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 1
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8142 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "aryan7071",
-          "name": null,
-          "title": "Labeled issue #8142 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-          "points": 2
-        },
-        {
-          "username": "hanshu922",
-          "name": null,
-          "title": "Fix - LTI grade passback score for letter and custom grading scales (#8144)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8144",
-          "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashaswit24-source",
-          "name": null,
-          "title": "Fix HTML lang attribute formatting",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8141",
-          "avatar_url": "https://avatars.githubusercontent.com/u/304998064?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
       "2026-11-10",
       [
         {
@@ -1446,6 +1393,115 @@
           "title": "Allow deployment-specific Sidekiq Redis network timeouts",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8160",
           "avatar_url": "https://avatars.githubusercontent.com/u/217444297?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-11-22",
+      [
+        {
+          "username": "Goblin-24",
+          "name": null,
+          "title": "Performance - Browser UI freezes on cyclic circuits during simulation loop",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1575",
+          "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
+          "points": 1
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "🐞 Bug - TestBench panel spawns partially off-screen when opened near the bottom of the simulator",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1576",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 1
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "🐞 Bug - Newly added output not synced to existing tests that were created with zero outputs in TestBench",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1574",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 1
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "Labeled issue #1576 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1576",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 2
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "Labeled issue #1574 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1574",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 2
+        },
+        {
+          "username": "Saniya-r-Shaikh",
+          "name": null,
+          "title": "Labeled issue #1574 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1574",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 2
+        },
+        {
+          "username": "parth-9292",
+          "name": null,
+          "title": "🐞 Bug - ControlledInverter does not preserve tri-state behavior in Verilog export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1577",
+          "avatar_url": "https://avatars.githubusercontent.com/u/343520170?v=4",
+          "points": 1
+        },
+        {
+          "username": "parth-9292",
+          "name": null,
+          "title": "Labeled issue #1577 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1577",
+          "avatar_url": "https://avatars.githubusercontent.com/u/343520170?v=4",
+          "points": 2
+        },
+        {
+          "username": "Kushalv06",
+          "name": null,
+          "title": "🐞 Bug - Viewing group crashes when a member/mentor has profile picture in local development",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8220",
+          "avatar_url": "https://avatars.githubusercontent.com/u/216526196?v=4",
+          "points": 1
+        },
+        {
+          "username": "Kushalv06",
+          "name": null,
+          "title": "Labeled issue #8220 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8220",
+          "avatar_url": "https://avatars.githubusercontent.com/u/216526196?v=4",
+          "points": 2
+        },
+        {
+          "username": "givemehat",
+          "name": null,
+          "title": "fix(testbench) - clear previous test resultValues when test or circuit changes (#1571)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1573",
+          "avatar_url": "https://avatars.githubusercontent.com/u/126698576?v=4",
+          "points": 2
+        },
+        {
+          "username": "givemehat",
+          "name": null,
+          "title": "fix(testbench) - reset test dialog title and type when circuit has no test (#1570)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1572",
+          "avatar_url": "https://avatars.githubusercontent.com/u/126698576?v=4",
+          "points": 2
+        },
+        {
+          "username": "Raunakxdev",
+          "name": null,
+          "title": "docs - improve Chapter 1 introduction readability",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/547",
+          "avatar_url": "https://avatars.githubusercontent.com/u/293795032?v=4",
           "points": 2
         }
       ]

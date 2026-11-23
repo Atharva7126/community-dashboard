@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1795319141147,
-  "startDate": "2026-11-15",
-  "endDate": "2026-11-22",
+  "updatedAt": 1795407743668,
+  "startDate": "2026-11-16",
+  "endDate": "2026-11-23",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -300,19 +300,136 @@
       ]
     },
     {
+      "username": "parth-9292",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/343520170?v=4",
+      "role": "Contributor",
+      "total_points": 18,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 4,
+          "points": 4
+        },
+        "Issue labeled": {
+          "count": 4,
+          "points": 8
+        },
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-22",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-11-19",
+          "count": 6,
+          "points": 10
+        },
+        {
+          "date": "2026-11-18",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-22T16:34:59Z",
+          "title": "🐞 Bug - ControlledInverter does not preserve tri-state behavior in Verilog export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1577",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-22T16:35:01Z",
+          "title": "Labeled issue #1577 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1577",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-19T18:44:25Z",
+          "title": "fix(simulator) - make onbeforeunload synchronous and save recovery state",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1562",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-19T05:55:16Z",
+          "title": "refactor(v1) - remove implicit this from gateGenerateVerilog",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1557",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-19T14:40:13Z",
+          "title": "🐞 Bug - window.onbeforeunload is async and uses blocked alert()",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1559",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-19T05:24:01Z",
+          "title": "refactor(v1) - remove implicit this dependency from gateGenerateVerilog",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1556",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-19T14:40:15Z",
+          "title": "Labeled issue #1559 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1559",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-19T14:40:16Z",
+          "title": "Labeled issue #1559 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1559",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-18T10:17:54Z",
+          "title": "docs - fix stale hotkey binder and Verilog docs, broken README link",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1551",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T09:50:46Z",
+          "title": "🐞 Bug - Stale hotkey binder docs, Circuit2Verilog formatting, and broken README link",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1550",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T09:50:48Z",
+          "title": "Labeled issue #1550 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1550",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "Princess0407",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/109491718?v=4",
       "role": "Contributor",
-      "total_points": 18,
+      "total_points": 17,
       "activity_breakdown": {
         "PR opened": {
           "count": 3,
           "points": 6
         },
         "Issue opened": {
-          "count": 4,
-          "points": 4
+          "count": 3,
+          "points": 3
         },
         "Issue labeled": {
           "count": 4,
@@ -329,11 +446,6 @@
           "date": "2026-11-16",
           "count": 3,
           "points": 5
-        },
-        {
-          "date": "2026-11-15",
-          "count": 1,
-          "points": 1
         }
       ],
       "activities": [
@@ -406,13 +518,6 @@
           "title": "Labeled issue #8187 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8187",
           "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-15T20:29:14Z",
-          "title": "Security - Upgrade Rails 8.1.3.1 → 8.1.4.1 (High severity advisories)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8186",
-          "points": 1
         }
       ]
     },
@@ -592,203 +697,19 @@
       ]
     },
     {
-      "username": "parth-9292",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/343520170?v=4",
-      "role": "Contributor",
-      "total_points": 15,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        },
-        "Issue labeled": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-19",
-          "count": 6,
-          "points": 10
-        },
-        {
-          "date": "2026-11-18",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-19T18:44:25Z",
-          "title": "fix(simulator) - make onbeforeunload synchronous and save recovery state",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1562",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-19T05:55:16Z",
-          "title": "refactor(v1) - remove implicit this from gateGenerateVerilog",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1557",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-19T14:40:13Z",
-          "title": "🐞 Bug - window.onbeforeunload is async and uses blocked alert()",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1559",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-19T05:24:01Z",
-          "title": "refactor(v1) - remove implicit this dependency from gateGenerateVerilog",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1556",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-19T14:40:15Z",
-          "title": "Labeled issue #1559 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1559",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-19T14:40:16Z",
-          "title": "Labeled issue #1559 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1559",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-18T10:17:54Z",
-          "title": "docs - fix stale hotkey binder and Verilog docs, broken README link",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1551",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-18T09:50:46Z",
-          "title": "🐞 Bug - Stale hotkey binder docs, Circuit2Verilog formatting, and broken README link",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1550",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-18T09:50:48Z",
-          "title": "Labeled issue #1550 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1550",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "aryan7071",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-      "role": "Contributor",
-      "total_points": 13,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-18",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-11-17",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-11-15",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-18T18:58:07Z",
-          "title": "fix - bump puma, sanitize, omniauth and msgpack for bundler-audit advisories (#8196)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8197",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-18T18:34:06Z",
-          "title": "🐞 Bug bundler-audit fails on master - new advisories for puma, sanitize, omniauth and msgpack",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8196",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-18T18:34:08Z",
-          "title": "Labeled issue #8196 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8196",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-11-17T14:30:02Z",
-          "title": "fix - bump rails to 8.1.4.1, rack, addressable, loofah, nokogiri and rails-html-sanitizer (#8116)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8117",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-15T09:09:03Z",
-          "title": "🐞 Bug Setup docs list outdated Ruby versions across all guides",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8180",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-15T09:09:05Z",
-          "title": "Labeled issue #8180 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8180",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "Goblin-24",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
       "role": "Contributor",
-      "total_points": 13,
+      "total_points": 14,
       "activity_breakdown": {
+        "Issue opened": {
+          "count": 3,
+          "points": 3
+        },
         "PR merged": {
           "count": 1,
           "points": 5
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
         },
         "Issue labeled": {
           "count": 2,
@@ -800,6 +721,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-22",
+          "count": 1,
+          "points": 1
+        },
         {
           "date": "2026-11-19",
           "count": 1,
@@ -817,6 +743,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-22T13:14:38Z",
+          "title": "Performance - Browser UI freezes on cyclic circuits during simulation loop",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1575",
+          "points": 1
+        },
         {
           "type": "PR merged",
           "occured_at": "2026-11-19T11:48:06Z",
@@ -951,64 +884,69 @@
       ]
     },
     {
-      "username": "UwaisBaig",
+      "username": "aryan7071",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
       "role": "Contributor",
       "total_points": 10,
       "activity_breakdown": {
         "PR opened": {
-          "count": 5,
-          "points": 10
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
         }
       },
       "daily_activity": [
         {
-          "date": "2026-11-16",
-          "count": 1,
-          "points": 2
+          "date": "2026-11-18",
+          "count": 3,
+          "points": 5
         },
         {
-          "date": "2026-11-15",
-          "count": 4,
-          "points": 8
+          "date": "2026-11-17",
+          "count": 1,
+          "points": 5
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-11-16T19:31:06Z",
-          "title": "fix(simulator) - move projectSavedSet to after confirmed save and fix jQuery error callback (#8187)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8190",
+          "occured_at": "2026-11-18T18:58:07Z",
+          "title": "fix - bump puma, sanitize, omniauth and msgpack for bundler-audit advisories (#8196)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8197",
           "points": 2
         },
         {
-          "type": "PR opened",
-          "occured_at": "2026-11-15T17:51:07Z",
-          "title": "style(users) - preserve aspect ratio with object-fit cover on profile pictures (#8164)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8185",
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T18:34:06Z",
+          "title": "🐞 Bug bundler-audit fails on master - new advisories for puma, sanitize, omniauth and msgpack",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8196",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T18:34:08Z",
+          "title": "Labeled issue #8196 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8196",
           "points": 2
         },
         {
-          "type": "PR opened",
-          "occured_at": "2026-11-15T17:43:39Z",
-          "title": "i18n(hi) - add missing Hindi translations for homepage and navbar (#8181)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8184",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-15T17:40:55Z",
-          "title": "fix(simulator) - respond with 406 on unsupported formats instead of missing template 500 (#8118)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8183",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-15T17:38:22Z",
-          "title": "fix(users) - avoid calling signed_id on unpersisted profile picture blobs (#8174)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8182",
-          "points": 2
+          "type": "PR merged",
+          "occured_at": "2026-11-17T14:30:02Z",
+          "title": "fix - bump rails to 8.1.4.1, rack, addressable, loofah, nokogiri and rails-html-sanitizer (#8116)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8117",
+          "points": 5
         }
       ]
     },
@@ -1017,7 +955,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/244515928?v=4",
       "role": "Contributor",
-      "total_points": 10,
+      "total_points": 9,
       "activity_breakdown": {
         "PR merged": {
           "count": 1,
@@ -1026,10 +964,6 @@
         "PR opened": {
           "count": 2,
           "points": 4
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
         }
       },
       "daily_activity": [
@@ -1047,11 +981,6 @@
           "date": "2026-11-17",
           "count": 1,
           "points": 2
-        },
-        {
-          "date": "2026-11-15",
-          "count": 1,
-          "points": 1
         }
       ],
       "activities": [
@@ -1075,13 +1004,6 @@
           "title": "fix - preserve downstream layout after feedback loops",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1549",
           "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-15T14:56:37Z",
-          "title": "Potential v1 auto-layout issue - downstream devices collapse into the same layer after a feedback loop",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1541",
-          "points": 1
         }
       ]
     },
@@ -1118,6 +1040,67 @@
           "title": "Review on PR #1543",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1543",
           "points": 4
+        }
+      ]
+    },
+    {
+      "username": "Saniya-r-Shaikh",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+      "role": "Contributor",
+      "total_points": 8,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-22",
+          "count": 5,
+          "points": 8
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-22T14:29:42Z",
+          "title": "🐞 Bug - TestBench panel spawns partially off-screen when opened near the bottom of the simulator",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1576",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-22T08:11:16Z",
+          "title": "🐞 Bug - Newly added output not synced to existing tests that were created with zero outputs in TestBench",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1574",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-22T14:29:44Z",
+          "title": "Labeled issue #1576 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1576",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-22T08:11:17Z",
+          "title": "Labeled issue #1574 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1574",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-22T08:11:18Z",
+          "title": "Labeled issue #1574 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1574",
+          "points": 2
         }
       ]
     },
@@ -1175,62 +1158,6 @@
           "occured_at": "2026-11-19T17:34:24Z",
           "title": "Labeled issue #8198 - pending triage",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8198",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "swastik-basu",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/147093746?v=4",
-      "role": "Contributor",
-      "total_points": 7,
-      "activity_breakdown": {
-        "Review submitted": {
-          "count": 1,
-          "points": 4
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        },
-        "Issue labeled": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-20",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-11-15",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-11-20T04:05:42Z",
-          "title": "Review on PR #8184",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8184",
-          "points": 4
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-15T10:15:32Z",
-          "title": "🐞 Bug - Homepage contains untranslated English text when Hindi locale is selected",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8181",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-15T10:15:33Z",
-          "title": "Labeled issue #8181 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8181",
           "points": 2
         }
       ]
@@ -1405,6 +1332,169 @@
           "occured_at": "2026-11-18T17:19:02Z",
           "title": "Labeled issue #8195 - pending triage",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8195",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "swastik-basu",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/147093746?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "Review submitted": {
+          "count": 1,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-20",
+          "count": 1,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-11-20T04:05:42Z",
+          "title": "Review on PR #8184",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8184",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "username": "givemehat",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126698576?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-22",
+          "count": 2,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-22T06:24:39Z",
+          "title": "fix(testbench) - clear previous test resultValues when test or circuit changes (#1571)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1573",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-22T06:16:01Z",
+          "title": "fix(testbench) - reset test dialog title and type when circuit has no test (#1570)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1572",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Kushalv06",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/216526196?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-22",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-22T16:35:06Z",
+          "title": "🐞 Bug - Viewing group crashes when a member/mentor has profile picture in local development",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8220",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-22T16:35:07Z",
+          "title": "Labeled issue #8220 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8220",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "UwaisBaig",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-16",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-16T19:31:06Z",
+          "title": "fix(simulator) - move projectSavedSet to after confirmed save and fix jQuery error callback (#8187)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8190",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Raunakxdev",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/293795032?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-22",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-22T17:18:15Z",
+          "title": "docs - improve Chapter 1 introduction readability",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/547",
           "points": 2
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795407743687,
+  "updatedAt": 1795504767913,
   "groups": [
     [
       "2026-11-17",
@@ -142,7 +142,7 @@
           "name": null,
           "title": "Review on PR #1513",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -219,7 +219,7 @@
           "name": null,
           "title": "Review on PR #1566",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1566",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -227,7 +227,7 @@
           "name": null,
           "title": "Review on PR #1549",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1549",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -235,7 +235,7 @@
           "name": null,
           "title": "Closed issue #1565 - 🐞 Bug - Verilog multiplier produces incorrect results for large operands in v0 and v1",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1565",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -243,7 +243,7 @@
           "name": null,
           "title": "Closed issue #1541 - Potential v1 auto-layout issue - downstream devices collapse into the same layer after a feedback loop",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1541",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -384,7 +384,7 @@
           "name": null,
           "title": "Review on PR #1276",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1276",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -392,7 +392,7 @@
           "name": null,
           "title": "Review on PR #1561",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1561",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -400,7 +400,7 @@
           "name": null,
           "title": "Review on PR #1564",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1564",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -408,7 +408,7 @@
           "name": null,
           "title": "Closed issue #1560 - 🐞 Bug - Counter Verilog export ignores Clock when generating the Zero output",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1560",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -416,7 +416,7 @@
           "name": null,
           "title": "Closed issue #1563 - 🐞 Bug - BitSelector wraps out-of-range indices modulo 32 and disagrees with Verilog export",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1563",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -424,7 +424,7 @@
           "name": null,
           "title": "Closed issue #1275 - 🐞 Bug - Multiple circuit tabs overlap issue",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1275",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -541,7 +541,7 @@
           "name": null,
           "title": "Closed issue #1542 - 🐞 Bug - Typo in PropertiesPanel prop name panleBodyData across desktop and child components",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -674,7 +674,7 @@
           "name": null,
           "title": "Review on PR #1539",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1539",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -682,7 +682,7 @@
           "name": null,
           "title": "Closed issue #1538 - 🐞 Bug - LSB/MSB Verilog export returns incorrect bit positions and leaves valid output undriven",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1538",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -759,7 +759,7 @@
           "name": null,
           "title": "Review on PR #1536",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1536",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -767,7 +767,7 @@
           "name": null,
           "title": "Closed issue #1511 - 🐞 Bug - ConstantVal double-click does not update connected outputs when Clock Enabled is off",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1511",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -775,7 +775,7 @@
           "name": null,
           "title": "Closed issue #1535 - 🐞 Bug - Decoder Verilog export passes an unsupported width parameter",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1535",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -860,7 +860,7 @@
           "name": null,
           "title": "Review on PR #1513",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1513",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -868,7 +868,7 @@
           "name": null,
           "title": "Review on PR #1534",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1534",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 4
         },
         {
@@ -876,7 +876,7 @@
           "name": null,
           "title": "Closed issue #1531 - 🐞 Bug - PriorityEncoder Verilog export omits lower-priority inputs and inverts the valid output",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1531",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -884,7 +884,7 @@
           "name": null,
           "title": "Closed issue #1504 - 🐞 Bug - Themes dialog dot and Custom Theme apply behave incorrectly",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1504",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
@@ -973,6 +973,67 @@
           "title": "Labeled issue #1537 - pending triage",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1537",
           "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-11-23",
+      [
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "🐞 Bug - Contrast issues in custom themes (Boolean table boxes and input focus)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1578",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 1
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "Labeled issue #1578 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1578",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
+        },
+        {
+          "username": "cynicalmindset",
+          "name": null,
+          "title": "🐞 Bug - SquareRGBLed causes RangeError - Maximum call stack size exceeded during Verilog export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1579",
+          "avatar_url": "https://avatars.githubusercontent.com/u/166590584?v=4",
+          "points": 1
+        },
+        {
+          "username": "cynicalmindset",
+          "name": null,
+          "title": "Labeled issue #1579 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1579",
+          "avatar_url": "https://avatars.githubusercontent.com/u/166590584?v=4",
+          "points": 2
+        },
+        {
+          "username": "cynicalmindset",
+          "name": null,
+          "title": "Labeled issue #1579 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1579",
+          "avatar_url": "https://avatars.githubusercontent.com/u/166590584?v=4",
+          "points": 2
+        },
+        {
+          "username": "Raunakxdev",
+          "name": null,
+          "title": "docs - clarify mux and demux descriptions",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/548",
+          "avatar_url": "https://avatars.githubusercontent.com/u/293795032?v=4",
+          "points": 2
+        },
+        {
+          "username": "NitinMishra2409",
+          "name": null,
+          "title": "fix - default production log level to info via RAILS_LOG_LEVEL (#7898)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8224",
+          "avatar_url": "https://avatars.githubusercontent.com/u/168967379?v=4",
           "points": 2
         }
       ]
@@ -1321,78 +1382,30 @@
       ]
     ],
     [
-      "2026-11-10",
+      "2026-11-24",
       [
         {
-          "username": "Somilg11",
+          "username": "Goblin-24",
           "name": null,
-          "title": "fix - preserve search sort when reselecting resource (#8148)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8150",
-          "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
-          "points": 2
-        },
-        {
-          "username": "Somilg11",
-          "name": null,
-          "title": "🐞 Bug - Reselecting the current search resource resets the selected sort order",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8148",
-          "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
+          "title": "🐞 Bug - Manual Zoom with +/- do not sync with slider attached in v0",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1580",
+          "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
           "points": 1
         },
         {
-          "username": "Somilg11",
+          "username": "Goblin-24",
           "name": null,
-          "title": "Labeled issue #8148 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8148",
-          "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
+          "title": "Labeled issue #1580 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1580",
+          "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
           "points": 2
         },
         {
-          "username": "harikrishna-au",
+          "username": "Goblin-24",
           "name": null,
-          "title": "fix - show error view with retry when featured projects fail to load (#84)",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/684",
-          "avatar_url": "https://avatars.githubusercontent.com/u/169121181?v=4",
-          "points": 2
-        },
-        {
-          "username": "hanshu922",
-          "name": null,
-          "title": "fix - prevent duplicate push subscriptions and prune expired endpoints (#8016)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8151",
-          "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
-          "points": 2
-        },
-        {
-          "username": "hanshu922",
-          "name": null,
-          "title": "fix(testbench) - add validateBinding to avoid TypeError on missing lab… (#8014)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8149",
-          "avatar_url": "https://avatars.githubusercontent.com/u/281227202?v=4",
-          "points": 2
-        },
-        {
-          "username": "Anurag-S1ngh",
-          "name": null,
-          "title": "fix - snapshot reopened assignments when they close (#8037)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8158",
-          "avatar_url": "https://avatars.githubusercontent.com/u/169547609?v=4",
-          "points": 2
-        },
-        {
-          "username": "Anurag-S1ngh",
-          "name": null,
-          "title": "fix - handle relative launch_presentation_return_url (#7169)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8155",
-          "avatar_url": "https://avatars.githubusercontent.com/u/169547609?v=4",
-          "points": 2
-        },
-        {
-          "username": "Harsh-DevOps117",
-          "name": null,
-          "title": "Allow deployment-specific Sidekiq Redis network timeouts",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8160",
-          "avatar_url": "https://avatars.githubusercontent.com/u/217444297?v=4",
+          "title": "Labeled issue #1580 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1580",
+          "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
           "points": 2
         }
       ]
@@ -1481,6 +1494,14 @@
           "points": 2
         },
         {
+          "username": "Raunakxdev",
+          "name": null,
+          "title": "docs - improve Chapter 1 introduction readability",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/547",
+          "avatar_url": "https://avatars.githubusercontent.com/u/293795032?v=4",
+          "points": 2
+        },
+        {
           "username": "givemehat",
           "name": null,
           "title": "fix(testbench) - clear previous test resultValues when test or circuit changes (#1571)",
@@ -1494,14 +1515,6 @@
           "title": "fix(testbench) - reset test dialog title and type when circuit has no test (#1570)",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1572",
           "avatar_url": "https://avatars.githubusercontent.com/u/126698576?v=4",
-          "points": 2
-        },
-        {
-          "username": "Raunakxdev",
-          "name": null,
-          "title": "docs - improve Chapter 1 introduction readability",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/547",
-          "avatar_url": "https://avatars.githubusercontent.com/u/293795032?v=4",
           "points": 2
         }
       ]

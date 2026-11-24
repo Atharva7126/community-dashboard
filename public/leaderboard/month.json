@@ -1,8 +1,8 @@
 {
   "period": "month",
-  "updatedAt": 1795407743682,
-  "startDate": "2026-10-24",
-  "endDate": "2026-11-23",
+  "updatedAt": 1795504767908,
+  "startDate": "2026-10-25",
+  "endDate": "2026-11-24",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -326,324 +326,9 @@
       ]
     },
     {
-      "username": "aryan7071",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
-      "role": "Contributor",
-      "total_points": 74,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 10,
-          "points": 20
-        },
-        "Issue opened": {
-          "count": 7,
-          "points": 7
-        },
-        "Issue labeled": {
-          "count": 11,
-          "points": 22
-        },
-        "PR merged": {
-          "count": 5,
-          "points": 25
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-18",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-11-17",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-11-15",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-11-09",
-          "count": 4,
-          "points": 7
-        },
-        {
-          "date": "2026-11-05",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-11-01",
-          "count": 7,
-          "points": 12
-        },
-        {
-          "date": "2026-10-31",
-          "count": 2,
-          "points": 10
-        },
-        {
-          "date": "2026-10-30",
-          "count": 4,
-          "points": 7
-        },
-        {
-          "date": "2026-10-27",
-          "count": 2,
-          "points": 7
-        },
-        {
-          "date": "2026-10-26",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-10-24",
-          "count": 6,
-          "points": 14
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-18T18:58:07Z",
-          "title": "fix - bump puma, sanitize, omniauth and msgpack for bundler-audit advisories (#8196)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8197",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-18T18:34:06Z",
-          "title": "🐞 Bug bundler-audit fails on master - new advisories for puma, sanitize, omniauth and msgpack",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8196",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-18T18:34:08Z",
-          "title": "Labeled issue #8196 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8196",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-11-17T14:30:02Z",
-          "title": "fix - bump rails to 8.1.4.1, rack, addressable, loofah, nokogiri and rails-html-sanitizer (#8116)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8117",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-15T09:09:03Z",
-          "title": "🐞 Bug Setup docs list outdated Ruby versions across all guides",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8180",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-15T09:09:05Z",
-          "title": "Labeled issue #8180 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8180",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-09T14:45:26Z",
-          "title": "style - fix argument alignment in toggle_star_spec (#8142)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8143",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-09T14:40:39Z",
-          "title": "Lint - RuboCop ArgumentAlignment offenses in toggle_star_spec.rb on master",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-09T14:40:40Z",
-          "title": "Labeled issue #8142 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-09T14:40:41Z",
-          "title": "Labeled issue #8142 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-05T16:59:04Z",
-          "title": "refactor - read project previews from ActiveStorage with CarrierWave fallback (#7902)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8129",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-01T17:57:45Z",
-          "title": "fix - bump rack and addressable to resolve bundler-audit advisories (#8116)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8117",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-01T17:27:57Z",
-          "title": "fix - install libjitterentropy3-dev so rugged builds on ubuntu-26.04 CI (#8114)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8115",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-01T17:46:48Z",
-          "title": "🐞 BugCI lint fails on bundler-audit - new advisories for rack 3.2.6 and addressable 2.9.0",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-01T17:14:35Z",
-          "title": "🐞 Bug - CI bundle install fails on ubuntu-26.04 - rugged can't link (missing libjitterentropy)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8114",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-01T17:46:49Z",
-          "title": "Labeled issue #8116 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-01T17:46:50Z",
-          "title": "Labeled issue #8116 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-01T17:14:37Z",
-          "title": "Labeled issue #8114 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8114",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-31T03:10:19Z",
-          "title": "fix - bump Ruby to 4.0.9 in .tool-versions for ubuntu-26.04 CI runners (#8109)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8110",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-31T03:10:41Z",
-          "title": "fix - bump crass, view_component, sanitize and avo to resolve bundler-audit advisories",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8090",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-30T19:04:47Z",
-          "title": "fix - bump Ruby to 4.0.9 in .tool-versions for ubuntu-26.04 CI runners (#8109)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8110",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-30T18:59:37Z",
-          "title": "🐞 Bug - Ruby on Rails CI and DBChecker fail on all PRs - Ruby 4.0.2 unavailable on ubuntu-26.04 runners",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-30T18:59:38Z",
-          "title": "Labeled issue #8109 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-30T18:59:39Z",
-          "title": "Labeled issue #8109 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-27T17:49:30Z",
-          "title": "chore - remove unused CircuitElementsImageUploader (#7902)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8101",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-27T08:58:07Z",
-          "title": "refactor(v1) - convert verilog arithmetic shims to TypeScript",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1438",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-26T16:28:09Z",
-          "title": "refactor - migrate pagination from will_paginate to pagy (#7902)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8098",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-24T14:32:51Z",
-          "title": "fix - bump crass and view_component to resolve bundler-audit advisories",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8090",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-10-24T13:37:07Z",
-          "title": "chore - remove will_paginate after pagy migration",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8087",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-10-24T08:22:31Z",
-          "title": "fix - resolve css_parser vulnerabilities flagged by bundler-audit",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8073",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-24T14:19:32Z",
-          "title": "🐞 Bug 🐞 Bug - bundler-audit CI check fails on master - crass 1.0.7 and view_component 4.12.0 have known advisories",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-24T14:19:33Z",
-          "title": "Labeled issue #8088 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-24T14:19:34Z",
-          "title": "Labeled issue #8088 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8088",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "Me-Priyank",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
       "total_points": 69,
       "activity_breakdown": {
@@ -906,23 +591,23 @@
       ]
     },
     {
-      "username": "yashveer-1",
+      "username": "aryan7071",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175052103?v=4",
       "role": "Contributor",
-      "total_points": 55,
+      "total_points": 60,
       "activity_breakdown": {
         "PR opened": {
           "count": 8,
           "points": 16
         },
         "Issue opened": {
-          "count": 9,
-          "points": 9
+          "count": 6,
+          "points": 6
         },
         "Issue labeled": {
-          "count": 5,
-          "points": 10
+          "count": 9,
+          "points": 18
         },
         "PR merged": {
           "count": 4,
@@ -930,6 +615,279 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-18",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-11-17",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-11-15",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-11-09",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2026-11-05",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-01",
+          "count": 7,
+          "points": 12
+        },
+        {
+          "date": "2026-10-31",
+          "count": 2,
+          "points": 10
+        },
+        {
+          "date": "2026-10-30",
+          "count": 4,
+          "points": 7
+        },
+        {
+          "date": "2026-10-27",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2026-10-26",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-18T18:58:07Z",
+          "title": "fix - bump puma, sanitize, omniauth and msgpack for bundler-audit advisories (#8196)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8197",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T18:34:06Z",
+          "title": "🐞 Bug bundler-audit fails on master - new advisories for puma, sanitize, omniauth and msgpack",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8196",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T18:34:08Z",
+          "title": "Labeled issue #8196 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8196",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-17T14:30:02Z",
+          "title": "fix - bump rails to 8.1.4.1, rack, addressable, loofah, nokogiri and rails-html-sanitizer (#8116)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8117",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-15T09:09:03Z",
+          "title": "🐞 Bug Setup docs list outdated Ruby versions across all guides",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8180",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-15T09:09:05Z",
+          "title": "Labeled issue #8180 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8180",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-09T14:45:26Z",
+          "title": "style - fix argument alignment in toggle_star_spec (#8142)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8143",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-09T14:40:39Z",
+          "title": "Lint - RuboCop ArgumentAlignment offenses in toggle_star_spec.rb on master",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-09T14:40:40Z",
+          "title": "Labeled issue #8142 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-09T14:40:41Z",
+          "title": "Labeled issue #8142 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8142",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-05T16:59:04Z",
+          "title": "refactor - read project previews from ActiveStorage with CarrierWave fallback (#7902)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8129",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-01T17:57:45Z",
+          "title": "fix - bump rack and addressable to resolve bundler-audit advisories (#8116)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8117",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-01T17:27:57Z",
+          "title": "fix - install libjitterentropy3-dev so rugged builds on ubuntu-26.04 CI (#8114)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8115",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-01T17:46:48Z",
+          "title": "🐞 BugCI lint fails on bundler-audit - new advisories for rack 3.2.6 and addressable 2.9.0",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-01T17:14:35Z",
+          "title": "🐞 Bug - CI bundle install fails on ubuntu-26.04 - rugged can't link (missing libjitterentropy)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8114",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-01T17:46:49Z",
+          "title": "Labeled issue #8116 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-01T17:46:50Z",
+          "title": "Labeled issue #8116 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8116",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-01T17:14:37Z",
+          "title": "Labeled issue #8114 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8114",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-31T03:10:19Z",
+          "title": "fix - bump Ruby to 4.0.9 in .tool-versions for ubuntu-26.04 CI runners (#8109)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8110",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-31T03:10:41Z",
+          "title": "fix - bump crass, view_component, sanitize and avo to resolve bundler-audit advisories",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8090",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-30T19:04:47Z",
+          "title": "fix - bump Ruby to 4.0.9 in .tool-versions for ubuntu-26.04 CI runners (#8109)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8110",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-10-30T18:59:37Z",
+          "title": "🐞 Bug - Ruby on Rails CI and DBChecker fail on all PRs - Ruby 4.0.2 unavailable on ubuntu-26.04 runners",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-30T18:59:38Z",
+          "title": "Labeled issue #8109 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-10-30T18:59:39Z",
+          "title": "Labeled issue #8109 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8109",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-27T17:49:30Z",
+          "title": "chore - remove unused CircuitElementsImageUploader (#7902)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8101",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-10-27T08:58:07Z",
+          "title": "refactor(v1) - convert verilog arithmetic shims to TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1438",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-10-26T16:28:09Z",
+          "title": "refactor - migrate pagination from will_paginate to pagy (#7902)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8098",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "yashveer-1",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+      "role": "Contributor",
+      "total_points": 58,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 10,
+          "points": 10
+        },
+        "Issue labeled": {
+          "count": 6,
+          "points": 12
+        },
+        "PR opened": {
+          "count": 8,
+          "points": 16
+        },
+        "PR merged": {
+          "count": 4,
+          "points": 20
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-23",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-11-19",
           "count": 1,
@@ -992,6 +950,20 @@
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-23T13:08:46Z",
+          "title": "🐞 Bug - Contrast issues in custom themes (Boolean table boxes and input focus)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1578",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-23T13:08:48Z",
+          "title": "Labeled issue #1578 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1578",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-11-19T08:01:32Z",
@@ -1181,19 +1153,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
       "role": "Contributor",
-      "total_points": 37,
+      "total_points": 42,
       "activity_breakdown": {
         "Issue opened": {
-          "count": 5,
-          "points": 5
+          "count": 6,
+          "points": 6
+        },
+        "Issue labeled": {
+          "count": 8,
+          "points": 16
         },
         "PR merged": {
           "count": 2,
           "points": 10
-        },
-        "Issue labeled": {
-          "count": 6,
-          "points": 12
         },
         "PR opened": {
           "count": 5,
@@ -1201,6 +1173,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-24",
+          "count": 3,
+          "points": 5
+        },
         {
           "date": "2026-11-22",
           "count": 1,
@@ -1248,6 +1225,27 @@
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-24T06:36:27Z",
+          "title": "🐞 Bug - Manual Zoom with +/- do not sync with slider attached in v0",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1580",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-24T06:36:28Z",
+          "title": "Labeled issue #1580 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1580",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-24T06:36:29Z",
+          "title": "Labeled issue #1580 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1580",
+          "points": 2
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-11-22T13:14:38Z",
@@ -1569,19 +1567,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/189542486?v=4",
       "role": "Contributor",
-      "total_points": 32,
+      "total_points": 29,
       "activity_breakdown": {
         "PR opened": {
           "count": 6,
           "points": 12
         },
         "Issue opened": {
-          "count": 6,
-          "points": 6
+          "count": 5,
+          "points": 5
         },
         "Issue labeled": {
-          "count": 7,
-          "points": 14
+          "count": 6,
+          "points": 12
         }
       },
       "daily_activity": [
@@ -1614,11 +1612,6 @@
           "date": "2026-10-26",
           "count": 3,
           "points": 5
-        },
-        {
-          "date": "2026-10-24",
-          "count": 2,
-          "points": 3
         }
       ],
       "activities": [
@@ -1740,20 +1733,6 @@
           "title": "Labeled issue #1474 - pending triage",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1474",
           "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-10-24T07:40:13Z",
-          "title": "🐞 Bug - Element tooltip appears in bottom-right corner far away from Circuit Elements panel",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-10-24T07:40:14Z",
-          "title": "Labeled issue #1473 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1473",
-          "points": 2
         }
       ]
     },
@@ -1762,7 +1741,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
       "role": "Maintainer",
-      "total_points": 22,
+      "total_points": 21,
       "activity_breakdown": {
         "PR opened": {
           "count": 2,
@@ -1773,8 +1752,8 @@
           "points": 10
         },
         "Issue closed": {
-          "count": 8,
-          "points": 8
+          "count": 7,
+          "points": 7
         }
       },
       "daily_activity": [
@@ -1800,11 +1779,6 @@
         },
         {
           "date": "2026-10-28",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2026-10-24",
           "count": 1,
           "points": 1
         }
@@ -1885,13 +1859,6 @@
           "occured_at": "2026-10-28T09:23:59Z",
           "title": "Closed issue #1475 - Performance - Avoid Redundant Canvas Resets in Timing Diagram",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1475",
-          "points": 1
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-10-24T08:22:34Z",
-          "title": "Closed issue #8072 - 🐞 Bug bundler-audit CI check fails on master - css_parser 3.0.0 has 2 known CVEs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8072",
           "points": 1
         }
       ]
@@ -3378,6 +3345,53 @@
       ]
     },
     {
+      "username": "cynicalmindset",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/166590584?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-23",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-23T17:17:43Z",
+          "title": "🐞 Bug - SquareRGBLed causes RangeError - Maximum call stack size exceeded during Verilog export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1579",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-23T17:17:44Z",
+          "title": "Labeled issue #1579 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1579",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-23T17:17:45Z",
+          "title": "Labeled issue #1579 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1579",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "karthik120710",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/91374842?v=4",
@@ -3578,6 +3592,47 @@
           "occured_at": "2026-10-29T12:43:09Z",
           "title": "Labeled issue #1486 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1486",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Raunakxdev",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/293795032?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-23",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-22",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-23T06:20:06Z",
+          "title": "docs - clarify mux and demux descriptions",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/548",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-22T17:18:15Z",
+          "title": "docs - improve Chapter 1 introduction readability",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/547",
           "points": 2
         }
       ]
@@ -3805,9 +3860,9 @@
       ]
     },
     {
-      "username": "knowprasad",
+      "username": "NitinMishra2409",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/144908638?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168967379?v=4",
       "role": "Contributor",
       "total_points": 2,
       "activity_breakdown": {
@@ -3818,7 +3873,7 @@
       },
       "daily_activity": [
         {
-          "date": "2026-10-24",
+          "date": "2026-11-23",
           "count": 1,
           "points": 2
         }
@@ -3826,38 +3881,9 @@
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-10-24T14:25:41Z",
-          "title": "fix(models) - move Grade.to_csv before private modifier (#8080)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8089",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Raunakxdev",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/293795032?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-22",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-22T17:18:15Z",
-          "title": "docs - improve Chapter 1 introduction readability",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/547",
+          "occured_at": "2026-11-23T09:46:28Z",
+          "title": "fix - default production log level to info via RAILS_LOG_LEVEL (#7898)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8224",
           "points": 2
         }
       ]

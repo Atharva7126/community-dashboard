@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1795407743668,
-  "startDate": "2026-11-16",
-  "endDate": "2026-11-23",
+  "updatedAt": 1795504767904,
+  "startDate": "2026-11-17",
+  "endDate": "2026-11-24",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -11,15 +11,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/142201449?v=4",
       "role": "Contributor",
-      "total_points": 40,
+      "total_points": 35,
       "activity_breakdown": {
         "PR opened": {
           "count": 4,
           "points": 8
         },
         "PR merged": {
-          "count": 4,
-          "points": 20
+          "count": 3,
+          "points": 15
         },
         "Issue opened": {
           "count": 4,
@@ -44,11 +44,6 @@
         {
           "date": "2026-11-19",
           "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-11-16",
-          "count": 1,
           "points": 5
         }
       ],
@@ -157,30 +152,23 @@
           "title": "Labeled issue #1560 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1560",
           "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-11-16T17:11:18Z",
-          "title": "fix - correct LSB and MSB Verilog exports (#1538)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1539",
-          "points": 5
         }
       ]
     },
     {
       "username": "Me-Priyank",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?u=6426025e5ffabefa05db4baf8b0fd3d71d7bb4e2&v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 31,
+      "total_points": 26,
       "activity_breakdown": {
         "Review submitted": {
-          "count": 6,
-          "points": 24
+          "count": 5,
+          "points": 20
         },
         "Issue closed": {
-          "count": 7,
-          "points": 7
+          "count": 6,
+          "points": 6
         }
       },
       "daily_activity": [
@@ -198,11 +186,6 @@
           "date": "2026-11-19",
           "count": 1,
           "points": 1
-        },
-        {
-          "date": "2026-11-16",
-          "count": 2,
-          "points": 5
         }
       ],
       "activities": [
@@ -281,20 +264,6 @@
           "occured_at": "2026-11-19T11:48:09Z",
           "title": "Closed issue #1542 - 🐞 Bug - Typo in PropertiesPanel prop name panleBodyData across desktop and child components",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
-          "points": 1
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-11-16T17:11:06Z",
-          "title": "Review on PR #1539",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1539",
-          "points": 4
-        },
-        {
-          "type": "Issue closed",
-          "occured_at": "2026-11-16T17:11:21Z",
-          "title": "Closed issue #1538 - 🐞 Bug - LSB/MSB Verilog export returns incorrect bit positions and leaves valid output undriven",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1538",
           "points": 1
         }
       ]
@@ -412,111 +381,6 @@
           "occured_at": "2026-11-18T09:50:48Z",
           "title": "Labeled issue #1550 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1550",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Princess0407",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/109491718?v=4",
-      "role": "Contributor",
-      "total_points": 17,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        },
-        "Issue labeled": {
-          "count": 4,
-          "points": 8
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-17",
-          "count": 7,
-          "points": 12
-        },
-        {
-          "date": "2026-11-16",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-17T13:57:48Z",
-          "title": "fix - guard projectSavedSet with revision counter to prevent race cond…",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1548",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-17T09:53:58Z",
-          "title": "fix - move projectSavedSet into fetch success branch and handle catch …",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1545",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-17T10:25:16Z",
-          "title": "🐞 Bug - edit during in-flight save can silently discard unsaved-changes warnin",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1546",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-17T07:42:15Z",
-          "title": "🐞 Bug - projectSavedSet called before fetch completes, masking save failures and unsaved changes warning",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1544",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-17T07:42:16Z",
-          "title": "Labeled issue #1544 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1544",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-17T07:42:17Z",
-          "title": "Labeled issue #1544 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1544",
-          "points": 2
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-17T10:25:17Z",
-          "title": "Labeled issue #1546 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1546",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-16T06:48:09Z",
-          "title": "fix(simulator) - mark project saved only after confirmed AJAX response",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8188",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-16T06:16:45Z",
-          "title": "🐞 Bug - failed save silently marks project as saved, suppressing unsaved changes warning on navigation",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8187",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-16T06:16:46Z",
-          "title": "Labeled issue #8187 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/8187",
           "points": 2
         }
       ]
@@ -697,124 +561,31 @@
       ]
     },
     {
-      "username": "Goblin-24",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
-      "role": "Contributor",
-      "total_points": 14,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        },
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-22",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2026-11-19",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2026-11-18",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-11-16",
-          "count": 3,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-22T13:14:38Z",
-          "title": "Performance - Browser UI freezes on cyclic circuits during simulation loop",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1575",
-          "points": 1
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-11-19T11:48:06Z",
-          "title": "refactor(properties-panel) - rename panleBodyData to panelBodyData (#1542)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1543",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-18T13:40:03Z",
-          "title": "🐞 Bug - Recover Project fails for unsaved project work in v0 dev and build version",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1554",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-18T13:40:05Z",
-          "title": "Labeled issue #1554 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1554",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-16T14:01:15Z",
-          "title": "refactor(properties-panel) - rename panleBodyData to panelBodyData (#1542)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1543",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-11-16T13:35:38Z",
-          "title": "🐞 Bug - Typo in PropertiesPanel prop name panleBodyData across desktop and child components",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-11-16T13:35:40Z",
-          "title": "Labeled issue #1542 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1542",
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "yashveer-1",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
       "role": "Contributor",
-      "total_points": 11,
+      "total_points": 14,
       "activity_breakdown": {
+        "Issue opened": {
+          "count": 4,
+          "points": 4
+        },
+        "Issue labeled": {
+          "count": 4,
+          "points": 8
+        },
         "PR opened": {
           "count": 1,
           "points": 2
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        },
-        "Issue labeled": {
-          "count": 3,
-          "points": 6
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-11-23",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-11-19",
           "count": 1,
@@ -832,6 +603,20 @@
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-23T13:08:46Z",
+          "title": "🐞 Bug - Contrast issues in custom themes (Boolean table boxes and input focus)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1578",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-23T13:08:48Z",
+          "title": "Labeled issue #1578 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1578",
+          "points": 2
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-11-19T08:01:32Z",
@@ -879,6 +664,179 @@
           "occured_at": "2026-11-17T12:18:58Z",
           "title": "Labeled issue #1547 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1547",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Goblin-24",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/198809286?v=4",
+      "role": "Contributor",
+      "total_points": 14,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 3,
+          "points": 3
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-24",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-11-22",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2026-11-19",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2026-11-18",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-24T06:36:27Z",
+          "title": "🐞 Bug - Manual Zoom with +/- do not sync with slider attached in v0",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1580",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-24T06:36:28Z",
+          "title": "Labeled issue #1580 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1580",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-24T06:36:29Z",
+          "title": "Labeled issue #1580 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1580",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-22T13:14:38Z",
+          "title": "Performance - Browser UI freezes on cyclic circuits during simulation loop",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1575",
+          "points": 1
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-11-19T11:48:06Z",
+          "title": "refactor(properties-panel) - rename panleBodyData to panelBodyData (#1542)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1543",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-18T13:40:03Z",
+          "title": "🐞 Bug - Recover Project fails for unsaved project work in v0 dev and build version",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1554",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-18T13:40:05Z",
+          "title": "Labeled issue #1554 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1554",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Princess0407",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/109491718?v=4",
+      "role": "Contributor",
+      "total_points": 12,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 3,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-17",
+          "count": 7,
+          "points": 12
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-17T13:57:48Z",
+          "title": "fix - guard projectSavedSet with revision counter to prevent race cond…",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1548",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-17T09:53:58Z",
+          "title": "fix - move projectSavedSet into fetch success branch and handle catch …",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1545",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-17T10:25:16Z",
+          "title": "🐞 Bug - edit during in-flight save can silently discard unsaved-changes warnin",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1546",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-17T07:42:15Z",
+          "title": "🐞 Bug - projectSavedSet called before fetch completes, masking save failures and unsaved changes warning",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1544",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-17T07:42:16Z",
+          "title": "Labeled issue #1544 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1544",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-17T07:42:17Z",
+          "title": "Labeled issue #1544 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1544",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-17T10:25:17Z",
+          "title": "Labeled issue #1546 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1546",
           "points": 2
         }
       ]
@@ -1192,6 +1150,53 @@
       ]
     },
     {
+      "username": "cynicalmindset",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/166590584?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-23",
+          "count": 3,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-11-23T17:17:43Z",
+          "title": "🐞 Bug - SquareRGBLed causes RangeError - Maximum call stack size exceeded during Verilog export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1579",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-23T17:17:44Z",
+          "title": "Labeled issue #1579 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1579",
+          "points": 2
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-11-23T17:17:45Z",
+          "title": "Labeled issue #1579 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1579",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "SkIzazAhmed",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/233928135?v=4",
@@ -1366,6 +1371,47 @@
       ]
     },
     {
+      "username": "Raunakxdev",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/293795032?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-11-23",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-11-22",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-23T06:20:06Z",
+          "title": "docs - clarify mux and demux descriptions",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/548",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-11-22T17:18:15Z",
+          "title": "docs - improve Chapter 1 introduction readability",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/547",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "givemehat",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/126698576?v=4",
@@ -1442,9 +1488,9 @@
       ]
     },
     {
-      "username": "UwaisBaig",
+      "username": "NitinMishra2409",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/223514962?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168967379?v=4",
       "role": "Contributor",
       "total_points": 2,
       "activity_breakdown": {
@@ -1455,7 +1501,7 @@
       },
       "daily_activity": [
         {
-          "date": "2026-11-16",
+          "date": "2026-11-23",
           "count": 1,
           "points": 2
         }
@@ -1463,38 +1509,9 @@
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-11-16T19:31:06Z",
-          "title": "fix(simulator) - move projectSavedSet to after confirmed save and fix jQuery error callback (#8187)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8190",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Raunakxdev",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/293795032?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-11-22",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-11-22T17:18:15Z",
-          "title": "docs - improve Chapter 1 introduction readability",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/547",
+          "occured_at": "2026-11-23T09:46:28Z",
+          "title": "fix - default production log level to info via RAILS_LOG_LEVEL (#7898)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/8224",
           "points": 2
         }
       ]
